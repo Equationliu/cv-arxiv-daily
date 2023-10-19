@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
+|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004](http://arxiv.org/abs/2310.12004)|null|
+|**2023-10-18**|**Bayesian Flow Networks in Continual Learning**|Mateusz Pyla et.al.|[2310.12001](http://arxiv.org/abs/2310.12001)|null|
+|**2023-10-18**|**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**|Renzhi Wang et.al.|[2310.11976](http://arxiv.org/abs/2310.11976)|**[link](https://github.com/rzhwang/infodiffusion)**|
+|**2023-10-18**|**To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**|Yimeng Zhang et.al.|[2310.11868](http://arxiv.org/abs/2310.11868)|**[link](https://github.com/optml-group/diffusion-mu-attack)**|
+|**2023-10-18**|**Equivariant Bootstrapping for Uncertainty Quantification in Imaging Inverse Problems**|Julian Tachella et.al.|[2310.11838](http://arxiv.org/abs/2310.11838)|**[link](https://github.com/tachella/equivariant_bootstrap)**|
+|**2023-10-18**|**Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts**|Xinhua Cheng et.al.|[2310.11784](http://arxiv.org/abs/2310.11784)|null|
+|**2023-10-18**|**Language Agents for Detecting Implicit Stereotypes in Text-to-image Models at Scale**|Qichao Wang et.al.|[2310.11778](http://arxiv.org/abs/2310.11778)|null|
+|**2023-10-18**|**On the Evaluation of Generative Models in Distributed Learning Tasks**|Zixiao Wang et.al.|[2310.11714](http://arxiv.org/abs/2310.11714)|null|
+|**2023-10-17**|**Reflection-Equivariant Diffusion for 3D Structure Determination from Isotopologue Rotational Spectra in Natural Abundance**|Austin Cheng et.al.|[2310.11609](http://arxiv.org/abs/2310.11609)|**[link](https://github.com/aspuru-guzik-group/kreed)**|
 |**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|null|
 |**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142](http://arxiv.org/abs/2310.11142)|null|
 |**2023-10-17**|**3D Structure-guided Network for Tooth Alignment in 2D Photograph**|Yulong Dou et.al.|[2310.11106](http://arxiv.org/abs/2310.11106)|null|
@@ -2088,6 +2098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Pseudointelligence: A Unifying Framework for Language Model Evaluation**|Shikhar Murty et.al.|[2310.12135](http://arxiv.org/abs/2310.12135)|null|
+|**2023-10-18**|**Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling**|Yaqing Wang et.al.|[2310.12100](http://arxiv.org/abs/2310.12100)|null|
+|**2023-10-18**|**Unveiling the Siren's Song: Towards Reliable Fact-Conflicting Hallucination Detection**|Xiang Chen et.al.|[2310.12086](http://arxiv.org/abs/2310.12086)|**[link](https://github.com/zjunlp/factchd)**|
+|**2023-10-18**|**On the Benefit of Generative Foundation Models for Human Activity Recognition**|Zikang Leng et.al.|[2310.12085](http://arxiv.org/abs/2310.12085)|null|
+|**2023-10-18**|**SPEED: Speculative Pipelined Execution for Efficient Decoding**|Coleman Hooper et.al.|[2310.12072](http://arxiv.org/abs/2310.12072)|null|
+|**2023-10-18**|**Evaluating the Symbol Binding Ability of Large Language Models for Multiple-Choice Questions in Vietnamese General Education**|Duc-Vu Nguyen et.al.|[2310.12059](http://arxiv.org/abs/2310.12059)|null|
+|**2023-10-18**|**Concept-Guided Chain-of-Thought Prompting for Pairwise Comparison Scaling of Texts with Large Language Models**|Patrick Y. Wu et.al.|[2310.12049](http://arxiv.org/abs/2310.12049)|null|
+|**2023-10-18**|**LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation**|Shengqiang Zhang et.al.|[2310.12020](http://arxiv.org/abs/2310.12020)|null|
+|**2023-10-18**|**Fast Multipole Attention: A Divide-and-Conquer Attention Mechanism for Long Sequences**|Yanming Kang et.al.|[2310.11960](http://arxiv.org/abs/2310.11960)|null|
+|**2023-10-18**|**MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models**|Dingyao Yu et.al.|[2310.11954](http://arxiv.org/abs/2310.11954)|null|
 |**2023-10-17**|**VeRA: Vector-based Random Matrix Adaptation**|Dawid Jan Kopiczko et.al.|[2310.11454](http://arxiv.org/abs/2310.11454)|null|
 |**2023-10-17**|**BitNet: Scaling 1-bit Transformers for Large Language Models**|Hongyu Wang et.al.|[2310.11453](http://arxiv.org/abs/2310.11453)|null|
 |**2023-10-17**|**Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective**|Ming Zhong et.al.|[2310.11451](http://arxiv.org/abs/2310.11451)|null|
@@ -2125,6 +2145,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Group sequential two-stage preference designs**|Ruyi Liu et.al.|[2310.11603](http://arxiv.org/abs/2310.11603)|null|
 |**2023-10-17**|**United We Stand: Using Epoch-wise Agreement of Ensembles to Combat Overfit**|Uri Stern et.al.|[2310.11077](http://arxiv.org/abs/2310.11077)|null|
 |**2023-10-15**|**FLrce: Efficient Federated Learning with Relationship-based Client Selection and Early-Stopping Strategy**|Ziru Niu et.al.|[2310.09789](http://arxiv.org/abs/2310.09789)|null|
 |**2023-10-13**|**User Inference Attacks on Large Language Models**|Nikhil Kandpal et.al.|[2310.09266](http://arxiv.org/abs/2310.09266)|null|
