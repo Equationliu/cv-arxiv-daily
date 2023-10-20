@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model**|Zheyuan Zhang et.al.|[2310.12868](http://arxiv.org/abs/2310.12868)|null|
+|**2023-10-19**|**Energy-Based Models For Speech Synthesis**|Wanli Sun et.al.|[2310.12765](http://arxiv.org/abs/2310.12765)|null|
+|**2023-10-19**|**Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers**|Yuanduo Hong et.al.|[2310.12755](http://arxiv.org/abs/2310.12755)|null|
+|**2023-10-19**|**TapMo: Shape-aware Motion Generation of Skeleton-free Characters**|Jiaxu Zhang et.al.|[2310.12678](http://arxiv.org/abs/2310.12678)|null|
+|**2023-10-19**|**Product of Gaussian Mixture Diffusion Models**|Martin Zach et.al.|[2310.12653](http://arxiv.org/abs/2310.12653)|null|
+|**2023-10-19**|**Denoising Heat-inspired Diffusion with Insulators for Collision Free Motion Planning**|Junwoo Chang et.al.|[2310.12609](http://arxiv.org/abs/2310.12609)|null|
+|**2023-10-19**|**Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation**|Mariia Zameshina et.al.|[2310.12583](http://arxiv.org/abs/2310.12583)|null|
+|**2023-10-19**|**SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation**|Chongyu Fan et.al.|[2310.12508](http://arxiv.org/abs/2310.12508)|**[link](https://github.com/optml-group/unlearn-saliency)**|
+|**2023-10-19**|**Enhancing High-Resolution 3D Generation through Pixel-wise Gradient Clipping**|Zijie Pan et.al.|[2310.12474](http://arxiv.org/abs/2310.12474)|**[link](https://github.com/fudan-zvg/pgc-3d)**|
+|**2023-10-19**|**Closed-Form Diffusion Models**|Christopher Scarvelis et.al.|[2310.12395](http://arxiv.org/abs/2310.12395)|null|
 |**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
 |**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004](http://arxiv.org/abs/2310.12004)|null|
 |**2023-10-18**|**Bayesian Flow Networks in Continual Learning**|Mateusz Pyla et.al.|[2310.12001](http://arxiv.org/abs/2310.12001)|null|
@@ -2098,6 +2108,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973](http://arxiv.org/abs/2310.12973)|**[link](https://github.com/ziqipang/lm4visualencoding)**|
+|**2023-10-19**|**CLAIR: Evaluating Image Captions with Large Language Models**|David Chan et.al.|[2310.12971](http://arxiv.org/abs/2310.12971)|null|
+|**2023-10-19**|**AutoMix: Automatically Mixing Language Models**|Aman Madaan et.al.|[2310.12963](http://arxiv.org/abs/2310.12963)|**[link](https://github.com/automix-llm/automix)**|
+|**2023-10-19**|**An Emulator for Fine-Tuning Large Language Models using Small Language Models**|Eric Mitchell et.al.|[2310.12962](http://arxiv.org/abs/2310.12962)|null|
+|**2023-10-19**|**SEGO: Sequential Subgoal Optimization for Mathematical Problem-Solving**|Xueliang Zhao et.al.|[2310.12960](http://arxiv.org/abs/2310.12960)|null|
+|**2023-10-19**|**Structured Generation and Exploration of Design Space with Large Language Models for Human-AI Co-Creation**|Sangho Suh et.al.|[2310.12953](http://arxiv.org/abs/2310.12953)|null|
+|**2023-10-19**|**3D-GPT: Procedural 3D Modeling with Large Language Models**|Chunyi Sun et.al.|[2310.12945](http://arxiv.org/abs/2310.12945)|null|
+|**2023-10-19**|**Eureka: Human-Level Reward Design via Coding Large Language Models**|Yecheng Jason Ma et.al.|[2310.12931](http://arxiv.org/abs/2310.12931)|null|
+|**2023-10-19**|**Experimental Narratives: A Comparison of Human Crowdsourced Storytelling and AI Storytelling**|Nina Begus et.al.|[2310.12902](http://arxiv.org/abs/2310.12902)|null|
+|**2023-10-19**|**StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**|Cheng Jiayang et.al.|[2310.12874](http://arxiv.org/abs/2310.12874)|null|
 |**2023-10-18**|**Pseudointelligence: A Unifying Framework for Language Model Evaluation**|Shikhar Murty et.al.|[2310.12135](http://arxiv.org/abs/2310.12135)|null|
 |**2023-10-18**|**Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling**|Yaqing Wang et.al.|[2310.12100](http://arxiv.org/abs/2310.12100)|null|
 |**2023-10-18**|**Unveiling the Siren's Song: Towards Reliable Fact-Conflicting Hallucination Detection**|Xiang Chen et.al.|[2310.12086](http://arxiv.org/abs/2310.12086)|**[link](https://github.com/zjunlp/factchd)**|
