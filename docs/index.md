@@ -25,7 +25,7 @@ layout: default
 |**2023-10-19**|**Enhancing High-Resolution 3D Generation through Pixel-wise Gradient Clipping**|Zijie Pan et.al.|[2310.12474](http://arxiv.org/abs/2310.12474)|**[link](https://github.com/fudan-zvg/pgc-3d)**|
 |**2023-10-19**|**Closed-Form Diffusion Models**|Christopher Scarvelis et.al.|[2310.12395](http://arxiv.org/abs/2310.12395)|null|
 |**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
-|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004](http://arxiv.org/abs/2310.12004)|null|
+|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004](http://arxiv.org/abs/2310.12004)|**[link](https://github.com/tencent-ailab/frequency_aug_vae_moesr)**|
 |**2023-10-18**|**Bayesian Flow Networks in Continual Learning**|Mateusz Pyla et.al.|[2310.12001](http://arxiv.org/abs/2310.12001)|null|
 |**2023-10-18**|**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**|Renzhi Wang et.al.|[2310.11976](http://arxiv.org/abs/2310.11976)|**[link](https://github.com/rzhwang/infodiffusion)**|
 |**2023-10-18**|**To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**|Yimeng Zhang et.al.|[2310.11868](http://arxiv.org/abs/2310.11868)|**[link](https://github.com/optml-group/diffusion-mu-attack)**|
@@ -34,10 +34,10 @@ layout: default
 |**2023-10-18**|**Language Agents for Detecting Implicit Stereotypes in Text-to-image Models at Scale**|Qichao Wang et.al.|[2310.11778](http://arxiv.org/abs/2310.11778)|null|
 |**2023-10-18**|**On the Evaluation of Generative Models in Distributed Learning Tasks**|Zixiao Wang et.al.|[2310.11714](http://arxiv.org/abs/2310.11714)|null|
 |**2023-10-17**|**Reflection-Equivariant Diffusion for 3D Structure Determination from Isotopologue Rotational Spectra in Natural Abundance**|Austin Cheng et.al.|[2310.11609](http://arxiv.org/abs/2310.11609)|**[link](https://github.com/aspuru-guzik-group/kreed)**|
-|**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|null|
+|**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|**[link](https://github.com/alexmaols/elucd)**|
 |**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142](http://arxiv.org/abs/2310.11142)|null|
-|**2023-10-17**|**3D Structure-guided Network for Tooth Alignment in 2D Photograph**|Yulong Dou et.al.|[2310.11106](http://arxiv.org/abs/2310.11106)|null|
-|**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|null|
+|**2023-10-17**|**3D Structure-guided Network for Tooth Alignment in 2D Photograph**|Yulong Dou et.al.|[2310.11106](http://arxiv.org/abs/2310.11106)|**[link](https://github.com/douyl/2DToothAlignment)**|
+|**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
 |**2023-10-16**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765](http://arxiv.org/abs/2310.10765)|null|
 |**2023-10-16**|**MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design**|Xiang Fu et.al.|[2310.10732](http://arxiv.org/abs/2310.10732)|null|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
@@ -95,7 +95,7 @@ layout: default
 |**2023-10-17**|**DialogueLLM: Context and Emotion Knowledge-Tuned LLaMA Models for Emotion Recognition in Conversations**|Yazhou Zhang et.al.|[2310.11374](http://arxiv.org/abs/2310.11374)|null|
 |**2023-10-17**|**Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting**|Melanie Sclar et.al.|[2310.11324](http://arxiv.org/abs/2310.11324)|null|
 |**2023-10-17**|**Utilising a Large Language Model to Annotate Subject Metadata: A Case Study in an Australian National Research Data Catalogue**|Shiwei Zhang et.al.|[2310.11318](http://arxiv.org/abs/2310.11318)|null|
-|**2023-10-16**|**Step-by-Step Remediation of Students' Mathematical Mistakes**|Rose E. Wang et.al.|[2310.10648](http://arxiv.org/abs/2310.10648)|null|
+|**2023-10-16**|**Step-by-Step Remediation of Students' Mathematical Mistakes**|Rose E. Wang et.al.|[2310.10648](http://arxiv.org/abs/2310.10648)|**[link](https://github.com/rosewang2008/remath)**|
 |**2023-10-16**|**Interactive Task Planning with Language Models**|Boyi Li et.al.|[2310.10645](http://arxiv.org/abs/2310.10645)|null|
 |**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640](http://arxiv.org/abs/2310.10640)|**[link](https://github.com/hananshafi/llmblueprint)**|
 |**2023-10-16**|**In-Context Pretraining: Language Modeling Beyond Document Boundaries**|Weijia Shi et.al.|[2310.10638](http://arxiv.org/abs/2310.10638)|null|
