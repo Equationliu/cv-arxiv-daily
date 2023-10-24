@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
+|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
+|**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110](http://arxiv.org/abs/2310.15110)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
+|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008](http://arxiv.org/abs/2310.15008)|null|
+|**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907](http://arxiv.org/abs/2310.14907)|null|
+|**2023-10-23**|**Joint Non-Linear MRI Inversion with Diffusion Priors**|Moritz Erlacher et.al.|[2310.14842](http://arxiv.org/abs/2310.14842)|null|
+|**2023-10-23**|**MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion**|Roy Kapon et.al.|[2310.14729](http://arxiv.org/abs/2310.14729)|null|
+|**2023-10-23**|**$Λ$ -Split: A Privacy-Preserving Split Computing Framework for Cloud-Powered Generative AI**|Shoki Ohta et.al.|[2310.14651](http://arxiv.org/abs/2310.14651)|**[link](https://github.com/nishio-laboratory/lambda_split)**|
+|**2023-10-23**|**DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction**|Younwoo Choi et.al.|[2310.14570](http://arxiv.org/abs/2310.14570)|null|
+|**2023-10-22**|**Diffusion-Model-Assisted Supervised Learning of Generative Models for Density Estimation**|Yanfang Liu et.al.|[2310.14458](http://arxiv.org/abs/2310.14458)|null|
 |**2023-10-20**|**Longer-range Contextualized Masked Autoencoder**|Taekyung Kim et.al.|[2310.13593](http://arxiv.org/abs/2310.13593)|null|
 |**2023-10-20**|**ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection**|Zhongzhan Huang et.al.|[2310.13545](http://arxiv.org/abs/2310.13545)|**[link](https://github.com/sail-sg/scalelong)**|
 |**2023-10-19**|**CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation**|Sihan Xu et.al.|[2310.13165](http://arxiv.org/abs/2310.13165)|**[link](https://github.com/sled-group/cyclenet)**|
@@ -2113,6 +2123,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Large Language Models are Visual Reasoning Coordinators**|Liangyu Chen et.al.|[2310.15166](http://arxiv.org/abs/2310.15166)|**[link](https://github.com/cliangyu/cola)**|
+|**2023-10-23**|**LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers**|Theo X. Olausson et.al.|[2310.15164](http://arxiv.org/abs/2310.15164)|**[link](https://github.com/benlipkin/linc)**|
+|**2023-10-23**|**Linear Representations of Sentiment in Large Language Models**|Curt Tigges et.al.|[2310.15154](http://arxiv.org/abs/2310.15154)|null|
+|**2023-10-23**|**S3Eval: A Synthetic, Scalable, Systematic Evaluation Suite for Large Language Models**|Fangyu Lei et.al.|[2310.15147](http://arxiv.org/abs/2310.15147)|**[link](https://github.com/lfy79001/sqleval)**|
+|**2023-10-23**|**SpecTr: Fast Speculative Decoding via Optimal Transport**|Ziteng Sun et.al.|[2310.15141](http://arxiv.org/abs/2310.15141)|null|
+|**2023-10-23**|**AutoDAN: Automatic and Interpretable Adversarial Attacks on Large Language Models**|Sicheng Zhu et.al.|[2310.15140](http://arxiv.org/abs/2310.15140)|null|
+|**2023-10-23**|**Quantifying the Dialect Gap and its Correlates Across Languages**|Anjali Kantharuban et.al.|[2310.15135](http://arxiv.org/abs/2310.15135)|null|
+|**2023-10-23**|**Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models**|Gabriel Sarch et.al.|[2310.15127](http://arxiv.org/abs/2310.15127)|null|
+|**2023-10-23**|**Branch-Solve-Merge Improves Large Language Model Evaluation and Generation**|Swarnadeep Saha et.al.|[2310.15123](http://arxiv.org/abs/2310.15123)|null|
+|**2023-10-23**|**Causal Inference Using LLM-Guided Discovery**|Aniket Vashishtha et.al.|[2310.15117](http://arxiv.org/abs/2310.15117)|null|
 |**2023-10-20**|**Improving Long-form Speech Translation through Segmentation with Large Language Models and Finite State Decoding Constraints**|Arya D. McCarthy et.al.|[2310.13678](http://arxiv.org/abs/2310.13678)|null|
 |**2023-10-20**|**StereoMap: Quantifying the Awareness of Human-like Stereotypes in Large Language Models**|Sullam Jeoung et.al.|[2310.13673](http://arxiv.org/abs/2310.13673)|**[link](https://github.com/sullamij/stereomap)**|
 |**2023-10-20**|**Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models**|Ruida Wang et.al.|[2310.13671](http://arxiv.org/abs/2310.13671)|**[link](https://github.com/rickyskywalker/synthesis_step-by-step_official)**|
@@ -2180,6 +2200,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-21**|**Structural generalization in COGS: Supertagging is (almost) all you need**|Alban Petit et.al.|[2310.14124](http://arxiv.org/abs/2310.14124)|null|
 |**2023-10-19**|**Active Sensing for Localization with Reconfigurable Intelligent Surface**|Zhongze Zhang et.al.|[2310.13160](http://arxiv.org/abs/2310.13160)|null|
 |**2023-10-17**|**Group sequential two-stage preference designs**|Ruyi Liu et.al.|[2310.11603](http://arxiv.org/abs/2310.11603)|**[link](https://github.com/ruyi-liu/gstspd)**|
 |**2023-10-17**|**United We Stand: Using Epoch-wise Agreement of Ensembles to Combat Overfit**|Uri Stern et.al.|[2310.11077](http://arxiv.org/abs/2310.11077)|null|
