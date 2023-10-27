@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.26
+## Updated on 2023.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -17,7 +17,7 @@ layout: default
 |**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825](http://arxiv.org/abs/2310.16825)|**[link](https://github.com/mosaicml/diffusion)**|
-|**2023-10-25**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
+|**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
 |**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794](http://arxiv.org/abs/2310.16794)|null|
 |**2023-10-25**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779](http://arxiv.org/abs/2310.16779)|null|
 |**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684](http://arxiv.org/abs/2310.16684)|null|
@@ -104,12 +104,12 @@ layout: default
 |**2023-10-25**|**Can GPT models Follow Human Summarization Guidelines? Evaluating ChatGPT and GPT-4 for Dialogue Summarization**|Yongxin Zhou et.al.|[2310.16810](http://arxiv.org/abs/2310.16810)|null|
 |**2023-10-25**|**QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models**|Elias Frantar et.al.|[2310.16795](http://arxiv.org/abs/2310.16795)|**[link](https://github.com/ist-daslab/qmoe)**|
 |**2023-10-25**|**Detecting Pretraining Data from Large Language Models**|Weijia Shi et.al.|[2310.16789](http://arxiv.org/abs/2310.16789)|null|
-|**2023-10-25**|**DEFT: Data Efficient Fine-Tuning for Large Language Models via Unsupervised Core-Set Selection**|Devleena Das et.al.|[2310.16776](http://arxiv.org/abs/2310.16776)|null|
+|**2023-10-26**|**DEFT: Data Efficient Fine-Tuning for Large Language Models via Unsupervised Core-Set Selection**|Devleena Das et.al.|[2310.16776](http://arxiv.org/abs/2310.16776)|null|
 |**2023-10-25**|**SuperHF: Supervised Iterative Learning from Human Feedback**|Gabriel Mukobi et.al.|[2310.16763](http://arxiv.org/abs/2310.16763)|**[link](https://github.com/openfeedback/superhf)**|
 |**2023-10-25**|**HI-TOM: A Benchmark for Evaluating Higher-Order Theory of Mind Reasoning in Large Language Models**|Yinghui He et.al.|[2310.16755](http://arxiv.org/abs/2310.16755)|**[link](https://github.com/ying-hui-he/hi-tom_dataset)**|
 |**2023-10-25**|**HANSEN: Human and AI Spoken Text Benchmark for Authorship Analysis**|Nafis Irtiza Tripto et.al.|[2310.16746](http://arxiv.org/abs/2310.16746)|null|
 |**2023-10-25**|**Disentangling Extraction and Reasoning in Multi-hop Spatial Reasoning**|Roshanak Mirzaee et.al.|[2310.16731](http://arxiv.org/abs/2310.16731)|null|
-|**2023-10-25**|**SkyMath: Technical Report**|Liu Yang et.al.|[2310.16713](http://arxiv.org/abs/2310.16713)|null|
+|**2023-10-26**|**SkyMath: Technical Report**|Liu Yang et.al.|[2310.16713](http://arxiv.org/abs/2310.16713)|null|
 |**2023-10-24**|**MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning**|Zayne Sprague et.al.|[2310.16049](http://arxiv.org/abs/2310.16049)|**[link](https://github.com/zayne-sprague/musr)**|
 |**2023-10-24**|**AI Alignment and Social Choice: Fundamental Limitations and Policy Implications**|Abhilash Mishra et.al.|[2310.16048](http://arxiv.org/abs/2310.16048)|null|
 |**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045](http://arxiv.org/abs/2310.16045)|**[link](https://github.com/bradyfu/woodpecker)**|
