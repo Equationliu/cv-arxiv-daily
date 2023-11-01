@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.31
+## Updated on 2023.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -245,7 +245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-29**|**BERT Lost Patience Won't Be Robust to Adversarial Slowdown**|Zachary Coalson et.al.|[2310.19152](http://arxiv.org/abs/2310.19152)|**[link](https://github.com/ztcoalson/waffle)**|
+|**2023-10-31**|**BERT Lost Patience Won't Be Robust to Adversarial Slowdown**|Zachary Coalson et.al.|[2310.19152](http://arxiv.org/abs/2310.19152)|**[link](https://github.com/ztcoalson/waffle)**|
 |**2023-10-28**|**Med-DANet V2: A Flexible Dynamic Architecture for Efficient Medical Volumetric Segmentation**|Haoran Shen et.al.|[2310.18656](http://arxiv.org/abs/2310.18656)|null|
 |**2023-10-28**|**Subspace projection regularization for large-scale Bayesian linear inverse problems**|Haibo Li et.al.|[2310.18618](http://arxiv.org/abs/2310.18618)|null|
 |**2023-10-28**|**Accelerating LLM Inference by Enabling Intermediate Layer Decoding**|Neeraj Varshney et.al.|[2310.18581](http://arxiv.org/abs/2310.18581)|null|
