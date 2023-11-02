@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618](http://arxiv.org/abs/2311.00618)|null|
+|**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613](http://arxiv.org/abs/2311.00613)|null|
+|**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500](http://arxiv.org/abs/2311.00500)|**[link](https://github.com/sail-sg/d-trak)**|
+|**2023-11-01**|**Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model**|Xuan Liu et.al.|[2311.00496](http://arxiv.org/abs/2311.00496)|null|
+|**2023-11-01**|**Diffusion models for probabilistic programming**|Simon Dirmeier et.al.|[2311.00474](http://arxiv.org/abs/2311.00474)|null|
+|**2023-11-01**|**Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos**|Divyanshu Mishra et.al.|[2311.00469](http://arxiv.org/abs/2311.00469)|null|
+|**2023-11-01**|**LatentWarp: Consistent Diffusion Latents for Zero-Shot Video-to-Video Translation**|Yuxiang Bao et.al.|[2311.00353](http://arxiv.org/abs/2311.00353)|null|
+|**2023-11-01**|**Space Narrative: Generating Images and 3D Scenes of Chinese Garden from Text using Deep Learning**|Jiaxi Shi1 et.al.|[2311.00339](http://arxiv.org/abs/2311.00339)|null|
+|**2023-11-01**|**Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study**|Jonghun Kim et.al.|[2311.00265](http://arxiv.org/abs/2311.00265)|**[link](https://github.com/jongdory/aldm)**|
+|**2023-10-31**|**Score Normalization for a Faster Diffusion Exponential Integrator Sampler**|Guoxuan Xia et.al.|[2311.00157](http://arxiv.org/abs/2311.00157)|null|
 |**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
 |**2023-10-31**|**Diffusion Reconstruction of Ultrasound Images with Informative Uncertainty**|Yuxin Zhang et.al.|[2310.20618](http://arxiv.org/abs/2310.20618)|null|
@@ -130,6 +140,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Unleashing the Creative Mind: Language Model As Hierarchical Policy For Improved Exploration on Challenging Problem Solving**|Zhan Ling et.al.|[2311.00694](http://arxiv.org/abs/2311.00694)|**[link](https://github.com/lz1oceani/llm-as-hierarchical-policy)**|
+|**2023-11-01**|**Improving Interpersonal Communication by Simulating Audiences with Language Models**|Ryan Liu et.al.|[2311.00687](http://arxiv.org/abs/2311.00687)|**[link](https://github.com/theryanl/egs)**|
+|**2023-11-01**|**Little Giants: Exploring the Potential of Small LLMs as Evaluation Metrics in Summarization in the Eval4NLP 2023 Shared Task**|Neema Kotonya et.al.|[2311.00686](http://arxiv.org/abs/2311.00686)|null|
+|**2023-11-01**|**Are Large Language Models Reliable Judges? A Study on the Factuality Evaluation Capabilities of LLMs**|Xue-Yong Fu et.al.|[2311.00681](http://arxiv.org/abs/2311.00681)|null|
+|**2023-11-01**|**Emotion Detection for Misinformation: A Review**|Zhiwei Liu et.al.|[2311.00671](http://arxiv.org/abs/2311.00671)|null|
+|**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618](http://arxiv.org/abs/2311.00618)|null|
+|**2023-11-01**|**Crosslingual Retrieval Augmented In-context Learning for Bangla**|Xiaoqian Li et.al.|[2311.00587](http://arxiv.org/abs/2311.00587)|null|
+|**2023-11-01**|**Revealing CNN Architectures via Side-Channel Analysis in Dataflow-based Inference Accelerators**|Hansika Weerasena et.al.|[2311.00579](http://arxiv.org/abs/2311.00579)|null|
+|**2023-11-01**|**The Development of LLMs for Embodied Navigation**|Jinzhou Lin et.al.|[2311.00530](http://arxiv.org/abs/2311.00530)|null|
+|**2023-11-01**|**Efficient LLM Inference on CPUs**|Haihao Shen et.al.|[2311.00502](http://arxiv.org/abs/2311.00502)|**[link](https://github.com/intel/intel-extension-for-transformers)**|
 |**2023-10-31**|**Learning From Mistakes Makes LLM Better Reasoner**|Shengnan An et.al.|[2310.20689](http://arxiv.org/abs/2310.20689)|**[link](https://github.com/microsoft/codet)**|
 |**2023-10-31**|**Defining a New NLP Playground**|Sha Li et.al.|[2310.20633](http://arxiv.org/abs/2310.20633)|null|
 |**2023-10-31**|**LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B**|Simon Lermen et.al.|[2310.20624](http://arxiv.org/abs/2310.20624)|null|
@@ -265,6 +285,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**NEO-KD: Knowledge-Distillation-Based Adversarial Training for Robust Multi-Exit Neural Networks**|Seokil Ham et.al.|[2311.00428](http://arxiv.org/abs/2311.00428)|null|
 |**2023-10-31**|**Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks**|Steven Adriaensen et.al.|[2310.20447](http://arxiv.org/abs/2310.20447)|null|
 |**2023-10-31**|**BERT Lost Patience Won't Be Robust to Adversarial Slowdown**|Zachary Coalson et.al.|[2310.19152](http://arxiv.org/abs/2310.19152)|**[link](https://github.com/ztcoalson/waffle)**|
 |**2023-10-28**|**Med-DANet V2: A Flexible Dynamic Architecture for Efficient Medical Volumetric Segmentation**|Haoran Shen et.al.|[2310.18656](http://arxiv.org/abs/2310.18656)|null|
