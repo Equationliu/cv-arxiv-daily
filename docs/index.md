@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Time Series Anomaly Detection using Diffusion-based Models**|Ioana Pintilie et.al.|[2311.01452](http://arxiv.org/abs/2311.01452)|null|
+|**2023-11-02**|**Constrained-Context Conditional Diffusion Models for Imitation Learning**|Vaibhav Saxena et.al.|[2311.01419](http://arxiv.org/abs/2311.01419)|null|
+|**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380](http://arxiv.org/abs/2311.01380)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
+|**2023-11-02**|**DP-Mix: Mixup-based Data Augmentation for Differentially Private Learning**|Wenxuan Bao et.al.|[2311.01295](http://arxiv.org/abs/2311.01295)|**[link](https://github.com/wenxuan-bao/dp-mix)**|
+|**2023-11-02**|**Optimal Transport-Guided Conditional Score-Based Diffusion Models**|Xiang Gu et.al.|[2311.01226](http://arxiv.org/abs/2311.01226)|**[link](https://github.com/xjtu-xgu/otcs)**|
+|**2023-11-02**|**Diffusion Models for Reinforcement Learning: A Survey**|Zhengbang Zhu et.al.|[2311.01223](http://arxiv.org/abs/2311.01223)|**[link](https://github.com/apexrl/diff4rlsurvey)**|
+|**2023-11-02**|**Add and Thin: Diffusion for Temporal Point Processes**|David Lüdke et.al.|[2311.01139](http://arxiv.org/abs/2311.01139)|null|
+|**2023-11-02**|**Infusion: Internal Diffusion for Video Inpainting**|Nicolas Cherel et.al.|[2311.01090](http://arxiv.org/abs/2311.01090)|null|
+|**2023-11-02**|**Expanding Expressiveness of Diffusion Models with Limited Data via Self-Distillation based Fine-Tuning**|Jiwan Hur et.al.|[2311.01018](http://arxiv.org/abs/2311.01018)|null|
+|**2023-11-02**|**Act As You Wish: Fine-Grained Control of Motion Diffusion Model with Hierarchical Semantic Graphs**|Peng Jin et.al.|[2311.01015](http://arxiv.org/abs/2311.01015)|**[link](https://github.com/jpthu17/graphmotion)**|
 |**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618](http://arxiv.org/abs/2311.00618)|null|
 |**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613](http://arxiv.org/abs/2311.00613)|null|
 |**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500](http://arxiv.org/abs/2311.00500)|**[link](https://github.com/sail-sg/d-trak)**|
@@ -140,6 +150,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**TopicGPT: A Prompt-based Topic Modeling Framework**|Chau Minh Pham et.al.|[2311.01449](http://arxiv.org/abs/2311.01449)|**[link](https://github.com/chtmp223/topicgpt)**|
+|**2023-11-02**|**REAL: Resilience and Adaptation using Large Language Models on Autonomous Aerial Robots**|Andrea Tagliabue et.al.|[2311.01403](http://arxiv.org/abs/2311.01403)|null|
+|**2023-11-02**|**Collaborative Large Language Model for Recommender Systems**|Yaochen Zhu et.al.|[2311.01343](http://arxiv.org/abs/2311.01343)|**[link](https://github.com/yaochenzhu/llm4rec)**|
+|**2023-11-02**|**The Effect of Scaling, Retrieval Augmentation and Form on the Factual Consistency of Language Models**|Lovisa Hagström et.al.|[2311.01307](http://arxiv.org/abs/2311.01307)|null|
+|**2023-11-02**|**AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models**|Baisong Li et.al.|[2311.01305](http://arxiv.org/abs/2311.01305)|null|
+|**2023-11-02**|**FlashDecoding++: Faster Large Language Model Inference on GPUs**|Ke Hong et.al.|[2311.01282](http://arxiv.org/abs/2311.01282)|null|
+|**2023-11-02**|**Let's Discover More API Relations: A Large Language Model-based AI Chain for Unsupervised API Relation Inference**|Qing Huang et.al.|[2311.01266](http://arxiv.org/abs/2311.01266)|null|
+|**2023-11-02**|**Expressive TTS Driven by Natural Language Prompts Using Few Human Annotations**|Hanglei Zhang et.al.|[2311.01260](http://arxiv.org/abs/2311.01260)|null|
+|**2023-11-02**|**An energy-based comparative analysis of common approaches to text classification in the Legal domain**|Sinan Gultekin et.al.|[2311.01256](http://arxiv.org/abs/2311.01256)|null|
+|**2023-11-02**|**Long Story Short: a Summarize-then-Search Method for Long Video Question Answering**|Jiwan Chung et.al.|[2311.01233](http://arxiv.org/abs/2311.01233)|null|
 |**2023-11-01**|**Unleashing the Creative Mind: Language Model As Hierarchical Policy For Improved Exploration on Challenging Problem Solving**|Zhan Ling et.al.|[2311.00694](http://arxiv.org/abs/2311.00694)|**[link](https://github.com/lz1oceani/llm-as-hierarchical-policy)**|
 |**2023-11-01**|**Improving Interpersonal Communication by Simulating Audiences with Language Models**|Ryan Liu et.al.|[2311.00687](http://arxiv.org/abs/2311.00687)|**[link](https://github.com/theryanl/egs)**|
 |**2023-11-01**|**Little Giants: Exploring the Potential of Small LLMs as Evaluation Metrics in Summarization in the Eval4NLP 2023 Shared Task**|Neema Kotonya et.al.|[2311.00686](http://arxiv.org/abs/2311.00686)|null|
