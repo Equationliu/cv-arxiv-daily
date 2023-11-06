@@ -624,7 +624,7 @@
 |**2023-09-18**|**Decompose Semantic Shifts for Composed Image Retrieval**|Xingyu Yang et.al.|[2309.09531](http://arxiv.org/abs/2309.09531)|null|
 |**2023-09-16**|**Efficient Object Rearrangement via Multi-view Fusion**|Dehao Huang et.al.|[2309.08994](http://arxiv.org/abs/2309.08994)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
-|**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914](http://arxiv.org/abs/2309.08914)|null|
+|**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914](http://arxiv.org/abs/2309.08914)|**[link](https://github.com/pamphlett/outram)**|
 |**2023-09-15**|**Active Learning for Fine-Grained Sketch-Based Image Retrieval**|Himanshu Thakur et.al.|[2309.08743](http://arxiv.org/abs/2309.08743)|null|
 |**2023-09-15**|**Optimization of Rank Losses for Image Retrieval**|Elias Ramzi et.al.|[2309.08250](http://arxiv.org/abs/2309.08250)|**[link](https://github.com/cvdfoundation/google-landmark)**|
 |**2023-09-18**|**Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer**|Yaoting Wang et.al.|[2309.07929](http://arxiv.org/abs/2309.07929)|null|
@@ -2068,15 +2068,15 @@
 |**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618](http://arxiv.org/abs/2311.00618)|null|
 |**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613](http://arxiv.org/abs/2311.00613)|null|
 |**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500](http://arxiv.org/abs/2311.00500)|**[link](https://github.com/sail-sg/d-trak)**|
-|**2023-11-01**|**Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model**|Xuan Liu et.al.|[2311.00496](http://arxiv.org/abs/2311.00496)|null|
+|**2023-11-01**|**Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model**|Xuan Liu et.al.|[2311.00496](http://arxiv.org/abs/2311.00496)|**[link](https://github.com/xuanliu2000/vgcdm)**|
 |**2023-11-01**|**Diffusion models for probabilistic programming**|Simon Dirmeier et.al.|[2311.00474](http://arxiv.org/abs/2311.00474)|null|
 |**2023-11-01**|**Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos**|Divyanshu Mishra et.al.|[2311.00469](http://arxiv.org/abs/2311.00469)|null|
 |**2023-11-01**|**LatentWarp: Consistent Diffusion Latents for Zero-Shot Video-to-Video Translation**|Yuxiang Bao et.al.|[2311.00353](http://arxiv.org/abs/2311.00353)|null|
 |**2023-11-01**|**Space Narrative: Generating Images and 3D Scenes of Chinese Garden from Text using Deep Learning**|Jiaxi Shi1 et.al.|[2311.00339](http://arxiv.org/abs/2311.00339)|null|
 |**2023-11-01**|**Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study**|Jonghun Kim et.al.|[2311.00265](http://arxiv.org/abs/2311.00265)|**[link](https://github.com/jongdory/aldm)**|
-|**2023-10-31**|**Score Normalization for a Faster Diffusion Exponential Integrator Sampler**|Guoxuan Xia et.al.|[2311.00157](http://arxiv.org/abs/2311.00157)|null|
+|**2023-10-31**|**Score Normalization for a Faster Diffusion Exponential Integrator Sampler**|Guoxuan Xia et.al.|[2311.00157](http://arxiv.org/abs/2311.00157)|**[link](https://github.com/mtkresearch/diffusion-deis-sn)**|
 |**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
-|**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
+|**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|**[link](https://github.com/junkunyuan/hap)**|
 |**2023-10-31**|**Diffusion Reconstruction of Ultrasound Images with Informative Uncertainty**|Yuxin Zhang et.al.|[2310.20618](http://arxiv.org/abs/2310.20618)|null|
 |**2023-10-31**|**Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion**|Zhengyi Yang et.al.|[2310.20453](http://arxiv.org/abs/2310.20453)|**[link](https://github.com/yangzhengyi98/dreamrec)**|
 |**2023-10-31**|**In Search of Lost Online Test-time Adaptation: A Survey**|Zixin Wang et.al.|[2310.20199](http://arxiv.org/abs/2310.20199)|null|
@@ -2144,7 +2144,7 @@
 |**2023-10-19**|**Energy-Based Models For Speech Synthesis**|Wanli Sun et.al.|[2310.12765](http://arxiv.org/abs/2310.12765)|null|
 |**2023-10-19**|**Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers**|Yuanduo Hong et.al.|[2310.12755](http://arxiv.org/abs/2310.12755)|**[link](https://github.com/ydhonghit/plainseg)**|
 |**2023-10-19**|**TapMo: Shape-aware Motion Generation of Skeleton-free Characters**|Jiaxu Zhang et.al.|[2310.12678](http://arxiv.org/abs/2310.12678)|null|
-|**2023-10-19**|**Product of Gaussian Mixture Diffusion Models**|Martin Zach et.al.|[2310.12653](http://arxiv.org/abs/2310.12653)|null|
+|**2023-10-19**|**Product of Gaussian Mixture Diffusion Models**|Martin Zach et.al.|[2310.12653](http://arxiv.org/abs/2310.12653)|**[link](https://github.com/vlogroup/pogmdm)**|
 |**2023-10-19**|**Denoising Heat-inspired Diffusion with Insulators for Collision Free Motion Planning**|Junwoo Chang et.al.|[2310.12609](http://arxiv.org/abs/2310.12609)|null|
 |**2023-10-19**|**Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation**|Mariia Zameshina et.al.|[2310.12583](http://arxiv.org/abs/2310.12583)|null|
 |**2023-10-19**|**SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation**|Chongyu Fan et.al.|[2310.12508](http://arxiv.org/abs/2310.12508)|**[link](https://github.com/optml-group/unlearn-saliency)**|
@@ -2172,7 +2172,7 @@
 |**2023-10-16**|**ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a protein language diffusion model**|Bo Ni et.al.|[2310.10605](http://arxiv.org/abs/2310.10605)|null|
 |**2023-10-16**|**Generation or Replication: Auscultating Audio Latent Diffusion Models**|Dimitrios Bralios et.al.|[2310.10604](http://arxiv.org/abs/2310.10604)|null|
 |**2023-10-16**|**Model Selection of Anomaly Detectors in the Absence of Labeled Validation Data**|Clement Fung et.al.|[2310.10461](http://arxiv.org/abs/2310.10461)|null|
-|**2023-10-16**|**ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion**|Jiayu Yang et.al.|[2310.10343](http://arxiv.org/abs/2310.10343)|null|
+|**2023-10-16**|**ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion**|Jiayu Yang et.al.|[2310.10343](http://arxiv.org/abs/2310.10343)|**[link](https://github.com/jiayuyang/consistnet)**|
 |**2023-10-16**|**Scene Graph Conditioning in Latent Diffusion**|Frank Fundel et.al.|[2310.10338](http://arxiv.org/abs/2310.10338)|**[link](https://github.com/frankfundel/sgcond)**|
 |**2023-10-16**|**Towards image compression with perfect realism at ultra-low bitrates**|Marlène Careil et.al.|[2310.10325](http://arxiv.org/abs/2310.10325)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
@@ -2211,19 +2211,19 @@
 |**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618](http://arxiv.org/abs/2311.00618)|null|
 |**2023-11-01**|**Crosslingual Retrieval Augmented In-context Learning for Bangla**|Xiaoqian Li et.al.|[2311.00587](http://arxiv.org/abs/2311.00587)|null|
 |**2023-11-01**|**Revealing CNN Architectures via Side-Channel Analysis in Dataflow-based Inference Accelerators**|Hansika Weerasena et.al.|[2311.00579](http://arxiv.org/abs/2311.00579)|null|
-|**2023-11-01**|**The Development of LLMs for Embodied Navigation**|Jinzhou Lin et.al.|[2311.00530](http://arxiv.org/abs/2311.00530)|null|
+|**2023-11-01**|**The Development of LLMs for Embodied Navigation**|Jinzhou Lin et.al.|[2311.00530](http://arxiv.org/abs/2311.00530)|**[link](https://github.com/rongtao-xu/awesome-llm-en)**|
 |**2023-11-01**|**Efficient LLM Inference on CPUs**|Haihao Shen et.al.|[2311.00502](http://arxiv.org/abs/2311.00502)|**[link](https://github.com/intel/intel-extension-for-transformers)**|
 |**2023-10-31**|**Learning From Mistakes Makes LLM Better Reasoner**|Shengnan An et.al.|[2310.20689](http://arxiv.org/abs/2310.20689)|**[link](https://github.com/microsoft/codet)**|
 |**2023-10-31**|**Defining a New NLP Playground**|Sha Li et.al.|[2310.20633](http://arxiv.org/abs/2310.20633)|null|
 |**2023-10-31**|**LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B**|Simon Lermen et.al.|[2310.20624](http://arxiv.org/abs/2310.20624)|null|
 |**2023-10-31**|**Unleashing the Power of Pre-trained Language Models for Offline Reinforcement Learning**|Ruizhe Shi et.al.|[2310.20587](http://arxiv.org/abs/2310.20587)|null|
-|**2023-10-31**|**CapsFusion: Rethinking Image-Text Data at Scale**|Qiying Yu et.al.|[2310.20550](http://arxiv.org/abs/2310.20550)|null|
-|**2023-10-31**|**LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts**|Sunhao Dai et.al.|[2310.20501](http://arxiv.org/abs/2310.20501)|null|
-|**2023-10-31**|**Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models**|Tian Liang et.al.|[2310.20499](http://arxiv.org/abs/2310.20499)|null|
+|**2023-10-31**|**CapsFusion: Rethinking Image-Text Data at Scale**|Qiying Yu et.al.|[2310.20550](http://arxiv.org/abs/2310.20550)|**[link](https://github.com/baaivision/capsfusion)**|
+|**2023-10-31**|**LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts**|Sunhao Dai et.al.|[2310.20501](http://arxiv.org/abs/2310.20501)|**[link](https://github.com/kid-22/llm4ir-bias)**|
+|**2023-10-31**|**Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models**|Tian Liang et.al.|[2310.20499](http://arxiv.org/abs/2310.20499)|**[link](https://github.com/skytliang/spygame)**|
 |**2023-10-31**|**Large Language Model Can Interpret Latent Space of Sequential Recommender**|Zhengyi Yang et.al.|[2310.20487](http://arxiv.org/abs/2310.20487)|null|
 |**2023-10-31**|**The SourceData-NLP dataset: integrating curation into scientific publishing for training large language models**|Jorge Abreu-Vicente et.al.|[2310.20440](http://arxiv.org/abs/2310.20440)|null|
 |**2023-10-31**|**FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**|Yuxin Jiang et.al.|[2310.20410](http://arxiv.org/abs/2310.20410)|null|
-|**2023-10-30**|**M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models**|Wai-Chung Kwan et.al.|[2310.19240](http://arxiv.org/abs/2310.19240)|null|
+|**2023-10-30**|**M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models**|Wai-Chung Kwan et.al.|[2310.19240](http://arxiv.org/abs/2310.19240)|**[link](https://github.com/kwanwaichung/m4le)**|
 |**2023-10-30**|**Building Real-World Meeting Summarization Systems using Large Language Models: A Practical Perspective**|Md Tahmid Rahman Laskar et.al.|[2310.19233](http://arxiv.org/abs/2310.19233)|null|
 |**2023-10-30**|**EHRTutor: Enhancing Patient Understanding of Discharge Instructions**|Zihao Zhang et.al.|[2310.19212](http://arxiv.org/abs/2310.19212)|null|
 |**2023-10-30**|**Leveraging generative artificial intelligence to simulate student learning behavior**|Songlin Xu et.al.|[2310.19206](http://arxiv.org/abs/2310.19206)|null|
@@ -2236,7 +2236,7 @@
 |**2023-10-27**|**FP8-LM: Training FP8 Large Language Models**|Houwen Peng et.al.|[2310.18313](http://arxiv.org/abs/2310.18313)|**[link](https://github.com/azure/ms-amp)**|
 |**2023-10-27**|**Image Clustering Conditioned on Text Criteria**|Sehyun Kwon et.al.|[2310.18297](http://arxiv.org/abs/2310.18297)|**[link](https://github.com/sehyunkwon/ictc)**|
 |**2023-10-27**|**ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models**|Benjamin Feuer et.al.|[2310.18208](http://arxiv.org/abs/2310.18208)|**[link](https://github.com/penfever/archetype)**|
-|**2023-10-27**|**Lost in Translation, Found in Spans: Identifying Claims in Multilingual Social Media**|Shubham Mittal et.al.|[2310.18205](http://arxiv.org/abs/2310.18205)|null|
+|**2023-10-27**|**Lost in Translation, Found in Spans: Identifying Claims in Multilingual Social Media**|Shubham Mittal et.al.|[2310.18205](http://arxiv.org/abs/2310.18205)|**[link](https://github.com/mbzuai-nlp/x-claim)**|
 |**2023-10-27**|**Personas as a Way to Model Truthfulness in Language Models**|Nitish Joishi et.al.|[2310.18168](http://arxiv.org/abs/2310.18168)|null|
 |**2023-10-27**|**MPrompt: Exploring Multi-level Prompt Tuning for Machine Reading Comprehension**|Guoxin Chen et.al.|[2310.18167](http://arxiv.org/abs/2310.18167)|null|
 |**2023-10-27**|**Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs**|Yijian Qin et.al.|[2310.18152](http://arxiv.org/abs/2310.18152)|null|
@@ -2341,7 +2341,7 @@
 |**2023-10-13**|**Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios**|Cecilia Delgado Solorzano et.al.|[2310.09237](http://arxiv.org/abs/2310.09237)|null|
 |**2023-10-13**|**CoPrompt: Supporting Prompt Sharing and Referring in Collaborative Natural Language Programming**|Felicia Li Feng et.al.|[2310.09235](http://arxiv.org/abs/2310.09235)|null|
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
-|**2023-10-13**|**"Kelly is a Warm Person, Joseph is a Role Model": Gender Biases in LLM-Generated Reference Letters**|Yixin Wan et.al.|[2310.09219](http://arxiv.org/abs/2310.09219)|null|
+|**2023-10-13**|**"Kelly is a Warm Person, Joseph is a Role Model": Gender Biases in LLM-Generated Reference Letters**|Yixin Wan et.al.|[2310.09219](http://arxiv.org/abs/2310.09219)|**[link](https://github.com/uclanlp/biases-llm-reference-letters)**|
 |**2023-10-13**|**Explore-Instruct: Enhancing Domain-Specific Instruction Coverage through Active Exploration**|Fanqi Wan et.al.|[2310.09168](http://arxiv.org/abs/2310.09168)|**[link](https://github.com/fanqiwan/explore-instruct)**|
 
 <p align=right>(<a href=#updated-on-20231106>back to top</a>)</p>
