@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Quantum circuit synthesis with diffusion models**|Florian Fürrutter et.al.|[2311.02041](http://arxiv.org/abs/2311.02041)|**[link](https://github.com/florianfuerrutter/genqc)**|
+|**2023-11-03**|**Latent Diffusion Model for Conditional Reservoir Facies Generation**|Daesoo Lee et.al.|[2311.01968](http://arxiv.org/abs/2311.01968)|null|
+|**2023-11-03**|**On the Generalization Properties of Diffusion Models**|Puheng Li et.al.|[2311.01797](http://arxiv.org/abs/2311.01797)|**[link](https://github.com/lphleo/diffusion_generalization)**|
+|**2023-11-03**|**CDGraph: Dual Conditional Social Graph Synthesizing via Diffusion Model**|Jui-Yi Tsai et.al.|[2311.01729](http://arxiv.org/abs/2311.01729)|null|
+|**2023-11-02**|**Improving Fairness using Vision-Language Driven Image Augmentation**|Moreno D'Incà et.al.|[2311.01573](http://arxiv.org/abs/2311.01573)|**[link](https://github.com/moreno98/vision-language-bias-control)**|
+|**2023-11-02**|**Exploring the Hyperparameter Space of Image Diffusion Models for Echocardiogram Generation**|Hadrien Reynaud et.al.|[2311.01567](http://arxiv.org/abs/2311.01567)|null|
+|**2023-11-02**|**Investigating the Behavior of Diffusion Models for Accelerating Electronic Structure Calculations**|Daniel Rothchild et.al.|[2311.01491](http://arxiv.org/abs/2311.01491)|null|
 |**2023-11-02**|**Time Series Anomaly Detection using Diffusion-based Models**|Ioana Pintilie et.al.|[2311.01452](http://arxiv.org/abs/2311.01452)|**[link](https://github.com/fbrad/diffusionae)**|
 |**2023-11-02**|**Constrained-Context Conditional Diffusion Models for Imitation Learning**|Vaibhav Saxena et.al.|[2311.01419](http://arxiv.org/abs/2311.01419)|null|
 |**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380](http://arxiv.org/abs/2311.01380)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
@@ -150,6 +157,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Post Turing: Mapping the landscape of LLM Evaluation**|Alexey Tikhonov et.al.|[2311.02049](http://arxiv.org/abs/2311.02049)|null|
+|**2023-11-03**|**Conditions on Preference Relations that Guarantee the Existence of Optimal Policies**|Jonathan Colaco Carr et.al.|[2311.01990](http://arxiv.org/abs/2311.01990)|null|
+|**2023-11-03**|**Don't Make Your LLM an Evaluation Benchmark Cheater**|Kun Zhou et.al.|[2311.01964](http://arxiv.org/abs/2311.01964)|null|
+|**2023-11-03**|**Hint-enhanced In-Context Learning wakes Large Language Models up for knowledge-intensive tasks**|Yifan Wang et.al.|[2311.01949](http://arxiv.org/abs/2311.01949)|null|
+|**2023-11-03**|**Supermind Ideator: Exploring generative AI to support creative problem-solving**|Steven R. Rick et.al.|[2311.01937](http://arxiv.org/abs/2311.01937)|null|
+|**2023-11-03**|**ChartGPT: Leveraging LLMs to Generate Charts from Abstract Natural Language**|Yuan Tian et.al.|[2311.01920](http://arxiv.org/abs/2311.01920)|null|
+|**2023-11-03**|**Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review**|Mingze Yuan et.al.|[2311.01918](http://arxiv.org/abs/2311.01918)|**[link](https://github.com/mingze-yuan/awesome-llm-healthcare)**|
+|**2023-11-03**|**LLM-driven Multimodal Target Volume Contouring in Radiation Oncology**|Yujin Oh et.al.|[2311.01908](http://arxiv.org/abs/2311.01908)|null|
+|**2023-11-03**|**Indicative Summarization of Long Discussions**|Shahbaz Syed et.al.|[2311.01882](http://arxiv.org/abs/2311.01882)|**[link](https://github.com/webis-de/emnlp-23)**|
+|**2023-11-03**|**Towards Concept-Aware Large Language Models**|Chen Shani et.al.|[2311.01866](http://arxiv.org/abs/2311.01866)|null|
 |**2023-11-02**|**TopicGPT: A Prompt-based Topic Modeling Framework**|Chau Minh Pham et.al.|[2311.01449](http://arxiv.org/abs/2311.01449)|**[link](https://github.com/chtmp223/topicgpt)**|
 |**2023-11-02**|**REAL: Resilience and Adaptation using Large Language Models on Autonomous Aerial Robots**|Andrea Tagliabue et.al.|[2311.01403](http://arxiv.org/abs/2311.01403)|null|
 |**2023-11-02**|**Collaborative Large Language Model for Recommender Systems**|Yaochen Zhu et.al.|[2311.01343](http://arxiv.org/abs/2311.01343)|**[link](https://github.com/yaochenzhu/llm4rec)**|
@@ -305,6 +322,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Trust-Preserved Human-Robot Shared Autonomy enabled by Bayesian Relational Event Modeling**|Yingke Li et.al.|[2311.02009](http://arxiv.org/abs/2311.02009)|null|
+|**2023-11-03**|**On the Generalization Properties of Diffusion Models**|Puheng Li et.al.|[2311.01797](http://arxiv.org/abs/2311.01797)|**[link](https://github.com/lphleo/diffusion_generalization)**|
 |**2023-11-01**|**NEO-KD: Knowledge-Distillation-Based Adversarial Training for Robust Multi-Exit Neural Networks**|Seokil Ham et.al.|[2311.00428](http://arxiv.org/abs/2311.00428)|null|
 |**2023-10-31**|**Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks**|Steven Adriaensen et.al.|[2310.20447](http://arxiv.org/abs/2310.20447)|**[link](https://github.com/automl/lcpfn)**|
 |**2023-10-31**|**BERT Lost Patience Won't Be Robust to Adversarial Slowdown**|Zachary Coalson et.al.|[2310.19152](http://arxiv.org/abs/2310.19152)|**[link](https://github.com/ztcoalson/waffle)**|
