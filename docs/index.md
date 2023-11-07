@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models**|Yangming Li et.al.|[2311.03303](http://arxiv.org/abs/2311.03303)|null|
+|**2023-11-06**|**LDM3D-VR: Latent Diffusion Model for 3D VR**|Gabriela Ben Melech Stan et.al.|[2311.03226](http://arxiv.org/abs/2311.03226)|null|
+|**2023-11-06**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118](http://arxiv.org/abs/2311.03118)|null|
+|**2023-11-06**|**AnyText: Multilingual Visual Text Generation And Editing**|Yuxiang Tuo et.al.|[2311.03054](http://arxiv.org/abs/2311.03054)|null|
+|**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008](http://arxiv.org/abs/2311.03008)|null|
+|**2023-11-06**|**Diffusion-based Radiotherapy Dose Prediction Guided by Inter-slice Aware Structure Encoding**|Zhenghao Feng et.al.|[2311.02991](http://arxiv.org/abs/2311.02991)|null|
+|**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848](http://arxiv.org/abs/2311.02848)|null|
+|**2023-11-04**|**From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models**|Zhuoshi Pan et.al.|[2311.02373](http://arxiv.org/abs/2311.02373)|null|
+|**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358](http://arxiv.org/abs/2311.02358)|null|
+|**2023-11-04**|**Stable Diffusion Reference Only: Image Prompt and Blueprint Jointly Guided Multi-Condition Diffusion Model for Secondary Painting**|Hao Ai et.al.|[2311.02343](http://arxiv.org/abs/2311.02343)|**[link](https://github.com/aihao2000/stable-diffusion-reference-only)**|
 |**2023-11-03**|**Quantum circuit synthesis with diffusion models**|Florian Fürrutter et.al.|[2311.02041](http://arxiv.org/abs/2311.02041)|**[link](https://github.com/florianfuerrutter/genqc)**|
 |**2023-11-03**|**Latent Diffusion Model for Conditional Reservoir Facies Generation**|Daesoo Lee et.al.|[2311.01968](http://arxiv.org/abs/2311.01968)|null|
 |**2023-11-03**|**On the Generalization Properties of Diffusion Models**|Puheng Li et.al.|[2311.01797](http://arxiv.org/abs/2311.01797)|**[link](https://github.com/lphleo/diffusion_generalization)**|
@@ -157,6 +167,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**GLaMM: Pixel Grounding Large Multimodal Model**|Hanoona Rasheed et.al.|[2311.03356](http://arxiv.org/abs/2311.03356)|null|
+|**2023-11-06**|**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**|Junyan Li et.al.|[2311.03354](http://arxiv.org/abs/2311.03354)|null|
+|**2023-11-06**|**Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation**|Rusheb Shah et.al.|[2311.03348](http://arxiv.org/abs/2311.03348)|null|
+|**2023-11-06**|**DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase**|Dawei Li et.al.|[2311.03319](http://arxiv.org/abs/2311.03319)|null|
+|**2023-11-06**|**Unraveling Downstream Gender Bias from Large Language Models: A Study on AI Educational Writing Assistance**|Thiemo Wambsganss et.al.|[2311.03311](http://arxiv.org/abs/2311.03311)|**[link](https://github.com/epfl-ml4ed/unraveling-llm-bias)**|
+|**2023-11-06**|**Ziya2: Data-centric Learning is All LLMs Need**|Ruyi Gan et.al.|[2311.03301](http://arxiv.org/abs/2311.03301)|null|
+|**2023-11-06**|**S-LoRA: Serving Thousands of Concurrent LoRA Adapters**|Ying Sheng et.al.|[2311.03285](http://arxiv.org/abs/2311.03285)|null|
+|**2023-11-06**|**Instructed Language Models with Retrievers Are Powerful Entity Linkers**|Zilin Xiao et.al.|[2311.03250](http://arxiv.org/abs/2311.03250)|**[link](https://github.com/mrzilinxiao/insgenentitylinking)**|
+|**2023-11-06**|**ALYMPICS: Language Agents Meet Game Theory**|Shaoguang Mao et.al.|[2311.03220](http://arxiv.org/abs/2311.03220)|null|
+|**2023-11-06**|**DeepInception: Hypnotize Large Language Model to Be Jailbreaker**|Xuan Li et.al.|[2311.03191](http://arxiv.org/abs/2311.03191)|null|
 |**2023-11-03**|**Post Turing: Mapping the landscape of LLM Evaluation**|Alexey Tikhonov et.al.|[2311.02049](http://arxiv.org/abs/2311.02049)|null|
 |**2023-11-03**|**Conditions on Preference Relations that Guarantee the Existence of Optimal Policies**|Jonathan Colaco Carr et.al.|[2311.01990](http://arxiv.org/abs/2311.01990)|null|
 |**2023-11-03**|**Don't Make Your LLM an Evaluation Benchmark Cheater**|Kun Zhou et.al.|[2311.01964](http://arxiv.org/abs/2311.01964)|null|
