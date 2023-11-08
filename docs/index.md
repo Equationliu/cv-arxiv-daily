@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145](http://arxiv.org/abs/2311.04145)|null|
+|**2023-11-07**|**Generative Structural Design Integrating BIM and Diffusion Model**|Zhili He et.al.|[2311.04052](http://arxiv.org/abs/2311.04052)|null|
+|**2023-11-07**|**Formulating Discrete Probability Flow Through Optimal Transport**|Pengze Zhang et.al.|[2311.03886](http://arxiv.org/abs/2311.03886)|**[link](https://github.com/pangzecheung/discrete-probability-flow)**|
+|**2023-11-07**|**Reducing Spatial Fitting Error in Distillation of Denoising Diffusion Models**|Shengzhe Zhou et.al.|[2311.03830](http://arxiv.org/abs/2311.03830)|null|
+|**2023-11-07**|**3DifFusionDet: Diffusion Model for 3D Object Detection with Robust LiDAR-Camera Fusion**|Xinhao Xiang et.al.|[2311.03742](http://arxiv.org/abs/2311.03742)|null|
+|**2023-11-06**|**The steady state of the boundary-driven multiparticle asymmetric diffusion model**|Rouven Frassek et.al.|[2311.03603](http://arxiv.org/abs/2311.03603)|null|
+|**2023-11-06**|**Generative Diffusion Models for Lattice Field Theory**|Lingxiao Wang et.al.|[2311.03578](http://arxiv.org/abs/2311.03578)|null|
+|**2023-11-06**|**Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems**|Derek Lilienthal et.al.|[2311.03488](http://arxiv.org/abs/2311.03488)|null|
 |**2023-11-06**|**TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models**|Yangming Li et.al.|[2311.03303](http://arxiv.org/abs/2311.03303)|null|
 |**2023-11-06**|**LDM3D-VR: Latent Diffusion Model for 3D VR**|Gabriela Ben Melech Stan et.al.|[2311.03226](http://arxiv.org/abs/2311.03226)|null|
 |**2023-11-06**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118](http://arxiv.org/abs/2311.03118)|null|
@@ -167,6 +175,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves**|Yihe Deng et.al.|[2311.04205](http://arxiv.org/abs/2311.04205)|null|
+|**2023-11-07**|**Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation**|Eric Melz et.al.|[2311.04177](http://arxiv.org/abs/2311.04177)|null|
+|**2023-11-07**|**Perturbed examples reveal invariances shared by language models**|Ruchit Rawal et.al.|[2311.04166](http://arxiv.org/abs/2311.04166)|null|
+|**2023-11-07**|**Black-Box Prompt Optimization: Aligning Large Language Models without Model Training**|Jiale Cheng et.al.|[2311.04155](http://arxiv.org/abs/2311.04155)|**[link](https://github.com/thu-coai/bpo)**|
+|**2023-11-07**|**Unveiling Safety Vulnerabilities of Large Language Models**|George Kour et.al.|[2311.04124](http://arxiv.org/abs/2311.04124)|null|
+|**2023-11-07**|**Do LLMs exhibit human-like response biases? A case study in survey design**|Lindia Tjuatja et.al.|[2311.04076](http://arxiv.org/abs/2311.04076)|**[link](https://github.com/lindiatjuatja/biasmonkey)**|
+|**2023-11-07**|**Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment**|Geyang Guo et.al.|[2311.04072](http://arxiv.org/abs/2311.04072)|null|
+|**2023-11-07**|**Extracting human interpretable structure-property relationships in chemistry using XAI and large language models**|Geemi P. Wellawatte et.al.|[2311.04047](http://arxiv.org/abs/2311.04047)|null|
+|**2023-11-07**|**Reinforcement Learning Fine-tuning of Language Models is Biased Towards More Extractable Features**|Diogo Cruz et.al.|[2311.04046](http://arxiv.org/abs/2311.04046)|null|
+|**2023-11-07**|**Aspects of human memory and Large Language Models**|Romuald A. Janik et.al.|[2311.03839](http://arxiv.org/abs/2311.03839)|**[link](https://github.com/rmldj/memory-llm-paper)**|
 |**2023-11-06**|**GLaMM: Pixel Grounding Large Multimodal Model**|Hanoona Rasheed et.al.|[2311.03356](http://arxiv.org/abs/2311.03356)|null|
 |**2023-11-06**|**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**|Junyan Li et.al.|[2311.03354](http://arxiv.org/abs/2311.03354)|null|
 |**2023-11-06**|**Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation**|Rusheb Shah et.al.|[2311.03348](http://arxiv.org/abs/2311.03348)|null|
@@ -342,6 +360,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Video Instance Matting**|Jiachen Li et.al.|[2311.04212](http://arxiv.org/abs/2311.04212)|**[link](https://github.com/shi-labs/vim)**|
+|**2023-11-07**|**Cup Curriculum: Curriculum Learning on Model Capacity**|Luca Scharr et.al.|[2311.03956](http://arxiv.org/abs/2311.03956)|**[link](https://github.com/luca-scharr/cupcurriculum)**|
 |**2023-11-03**|**Trust-Preserved Human-Robot Shared Autonomy enabled by Bayesian Relational Event Modeling**|Yingke Li et.al.|[2311.02009](http://arxiv.org/abs/2311.02009)|null|
 |**2023-11-03**|**On the Generalization Properties of Diffusion Models**|Puheng Li et.al.|[2311.01797](http://arxiv.org/abs/2311.01797)|**[link](https://github.com/lphleo/diffusion_generalization)**|
 |**2023-11-01**|**NEO-KD: Knowledge-Distillation-Based Adversarial Training for Robust Multi-Exit Neural Networks**|Seokil Ham et.al.|[2311.00428](http://arxiv.org/abs/2311.00428)|null|
@@ -349,7 +369,7 @@ layout: default
 |**2023-10-31**|**BERT Lost Patience Won't Be Robust to Adversarial Slowdown**|Zachary Coalson et.al.|[2310.19152](http://arxiv.org/abs/2310.19152)|**[link](https://github.com/ztcoalson/waffle)**|
 |**2023-10-28**|**Med-DANet V2: A Flexible Dynamic Architecture for Efficient Medical Volumetric Segmentation**|Haoran Shen et.al.|[2310.18656](http://arxiv.org/abs/2310.18656)|null|
 |**2023-10-28**|**Subspace projection regularization for large-scale Bayesian linear inverse problems**|Haibo Li et.al.|[2310.18618](http://arxiv.org/abs/2310.18618)|null|
-|**2023-10-28**|**Accelerating LLM Inference by Enabling Intermediate Layer Decoding**|Neeraj Varshney et.al.|[2310.18581](http://arxiv.org/abs/2310.18581)|null|
+|**2023-11-07**|**Accelerating LLaMA Inference by Enabling Intermediate Layer Decoding via Instruction Tuning with LITE**|Neeraj Varshney et.al.|[2310.18581](http://arxiv.org/abs/2310.18581)|null|
 |**2023-10-21**|**Structural generalization in COGS: Supertagging is (almost) all you need**|Alban Petit et.al.|[2310.14124](http://arxiv.org/abs/2310.14124)|null|
 |**2023-10-19**|**Active Sensing for Localization with Reconfigurable Intelligent Surface**|Zhongze Zhang et.al.|[2310.13160](http://arxiv.org/abs/2310.13160)|null|
 |**2023-10-17**|**Group sequential two-stage preference designs**|Ruyi Liu et.al.|[2310.11603](http://arxiv.org/abs/2310.11603)|**[link](https://github.com/ruyi-liu/gstspd)**|
