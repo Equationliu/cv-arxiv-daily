@@ -476,7 +476,7 @@
 |**2023-07-28**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702](http://arxiv.org/abs/2307.11702)|null|
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
 |**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520](http://arxiv.org/abs/2307.04520)|null|
-|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|**[link](https://github.com/ysus33/rgb-d_plenoxel_mapping_tracking)**|
 |**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917](http://arxiv.org/abs/2306.16917)|**[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
@@ -796,7 +796,7 @@
 |**2023-03-30**|**Adaptive Cross Batch Normalization for Metric Learning**|Thalaiyasingam Ajanthan et.al.|[2303.17127](http://arxiv.org/abs/2303.17127)|null|
 |**2023-03-30**|**MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks**|Weicheng Kuo et.al.|[2303.16839](http://arxiv.org/abs/2303.16839)|null|
 |**2023-03-29**|**Sketch-an-Anchor: Sub-epoch Fast Model Adaptation for Zero-shot Sketch-based Image Retrieval**|Leo Sampaio Ferraz Ribeiro et.al.|[2303.16769](http://arxiv.org/abs/2303.16769)|null|
-|**2023-03-29**|**Bi-directional Training for Composed Image Retrieval via Text Prompt Learning**|Zheyuan Liu et.al.|[2303.16604](http://arxiv.org/abs/2303.16604)|null|
+|**2023-03-29**|**Bi-directional Training for Composed Image Retrieval via Text Prompt Learning**|Zheyuan Liu et.al.|[2303.16604](http://arxiv.org/abs/2303.16604)|**[link](https://github.com/Cuberick-Orion/Bi-Blip4CIR)**|
 |**2023-03-27**|**Model Cascades for Efficient Image Search**|Robert Hönig et.al.|[2303.15595](http://arxiv.org/abs/2303.15595)|null|
 |**2023-03-27**|**Zero-Shot Composed Image Retrieval with Textual Inversion**|Alberto Baldrati et.al.|[2303.15247](http://arxiv.org/abs/2303.15247)|**[link](https://github.com/miccunifi/circo)**|
 |**2023-03-27**|**What Can Human Sketches Do for Object Detection?**|Pinaki Nath Chowdhury et.al.|[2303.15149](http://arxiv.org/abs/2303.15149)|null|
@@ -1520,7 +1520,7 @@
 |**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134](http://arxiv.org/abs/2310.05134)|null|
 |**2023-10-08**|**Geometry Aware Field-to-field Transformations for 3D Semantic Segmentation**|Dominik Hollidt et.al.|[2310.05133](http://arxiv.org/abs/2310.05133)|null|
 |**2023-10-06**|**Improving Neural Radiance Field using Near-Surface Sampling with Point Cloud Generation**|Hye Bin Yoo et.al.|[2310.04152](http://arxiv.org/abs/2310.04152)|null|
-|**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704](http://arxiv.org/abs/2310.03704)|null|
+|**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704](http://arxiv.org/abs/2310.03704)|**[link](https://github.com/zhiwenfan/DragView)**|
 |**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578](http://arxiv.org/abs/2310.03578)|null|
 |**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563](http://arxiv.org/abs/2310.03563)|null|
 |**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125](http://arxiv.org/abs/2310.03125)|null|
@@ -1646,7 +1646,7 @@
 |**2023-07-15**|**Improving NeRF with Height Data for Utilization of GIS Data**|Hinata Aoki et.al.|[2307.07729](http://arxiv.org/abs/2307.07729)|null|
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
-|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|**[link](https://github.com/ysus33/rgb-d_plenoxel_mapping_tracking)**|
 |**2023-07-16**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723](http://arxiv.org/abs/2306.17723)|**[link](https://github.com/shawn615/FlipNeRF)**|
 |**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624](http://arxiv.org/abs/2306.17624)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
@@ -2077,7 +2077,7 @@
 |**2023-11-07**|**3DifFusionDet: Diffusion Model for 3D Object Detection with Robust LiDAR-Camera Fusion**|Xinhao Xiang et.al.|[2311.03742](http://arxiv.org/abs/2311.03742)|null|
 |**2023-11-06**|**The steady state of the boundary-driven multiparticle asymmetric diffusion model**|Rouven Frassek et.al.|[2311.03603](http://arxiv.org/abs/2311.03603)|null|
 |**2023-11-06**|**Generative Diffusion Models for Lattice Field Theory**|Lingxiao Wang et.al.|[2311.03578](http://arxiv.org/abs/2311.03578)|null|
-|**2023-11-06**|**Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems**|Derek Lilienthal et.al.|[2311.03488](http://arxiv.org/abs/2311.03488)|null|
+|**2023-11-06**|**Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems**|Derek Lilienthal et.al.|[2311.03488](http://arxiv.org/abs/2311.03488)|**[link](https://github.com/multi-resolution-diffusion-recommender/sdrm)**|
 |**2023-11-06**|**TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models**|Yangming Li et.al.|[2311.03303](http://arxiv.org/abs/2311.03303)|null|
 |**2023-11-06**|**LDM3D-VR: Latent Diffusion Model for 3D VR**|Gabriela Ben Melech Stan et.al.|[2311.03226](http://arxiv.org/abs/2311.03226)|null|
 |**2023-11-06**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118](http://arxiv.org/abs/2311.03118)|null|
@@ -2253,15 +2253,15 @@
 |**2023-11-08**|**Using large language models to study human memory for meaningful narratives**|Antonios Georgiou Tankut Can et.al.|[2311.04742](http://arxiv.org/abs/2311.04742)|**[link](https://github.com/mkatkov/llm-narrative-analysis)**|
 |**2023-11-08**|**Evaluating Generative Ad Hoc Information Retrieval**|Lukas Gienapp et.al.|[2311.04694](http://arxiv.org/abs/2311.04694)|null|
 |**2023-11-08**|**Pre-training LLMs using human-like development data corpus**|Khushi Bhardwaj et.al.|[2311.04666](http://arxiv.org/abs/2311.04666)|null|
-|**2023-11-07**|**Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves**|Yihe Deng et.al.|[2311.04205](http://arxiv.org/abs/2311.04205)|null|
+|**2023-11-07**|**Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves**|Yihe Deng et.al.|[2311.04205](http://arxiv.org/abs/2311.04205)|**[link](https://github.com/uclaml/Rephrase-and-Respond)**|
 |**2023-11-07**|**Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation**|Eric Melz et.al.|[2311.04177](http://arxiv.org/abs/2311.04177)|null|
 |**2023-11-07**|**Perturbed examples reveal invariances shared by language models**|Ruchit Rawal et.al.|[2311.04166](http://arxiv.org/abs/2311.04166)|null|
 |**2023-11-07**|**Black-Box Prompt Optimization: Aligning Large Language Models without Model Training**|Jiale Cheng et.al.|[2311.04155](http://arxiv.org/abs/2311.04155)|**[link](https://github.com/thu-coai/bpo)**|
 |**2023-11-07**|**Unveiling Safety Vulnerabilities of Large Language Models**|George Kour et.al.|[2311.04124](http://arxiv.org/abs/2311.04124)|null|
 |**2023-11-07**|**Do LLMs exhibit human-like response biases? A case study in survey design**|Lindia Tjuatja et.al.|[2311.04076](http://arxiv.org/abs/2311.04076)|**[link](https://github.com/lindiatjuatja/biasmonkey)**|
 |**2023-11-07**|**Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment**|Geyang Guo et.al.|[2311.04072](http://arxiv.org/abs/2311.04072)|null|
-|**2023-11-07**|**Extracting human interpretable structure-property relationships in chemistry using XAI and large language models**|Geemi P. Wellawatte et.al.|[2311.04047](http://arxiv.org/abs/2311.04047)|null|
-|**2023-11-07**|**Reinforcement Learning Fine-tuning of Language Models is Biased Towards More Extractable Features**|Diogo Cruz et.al.|[2311.04046](http://arxiv.org/abs/2311.04046)|null|
+|**2023-11-07**|**Extracting human interpretable structure-property relationships in chemistry using XAI and large language models**|Geemi P. Wellawatte et.al.|[2311.04047](http://arxiv.org/abs/2311.04047)|**[link](https://github.com/geemi725/xpertai)**|
+|**2023-11-07**|**Reinforcement Learning Fine-tuning of Language Models is Biased Towards More Extractable Features**|Diogo Cruz et.al.|[2311.04046](http://arxiv.org/abs/2311.04046)|**[link](https://github.com/edoardopona/predicting-inductive-biases-rl)**|
 |**2023-11-07**|**Aspects of human memory and Large Language Models**|Romuald A. Janik et.al.|[2311.03839](http://arxiv.org/abs/2311.03839)|**[link](https://github.com/rmldj/memory-llm-paper)**|
 |**2023-11-06**|**GLaMM: Pixel Grounding Large Multimodal Model**|Hanoona Rasheed et.al.|[2311.03356](http://arxiv.org/abs/2311.03356)|null|
 |**2023-11-06**|**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**|Junyan Li et.al.|[2311.03354](http://arxiv.org/abs/2311.03354)|null|
@@ -2269,16 +2269,16 @@
 |**2023-11-06**|**DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase**|Dawei Li et.al.|[2311.03319](http://arxiv.org/abs/2311.03319)|null|
 |**2023-11-06**|**Unraveling Downstream Gender Bias from Large Language Models: A Study on AI Educational Writing Assistance**|Thiemo Wambsganss et.al.|[2311.03311](http://arxiv.org/abs/2311.03311)|**[link](https://github.com/epfl-ml4ed/unraveling-llm-bias)**|
 |**2023-11-06**|**Ziya2: Data-centric Learning is All LLMs Need**|Ruyi Gan et.al.|[2311.03301](http://arxiv.org/abs/2311.03301)|null|
-|**2023-11-06**|**S-LoRA: Serving Thousands of Concurrent LoRA Adapters**|Ying Sheng et.al.|[2311.03285](http://arxiv.org/abs/2311.03285)|null|
+|**2023-11-06**|**S-LoRA: Serving Thousands of Concurrent LoRA Adapters**|Ying Sheng et.al.|[2311.03285](http://arxiv.org/abs/2311.03285)|**[link](https://github.com/s-lora/s-lora)**|
 |**2023-11-06**|**Instructed Language Models with Retrievers Are Powerful Entity Linkers**|Zilin Xiao et.al.|[2311.03250](http://arxiv.org/abs/2311.03250)|**[link](https://github.com/mrzilinxiao/insgenentitylinking)**|
 |**2023-11-06**|**ALYMPICS: Language Agents Meet Game Theory**|Shaoguang Mao et.al.|[2311.03220](http://arxiv.org/abs/2311.03220)|null|
-|**2023-11-06**|**DeepInception: Hypnotize Large Language Model to Be Jailbreaker**|Xuan Li et.al.|[2311.03191](http://arxiv.org/abs/2311.03191)|null|
+|**2023-11-06**|**DeepInception: Hypnotize Large Language Model to Be Jailbreaker**|Xuan Li et.al.|[2311.03191](http://arxiv.org/abs/2311.03191)|**[link](https://github.com/tmlr-group/deepinception)**|
 |**2023-11-03**|**Post Turing: Mapping the landscape of LLM Evaluation**|Alexey Tikhonov et.al.|[2311.02049](http://arxiv.org/abs/2311.02049)|null|
 |**2023-11-03**|**Conditions on Preference Relations that Guarantee the Existence of Optimal Policies**|Jonathan Colaco Carr et.al.|[2311.01990](http://arxiv.org/abs/2311.01990)|null|
 |**2023-11-03**|**Don't Make Your LLM an Evaluation Benchmark Cheater**|Kun Zhou et.al.|[2311.01964](http://arxiv.org/abs/2311.01964)|null|
 |**2023-11-03**|**Hint-enhanced In-Context Learning wakes Large Language Models up for knowledge-intensive tasks**|Yifan Wang et.al.|[2311.01949](http://arxiv.org/abs/2311.01949)|null|
 |**2023-11-03**|**Supermind Ideator: Exploring generative AI to support creative problem-solving**|Steven R. Rick et.al.|[2311.01937](http://arxiv.org/abs/2311.01937)|null|
-|**2023-11-03**|**ChartGPT: Leveraging LLMs to Generate Charts from Abstract Natural Language**|Yuan Tian et.al.|[2311.01920](http://arxiv.org/abs/2311.01920)|null|
+|**2023-11-03**|**ChartGPT: Leveraging LLMs to Generate Charts from Abstract Natural Language**|Yuan Tian et.al.|[2311.01920](http://arxiv.org/abs/2311.01920)|**[link](https://github.com/bebinca/chartgpt-materials)**|
 |**2023-11-03**|**Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review**|Mingze Yuan et.al.|[2311.01918](http://arxiv.org/abs/2311.01918)|**[link](https://github.com/mingze-yuan/awesome-llm-healthcare)**|
 |**2023-11-03**|**LLM-driven Multimodal Target Volume Contouring in Radiation Oncology**|Yujin Oh et.al.|[2311.01908](http://arxiv.org/abs/2311.01908)|null|
 |**2023-11-03**|**Indicative Summarization of Long Discussions**|Shahbaz Syed et.al.|[2311.01882](http://arxiv.org/abs/2311.01882)|**[link](https://github.com/webis-de/emnlp-23)**|
@@ -2311,8 +2311,8 @@
 |**2023-10-31**|**LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts**|Sunhao Dai et.al.|[2310.20501](http://arxiv.org/abs/2310.20501)|**[link](https://github.com/kid-22/llm4ir-bias)**|
 |**2023-10-31**|**Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models**|Tian Liang et.al.|[2310.20499](http://arxiv.org/abs/2310.20499)|**[link](https://github.com/skytliang/spygame)**|
 |**2023-10-31**|**Large Language Model Can Interpret Latent Space of Sequential Recommender**|Zhengyi Yang et.al.|[2310.20487](http://arxiv.org/abs/2310.20487)|null|
-|**2023-10-31**|**The SourceData-NLP dataset: integrating curation into scientific publishing for training large language models**|Jorge Abreu-Vicente et.al.|[2310.20440](http://arxiv.org/abs/2310.20440)|null|
-|**2023-10-31**|**FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**|Yuxin Jiang et.al.|[2310.20410](http://arxiv.org/abs/2310.20410)|null|
+|**2023-10-31**|**The SourceData-NLP dataset: integrating curation into scientific publishing for training large language models**|Jorge Abreu-Vicente et.al.|[2310.20440](http://arxiv.org/abs/2310.20440)|**[link](https://github.com/source-data/soda-data)**|
+|**2023-10-31**|**FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**|Yuxin Jiang et.al.|[2310.20410](http://arxiv.org/abs/2310.20410)|**[link](https://github.com/yjiangcm/followbench)**|
 |**2023-10-30**|**M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models**|Wai-Chung Kwan et.al.|[2310.19240](http://arxiv.org/abs/2310.19240)|**[link](https://github.com/kwanwaichung/m4le)**|
 |**2023-10-30**|**Building Real-World Meeting Summarization Systems using Large Language Models: A Practical Perspective**|Md Tahmid Rahman Laskar et.al.|[2310.19233](http://arxiv.org/abs/2310.19233)|null|
 |**2023-10-30**|**EHRTutor: Enhancing Patient Understanding of Discharge Instructions**|Zihao Zhang et.al.|[2310.19212](http://arxiv.org/abs/2310.19212)|null|
@@ -2426,7 +2426,7 @@
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291](http://arxiv.org/abs/2310.09291)|null|
 |**2023-10-13**|**User Inference Attacks on Large Language Models**|Nikhil Kandpal et.al.|[2310.09266](http://arxiv.org/abs/2310.09266)|null|
 |**2023-10-13**|**PromptRE: Weakly-Supervised Document-Level Relation Extraction via Prompting-Based Data Programming**|Chufan Gao et.al.|[2310.09265](http://arxiv.org/abs/2310.09265)|null|
-|**2023-10-13**|**Towards End-to-end 4-Bit Inference on Generative Large Language Models**|Saleh Ashkboos et.al.|[2310.09259](http://arxiv.org/abs/2310.09259)|null|
+|**2023-10-13**|**Towards End-to-end 4-Bit Inference on Generative Large Language Models**|Saleh Ashkboos et.al.|[2310.09259](http://arxiv.org/abs/2310.09259)|**[link](https://github.com/ist-daslab/quik)**|
 |**2023-10-13**|**Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**|Yiquan Wu et.al.|[2310.09241](http://arxiv.org/abs/2310.09241)|null|
 |**2023-10-13**|**Evaluating Machine Perception of Indigeneity: An Analysis of ChatGPT's Perceptions of Indigenous Roles in Diverse Scenarios**|Cecilia Delgado Solorzano et.al.|[2310.09237](http://arxiv.org/abs/2310.09237)|null|
 |**2023-10-13**|**CoPrompt: Supporting Prompt Sharing and Referring in Collaborative Natural Language Programming**|Felicia Li Feng et.al.|[2310.09235](http://arxiv.org/abs/2310.09235)|null|
