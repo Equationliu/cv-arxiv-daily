@@ -2055,6 +2055,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Mustango: Toward Controllable Text-to-Music Generation**|Jan Melechovsky et.al.|[2311.08355](http://arxiv.org/abs/2311.08355)|null|
+|**2023-11-14**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330](http://arxiv.org/abs/2311.08330)|null|
+|**2023-11-14**|**Diffusion-based generation of Histopathological Whole Slide Images at a Gigapixel scale**|Robert Harb et.al.|[2311.08199](http://arxiv.org/abs/2311.08199)|null|
+|**2023-11-14**|**Influence of departures from LTE on determinations of the scandium abundances in A-B type stars**|L. Mashonkina et.al.|[2311.07982](http://arxiv.org/abs/2311.07982)|null|
+|**2023-11-14**|**Brain-Driven Representation Learning Based on Diffusion Model**|Soowon Kim et.al.|[2311.07925](http://arxiv.org/abs/2311.07925)|null|
+|**2023-11-14**|**Bayesian Conditional Diffusion Models for Versatile Spatiotemporal Turbulence Generation**|Han Gao et.al.|[2311.07896](http://arxiv.org/abs/2311.07896)|null|
+|**2023-11-14**|**One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion**|Minghua Liu et.al.|[2311.07885](http://arxiv.org/abs/2311.07885)|null|
 |**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
 |**2023-11-13**|**Robust semi-supervised segmentation with timestep ensembling diffusion models**|Margherita Rosnati et.al.|[2311.07421](http://arxiv.org/abs/2311.07421)|null|
 |**2023-11-13**|**Zero-Shot Duet Singing Voices Separation with Diffusion Models**|Chin-Yun Yu et.al.|[2311.07345](http://arxiv.org/abs/2311.07345)|null|
@@ -2249,6 +2256,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Towards Open-Ended Visual Recognition with Large Language Model**|Qihang Yu et.al.|[2311.08400](http://arxiv.org/abs/2311.08400)|**[link](https://github.com/bytedance/omniscient-model)**|
+|**2023-11-14**|**Are Large Language Models Temporally Grounded?**|Yifu Qiu et.al.|[2311.08398](http://arxiv.org/abs/2311.08398)|**[link](https://github.com/yfqiu-nlp/temporal-llms)**|
+|**2023-11-14**|**Zero-shot audio captioning with audio-language model guidance and audio context keywords**|Leonard Salewski et.al.|[2311.08396](http://arxiv.org/abs/2311.08396)|**[link](https://github.com/explainableml/zeraucap)**|
+|**2023-11-14**|**On What Basis? Predicting Text Preference Via Structured Comparative Reasoning**|Jing Nathan Yan et.al.|[2311.08390](http://arxiv.org/abs/2311.08390)|null|
+|**2023-11-14**|**TSST: A Benchmark and Evaluation Models for Text Speech-Style Transfer**|Huashan Sun et.al.|[2311.08389](http://arxiv.org/abs/2311.08389)|null|
+|**2023-11-14**|**Direct Preference Optimization for Neural Machine Translation with Minimum Bayes Risk Decoding**|Guangyu Yang et.al.|[2311.08380](http://arxiv.org/abs/2311.08380)|null|
+|**2023-11-14**|**A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts**|Nafis Irtiza Tripto et.al.|[2311.08374](http://arxiv.org/abs/2311.08374)|null|
+|**2023-11-14**|**SimpleSafetyTests: a Test Suite for Identifying Critical Safety Risks in Large Language Models**|Bertie Vidgen et.al.|[2311.08370](http://arxiv.org/abs/2311.08370)|null|
+|**2023-11-14**|**How You Prompt Matters! Even Task-Oriented Constraints in Instructions Affect LLM-Generated Text Detection**|Ryuto Koike et.al.|[2311.08369](http://arxiv.org/abs/2311.08369)|null|
+|**2023-11-14**|**Plum: Prompt Learning using Metaheuristic**|Rui Pan et.al.|[2311.08364](http://arxiv.org/abs/2311.08364)|**[link](https://github.com/research4pan/plum)**|
 |**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575](http://arxiv.org/abs/2311.07575)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
 |**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574](http://arxiv.org/abs/2311.07574)|null|
 |**2023-11-13**|**Using Natural Language Explanations to Improve Robustness of In-context Learning for Natural Language Inference**|Xuanli He et.al.|[2311.07556](http://arxiv.org/abs/2311.07556)|null|
@@ -2476,6 +2493,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**The Transient Nature of Emergent In-Context Learning in Transformers**|Aaditya K. Singh et.al.|[2311.08360](http://arxiv.org/abs/2311.08360)|null|
 |**2023-11-10**|**GOAT: GO to Any Thing**|Matthew Chang et.al.|[2311.06430](http://arxiv.org/abs/2311.06430)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 |**2023-11-10**|**Anytime-Valid Confidence Sequences for Consistent Uncertainty Estimation in Early-Exit Neural Networks**|Metod Jazbec et.al.|[2311.05931](http://arxiv.org/abs/2311.05931)|**[link](https://github.com/metodj/eenn-avcs)**|
@@ -2484,7 +2502,7 @@
 |**2023-11-08**|**Video Instance Matting**|Jiachen Li et.al.|[2311.04212](http://arxiv.org/abs/2311.04212)|**[link](https://github.com/shi-labs/vim)**|
 |**2023-11-07**|**Cup Curriculum: Curriculum Learning on Model Capacity**|Luca Scharr et.al.|[2311.03956](http://arxiv.org/abs/2311.03956)|**[link](https://github.com/luca-scharr/cupcurriculum)**|
 |**2023-11-03**|**Trust-Preserved Human-Robot Shared Autonomy enabled by Bayesian Relational Event Modeling**|Yingke Li et.al.|[2311.02009](http://arxiv.org/abs/2311.02009)|null|
-|**2023-11-03**|**On the Generalization Properties of Diffusion Models**|Puheng Li et.al.|[2311.01797](http://arxiv.org/abs/2311.01797)|**[link](https://github.com/lphleo/diffusion_generalization)**|
+|**2023-11-14**|**On the Generalization Properties of Diffusion Models**|Puheng Li et.al.|[2311.01797](http://arxiv.org/abs/2311.01797)|**[link](https://github.com/lphleo/diffusion_generalization)**|
 |**2023-11-01**|**NEO-KD: Knowledge-Distillation-Based Adversarial Training for Robust Multi-Exit Neural Networks**|Seokil Ham et.al.|[2311.00428](http://arxiv.org/abs/2311.00428)|null|
 |**2023-10-31**|**Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks**|Steven Adriaensen et.al.|[2310.20447](http://arxiv.org/abs/2310.20447)|**[link](https://github.com/automl/lcpfn)**|
 |**2023-10-31**|**BERT Lost Patience Won't Be Robust to Adversarial Slowdown**|Zachary Coalson et.al.|[2310.19152](http://arxiv.org/abs/2310.19152)|**[link](https://github.com/ztcoalson/waffle)**|
