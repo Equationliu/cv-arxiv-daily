@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
+|**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
+|**2023-11-15**|**Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search**|Hefeng Wu et.al.|[2311.09084](http://arxiv.org/abs/2311.09084)|**[link](https://github.com/hcplab-sysu/personsearch-ctlg)**|
+|**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955](http://arxiv.org/abs/2311.08955)|null|
+|**2023-11-15**|**One-Shot Federated Learning with Classifier-Guided Diffusion Models**|Mingzhao Yang et.al.|[2311.08870](http://arxiv.org/abs/2311.08870)|null|
+|**2023-11-15**|**A Diffusion Model Based Quality Enhancement Method for HEVC Compressed Video**|Zheng Liu et.al.|[2311.08746](http://arxiv.org/abs/2311.08746)|null|
+|**2023-11-15**|**Towards Graph-Aware Diffusion Modeling for Collaborative Filtering**|Yunqin Zhu et.al.|[2311.08744](http://arxiv.org/abs/2311.08744)|null|
+|**2023-11-15**|**EDMSound: Spectrogram Based Diffusion Models for Efficient and High-Quality Audio Synthesis**|Ge Zhu et.al.|[2311.08667](http://arxiv.org/abs/2311.08667)|null|
+|**2023-11-14**|**Probabilistic reconstruction of Dark Matter fields from biased tracers using diffusion models**|Core Francisco Park et.al.|[2311.08558](http://arxiv.org/abs/2311.08558)|null|
 |**2023-11-14**|**Mustango: Toward Controllable Text-to-Music Generation**|Jan Melechovsky et.al.|[2311.08355](http://arxiv.org/abs/2311.08355)|null|
 |**2023-11-14**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330](http://arxiv.org/abs/2311.08330)|null|
 |**2023-11-14**|**Diffusion-based generation of Histopathological Whole Slide Images at a Gigapixel scale**|Robert Harb et.al.|[2311.08199](http://arxiv.org/abs/2311.08199)|null|
@@ -213,6 +222,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Assessing Translation capabilities of Large Language Models involving English and Indian Languages**|Vandan Mujadia et.al.|[2311.09216](http://arxiv.org/abs/2311.09216)|null|
+|**2023-11-15**|**Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models**|Weize Liu et.al.|[2311.09214](http://arxiv.org/abs/2311.09214)|null|
+|**2023-11-15**|**Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**|Wenhao Yu et.al.|[2311.09210](http://arxiv.org/abs/2311.09210)|null|
+|**2023-11-15**|**TableLlama: Towards Open Large Generalist Models for Tables**|Tianshu Zhang et.al.|[2311.09206](http://arxiv.org/abs/2311.09206)|null|
+|**2023-11-15**|**Fusion-Eval: Integrating Evaluators with LLMs**|Lei Shu et.al.|[2311.09204](http://arxiv.org/abs/2311.09204)|null|
+|**2023-11-15**|**Never Lost in the Middle: Improving Large Language Models via Attention Strengthening Question Answering**|He Junqing et.al.|[2311.09198](http://arxiv.org/abs/2311.09198)|null|
+|**2023-11-15**|**Structural Priming Demonstrates Abstract Grammatical Representations in Multilingual Language Models**|James A. Michaelov et.al.|[2311.09194](http://arxiv.org/abs/2311.09194)|null|
+|**2023-11-15**|**PsyEval: A Comprehensive Large Language Model Evaluation Benchmark for Mental Health**|Haoan Jin et.al.|[2311.09189](http://arxiv.org/abs/2311.09189)|null|
+|**2023-11-15**|**Towards Verifiable Text Generation with Symbolic References**|Lucas Torroba Hennigen et.al.|[2311.09188](http://arxiv.org/abs/2311.09188)|null|
+|**2023-11-15**|**Benchmarking Generation and Evaluation Capabilities of Large Language Models for Instruction Controllable Summarization**|Yixin Liu et.al.|[2311.09184](http://arxiv.org/abs/2311.09184)|**[link](https://github.com/yale-nlp/instrusum)**|
 |**2023-11-14**|**Towards Open-Ended Visual Recognition with Large Language Model**|Qihang Yu et.al.|[2311.08400](http://arxiv.org/abs/2311.08400)|**[link](https://github.com/bytedance/omniscient-model)**|
 |**2023-11-14**|**Are Large Language Models Temporally Grounded?**|Yifu Qiu et.al.|[2311.08398](http://arxiv.org/abs/2311.08398)|**[link](https://github.com/yfqiu-nlp/temporal-llms)**|
 |**2023-11-14**|**Zero-shot audio captioning with audio-language model guidance and audio context keywords**|Leonard Salewski et.al.|[2311.08396](http://arxiv.org/abs/2311.08396)|**[link](https://github.com/explainableml/zeraucap)**|
@@ -448,12 +467,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-14**|**The Transient Nature of Emergent In-Context Learning in Transformers**|Aaditya K. Singh et.al.|[2311.08360](http://arxiv.org/abs/2311.08360)|null|
+|**2023-11-15**|**DEED: Dynamic Early Exit on Decoder for Accelerating Encoder-Decoder Transformer Models**|Peng Tang et.al.|[2311.08623](http://arxiv.org/abs/2311.08623)|null|
+|**2023-11-15**|**The Transient Nature of Emergent In-Context Learning in Transformers**|Aaditya K. Singh et.al.|[2311.08360](http://arxiv.org/abs/2311.08360)|null|
 |**2023-11-10**|**GOAT: GO to Any Thing**|Matthew Chang et.al.|[2311.06430](http://arxiv.org/abs/2311.06430)|null|
 |**2023-11-10**|**Collaborative Inference in DNN-based Satellite Systems with Dynamic Task Streams**|Jinglong Guan et.al.|[2311.06073](http://arxiv.org/abs/2311.06073)|null|
 |**2023-11-10**|**Anytime-Valid Confidence Sequences for Consistent Uncertainty Estimation in Early-Exit Neural Networks**|Metod Jazbec et.al.|[2311.05931](http://arxiv.org/abs/2311.05931)|**[link](https://github.com/metodj/eenn-avcs)**|
 |**2023-11-08**|**Learning to Configure Separators in Branch-and-Cut**|Sirui Li et.al.|[2311.05650](http://arxiv.org/abs/2311.05650)|null|
-|**2023-11-08**|**Cross-Silo Federated Learning Across Divergent Domains with Iterative Parameter Alignment**|Matt Gorbett et.al.|[2311.04818](http://arxiv.org/abs/2311.04818)|**[link](https://github.com/mattgorb/iterative_parameter_alignment)**|
+|**2023-11-14**|**Cross-Silo Federated Learning Across Divergent Domains with Iterative Parameter Alignment**|Matt Gorbett et.al.|[2311.04818](http://arxiv.org/abs/2311.04818)|**[link](https://github.com/mattgorb/iterative_parameter_alignment)**|
 |**2023-11-08**|**Video Instance Matting**|Jiachen Li et.al.|[2311.04212](http://arxiv.org/abs/2311.04212)|**[link](https://github.com/shi-labs/vim)**|
 |**2023-11-07**|**Cup Curriculum: Curriculum Learning on Model Capacity**|Luca Scharr et.al.|[2311.03956](http://arxiv.org/abs/2311.03956)|**[link](https://github.com/luca-scharr/cupcurriculum)**|
 |**2023-11-03**|**Trust-Preserved Human-Robot Shared Autonomy enabled by Bayesian Relational Event Modeling**|Yingke Li et.al.|[2311.02009](http://arxiv.org/abs/2311.02009)|null|
