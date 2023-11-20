@@ -2055,6 +2055,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708](http://arxiv.org/abs/2311.10708)|null|
+|**2023-11-17**|**Enhancing Object Coherence in Layout-to-Image Synthesis**|Yibin Wang et.al.|[2311.10522](http://arxiv.org/abs/2311.10522)|null|
+|**2023-11-17**|**Local asymptotics and optimal control for a viscous Cahn-Hilliard-Reaction-Diffusion model for tumor growth**|Elisa Davoli et.al.|[2311.10457](http://arxiv.org/abs/2311.10457)|null|
+|**2023-11-17**|**High-fidelity Person-centric Subject-to-Image Synthesis**|Yibin Wang et.al.|[2311.10329](http://arxiv.org/abs/2311.10329)|null|
+|**2023-11-17**|**Joint channel estimation and data detection in massive MIMO systems based on diffusion models**|Nicolas Zilberstein et.al.|[2311.10311](http://arxiv.org/abs/2311.10311)|null|
+|**2023-11-17**|**Advancements in Generative AI: A Comprehensive Review of GANs, GPT, Autoencoders, Diffusion Model, and Transformers**|Staphord Bengesi et.al.|[2311.10242](http://arxiv.org/abs/2311.10242)|null|
+|**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162](http://arxiv.org/abs/2311.10162)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093](http://arxiv.org/abs/2311.10093)|null|
 |**2023-11-16**|**TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection**|Matic Fučka et.al.|[2311.09999](http://arxiv.org/abs/2311.09999)|null|
 |**2023-11-16**|**DSR-Diff: Depth Map Super-Resolution with Diffusion Model**|Yuan Shi et.al.|[2311.09919](http://arxiv.org/abs/2311.09919)|null|
@@ -2275,6 +2282,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2**|Hamish Ivison et.al.|[2311.10702](http://arxiv.org/abs/2311.10702)|null|
+|**2023-11-17**|**PEFT-MedAware: Large Language Model for Medical Awareness**|Keivalya Pandya et.al.|[2311.10697](http://arxiv.org/abs/2311.10697)|null|
+|**2023-11-17**|**Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections**|Lihan Zha et.al.|[2311.10678](http://arxiv.org/abs/2311.10678)|**[link](https://github.com/Stanford-ILIAD/droc)**|
+|**2023-11-17**|**A Self-enhancement Approach for Domain-specific Chatbot Training via Knowledge Mining and Digest**|Ruohong Zhang et.al.|[2311.10614](http://arxiv.org/abs/2311.10614)|null|
+|**2023-11-17**|**Towards General Loop Invariant Generation via Coordinating Symbolic Execution and Large Language Models**|Chang Liu et.al.|[2311.10483](http://arxiv.org/abs/2311.10483)|null|
+|**2023-11-17**|**DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines**|Chenyu Jiang et.al.|[2311.10418](http://arxiv.org/abs/2311.10418)|**[link](https://github.com/chenyu-jiang/megatron-lm)**|
+|**2023-11-17**|**Bias A-head? Analyzing Bias in Transformer-Based Language Model Attention Heads**|Yi Yang et.al.|[2311.10395](http://arxiv.org/abs/2311.10395)|null|
+|**2023-11-17**|**Automatic Smart Contract Comment Generation via Large Language Models and In-Context Learning**|Junjie Zhao et.al.|[2311.10388](http://arxiv.org/abs/2311.10388)|null|
+|**2023-11-17**|**Retrieval Augmented Generation of Symbolic Music with LLMs**|Nicolas Jonason et.al.|[2311.10384](http://arxiv.org/abs/2311.10384)|null|
+|**2023-11-17**|**A Survey of Large Language Models for Code: Evolution, Benchmarking, and Future Trends**|Zibin Zheng et.al.|[2311.10372](http://arxiv.org/abs/2311.10372)|null|
 |**2023-11-16**|**DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback**|Yangyi Chen et.al.|[2311.10081](http://arxiv.org/abs/2311.10081)|null|
 |**2023-11-16**|**ChatGPT-3.5, ChatGPT-4, Google Bard, and Microsoft Bing to Improve Health Literacy and Communication in Pediatric Populations and Beyond**|Kanhai S. Amin et.al.|[2311.10075](http://arxiv.org/abs/2311.10075)|null|
 |**2023-11-16**|**Is "A Helpful Assistant" the Best Role for Large Language Models? A Systematic Evaluation of Social Roles in System Prompts**|Mingqian Zheng et.al.|[2311.10054](http://arxiv.org/abs/2311.10054)|null|
