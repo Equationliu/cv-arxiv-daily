@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning**|Jiaxi Lv et.al.|[2311.12631](http://arxiv.org/abs/2311.12631)|null|
+|**2023-11-21**|**Stable Diffusion For Aerial Object Detection**|Yanan Jian et.al.|[2311.12345](http://arxiv.org/abs/2311.12345)|null|
+|**2023-11-21**|**LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis**|Peiang Zhao et.al.|[2311.12342](http://arxiv.org/abs/2311.12342)|null|
+|**2023-11-20**|**NeuroPrompts: An Adaptive Framework to Optimize Prompts for Text-to-Image Generation**|Shachar Rosenman et.al.|[2311.12229](http://arxiv.org/abs/2311.12229)|null|
+|**2023-11-20**|**Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models**|Rohit Gandikota et.al.|[2311.12092](http://arxiv.org/abs/2311.12092)|**[link](https://github.com/rohitgandikota/sliders)**|
+|**2023-11-20**|**Pyramid Diffusion for Fine 3D Large Scene Generation**|Yuheng Liu et.al.|[2311.12085](http://arxiv.org/abs/2311.12085)|null|
 |**2023-11-20**|**An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2311.11919](http://arxiv.org/abs/2311.11919)|null|
 |**2023-11-20**|**Multiplicative noise removal based on a variable-order fractional diffusion model**|Yuhang Li et.al.|[2311.11680](http://arxiv.org/abs/2311.11680)|null|
 |**2023-11-20**|**Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model**|Chunming He et.al.|[2311.11638](http://arxiv.org/abs/2311.11638)|**[link](https://github.com/chunminghe/reti-diff)**|
@@ -249,6 +255,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Prompting Frameworks for Large Language Models: A Survey**|Xiaoxia Liu et.al.|[2311.12785](http://arxiv.org/abs/2311.12785)|null|
+|**2023-11-21**|**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatially Relation Matching**|Meng Chu et.al.|[2311.12751](http://arxiv.org/abs/2311.12751)|null|
+|**2023-11-21**|**Keeping Users Engaged During Repeated Administration of the Same Questionnaire: Using Large Language Models to Reliably Diversify Questions**|Hye Sun Yun et.al.|[2311.12707](http://arxiv.org/abs/2311.12707)|null|
+|**2023-11-21**|**Can Large Language Models Understand Content and Propagation for Misinformation Detection: An Empirical Study**|Mengyang Chen et.al.|[2311.12699](http://arxiv.org/abs/2311.12699)|null|
+|**2023-11-21**|**From Concept to Manufacturing: Evaluating Vision-Language Models for Engineering Design**|Cyril Picard et.al.|[2311.12668](http://arxiv.org/abs/2311.12668)|null|
+|**2023-11-21**|**GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning**|Jiaxi Lv et.al.|[2311.12631](http://arxiv.org/abs/2311.12631)|null|
+|**2023-11-21**|**IMGTB: A Framework for Machine-Generated Text Detection Benchmarking**|Michal Spiegel et.al.|[2311.12574](http://arxiv.org/abs/2311.12574)|null|
+|**2023-11-21**|**In-Context Learning Functions with Varying Number of Minima**|David Oniani et.al.|[2311.12538](http://arxiv.org/abs/2311.12538)|**[link](https://github.com/pittnail/icl-minima)**|
+|**2023-11-21**|**Oasis: Data Curation and Assessment System for Pretraining of Large Language Models**|Tong Zhou et.al.|[2311.12537](http://arxiv.org/abs/2311.12537)|**[link](https://github.com/tongzhou21/oasis)**|
+|**2023-11-21**|**ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models**|Jiankai Tang et.al.|[2311.12524](http://arxiv.org/abs/2311.12524)|**[link](https://github.com/mcjacktang/llm-healthassistant)**|
 |**2023-11-20**|**On the Potential and Limitations of Few-Shot In-Context Learning to Generate Metamorphic Specifications for Tax Preparation Software**|Dananjay Srinivas et.al.|[2311.11979](http://arxiv.org/abs/2311.11979)|null|
 |**2023-11-20**|**LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions**|Songhao Han et.al.|[2311.11904](http://arxiv.org/abs/2311.11904)|null|
 |**2023-11-20**|**VLM-Eval: A General Evaluation on Video Large Language Models**|Shuailin Li et.al.|[2311.11865](http://arxiv.org/abs/2311.11865)|null|
@@ -524,6 +540,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Instance-aware 3D Semantic Segmentation powered by Shape Generators and Classifiers**|Bo Sun et.al.|[2311.12291](http://arxiv.org/abs/2311.12291)|null|
 |**2023-11-15**|**DEED: Dynamic Early Exit on Decoder for Accelerating Encoder-Decoder Transformer Models**|Peng Tang et.al.|[2311.08623](http://arxiv.org/abs/2311.08623)|null|
 |**2023-11-15**|**The Transient Nature of Emergent In-Context Learning in Transformers**|Aaditya K. Singh et.al.|[2311.08360](http://arxiv.org/abs/2311.08360)|null|
 |**2023-11-10**|**GOAT: GO to Any Thing**|Matthew Chang et.al.|[2311.06430](http://arxiv.org/abs/2311.06430)|null|
