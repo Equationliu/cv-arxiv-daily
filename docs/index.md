@@ -20,7 +20,7 @@ layout: default
 |**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466](http://arxiv.org/abs/2311.13466)|**[link](https://github.com/dunni3/keypoint-diffusion)**|
 |**2023-11-22**|**Guided Flows for Generative Modeling and Decision Making**|Qinqing Zheng et.al.|[2311.13443](http://arxiv.org/abs/2311.13443)|null|
 |**2023-11-22**|**Recognition-Guided Diffusion Model for Scene Text Image Super-Resolution**|Yuxuan Zhou et.al.|[2311.13317](http://arxiv.org/abs/2311.13317)|null|
-|**2023-11-22**|**Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**|Kai Yang et.al.|[2311.13231](http://arxiv.org/abs/2311.13231)|null|
+|**2023-11-22**|**Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**|Kai Yang et.al.|[2311.13231](http://arxiv.org/abs/2311.13231)|**[link](https://github.com/yk7333/d3po)**|
 |**2023-11-22**|**Diffusion360: Seamless 360 Degree Panoramic Image Generation based on Diffusion Models**|Mengyang Feng et.al.|[2311.13141](http://arxiv.org/abs/2311.13141)|**[link](https://github.com/archerfmy/sd-t2i-360panoimage)**|
 |**2023-11-22**|**Toward Robust Imperceptible Perturbation against Unauthorized Text-to-image Diffusion-based Synthesis**|Yixin Liu et.al.|[2311.13127](http://arxiv.org/abs/2311.13127)|**[link](https://github.com/liuyixin-louis/metacloak)**|
 |**2023-11-22**|**On the Limitation of Diffusion Models for Synthesizing Training Datasets**|Shin'ya Yamaguchi et.al.|[2311.13090](http://arxiv.org/abs/2311.13090)|null|
@@ -34,7 +34,7 @@ layout: default
 |**2023-11-20**|**Multiplicative noise removal based on a variable-order fractional diffusion model**|Yuhang Li et.al.|[2311.11680](http://arxiv.org/abs/2311.11680)|null|
 |**2023-11-20**|**Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model**|Chunming He et.al.|[2311.11638](http://arxiv.org/abs/2311.11638)|**[link](https://github.com/chunminghe/reti-diff)**|
 |**2023-11-20**|**Generating Realistic Counterfactuals for Retinal Fundus and OCT Images using Diffusion Models**|Indu Ilanchezian et.al.|[2311.11629](http://arxiv.org/abs/2311.11629)|null|
-|**2023-11-20**|**Deep Equilibrium Diffusion Restoration with Parallel Sampling**|Jiezhang Cao et.al.|[2311.11600](http://arxiv.org/abs/2311.11600)|null|
+|**2023-11-20**|**Deep Equilibrium Diffusion Restoration with Parallel Sampling**|Jiezhang Cao et.al.|[2311.11600](http://arxiv.org/abs/2311.11600)|**[link](https://github.com/caojiezhang/deqir)**|
 |**2023-11-20**|**Advancing Urban Renewal: An Automated Approach to Generating Historical Arcade Facades with Stable Diffusion Models**|Zheyuan Kuang et.al.|[2311.11590](http://arxiv.org/abs/2311.11590)|null|
 |**2023-11-19**|**DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model**|Zhenghao Pan et.al.|[2311.11417](http://arxiv.org/abs/2311.11417)|null|
 |**2023-11-19**|**A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI**|Yuheng Fan et.al.|[2311.11383](http://arxiv.org/abs/2311.11383)|null|
@@ -143,7 +143,7 @@ layout: default
 |**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613](http://arxiv.org/abs/2311.00613)|null|
 |**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500](http://arxiv.org/abs/2311.00500)|**[link](https://github.com/sail-sg/d-trak)**|
 |**2023-11-01**|**Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model**|Xuan Liu et.al.|[2311.00496](http://arxiv.org/abs/2311.00496)|**[link](https://github.com/xuanliu2000/vgcdm)**|
-|**2023-11-01**|**Diffusion models for probabilistic programming**|Simon Dirmeier et.al.|[2311.00474](http://arxiv.org/abs/2311.00474)|null|
+|**2023-11-01**|**Diffusion models for probabilistic programming**|Simon Dirmeier et.al.|[2311.00474](http://arxiv.org/abs/2311.00474)|**[link](https://github.com/dirmeier/dmvi)**|
 |**2023-11-01**|**Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos**|Divyanshu Mishra et.al.|[2311.00469](http://arxiv.org/abs/2311.00469)|null|
 |**2023-11-01**|**LatentWarp: Consistent Diffusion Latents for Zero-Shot Video-to-Video Translation**|Yuxiang Bao et.al.|[2311.00353](http://arxiv.org/abs/2311.00353)|null|
 |**2023-11-01**|**Space Narrative: Generating Images and 3D Scenes of Chinese Garden from Text using Deep Learning**|Jiaxi Shi1 et.al.|[2311.00339](http://arxiv.org/abs/2311.00339)|null|
@@ -289,7 +289,7 @@ layout: default
 |**2023-11-20**|**LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions**|Songhao Han et.al.|[2311.11904](http://arxiv.org/abs/2311.11904)|null|
 |**2023-11-20**|**VLM-Eval: A General Evaluation on Video Large Language Models**|Shuailin Li et.al.|[2311.11865](http://arxiv.org/abs/2311.11865)|null|
 |**2023-11-20**|**Generating Valid and Natural Adversarial Examples with Large Language Models**|Zimu Wang et.al.|[2311.11861](http://arxiv.org/abs/2311.11861)|null|
-|**2023-11-20**|**LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge**|Gongwei Chen et.al.|[2311.11860](http://arxiv.org/abs/2311.11860)|null|
+|**2023-11-20**|**LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge**|Gongwei Chen et.al.|[2311.11860](http://arxiv.org/abs/2311.11860)|**[link](https://github.com/rshaojimmy/jiutian)**|
 |**2023-11-20**|**Evil Geniuses: Delving into the Safety of LLM-based Agents**|Yu Tian et.al.|[2311.11855](http://arxiv.org/abs/2311.11855)|**[link](https://github.com/t1ans1r/evil-geniuses)**|
 |**2023-11-20**|**How to Use Large Language Models for Text Coding: The Case of Fatherhood Roles in Public Policy Documents**|Lorenzo Lupo et.al.|[2311.11844](http://arxiv.org/abs/2311.11844)|null|
 |**2023-11-20**|**System 2 Attention (is something you might need too)**|Jason Weston et.al.|[2311.11829](http://arxiv.org/abs/2311.11829)|null|
@@ -302,7 +302,7 @@ layout: default
 |**2023-11-17**|**Towards General Loop Invariant Generation via Coordinating Symbolic Execution and Large Language Models**|Chang Liu et.al.|[2311.10483](http://arxiv.org/abs/2311.10483)|null|
 |**2023-11-17**|**DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines**|Chenyu Jiang et.al.|[2311.10418](http://arxiv.org/abs/2311.10418)|**[link](https://github.com/chenyu-jiang/megatron-lm)**|
 |**2023-11-17**|**Bias A-head? Analyzing Bias in Transformer-Based Language Model Attention Heads**|Yi Yang et.al.|[2311.10395](http://arxiv.org/abs/2311.10395)|null|
-|**2023-11-17**|**Automatic Smart Contract Comment Generation via Large Language Models and In-Context Learning**|Junjie Zhao et.al.|[2311.10388](http://arxiv.org/abs/2311.10388)|null|
+|**2023-11-17**|**Automatic Smart Contract Comment Generation via Large Language Models and In-Context Learning**|Junjie Zhao et.al.|[2311.10388](http://arxiv.org/abs/2311.10388)|**[link](https://github.com/jun-jie-zhao/sccllm)**|
 |**2023-11-17**|**Retrieval Augmented Generation of Symbolic Music with LLMs**|Nicolas Jonason et.al.|[2311.10384](http://arxiv.org/abs/2311.10384)|null|
 |**2023-11-17**|**A Survey of Large Language Models for Code: Evolution, Benchmarking, and Future Trends**|Zibin Zheng et.al.|[2311.10372](http://arxiv.org/abs/2311.10372)|null|
 |**2023-11-16**|**DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback**|Yangyi Chen et.al.|[2311.10081](http://arxiv.org/abs/2311.10081)|null|
@@ -340,7 +340,7 @@ layout: default
 |**2023-11-13**|**Using Natural Language Explanations to Improve Robustness of In-context Learning for Natural Language Inference**|Xuanli He et.al.|[2311.07556](http://arxiv.org/abs/2311.07556)|null|
 |**2023-11-13**|**It's Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models**|Nishant Balepur et.al.|[2311.07532](http://arxiv.org/abs/2311.07532)|**[link](https://github.com/nbalepur/poe)**|
 |**2023-11-13**|**A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases**|Juan Sequeda et.al.|[2311.07509](http://arxiv.org/abs/2311.07509)|null|
-|**2023-11-13**|**A Step Closer to Comprehensive Answers: Constrained Multi-Stage Question Decomposition with Large Language Models**|Hejing Cao et.al.|[2311.07491](http://arxiv.org/abs/2311.07491)|null|
+|**2023-11-13**|**A Step Closer to Comprehensive Answers: Constrained Multi-Stage Question Decomposition with Large Language Models**|Hejing Cao et.al.|[2311.07491](http://arxiv.org/abs/2311.07491)|**[link](https://github.com/alkaidpku/dq-toolqa)**|
 |**2023-11-13**|**Psychometric Predictive Power of Large Language Models**|Tatsuki Kuribayashi et.al.|[2311.07484](http://arxiv.org/abs/2311.07484)|null|
 |**2023-11-13**|**Finding and Editing Multi-Modal Neurons in Pre-Trained Transformer**|Haowen Pan et.al.|[2311.07470](http://arxiv.org/abs/2311.07470)|null|
 |**2023-11-13**|**InCA: Rethinking In-Car Conversational System Assessment Leveraging Large Language Models**|Ken E. Friedl et.al.|[2311.07469](http://arxiv.org/abs/2311.07469)|null|
@@ -458,7 +458,7 @@ layout: default
 |**2023-10-26**|**In-Context Learning Dynamics with Random Binary Sequences**|Eric J. Bigelow et.al.|[2310.17639](http://arxiv.org/abs/2310.17639)|null|
 |**2023-10-26**|**JudgeLM: Fine-tuned Large Language Models are Scalable Judges**|Lianghui Zhu et.al.|[2310.17631](http://arxiv.org/abs/2310.17631)|**[link](https://github.com/baaivision/judgelm)**|
 |**2023-10-26**|**InstOptima: Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators**|Heng Yang et.al.|[2310.17630](http://arxiv.org/abs/2310.17630)|**[link](https://github.com/yangheng95/instoptima)**|
-|**2023-10-26**|**Proving Test Set Contamination in Black Box Language Models**|Yonatan Oren et.al.|[2310.17623](http://arxiv.org/abs/2310.17623)|null|
+|**2023-10-26**|**Proving Test Set Contamination in Black Box Language Models**|Yonatan Oren et.al.|[2310.17623](http://arxiv.org/abs/2310.17623)|**[link](https://github.com/tatsu-lab/test_set_contamination)**|
 |**2023-10-26**|**An Open Source Data Contamination Report for Llama Series Models**|Yucheng Li et.al.|[2310.17589](http://arxiv.org/abs/2310.17589)|**[link](https://github.com/liyucheng09/contamination_detector)**|
 |**2023-10-26**|**Interactive Robot Learning from Verbal Correction**|Huihan Liu et.al.|[2310.17555](http://arxiv.org/abs/2310.17555)|null|
 |**2023-10-26**|**Can large language models replace humans in the systematic review process? Evaluating GPT-4's efficacy in screening and extracting data from peer-reviewed and grey literature in multiple languages**|Qusai Khraisha et.al.|[2310.17526](http://arxiv.org/abs/2310.17526)|null|
@@ -514,7 +514,7 @@ layout: default
 |**2023-10-19**|**3D-GPT: Procedural 3D Modeling with Large Language Models**|Chunyi Sun et.al.|[2310.12945](http://arxiv.org/abs/2310.12945)|null|
 |**2023-10-19**|**Eureka: Human-Level Reward Design via Coding Large Language Models**|Yecheng Jason Ma et.al.|[2310.12931](http://arxiv.org/abs/2310.12931)|**[link](https://github.com/eureka-research/Eureka)**|
 |**2023-10-19**|**Experimental Narratives: A Comparison of Human Crowdsourced Storytelling and AI Storytelling**|Nina Begus et.al.|[2310.12902](http://arxiv.org/abs/2310.12902)|null|
-|**2023-10-19**|**StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**|Cheng Jiayang et.al.|[2310.12874](http://arxiv.org/abs/2310.12874)|null|
+|**2023-10-19**|**StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**|Cheng Jiayang et.al.|[2310.12874](http://arxiv.org/abs/2310.12874)|**[link](https://github.com/loginaway/storyanalogy)**|
 |**2023-10-18**|**Pseudointelligence: A Unifying Framework for Language Model Evaluation**|Shikhar Murty et.al.|[2310.12135](http://arxiv.org/abs/2310.12135)|null|
 |**2023-10-18**|**Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling**|Yaqing Wang et.al.|[2310.12100](http://arxiv.org/abs/2310.12100)|null|
 |**2023-10-18**|**Unveiling the Siren's Song: Towards Reliable Fact-Conflicting Hallucination Detection**|Xiang Chen et.al.|[2310.12086](http://arxiv.org/abs/2310.12086)|**[link](https://github.com/zjunlp/factchd)**|
