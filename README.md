@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Test-time Adaptation of Discriminative Models via Diffusion Generative Feedback**|Mihir Prabhudesai et.al.|[2311.16102](http://arxiv.org/abs/2311.16102)|null|
+|**2023-11-27**|**Self-correcting LLM-controlled Diffusion Models**|Tsung-Han Wu et.al.|[2311.16090](http://arxiv.org/abs/2311.16090)|null|
+|**2023-11-27**|**DiffSLVA: Harnessing Diffusion Models for Sign Language Video Anonymization**|Zhaoyang Xia et.al.|[2311.16060](http://arxiv.org/abs/2311.16060)|**[link](https://github.com/jeffery9707/diffslva)**|
+|**2023-11-27**|**Exploring Attribute Variations in Style-based GANs using Diffusion Models**|Rishubh Parihar et.al.|[2311.16052](http://arxiv.org/abs/2311.16052)|null|
+|**2023-11-27**|**GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions**|Jiemin Fang et.al.|[2311.16037](http://arxiv.org/abs/2311.16037)|null|
+|**2023-11-27**|**Closing the ODE-SDE gap in score-based diffusion models through the Fokker-Planck equation**|Teo Deveney et.al.|[2311.15996](http://arxiv.org/abs/2311.15996)|null|
+|**2023-11-27**|**DiffAnt: Diffusion Models for Action Anticipation**|Zeyun Zhong et.al.|[2311.15991](http://arxiv.org/abs/2311.15991)|null|
+|**2023-11-27**|**Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion**|Yuanxun Lu et.al.|[2311.15980](http://arxiv.org/abs/2311.15980)|null|
+|**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908](http://arxiv.org/abs/2311.15908)|**[link](https://github.com/claudiom4sir/stablevsr)**|
+|**2023-11-27**|**InterControl: Generate Human Motion Interactions by Controlling Every Joint**|Zhenzhi Wang et.al.|[2311.15864](http://arxiv.org/abs/2311.15864)|**[link](https://github.com/zhenzhiwang/intercontrol)**|
 |**2023-11-24**|**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization**|Ruoyu Zhao et.al.|[2311.14631](http://arxiv.org/abs/2311.14631)|null|
 |**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
 |**2023-11-24**|**ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model**|Eslam Mohamed Bakr et.al.|[2311.14542](http://arxiv.org/abs/2311.14542)|null|
@@ -2318,6 +2328,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**|Munan Ning et.al.|[2311.16103](http://arxiv.org/abs/2311.16103)|**[link](https://github.com/pku-yuangroup/video-bench)**|
+|**2023-11-27**|**Have we built machines that think like people?**|Luca M. Schulze Buschoff et.al.|[2311.16093](http://arxiv.org/abs/2311.16093)|null|
+|**2023-11-27**|**MEDITRON-70B: Scaling Medical Pretraining for Large Language Models**|Zeming Chen et.al.|[2311.16079](http://arxiv.org/abs/2311.16079)|**[link](https://github.com/epfllm/meditron)**|
+|**2023-11-27**|**BioLORD-2023: Semantic Textual Representations Fusing LLM and Clinical Knowledge Graph Insights**|François Remy et.al.|[2311.16075](http://arxiv.org/abs/2311.16075)|null|
+|**2023-11-27**|**Decoding Logic Errors: A Comparative Study on Bug Detection by Students and Large Language Models**|Stephen MacNeil et.al.|[2311.16017](http://arxiv.org/abs/2311.16017)|null|
+|**2023-11-27**|**Sparsify-then-Classify: From Internal Neurons of Large Language Models To Efficient Text Classifiers**|Yilun Liu et.al.|[2311.15983](http://arxiv.org/abs/2311.15983)|null|
+|**2023-11-27**|**Towards Responsible Governance of Biological Design Tools**|Richard Moulange et.al.|[2311.15936](http://arxiv.org/abs/2311.15936)|null|
+|**2023-11-27**|**WorldSense: A Synthetic Benchmark for Grounded Reasoning in Large Language Models**|Youssef Benchekroun et.al.|[2311.15930](http://arxiv.org/abs/2311.15930)|null|
+|**2023-11-27**|**EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension**|Jiaxuan Li et.al.|[2311.15879](http://arxiv.org/abs/2311.15879)|null|
+|**2023-11-27**|**RO-LLaMA: Generalist LLM for Radiation Oncology via Noise Augmentation and Consistency Regularization**|Kwanyoung Kim et.al.|[2311.15876](http://arxiv.org/abs/2311.15876)|null|
 |**2023-11-24**|**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**|Jonathan Roberts et.al.|[2311.14656](http://arxiv.org/abs/2311.14656)|**[link](https://github.com/jonathan-roberts1/charting-new-territories)**|
 |**2023-11-24**|**One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**|Raghav Addanki et.al.|[2311.14652](http://arxiv.org/abs/2311.14652)|null|
 |**2023-11-24**|**Large Language Models as Automated Aligners for benchmarking Vision-Language Models**|Yuanfeng Ji et.al.|[2311.14580](http://arxiv.org/abs/2311.14580)|null|
@@ -2625,6 +2645,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Auto-CsiNet: Scenario-customized Automatic Neural Network Architecture Generation for Massive MIMO CSI Feedback**|Xiangyi Li et.al.|[2311.15950](http://arxiv.org/abs/2311.15950)|null|
+|**2023-11-26**|**Learning to Skip for Language Modeling**|Dewen Zeng et.al.|[2311.15436](http://arxiv.org/abs/2311.15436)|null|
 |**2023-11-24**|**Understanding Self-Supervised Features for Learning Unsupervised Instance Segmentation**|Paul Engstler et.al.|[2311.14665](http://arxiv.org/abs/2311.14665)|null|
 |**2023-11-21**|**Instance-aware 3D Semantic Segmentation powered by Shape Generators and Classifiers**|Bo Sun et.al.|[2311.12291](http://arxiv.org/abs/2311.12291)|null|
 |**2023-11-15**|**DEED: Dynamic Early Exit on Decoder for Accelerating Encoder-Decoder Transformer Models**|Peng Tang et.al.|[2311.08623](http://arxiv.org/abs/2311.08623)|null|
