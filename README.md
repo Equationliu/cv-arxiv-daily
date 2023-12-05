@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Latent Feature-Guided Diffusion Models for Shadow Removal**|Kangfu Mei et.al.|[2312.02156](http://arxiv.org/abs/2312.02156)|null|
+|**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150](http://arxiv.org/abs/2312.02150)|null|
+|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145](http://arxiv.org/abs/2312.02145)|null|
+|**2023-12-04**|**DiffiT: Diffusion Vision Transformers for Image Generation**|Ali Hatamizadeh et.al.|[2312.02139](http://arxiv.org/abs/2312.02139)|**[link](https://github.com/nvlabs/diffit)**|
+|**2023-12-04**|**Stochastic Optimal Control Matching**|Carles Domingo-Enrich et.al.|[2312.02027](http://arxiv.org/abs/2312.02027)|null|
+|**2023-12-04**|**UniGS: Unified Representation for Image Generation and Segmentation**|Lu Qi et.al.|[2312.01985](http://arxiv.org/abs/2312.01985)|**[link](https://github.com/qqlu/entity)**|
+|**2023-12-04**|**Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation**|Joshua Niemeijer et.al.|[2312.01850](http://arxiv.org/abs/2312.01850)|null|
+|**2023-12-04**|**Collaborative Neural Painting**|Nicola Dall'Asen et.al.|[2312.01800](http://arxiv.org/abs/2312.01800)|null|
+|**2023-12-04**|**Open-DDVM: A Reproduction and Extension of Diffusion Model for Optical Flow Estimation**|Qiaole Dong et.al.|[2312.01746](http://arxiv.org/abs/2312.01746)|**[link](https://github.com/dqiaole/flowdiffusion_pytorch)**|
+|**2023-12-04**|**Fully Spiking Denoising Diffusion Implicit Models**|Ryo Watanabe et.al.|[2312.01742](http://arxiv.org/abs/2312.01742)|null|
 |**2023-12-01**|**TrackDiffusion: Multi-object Tracking Data Generation via Diffusion Models**|Pengxiang Li et.al.|[2312.00651](http://arxiv.org/abs/2312.00651)|null|
 |**2023-12-01**|**Text-Guided 3D Face Synthesis -- From Generation to Editing**|Yunjie Wu et.al.|[2312.00375](http://arxiv.org/abs/2312.00375)|null|
 |**2023-11-30**|**DREAM: Diffusion Rectification and Estimation-Adaptive Models**|Jinxin Zhou et.al.|[2312.00210](http://arxiv.org/abs/2312.00210)|null|
@@ -2363,6 +2373,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Competition-Level Problems Are Effective Evaluators of LLMs**|Yiming Huang et.al.|[2312.02143](http://arxiv.org/abs/2312.02143)|null|
+|**2023-12-04**|**TPPoet: Transformer-Based Persian Poem Generation using Minimal Data and Advanced Decoding Techniques**|Amir Panahandeh et.al.|[2312.02125](http://arxiv.org/abs/2312.02125)|null|
+|**2023-12-04**|**Magicoder: Source Code Is All You Need**|Yuxiang Wei et.al.|[2312.02120](http://arxiv.org/abs/2312.02120)|**[link](https://github.com/ise-uiuc/magicoder)**|
+|**2023-12-04**|**Tree of Attacks: Jailbreaking Black-Box LLMs Automatically**|Anay Mehrotra et.al.|[2312.02119](http://arxiv.org/abs/2312.02119)|**[link](https://github.com/ricommunity/tap)**|
+|**2023-12-04**|**Physics simulation capabilities of LLMs**|Mohamad Ali-Dib et.al.|[2312.02091](http://arxiv.org/abs/2312.02091)|null|
+|**2023-12-04**|**A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia**|Giovanni Monea et.al.|[2312.02073](http://arxiv.org/abs/2312.02073)|null|
+|**2023-12-04**|**Know Your Audience: Do LLMs Adapt to Different Age and Education Levels?**|Donya Rooein et.al.|[2312.02065](http://arxiv.org/abs/2312.02065)|null|
+|**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051](http://arxiv.org/abs/2312.02051)|null|
+|**2023-12-04**|**A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly**|Yifan Yao et.al.|[2312.02003](http://arxiv.org/abs/2312.02003)|null|
+|**2023-12-04**|**Bootstrapping SparseFormers from Vision Foundation Models**|Ziteng Gao et.al.|[2312.01987](http://arxiv.org/abs/2312.01987)|**[link](https://github.com/showlab/sparseformer)**|
 |**2023-12-01**|**Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses**|Xiao Ma et.al.|[2312.00763](http://arxiv.org/abs/2312.00763)|null|
 |**2023-12-01**|**Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games**|Dekun Wu et.al.|[2312.00746](http://arxiv.org/abs/2312.00746)|null|
 |**2023-12-01**|**SeaLLMs -- Large Language Models for Southeast Asia**|Xuan-Phi Nguyen et.al.|[2312.00738](http://arxiv.org/abs/2312.00738)|**[link](https://github.com/damo-nlp-sg/seallms)**|
@@ -2720,6 +2740,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Instance-guided Cartoon Editing with a Large-scale Dataset**|Jian Lin et.al.|[2312.01943](http://arxiv.org/abs/2312.01943)|null|
 |**2023-11-30**|**Low-Complexity Linear Programming Based Decoding of Quantum LDPC codes**|Sana Javed et.al.|[2311.18488](http://arxiv.org/abs/2311.18488)|null|
 |**2023-11-29**|**Adaptive Early Exiting for Collaborative Inference over Noisy Wireless Channels**|Mikolaj Jankowski et.al.|[2311.18098](http://arxiv.org/abs/2311.18098)|null|
 |**2023-11-29**|**Model Performance Prediction for Hyperparameter Optimization of Deep Learning Models Using High Performance Computing and Quantum Annealing**|Juan Pablo García Amboage et.al.|[2311.17508](http://arxiv.org/abs/2311.17508)|null|
