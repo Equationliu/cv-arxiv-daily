@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970](http://arxiv.org/abs/2312.02970)|null|
+|**2023-12-05**|**AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model**|Boheng Zhao et.al.|[2312.02967](http://arxiv.org/abs/2312.02967)|null|
+|**2023-12-05**|**Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection**|Cheng-Ju Ho et.al.|[2312.02966](http://arxiv.org/abs/2312.02966)|**[link](https://github.com/luluho1208/diffusion-ss3d)**|
+|**2023-12-05**|**A Diffusion Model of Dynamic Participant Inflow Management**|Baris Ata et.al.|[2312.02927](http://arxiv.org/abs/2312.02927)|null|
+|**2023-12-05**|**Deterministic Guidance Diffusion Model for Probabilistic Weather Forecasting**|Donggeun Yoon et.al.|[2312.02819](http://arxiv.org/abs/2312.02819)|null|
+|**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813](http://arxiv.org/abs/2312.02813)|null|
+|**2023-12-05**|**Generating Fine-Grained Human Motions Using ChatGPT-Refined Descriptions**|Xu Shi et.al.|[2312.02772](http://arxiv.org/abs/2312.02772)|null|
+|**2023-12-05**|**Learning Cortical Anomaly through Masked Encoding for Unsupervised Heterogeneity Mapping**|Hao-Chun Yang et.al.|[2312.02762](http://arxiv.org/abs/2312.02762)|null|
+|**2023-12-05**|**Neural Sign Actors: A diffusion model for 3D sign language production from text**|Vasileios Baltatzis et.al.|[2312.02702](http://arxiv.org/abs/2312.02702)|null|
+|**2023-12-05**|**Analyzing and Improving the Training Dynamics of Diffusion Models**|Tero Karras et.al.|[2312.02696](http://arxiv.org/abs/2312.02696)|null|
 |**2023-12-04**|**Latent Feature-Guided Diffusion Models for Shadow Removal**|Kangfu Mei et.al.|[2312.02156](http://arxiv.org/abs/2312.02156)|null|
 |**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150](http://arxiv.org/abs/2312.02150)|null|
 |**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145](http://arxiv.org/abs/2312.02145)|null|
@@ -330,6 +340,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**GPT4Point: A Unified Framework for Point-Language Understanding and Generation**|Zhangyang Qi et.al.|[2312.02980](http://arxiv.org/abs/2312.02980)|null|
+|**2023-12-05**|**Rank-without-GPT: Building GPT-Independent Listwise Rerankers on Open-Source Large Language Models**|Xinyu Zhang et.al.|[2312.02969](http://arxiv.org/abs/2312.02969)|null|
+|**2023-12-05**|**MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**|Zhangyang Xiong et.al.|[2312.02963](http://arxiv.org/abs/2312.02963)|null|
+|**2023-12-05**|**Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions**|Zahra Abbasiantaeb et.al.|[2312.02913](http://arxiv.org/abs/2312.02913)|**[link](https://github.com/zahraabbasiantaeb/simquac)**|
+|**2023-12-05**|**Toward autocorrection of chemical process flowsheets using large language models**|Lukas Schulze Balhorn et.al.|[2312.02873](http://arxiv.org/abs/2312.02873)|null|
+|**2023-12-05**|**Weakly Supervised Detection of Hallucinations in LLM Activations**|Miriam Rateike et.al.|[2312.02798](http://arxiv.org/abs/2312.02798)|null|
+|**2023-12-05**|**Large Language Models on Graphs: A Comprehensive Survey**|Bowen Jin et.al.|[2312.02783](http://arxiv.org/abs/2312.02783)|**[link](https://github.com/petergriffinjin/awesome-language-model-on-graphs)**|
+|**2023-12-05**|**Generating Fine-Grained Human Motions Using ChatGPT-Refined Descriptions**|Xu Shi et.al.|[2312.02772](http://arxiv.org/abs/2312.02772)|null|
+|**2023-12-05**|**Towards Measuring Representational Similarity of Large Language Models**|Max Klabunde et.al.|[2312.02730](http://arxiv.org/abs/2312.02730)|**[link](https://github.com/mklabunde/llm_repsim)**|
+|**2023-12-05**|**RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!**|Ronak Pradeep et.al.|[2312.02724](http://arxiv.org/abs/2312.02724)|**[link](https://github.com/castorini/rank_llm)**|
 |**2023-12-04**|**Competition-Level Problems Are Effective Evaluators of LLMs**|Yiming Huang et.al.|[2312.02143](http://arxiv.org/abs/2312.02143)|null|
 |**2023-12-04**|**TPPoet: Transformer-Based Persian Poem Generation using Minimal Data and Advanced Decoding Techniques**|Amir Panahandeh et.al.|[2312.02125](http://arxiv.org/abs/2312.02125)|null|
 |**2023-12-04**|**Magicoder: Source Code Is All You Need**|Yuxiang Wei et.al.|[2312.02120](http://arxiv.org/abs/2312.02120)|**[link](https://github.com/ise-uiuc/magicoder)**|
