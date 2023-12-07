@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701](http://arxiv.org/abs/2312.03701)|**[link](https://github.com/LTH14/rcg)**|
+|**2023-12-06**|**Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**|Ali Naseh et.al.|[2312.03692](http://arxiv.org/abs/2312.03692)|null|
+|**2023-12-06**|**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on**|xujie zhang et.al.|[2312.03667](http://arxiv.org/abs/2312.03667)|null|
+|**2023-12-06**|**TokenCompose: Grounding Diffusion with Token-level Supervision**|Zirui Wang et.al.|[2312.03626](http://arxiv.org/abs/2312.03626)|null|
+|**2023-12-06**|**DreamComposer: Controllable 3D Object Generation via Multi-View Conditions**|Yunhan Yang et.al.|[2312.03611](http://arxiv.org/abs/2312.03611)|null|
+|**2023-12-06**|**DiffusionSat: A Generative Foundation Model for Satellite Imagery**|Samar Khanna et.al.|[2312.03606](http://arxiv.org/abs/2312.03606)|null|
+|**2023-12-06**|**MMM: Generative Masked Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2312.03596](http://arxiv.org/abs/2312.03596)|null|
+|**2023-12-06**|**Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention**|Jianjin Xu et.al.|[2312.03556](http://arxiv.org/abs/2312.03556)|null|
+|**2023-12-06**|**FoodFusion: A Latent Diffusion Model for Realistic Food Image Generation**|Olivia Markham et.al.|[2312.03540](http://arxiv.org/abs/2312.03540)|null|
+|**2023-12-06**|**FRDiff: Feature Reuse for Exquisite Zero-shot Acceleration of Diffusion Models**|Junhyuk So et.al.|[2312.03517](http://arxiv.org/abs/2312.03517)|null|
 |**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970](http://arxiv.org/abs/2312.02970)|null|
 |**2023-12-05**|**AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model**|Boheng Zhao et.al.|[2312.02967](http://arxiv.org/abs/2312.02967)|null|
 |**2023-12-05**|**Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection**|Cheng-Ju Ho et.al.|[2312.02966](http://arxiv.org/abs/2312.02966)|**[link](https://github.com/luluho1208/diffusion-ss3d)**|
@@ -340,6 +350,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**OneLLM: One Framework to Align All Modalities with Language**|Jiaming Han et.al.|[2312.03700](http://arxiv.org/abs/2312.03700)|**[link](https://github.com/csuhan/onellm)**|
+|**2023-12-06**|**An Integration of Pre-Trained Speech and Language Models for End-to-End Speech Recognition**|Yukiya Hono et.al.|[2312.03668](http://arxiv.org/abs/2312.03668)|null|
+|**2023-12-06**|**Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia**|Alexander Sasha Vezhnevets et.al.|[2312.03664](http://arxiv.org/abs/2312.03664)|null|
+|**2023-12-06**|**Not All Large Language Models (LLMs) Succumb to the "Reversal Curse": A Comparative Study of Deductive Logical Reasoning in BERT and GPT Models**|Jingye Yang et.al.|[2312.03633](http://arxiv.org/abs/2312.03633)|null|
+|**2023-12-06**|**Multimodal Data and Resource Efficient Device-Directed Speech Detection with Large Foundation Models**|Dominik Wagner et.al.|[2312.03632](http://arxiv.org/abs/2312.03632)|null|
+|**2023-12-06**|**XAIQA: Explainer-Based Data Augmentation for Extractive Question Answering**|Joel Stremmel et.al.|[2312.03567](http://arxiv.org/abs/2312.03567)|null|
+|**2023-12-06**|**Holmes: Towards Distributed Training Across Clusters with Heterogeneous NIC Environment**|Fei Yang et.al.|[2312.03549](http://arxiv.org/abs/2312.03549)|null|
+|**2023-12-06**|**GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models**|Haicheng Liao et.al.|[2312.03543](http://arxiv.org/abs/2312.03543)|**[link](https://github.com/petrichor625/talk2car_cavg)**|
+|**2023-12-06**|**Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation**|Haojie Zhang et.al.|[2312.03502](http://arxiv.org/abs/2312.03502)|**[link](https://github.com/zhang-haojie/wesam)**|
+|**2023-12-06**|**Boosting legal case retrieval by query content selection with large language models**|Youchao Zhou et.al.|[2312.03494](http://arxiv.org/abs/2312.03494)|**[link](https://github.com/zuochao912/legalsearchsum)**|
 |**2023-12-05**|**GPT4Point: A Unified Framework for Point-Language Understanding and Generation**|Zhangyang Qi et.al.|[2312.02980](http://arxiv.org/abs/2312.02980)|null|
 |**2023-12-05**|**Rank-without-GPT: Building GPT-Independent Listwise Rerankers on Open-Source Large Language Models**|Xinyu Zhang et.al.|[2312.02969](http://arxiv.org/abs/2312.02969)|null|
 |**2023-12-05**|**MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**|Zhangyang Xiong et.al.|[2312.02963](http://arxiv.org/abs/2312.02963)|null|
