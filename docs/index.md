@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.11
+## Updated on 2023.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -19,7 +19,7 @@ layout: default
 |**2023-12-08**|**Membership Inference Attacks on Diffusion Models via Quantile Regression**|Shuai Tang et.al.|[2312.05140](http://arxiv.org/abs/2312.05140)|null|
 |**2023-12-08**|**DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models**|Mengyang Feng et.al.|[2312.05107](http://arxiv.org/abs/2312.05107)|null|
 |**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039](http://arxiv.org/abs/2312.05039)|null|
-|**2023-12-08**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960](http://arxiv.org/abs/2312.04960)|null|
+|**2023-12-08**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960](http://arxiv.org/abs/2312.04960)|**[link](https://github.com/xiaoyunxxy/mimir)**|
 |**2023-12-08**|**UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models**|Yiming Zhao et.al.|[2312.04884](http://arxiv.org/abs/2312.04884)|**[link](https://github.com/zym-pku/udifftext)**|
 |**2023-12-08**|**MVDD: Multi-View Depth Diffusion Models**|Zhen Wang et.al.|[2312.04875](http://arxiv.org/abs/2312.04875)|null|
 |**2023-12-08**|**HandDiffuse: Generative Controllers for Two-Hand Interactions via Diffusion Models**|Pei Lin et.al.|[2312.04867](http://arxiv.org/abs/2312.04867)|null|
