@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**FreeInit: Bridging Initialization Gap in Video Diffusion Models**|Tianxing Wu et.al.|[2312.07537](http://arxiv.org/abs/2312.07537)|**[link](https://github.com/tianxingwu/freeinit)**|
+|**2023-12-12**|**FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition**|Sicheng Mo et.al.|[2312.07536](http://arxiv.org/abs/2312.07536)|null|
+|**2023-12-12**|**Cosmological Field Emulation and Parameter Inference with Diffusion Models**|Nayantara Mudur et.al.|[2312.07534](http://arxiv.org/abs/2312.07534)|null|
+|**2023-12-12**|**MinD-3D: Reconstruct High-quality 3D objects in Human Brain**|Jianxiong Gao et.al.|[2312.07485](http://arxiv.org/abs/2312.07485)|null|
+|**2023-12-12**|**DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing**|Kaiwen Zhang et.al.|[2312.07409](http://arxiv.org/abs/2312.07409)|null|
+|**2023-12-12**|**Boosting Latent Diffusion with Flow Matching**|Johannes S. Fischer et.al.|[2312.07360](http://arxiv.org/abs/2312.07360)|**[link](https://github.com/compvis/fm-boosting)**|
+|**2023-12-12**|**Learned representation-guided diffusion models for large-image generation**|Alexandros Graikos et.al.|[2312.07330](http://arxiv.org/abs/2312.07330)|null|
+|**2023-12-12**|**GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos**|Tomáš Souček et.al.|[2312.07322](http://arxiv.org/abs/2312.07322)|**[link](https://github.com/soCzech/GenHowto)**|
+|**2023-12-12**|**Scalable Motion Style Transfer with Constrained Diffusion Generation**|Wenjie Yin et.al.|[2312.07311](http://arxiv.org/abs/2312.07311)|null|
+|**2023-12-12**|**A Unified Sampling Framework for Solver Searching of Diffusion Probabilistic Models**|Enshu Liu et.al.|[2312.07243](http://arxiv.org/abs/2312.07243)|null|
 |**2023-12-11**|**CAD: Photorealistic 3D Generation via Adversarial Distillation**|Ziyu Wan et.al.|[2312.06663](http://arxiv.org/abs/2312.06663)|null|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662](http://arxiv.org/abs/2312.06662)|null|
 |**2023-12-11**|**UpFusion: Novel View Diffusion from Unposed Sparse View Observations**|Bharath Raj Nagoor Kani et.al.|[2312.06661](http://arxiv.org/abs/2312.06661)|null|
@@ -2423,6 +2433,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**VILA: On Pre-training for Visual Language Models**|Ji Lin et.al.|[2312.07533](http://arxiv.org/abs/2312.07533)|null|
+|**2023-12-12**|**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**|Hao Shao et.al.|[2312.07488](http://arxiv.org/abs/2312.07488)|null|
+|**2023-12-12**|**Comparable Demonstrations are Important in In-Context Learning: A Novel Perspective on Demonstration Selection**|Caoyun Fan et.al.|[2312.07476](http://arxiv.org/abs/2312.07476)|null|
+|**2023-12-12**|**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**|Yiran Qin et.al.|[2312.07472](http://arxiv.org/abs/2312.07472)|null|
+|**2023-12-12**|**FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs**|Swanand Ravindra Kadhe et.al.|[2312.07420](http://arxiv.org/abs/2312.07420)|null|
+|**2023-12-12**|**On Diverse Preferences for Large Language Model Alignment**|Dun Zeng et.al.|[2312.07401](http://arxiv.org/abs/2312.07401)|null|
+|**2023-12-12**|**Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales**|Taeyoon Kwon et.al.|[2312.07399](http://arxiv.org/abs/2312.07399)|null|
+|**2023-12-12**|**LLMEval: A Preliminary Study on How to Evaluate Large Language Models**|Yue Zhang et.al.|[2312.07398](http://arxiv.org/abs/2312.07398)|null|
+|**2023-12-12**|**Sequential Planning in Large Partially Observable Environments guided by LLMs**|Swarna Kamal Paul et.al.|[2312.07368](http://arxiv.org/abs/2312.07368)|null|
+|**2023-12-12**|**Can ChatGPT Play the Role of a Teaching Assistant in an Introductory Programming Course?**|Anishka et.al.|[2312.07343](http://arxiv.org/abs/2312.07343)|null|
 |**2023-12-11**|**Building Domain-Specific LLMs Faithful To The Islamic Worldview: Mirage or Technical Possibility?**|Shabaz Patel et.al.|[2312.06652](http://arxiv.org/abs/2312.06652)|null|
 |**2023-12-11**|**4M: Massively Multimodal Masked Modeling**|David Mizrahi et.al.|[2312.06647](http://arxiv.org/abs/2312.06647)|null|
 |**2023-12-11**|**AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes**|Zehao Wen et.al.|[2312.06644](http://arxiv.org/abs/2312.06644)|null|
@@ -2842,7 +2862,7 @@
 |---|---|---|---|---|
 |**2023-12-10**|**Adaptive Parameter Selection for Kernel Ridge Regression**|Shao-Bo Lin et.al.|[2312.05885](http://arxiv.org/abs/2312.05885)|null|
 |**2023-12-08**|**Apparate: Rethinking Early Exits to Tame Latency-Throughput Tensions in ML Serving**|Yinwei Dai et.al.|[2312.05385](http://arxiv.org/abs/2312.05385)|null|
-|**2023-12-08**|**EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism**|Yanxi Chen et.al.|[2312.04916](http://arxiv.org/abs/2312.04916)|null|
+|**2023-12-08**|**EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism**|Yanxi Chen et.al.|[2312.04916](http://arxiv.org/abs/2312.04916)|**[link](https://github.com/pan-x-c/ee-llm)**|
 |**2023-12-07**|**Generating Multiphase Fluid Configurations in Fractures using Diffusion Models**|Jaehong Chung et.al.|[2312.04375](http://arxiv.org/abs/2312.04375)|null|
 |**2023-12-06**|**Understanding the Role of Optimization in Double Descent**|Chris Yuhao Liu et.al.|[2312.03951](http://arxiv.org/abs/2312.03951)|null|
 |**2023-12-04**|**Instance-guided Cartoon Editing with a Large-scale Dataset**|Jian Lin et.al.|[2312.01943](http://arxiv.org/abs/2312.01943)|null|
