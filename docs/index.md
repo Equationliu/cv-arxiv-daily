@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.18
+## Updated on 2023.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -422,7 +422,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-15**|**Osprey: Pixel Understanding with Visual Instruction Tuning**|Yuqian Yuan et.al.|[2312.10032](http://arxiv.org/abs/2312.10032)|**[link](https://github.com/circleradon/osprey)**|
 |**2023-12-15**|**Challenges with unsupervised LLM knowledge discovery**|Sebastian Farquhar et.al.|[2312.10029](http://arxiv.org/abs/2312.10029)|null|
-|**2023-12-15**|**Faithful Persona-based Conversational Dataset Generation with Large Language Models**|Pegah Jandaghi et.al.|[2312.10007](http://arxiv.org/abs/2312.10007)|null|
+|**2023-12-15**|**Faithful Persona-based Conversational Dataset Generation with Large Language Models**|Pegah Jandaghi et.al.|[2312.10007](http://arxiv.org/abs/2312.10007)|**[link](https://github.com/google-research-datasets/Synthetic-Persona-Chat)**|
 |**2023-12-15**|**ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**|Renat Aksitov et.al.|[2312.10003](http://arxiv.org/abs/2312.10003)|null|
 |**2023-12-15**|**LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language**|Pierpaolo Basile et.al.|[2312.09993](http://arxiv.org/abs/2312.09993)|null|
 |**2023-12-15**|**The Art of Balancing: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment**|Shihan Dou et.al.|[2312.09979](http://arxiv.org/abs/2312.09979)|null|
