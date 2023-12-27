@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145](http://arxiv.org/abs/2312.16145)|null|
+|**2023-12-26**|**Compositional Search of Stable Crystalline Structures in Multi-Component Alloys Using Generative Diffusion Models**|Grzegorz Kaszuba et.al.|[2312.16073](http://arxiv.org/abs/2312.16073)|null|
+|**2023-12-26**|**HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D**|Sangmin Woo et.al.|[2312.15980](http://arxiv.org/abs/2312.15980)|null|
+|**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964](http://arxiv.org/abs/2312.15964)|null|
+|**2023-12-26**|**Implied volatility (also) is path-dependent**|Hervé Andrès et.al.|[2312.15950](http://arxiv.org/abs/2312.15950)|null|
+|**2023-12-26**|**EnchantDance: Unveiling the Potential of Music-Driven Dance Movement**|Bo Han et.al.|[2312.15946](http://arxiv.org/abs/2312.15946)|null|
+|**2023-12-26**|**Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection**|Songmin Dai et.al.|[2312.15911](http://arxiv.org/abs/2312.15911)|null|
+|**2023-12-26**|**Cross Initialization for Personalized Text-to-Image Generation**|Lianyu Pang et.al.|[2312.15905](http://arxiv.org/abs/2312.15905)|**[link](https://github.com/lyupang/crossinitialization)**|
+|**2023-12-25**|**Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion**|Lijian Chen et.al.|[2312.15826](http://arxiv.org/abs/2312.15826)|null|
+|**2023-12-25**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
 |**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929](http://arxiv.org/abs/2312.14929)|null|
 |**2023-12-22**|**BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction**|Honghao Fu et.al.|[2312.14871](http://arxiv.org/abs/2312.14871)|null|
 |**2023-12-22**|**Neural-network-based regularization methods for inverse problems in imaging**|Andreas Habring et.al.|[2312.14849](http://arxiv.org/abs/2312.14849)|null|
@@ -2502,6 +2512,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4**|Sondos Mahmoud Bsharat et.al.|[2312.16171](http://arxiv.org/abs/2312.16171)|**[link](https://github.com/vila-lab/atlas)**|
+|**2023-12-26**|**Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages**|Mofetoluwa Adeyemi et.al.|[2312.16159](http://arxiv.org/abs/2312.16159)|null|
+|**2023-12-26**|**RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models**|Tianhao Shen et.al.|[2312.16132](http://arxiv.org/abs/2312.16132)|null|
+|**2023-12-26**|**Large Language Model Situational Awareness Based Planning**|Liman Wang et.al.|[2312.16127](http://arxiv.org/abs/2312.16127)|null|
+|**2023-12-26**|**A bi-objective $ε$ -constrained framework for quality-cost optimization in language model ensembles**|Aditi Singla et.al.|[2312.16119](http://arxiv.org/abs/2312.16119)|null|
+|**2023-12-26**|**Can ChatGPT Read Who You Are?**|Erik Derner et.al.|[2312.16070](http://arxiv.org/abs/2312.16070)|null|
+|**2023-12-26**|**A Prompt Learning Framework for Source Code Summarization**|Weisong Sun et.al.|[2312.16066](http://arxiv.org/abs/2312.16066)|**[link](https://github.com/wssun/promptcs)**|
+|**2023-12-26**|**Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity**|Siqi Lai et.al.|[2312.16044](http://arxiv.org/abs/2312.16044)|**[link](https://github.com/usail-hkust/llmtscs)**|
+|**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018](http://arxiv.org/abs/2312.16018)|null|
+|**2023-12-26**|**Aligning Large Language Models with Human Preferences through Representation Engineering**|Wenhao Liu et.al.|[2312.15997](http://arxiv.org/abs/2312.15997)|null|
 |**2023-12-22**|**A Survey of Reinforcement Learning from Human Feedback**|Timo Kaufmann et.al.|[2312.14925](http://arxiv.org/abs/2312.14925)|null|
 |**2023-12-22**|**NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes**|Lizhou Fan et.al.|[2312.14890](http://arxiv.org/abs/2312.14890)|**[link](https://github.com/casmlab/nphardeval)**|
 |**2023-12-22**|**Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning**|Filippos Christianos et.al.|[2312.14878](http://arxiv.org/abs/2312.14878)|null|
