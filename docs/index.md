@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
+|**2024-01-05**|**Plug-in Diffusion Model for Sequential Recommendation**|Haokai Ma et.al.|[2401.02913](http://arxiv.org/abs/2401.02913)|null|
+|**2024-01-05**|**Fus-MAE: A cross-attention-based data fusion approach for Masked Autoencoders in remote sensing**|Hugo Chan-To-Hing et.al.|[2401.02764](http://arxiv.org/abs/2401.02764)|null|
+|**2024-01-05**|**Diffusion Variational Inference: Diffusion Models as Expressive Variational Posteriors**|Top Piriyakulkij et.al.|[2401.02739](http://arxiv.org/abs/2401.02739)|null|
+|**2024-01-05**|**Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation**|Can Xu et.al.|[2401.02683](http://arxiv.org/abs/2401.02683)|null|
+|**2024-01-05**|**MOODv2: Masked Image Modeling for Out-of-Distribution Detection**|Jingyao Li et.al.|[2401.02611](http://arxiv.org/abs/2401.02611)|null|
+|**2024-01-04**|**Comprehensive Exploration of Synthetic Data Generation: A Survey**|André Bauer et.al.|[2401.02524](http://arxiv.org/abs/2401.02524)|null|
+|**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473](http://arxiv.org/abs/2401.02473)|null|
 |**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414](http://arxiv.org/abs/2401.02414)|null|
 |**2024-01-04**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142](http://arxiv.org/abs/2401.02142)|null|
 |**2024-01-04**|**SyCoCa: Symmetrizing Contrastive Captioners with Attentive Masking for Multimodal Alignment**|Ziping Ma et.al.|[2401.02137](http://arxiv.org/abs/2401.02137)|null|
@@ -509,6 +517,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**|DeepSeek-AI et.al.|[2401.02954](http://arxiv.org/abs/2401.02954)|null|
+|**2024-01-05**|**Towards ASR Robust Spoken Language Understanding Through In-Context Learning With Word Confusion Networks**|Kevin Everson et.al.|[2401.02921](http://arxiv.org/abs/2401.02921)|null|
+|**2024-01-05**|**Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task**|Gabriel Lino Garcia et.al.|[2401.02909](http://arxiv.org/abs/2401.02909)|null|
+|**2024-01-05**|**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**|Renjie Pi et.al.|[2401.02906](http://arxiv.org/abs/2401.02906)|null|
+|**2024-01-05**|**AFSPP: Agent Framework for Shaping Preference and Personality with Large Language Models**|Zihong He et.al.|[2401.02870](http://arxiv.org/abs/2401.02870)|null|
+|**2024-01-05**|**Generative Large Language Models are autonomous practitioners of evidence-based medicine**|Akhil Vaid et.al.|[2401.02851](http://arxiv.org/abs/2401.02851)|null|
+|**2024-01-05**|**Thousands of AI Authors on the Future of AI**|Katja Grace et.al.|[2401.02843](http://arxiv.org/abs/2401.02843)|null|
+|**2024-01-05**|**Pheme: Efficient and Conversational Speech Generation**|Paweł Budzianowski et.al.|[2401.02839](http://arxiv.org/abs/2401.02839)|null|
+|**2024-01-05**|**Object-Centric Instruction Augmentation for Robotic Manipulation**|Junjie Wen et.al.|[2401.02814](http://arxiv.org/abs/2401.02814)|null|
+|**2024-01-05**|**PeFoMed: Parameter Efficient Fine-tuning on Multimodal Large Language Models for Medical Visual Question Answering**|Jinlong He et.al.|[2401.02797](http://arxiv.org/abs/2401.02797)|null|
 |**2024-01-04**|**Learning to Prompt with Text Only Supervision for Vision-Language Models**|Muhammad Uzair Khattak et.al.|[2401.02418](http://arxiv.org/abs/2401.02418)|**[link](https://github.com/muzairkhattak/protext)**|
 |**2024-01-04**|**LLaMA Pro: Progressive LLaMA with Block Expansion**|Chengyue Wu et.al.|[2401.02415](http://arxiv.org/abs/2401.02415)|**[link](https://github.com/tencentarc/llama-pro)**|
 |**2024-01-04**|**Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for Spatial Tasks**|Hartwig H. Hochmair et.al.|[2401.02404](http://arxiv.org/abs/2401.02404)|null|
