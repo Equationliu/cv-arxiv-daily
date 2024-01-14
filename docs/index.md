@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.13
+## Updated on 2024.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -553,7 +553,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-11**|**TOFU: A Task of Fictitious Unlearning for LLMs**|Pratyush Maini et.al.|[2401.06121](http://arxiv.org/abs/2401.06121)|null|
-|**2024-01-11**|**Extreme Compression of Large Language Models via Additive Quantization**|Vage Egiazarian et.al.|[2401.06118](http://arxiv.org/abs/2401.06118)|null|
+|**2024-01-11**|**Extreme Compression of Large Language Models via Additive Quantization**|Vage Egiazarian et.al.|[2401.06118](http://arxiv.org/abs/2401.06118)|**[link](https://github.com/vahe1994/aqlm)**|
 |**2024-01-11**|**Patchscope: A Unifying Framework for Inspecting Hidden Representations of Language Models**|Asma Ghandeharioun et.al.|[2401.06102](http://arxiv.org/abs/2401.06102)|null|
 |**2024-01-11**|**A Closer Look at AUROC and AUPRC under Class Imbalance**|Matthew B. A. McDermott et.al.|[2401.06091](http://arxiv.org/abs/2401.06091)|**[link](https://github.com/mmcdermott/auc_is_all_you_need)**|
 |**2024-01-11**|**Autocompletion of Chief Complaints in the Electronic Health Records using Large Language Models**|K M Sajjadul Islam et.al.|[2401.06088](http://arxiv.org/abs/2401.06088)|null|
