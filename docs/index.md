@@ -557,7 +557,7 @@ layout: default
 |**2024-01-11**|**Patchscope: A Unifying Framework for Inspecting Hidden Representations of Language Models**|Asma Ghandeharioun et.al.|[2401.06102](http://arxiv.org/abs/2401.06102)|null|
 |**2024-01-11**|**A Closer Look at AUROC and AUPRC under Class Imbalance**|Matthew B. A. McDermott et.al.|[2401.06091](http://arxiv.org/abs/2401.06091)|**[link](https://github.com/mmcdermott/auc_is_all_you_need)**|
 |**2024-01-11**|**Autocompletion of Chief Complaints in the Electronic Health Records using Large Language Models**|K M Sajjadul Islam et.al.|[2401.06088](http://arxiv.org/abs/2401.06088)|null|
-|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081](http://arxiv.org/abs/2401.06081)|null|
+|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081](http://arxiv.org/abs/2401.06081)|**[link](https://github.com/rucaibox/rlmec)**|
 |**2024-01-11**|**Secrets of RLHF in Large Language Models Part II: Reward Modeling**|Binghai Wang et.al.|[2401.06080](http://arxiv.org/abs/2401.06080)|**[link](https://github.com/openlmlab/moss-rlhf)**|
 |**2024-01-11**|**LEGO:Language Enhanced Multi-modal Grounding Model**|Zhaowei Li et.al.|[2401.06071](http://arxiv.org/abs/2401.06071)|**[link](https://github.com/lzw-lzw/lego)**|
 |**2024-01-11**|**DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models**|Damai Dai et.al.|[2401.06066](http://arxiv.org/abs/2401.06066)|**[link](https://github.com/deepseek-ai/deepseek-moe)**|
@@ -1160,7 +1160,7 @@ layout: default
 |**2024-01-11**|**A tree-based varying coefficient model**|Henning Zakrisson et.al.|[2401.05982](http://arxiv.org/abs/2401.05982)|null|
 |**2024-01-11**|**Scaling Laws for Forgetting When Fine-Tuning Large Language Models**|Damjan Kalajdzievski et.al.|[2401.05605](http://arxiv.org/abs/2401.05605)|null|
 |**2024-01-10**|**Standardizing Your Training Process for Human Activity Recognition Models: A Comprehensive Review in the Tunable Factors**|Yiran Huang et.al.|[2401.05477](http://arxiv.org/abs/2401.05477)|null|
-|**2023-12-19**|**Iterative Regularization with k-Support Norm: an Important Complement to Sparse Recovery**|William de Vazelhes et.al.|[2401.05394](http://arxiv.org/abs/2401.05394)|null|
+|**2023-12-19**|**Iterative Regularization with k-Support Norm: an Important Complement to Sparse Recovery**|William de Vazelhes et.al.|[2401.05394](http://arxiv.org/abs/2401.05394)|**[link](https://github.com/wdevazelhes/irksn_aaai2024)**|
 |**2024-01-08**|**Convex SGD: Generalization Without Early Stopping**|Julien Hendrickx et.al.|[2401.04067](http://arxiv.org/abs/2401.04067)|null|
 |**2024-01-03**|**The Neuron as a Direct Data-Driven Controller**|Jason Moore et.al.|[2401.01489](http://arxiv.org/abs/2401.01489)|null|
 |**2024-01-01**|**Automated Invariant Generation for Solidity Smart Contracts**|Ye Liu et.al.|[2401.00650](http://arxiv.org/abs/2401.00650)|null|
