@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.18
+## Updated on 2024.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -1222,7 +1222,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-15**|**CascadeV-Det: Cascade Point Voting for 3D Object Detection**|Yingping Liang et.al.|[2401.07477](http://arxiv.org/abs/2401.07477)|**[link](https://github.com/sharpiless/cascadev-det)**|
 |**2024-01-12**|**Boosting Causal Additive Models**|Maximilian Kertel et.al.|[2401.06523](http://arxiv.org/abs/2401.06523)|null|
-|**2024-01-12**|**Graph Relation Distillation for Efficient Biomedical Instance Segmentation**|Xiaoyu Liu et.al.|[2401.06370](http://arxiv.org/abs/2401.06370)|**[link](https://github.com/liuxy1103/GIDBIS)**|
+|**2024-01-12**|**Graph Relation Distillation for Efficient Biomedical Instance Segmentation**|Xiaoyu Liu et.al.|[2401.06370](http://arxiv.org/abs/2401.06370)|**[link](https://github.com/liuxy1103/grdbis)**|
 |**2024-01-15**|**A tree-based varying coefficient model**|Henning Zakrisson et.al.|[2401.05982](http://arxiv.org/abs/2401.05982)|null|
 |**2024-01-11**|**Scaling Laws for Forgetting When Fine-Tuning Large Language Models**|Damjan Kalajdzievski et.al.|[2401.05605](http://arxiv.org/abs/2401.05605)|null|
 |**2024-01-10**|**Standardizing Your Training Process for Human Activity Recognition Models: A Comprehensive Review in the Tunable Factors**|Yiran Huang et.al.|[2401.05477](http://arxiv.org/abs/2401.05477)|null|
