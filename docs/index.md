@@ -32,7 +32,7 @@ layout: default
 |**2024-01-17**|**Training-Free Semantic Video Composition via Pre-trained Diffusion Model**|Jiaqi Guo et.al.|[2401.09195](http://arxiv.org/abs/2401.09195)|null|
 |**2024-01-17**|**Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior**|Zike Wu et.al.|[2401.09050](http://arxiv.org/abs/2401.09050)|null|
 |**2024-01-17**|**Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis**|Jonghyun Lee et.al.|[2401.09048](http://arxiv.org/abs/2401.09048)|**[link](https://github.com/tomtom1103/compose-and-conquer)**|
-|**2024-01-17**|**VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models**|Haoxin Chen et.al.|[2401.09047](http://arxiv.org/abs/2401.09047)|null|
+|**2024-01-17**|**VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models**|Haoxin Chen et.al.|[2401.09047](http://arxiv.org/abs/2401.09047)|**[link](https://github.com/ailab-cvc/videocrafter)**|
 |**2024-01-17**|**Data Attribution for Diffusion Models: Timestep-induced Bias in Influence Estimation**|Tong Xie et.al.|[2401.09031](http://arxiv.org/abs/2401.09031)|null|
 |**2024-01-16**|**Modeling Spoof Noise by De-spoofing Diffusion and its Application in Face Anti-spoofing**|Bin Zhang et.al.|[2401.08275](http://arxiv.org/abs/2401.08275)|null|
 |**2024-01-16**|**Multi-scale 2D Temporal Map Diffusion Models for Natural Language Video Localization**|Chongzhi Zhang et.al.|[2401.08232](http://arxiv.org/abs/2401.08232)|null|
@@ -618,7 +618,7 @@ layout: default
 |**2024-01-16**|**Hallucination Detection and Hallucination Mitigation: An Investigation**|Junliang Luo et.al.|[2401.08358](http://arxiv.org/abs/2401.08358)|null|
 |**2024-01-16**|**Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models**|Jianhui Pang et.al.|[2401.08350](http://arxiv.org/abs/2401.08350)|null|
 |**2024-01-16**|**Understanding User Experience in Large Language Model Interactions**|Jiayin Wang et.al.|[2401.08329](http://arxiv.org/abs/2401.08329)|null|
-|**2024-01-16**|**RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning**|Junjie Ye et.al.|[2401.08326](http://arxiv.org/abs/2401.08326)|null|
+|**2024-01-16**|**RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning**|Junjie Ye et.al.|[2401.08326](http://arxiv.org/abs/2401.08326)|**[link](https://github.com/junjie-ye/rotbench)**|
 |**2024-01-16**|**Application of LLM Agents in Recruitment: A Novel Framework for Resume Screening**|Chengguang Gan et.al.|[2401.08315](http://arxiv.org/abs/2401.08315)|null|
 |**2024-01-16**|**Anchor function: a type of benchmark functions for studying language models**|Zhongwang Zhang et.al.|[2401.08309](http://arxiv.org/abs/2401.08309)|null|
 |**2024-01-16**|**DAPT: A Dual Attention Framework for Parameter-Efficient Continual Learning of Large Language Models**|Weixiang Zhao et.al.|[2401.08295](http://arxiv.org/abs/2401.08295)|null|
@@ -658,7 +658,7 @@ layout: default
 |**2024-01-09**|**Model Editing Can Hurt General Abilities of Large Language Models**|Jia-Chen Gu et.al.|[2401.04700](http://arxiv.org/abs/2401.04700)|**[link](https://github.com/jasonforjoy/model-editing-hurt)**|
 |**2024-01-09**|**Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers**|Gal Yona et.al.|[2401.04695](http://arxiv.org/abs/2401.04695)|null|
 |**2024-01-09**|**RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation**|Mahdi Nikdan et.al.|[2401.04679](http://arxiv.org/abs/2401.04679)|null|
-|**2024-01-09**|**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models**|Zhen Qin et.al.|[2401.04658](http://arxiv.org/abs/2401.04658)|null|
+|**2024-01-09**|**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models**|Zhen Qin et.al.|[2401.04658](http://arxiv.org/abs/2401.04658)|**[link](https://github.com/opennlplab/lightning-attention)**|
 |**2024-01-09**|**Applying Large Language Models API to Issue Classification Problem**|Gabriel Aracena et.al.|[2401.04637](http://arxiv.org/abs/2401.04637)|null|
 |**2024-01-09**|**DebugBench: Evaluating Debugging Capability of Large Language Models**|Runchu Tian et.al.|[2401.04621](http://arxiv.org/abs/2401.04621)|**[link](https://github.com/thunlp/debugbench)**|
 |**2024-01-09**|**Agent Alignment in Evolving Social Norms**|Shimin Li et.al.|[2401.04620](http://arxiv.org/abs/2401.04620)|null|
@@ -688,7 +688,7 @@ layout: default
 |**2024-01-04**|**Learning to Prompt with Text Only Supervision for Vision-Language Models**|Muhammad Uzair Khattak et.al.|[2401.02418](http://arxiv.org/abs/2401.02418)|**[link](https://github.com/muzairkhattak/protext)**|
 |**2024-01-04**|**LLaMA Pro: Progressive LLaMA with Block Expansion**|Chengyue Wu et.al.|[2401.02415](http://arxiv.org/abs/2401.02415)|**[link](https://github.com/tencentarc/llama-pro)**|
 |**2024-01-04**|**Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for Spatial Tasks**|Hartwig H. Hochmair et.al.|[2401.02404](http://arxiv.org/abs/2401.02404)|null|
-|**2024-01-04**|**DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models**|Songbo Hu et.al.|[2401.02208](http://arxiv.org/abs/2401.02208)|null|
+|**2024-01-04**|**DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models**|Songbo Hu et.al.|[2401.02208](http://arxiv.org/abs/2401.02208)|**[link](https://github.com/cambridgeltl/e2e_tod_toolkit)**|
 |**2024-01-04**|**Exploring Boundary of GPT-4V on Marine Analysis: A Preliminary Case Study**|Ziqiang Zheng et.al.|[2401.02147](http://arxiv.org/abs/2401.02147)|null|
 |**2024-01-04**|**DCR-Consistency: Divide-Conquer-Reasoning for Consistency Evaluation and Improvement of Large Language Models**|Wendi Cui et.al.|[2401.02132](http://arxiv.org/abs/2401.02132)|**[link](https://github.com/intuit-ai-research/dcr-consistency)**|
 |**2024-01-04**|**ICE-GRT: Instruction Context Enhancement by Generative Reinforcement based Transformers**|Chen Zheng et.al.|[2401.02072](http://arxiv.org/abs/2401.02072)|null|
@@ -1212,7 +1212,7 @@ layout: default
 |**2023-10-17**|**An Empirical Study of Translation Hypothesis Ensembling with Large Language Models**|António Farinhas et.al.|[2310.11430](http://arxiv.org/abs/2310.11430)|**[link](https://github.com/deep-spin/translation-hypothesis-ensembling)**|
 |**2023-10-17**|**Last One Standing: A Comparative Analysis of Security and Privacy of Soft Prompt Tuning, LoRA, and In-Context Learning**|Rui Wen et.al.|[2310.11397](http://arxiv.org/abs/2310.11397)|null|
 |**2023-10-17**|**Towards Automatic Satellite Images Captions Generation Using Large Language Models**|Yingxu He et.al.|[2310.11392](http://arxiv.org/abs/2310.11392)|null|
-|**2023-10-17**|**DialogueLLM: Context and Emotion Knowledge-Tuned LLaMA Models for Emotion Recognition in Conversations**|Yazhou Zhang et.al.|[2310.11374](http://arxiv.org/abs/2310.11374)|null|
+|**2023-10-17**|**DialogueLLM: Context and Emotion Knowledge-Tuned LLaMA Models for Emotion Recognition in Conversations**|Yazhou Zhang et.al.|[2310.11374](http://arxiv.org/abs/2310.11374)|**[link](https://github.com/Dreamyao516/DialogueLLM)**|
 |**2023-10-17**|**Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting**|Melanie Sclar et.al.|[2310.11324](http://arxiv.org/abs/2310.11324)|**[link](https://github.com/msclar/formatspread)**|
 |**2023-10-17**|**Utilising a Large Language Model to Annotate Subject Metadata: A Case Study in an Australian National Research Data Catalogue**|Shiwei Zhang et.al.|[2310.11318](http://arxiv.org/abs/2310.11318)|null|
 |**2023-10-16**|**Step-by-Step Remediation of Students' Mathematical Mistakes**|Rose E. Wang et.al.|[2310.10648](http://arxiv.org/abs/2310.10648)|**[link](https://github.com/rosewang2008/remath)**|
