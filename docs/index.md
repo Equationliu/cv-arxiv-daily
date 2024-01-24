@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.23
+## Updated on 2024.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -1278,8 +1278,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-19**|**I-SplitEE: Image classification in Split Computing DNNs with Early Exits**|Divya Jyoti Bajpai et.al.|[2401.10541](http://arxiv.org/abs/2401.10541)|null|
-|**2024-01-19**|**Escape Sky-high Cost: Early-stopping Self-Consistency for Multi-step Reasoning**|Yiwei Li et.al.|[2401.10480](http://arxiv.org/abs/2401.10480)|null|
-|**2024-01-18**|**Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting**|Hao Li et.al.|[2401.10359](http://arxiv.org/abs/2401.10359)|null|
+|**2024-01-19**|**Escape Sky-high Cost: Early-stopping Self-Consistency for Multi-step Reasoning**|Yiwei Li et.al.|[2401.10480](http://arxiv.org/abs/2401.10480)|**[link](https://github.com/yiwei98/esc)**|
+|**2024-01-18**|**Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting**|Hao Li et.al.|[2401.10359](http://arxiv.org/abs/2401.10359)|**[link](https://github.com/asgaardlab/overfitguard)**|
 |**2024-01-18**|**When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference**|Zhensu Sun et.al.|[2401.09964](http://arxiv.org/abs/2401.09964)|**[link](https://github.com/v587su/sec)**|
 |**2024-01-18**|**Boosting Few-Shot Segmentation via Instance-Aware Data Augmentation and Local Consensus Guided Cross Attention**|Li Guo et.al.|[2401.09866](http://arxiv.org/abs/2401.09866)|null|
 |**2024-01-15**|**CascadeV-Det: Cascade Point Voting for 3D Object Detection**|Yingping Liang et.al.|[2401.07477](http://arxiv.org/abs/2401.07477)|**[link](https://github.com/sharpiless/cascadev-det)**|
