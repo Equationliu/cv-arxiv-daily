@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Using multiple Dirac delta points to describe inhomogeneous flux density over a cell boundary in a single-cell diffusion model**|Qiyao Peng et.al.|[2401.16261](http://arxiv.org/abs/2401.16261)|null|
+|**2024-01-29**|**Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models**|Zhongjie Duan et.al.|[2401.16224](http://arxiv.org/abs/2401.16224)|null|
+|**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157](http://arxiv.org/abs/2401.16157)|null|
+|**2024-01-29**|**DMCE: Diffusion Model Channel Enhancer for Multi-User Semantic Communication Systems**|Youcheng Zeng et.al.|[2401.16017](http://arxiv.org/abs/2401.16017)|null|
+|**2024-01-29**|**Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling**|Xiaoyu Shi et.al.|[2401.15977](http://arxiv.org/abs/2401.15977)|null|
+|**2024-01-29**|**EmoDM: A Diffusion Model for Evolutionary Multi-objective Optimization**|Xueming Yan et.al.|[2401.15931](http://arxiv.org/abs/2401.15931)|null|
+|**2024-01-28**|**Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding**|Jianxiang Lu et.al.|[2401.15708](http://arxiv.org/abs/2401.15708)|null|
+|**2024-01-28**|**Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**|Qingcheng Zhao et.al.|[2401.15687](http://arxiv.org/abs/2401.15687)|null|
+|**2024-01-28**|**CPDM: Content-Preserving Diffusion Model for Underwater Image Enhancement**|Xiaowen Shi et.al.|[2401.15649](http://arxiv.org/abs/2401.15649)|null|
+|**2024-01-28**|**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models**|Feihong He et.al.|[2401.15636](http://arxiv.org/abs/2401.15636)|null|
 |**2024-01-26**|**Annotated Hands for Generative Models**|Yue Yang et.al.|[2401.15075](http://arxiv.org/abs/2401.15075)|**[link](https://github.com/YY-GX/Annotated-Hands-Dataset)**|
 |**2024-01-26**|**Text Image Inpainting via Global Structure-Guided Diffusion Models**|Shipeng Zhu et.al.|[2401.14832](http://arxiv.org/abs/2401.14832)|null|
 |**2024-01-25**|**Opposite variations for pore pressure on and off the fault during simulated earthquakes in the laboratory**|Dong Liu et.al.|[2401.14506](http://arxiv.org/abs/2401.14506)|null|
@@ -636,6 +646,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Scaling Sparse Fine-Tuning to Large Language Models**|Alan Ansell et.al.|[2401.16405](http://arxiv.org/abs/2401.16405)|null|
+|**2024-01-29**|**Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling**|Pratyush Maini et.al.|[2401.16380](http://arxiv.org/abs/2401.16380)|null|
+|**2024-01-29**|**The role of library versions in Developer-ChatGPT conversations**|Rachna Raj et.al.|[2401.16340](http://arxiv.org/abs/2401.16340)|null|
+|**2024-01-29**|**Machine Translation Meta Evaluation through Translation Accuracy Challenge Sets**|Nikita Moghe et.al.|[2401.16313](http://arxiv.org/abs/2401.16313)|null|
+|**2024-01-29**|**Security Code Review by LLMs: A Deep Dive into Responses**|Jiaxin Yu et.al.|[2401.16310](http://arxiv.org/abs/2401.16310)|null|
+|**2024-01-29**|**CO2: Efficient Distributed Training with Full Communication-Computation Overlap**|Weigao Sun et.al.|[2401.16265](http://arxiv.org/abs/2401.16265)|null|
+|**2024-01-29**|**An Empirical Study on Usage and Perceptions of LLMs in a Software Engineering Project**|Sanka Rasnayaka et.al.|[2401.16186](http://arxiv.org/abs/2401.16186)|null|
+|**2024-01-29**|**LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning**|Yuqiang Sun et.al.|[2401.16185](http://arxiv.org/abs/2401.16185)|null|
+|**2024-01-29**|**LLaMandement: Large Language Models for Summarization of French Legislative Proposals**|Joseph Gesnouin et.al.|[2401.16182](http://arxiv.org/abs/2401.16182)|null|
+|**2024-01-29**|**"You tell me": A Dataset of GPT-4-Based Behaviour Change Support Conversations**|Selina Meyer et.al.|[2401.16167](http://arxiv.org/abs/2401.16167)|null|
 |**2024-01-26**|**EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**|Yuhui Li et.al.|[2401.15077](http://arxiv.org/abs/2401.15077)|null|
 |**2024-01-26**|**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**|Chaochao Lu et.al.|[2401.15071](http://arxiv.org/abs/2401.15071)|null|
 |**2024-01-26**|**Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning**|Md Mushfiqur Rahman et.al.|[2401.15043](http://arxiv.org/abs/2401.15043)|null|
@@ -1344,9 +1364,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-28**|**Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization**|Yinbin Han et.al.|[2401.15604](http://arxiv.org/abs/2401.15604)|null|
+|**2024-01-28**|**Efficient Tuning and Inference for Large Language Models on Textual Graphs**|Yun Zhu et.al.|[2401.15569](http://arxiv.org/abs/2401.15569)|null|
 |**2024-01-24**|**NACHOS: Neural Architecture Search for Hardware Constrained Early Exit Neural Networks**|Matteo Gambella et.al.|[2401.13330](http://arxiv.org/abs/2401.13330)|null|
 |**2024-01-20**|**Accelerating Sinkhorn Algorithm with Sparse Newton Iterations**|Xun Tang et.al.|[2401.12253](http://arxiv.org/abs/2401.12253)|null|
-|**2024-01-19**|**I-SplitEE: Image classification in Split Computing DNNs with Early Exits**|Divya Jyoti Bajpai et.al.|[2401.10541](http://arxiv.org/abs/2401.10541)|null|
+|**2024-01-19**|**I-SplitEE: Image classification in Split Computing DNNs with Early Exits**|Divya Jyoti Bajpai et.al.|[2401.10541](http://arxiv.org/abs/2401.10541)|**[link](https://github.com/Div290/I-SplitEE)**|
 |**2024-01-19**|**Escape Sky-high Cost: Early-stopping Self-Consistency for Multi-step Reasoning**|Yiwei Li et.al.|[2401.10480](http://arxiv.org/abs/2401.10480)|**[link](https://github.com/yiwei98/esc)**|
 |**2024-01-18**|**Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting**|Hao Li et.al.|[2401.10359](http://arxiv.org/abs/2401.10359)|**[link](https://github.com/asgaardlab/overfitguard)**|
 |**2024-01-18**|**When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference**|Zhensu Sun et.al.|[2401.09964](http://arxiv.org/abs/2401.09964)|**[link](https://github.com/v587su/sec)**|
