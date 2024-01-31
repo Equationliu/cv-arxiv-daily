@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.30
+## Updated on 2024.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -1368,7 +1368,7 @@ layout: default
 |**2024-01-28**|**Efficient Tuning and Inference for Large Language Models on Textual Graphs**|Yun Zhu et.al.|[2401.15569](http://arxiv.org/abs/2401.15569)|null|
 |**2024-01-24**|**NACHOS: Neural Architecture Search for Hardware Constrained Early Exit Neural Networks**|Matteo Gambella et.al.|[2401.13330](http://arxiv.org/abs/2401.13330)|null|
 |**2024-01-20**|**Accelerating Sinkhorn Algorithm with Sparse Newton Iterations**|Xun Tang et.al.|[2401.12253](http://arxiv.org/abs/2401.12253)|null|
-|**2024-01-19**|**I-SplitEE: Image classification in Split Computing DNNs with Early Exits**|Divya Jyoti Bajpai et.al.|[2401.10541](http://arxiv.org/abs/2401.10541)|**[link](https://github.com/Div290/I-SplitEE)**|
+|**2024-01-19**|**I-SplitEE: Image classification in Split Computing DNNs with Early Exits**|Divya Jyoti Bajpai et.al.|[2401.10541](http://arxiv.org/abs/2401.10541)|null|
 |**2024-01-19**|**Escape Sky-high Cost: Early-stopping Self-Consistency for Multi-step Reasoning**|Yiwei Li et.al.|[2401.10480](http://arxiv.org/abs/2401.10480)|**[link](https://github.com/yiwei98/esc)**|
 |**2024-01-18**|**Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting**|Hao Li et.al.|[2401.10359](http://arxiv.org/abs/2401.10359)|**[link](https://github.com/asgaardlab/overfitguard)**|
 |**2024-01-18**|**When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference**|Zhensu Sun et.al.|[2401.09964](http://arxiv.org/abs/2401.09964)|**[link](https://github.com/v587su/sec)**|
