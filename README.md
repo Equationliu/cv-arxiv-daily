@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
+|**2024-02-01**|**An Analysis of the Variance of Diffusion-based Speech Enhancement**|Bunlong Lay et.al.|[2402.00811](http://arxiv.org/abs/2402.00811)|null|
+|**2024-02-01**|**Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**|Shangzhe Li et.al.|[2402.00807](http://arxiv.org/abs/2402.00807)|null|
+|**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769](http://arxiv.org/abs/2402.00769)|**[link](https://github.com/g-u-n/animatelcm)**|
+|**2024-02-01**|**Cylindrically symmetric diffusion model for relativistic heavy-ion collisions**|Johannes Hoelck et.al.|[2402.00628](http://arxiv.org/abs/2402.00628)|null|
+|**2024-02-01**|**CapHuman: Capture Your Moments in Parallel Universes**|Chao Liang et.al.|[2402.00627](http://arxiv.org/abs/2402.00627)|**[link](https://github.com/vamosc/caphuman)**|
+|**2024-02-01**|**Masked Conditional Diffusion Model for Enhancing Deepfake Detection**|Tiewen Chen et.al.|[2402.00541](http://arxiv.org/abs/2402.00541)|null|
+|**2024-02-01**|**Energetic Particles in the Central Starburst, Disc, and Halo of NGC253**|Yoel Rephaeli et.al.|[2402.00523](http://arxiv.org/abs/2402.00523)|null|
+|**2024-02-01**|**LRDif: Diffusion Models for Under-Display Camera Emotion Recognition**|Zhifeng Wang et.al.|[2402.00250](http://arxiv.org/abs/2402.00250)|null|
+|**2024-01-31**|**SuperDiff: Diffusion Models for Conditional Generation of Hypothetical New Families of Superconductors**|Samuel Yuan et.al.|[2402.00198](http://arxiv.org/abs/2402.00198)|null|
 |**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085](http://arxiv.org/abs/2401.18085)|null|
 |**2024-01-31**|**Ljusternik-Schnirelmann eigenvalues for the fractional $m-$Laplacian without the $Δ_2$ condition**|Julian Fernandez Bonder et.al.|[2401.18041](http://arxiv.org/abs/2401.18041)|null|
 |**2024-01-31**|**Diagnosing the particle transport mechanism in the pulsar halo via X-ray observations**|Qi-Zuo Wu et.al.|[2401.17982](http://arxiv.org/abs/2401.17982)|null|
@@ -2708,6 +2718,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861](http://arxiv.org/abs/2402.00861)|null|
+|**2024-02-01**|**Can Large Language Models Understand Context?**|Yilun Zhu et.al.|[2402.00858](http://arxiv.org/abs/2402.00858)|null|
+|**2024-02-01**|**SymbolicAI: A framework for logic-based approaches combining generative models and solvers**|Marius-Constantin Dinu et.al.|[2402.00854](http://arxiv.org/abs/2402.00854)|**[link](https://github.com/extensityai/benchmark)**|
+|**2024-02-01**|**Tiny Titans: Can Smaller Large Language Models Punch Above Their Weight in the Real World for Meeting Summarization?**|Xue-Yong Fu et.al.|[2402.00841](http://arxiv.org/abs/2402.00841)|null|
+|**2024-02-01**|**Common errors in Generative AI systems used for knowledge extraction in the climate action domain**|Denis Havlik et.al.|[2402.00830](http://arxiv.org/abs/2402.00830)|null|
+|**2024-02-01**|**Formal-LLM: Integrating Formal Language and Natural Language for Controllable LLM-based Agents**|Zelong Li et.al.|[2402.00798](http://arxiv.org/abs/2402.00798)|**[link](https://github.com/agiresearch/formal-llm)**|
+|**2024-02-01**|**LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law**|Toni J. B. Liu et.al.|[2402.00795](http://arxiv.org/abs/2402.00795)|null|
+|**2024-02-01**|**CroissantLLM: A Truly Bilingual French-English Language Model**|Manuel Faysse et.al.|[2402.00786](http://arxiv.org/abs/2402.00786)|null|
+|**2024-02-01**|**Dense Reward for Free in Reinforcement Learning from Human Feedback**|Alex J. Chan et.al.|[2402.00782](http://arxiv.org/abs/2402.00782)|**[link](https://github.com/xanderjc/attention-based-credit)**|
+|**2024-02-01**|**Unlearnable Algorithms for In-context Learning**|Andrei Muresanu et.al.|[2402.00751](http://arxiv.org/abs/2402.00751)|null|
 |**2024-01-31**|**Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?**|Andreas Opedal et.al.|[2401.18070](http://arxiv.org/abs/2401.18070)|null|
 |**2024-01-31**|**LongAlign: A Recipe for Long Context Alignment of Large Language Models**|Yushi Bai et.al.|[2401.18058](http://arxiv.org/abs/2401.18058)|**[link](https://github.com/thudm/longalign)**|
 |**2024-01-31**|**Paramanu: A Family of Novel Efficient Indic Generative Foundation Language Models**|Mitodru Niyogi et.al.|[2401.18034](http://arxiv.org/abs/2401.18034)|null|
@@ -3448,6 +3468,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Early Time Classification with Accumulated Accuracy Gap Control**|Liran Ringel et.al.|[2402.00857](http://arxiv.org/abs/2402.00857)|**[link](https://github.com/liranringel/etc)**|
+|**2024-02-01**|**EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models**|Xuchen Pan et.al.|[2402.00518](http://arxiv.org/abs/2402.00518)|**[link](https://github.com/pan-x-c/ee-llm)**|
 |**2024-01-31**|**Predicting the Future with Simple World Models**|Tankred Saanum et.al.|[2401.17835](http://arxiv.org/abs/2401.17835)|null|
 |**2024-01-28**|**Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization**|Yinbin Han et.al.|[2401.15604](http://arxiv.org/abs/2401.15604)|null|
 |**2024-01-28**|**Efficient Tuning and Inference for Large Language Models on Textual Graphs**|Yun Zhu et.al.|[2401.15569](http://arxiv.org/abs/2401.15569)|null|
