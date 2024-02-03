@@ -2725,7 +2725,7 @@
 |**2024-02-01**|**Common errors in Generative AI systems used for knowledge extraction in the climate action domain**|Denis Havlik et.al.|[2402.00830](http://arxiv.org/abs/2402.00830)|null|
 |**2024-02-01**|**Formal-LLM: Integrating Formal Language and Natural Language for Controllable LLM-based Agents**|Zelong Li et.al.|[2402.00798](http://arxiv.org/abs/2402.00798)|**[link](https://github.com/agiresearch/formal-llm)**|
 |**2024-02-01**|**LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law**|Toni J. B. Liu et.al.|[2402.00795](http://arxiv.org/abs/2402.00795)|null|
-|**2024-02-01**|**CroissantLLM: A Truly Bilingual French-English Language Model**|Manuel Faysse et.al.|[2402.00786](http://arxiv.org/abs/2402.00786)|null|
+|**2024-02-01**|**CroissantLLM: A Truly Bilingual French-English Language Model**|Manuel Faysse et.al.|[2402.00786](http://arxiv.org/abs/2402.00786)|**[link](https://github.com/coderpat/croissant-llm-training)**|
 |**2024-02-01**|**Dense Reward for Free in Reinforcement Learning from Human Feedback**|Alex J. Chan et.al.|[2402.00782](http://arxiv.org/abs/2402.00782)|**[link](https://github.com/xanderjc/attention-based-credit)**|
 |**2024-02-01**|**Unlearnable Algorithms for In-context Learning**|Andrei Muresanu et.al.|[2402.00751](http://arxiv.org/abs/2402.00751)|null|
 |**2024-01-31**|**Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?**|Andreas Opedal et.al.|[2401.18070](http://arxiv.org/abs/2401.18070)|null|
