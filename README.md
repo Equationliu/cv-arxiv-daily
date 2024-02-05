@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties**|Jingyuan Sun et.al.|[2402.01590](http://arxiv.org/abs/2402.01590)|null|
+|**2024-02-02**|**Boximator: Generating Rich and Controllable Motions for Video Synthesis**|Jiawei Wang et.al.|[2402.01566](http://arxiv.org/abs/2402.01566)|null|
+|**2024-02-02**|**Cross-view Masked Diffusion Transformers for Person Image Synthesis**|Trung X. Pham et.al.|[2402.01516](http://arxiv.org/abs/2402.01516)|null|
+|**2024-02-02**|**Conditioning non-linear and infinite-dimensional diffusion processes**|Elizabeth Louise Baker et.al.|[2402.01434](http://arxiv.org/abs/2402.01434)|null|
+|**2024-02-02**|**Bass Accompaniment Generation via Latent Diffusion**|Marco Pasini et.al.|[2402.01412](http://arxiv.org/abs/2402.01412)|null|
+|**2024-02-02**|**Cheating Suffix: Targeted Attack to Text-To-Image Diffusion Models with Multi-Modal Priors**|Dingcheng Yang et.al.|[2402.01369](http://arxiv.org/abs/2402.01369)|**[link](https://github.com/ydc123/mmp-attack)**|
+|**2024-02-02**|**Unsupervised Generation of Pseudo Normal PET from MRI with Diffusion Model for Epileptic Focus Localization**|Wentao Chen et.al.|[2402.01191](http://arxiv.org/abs/2402.01191)|null|
+|**2024-02-01**|**Unconditional Latent Diffusion Models Memorize Patient Imaging Data**|Salman Ul Hassan Dar et.al.|[2402.01054](http://arxiv.org/abs/2402.01054)|null|
+|**2024-02-01**|**pop-cosmos: A comprehensive picture of the galaxy population from COSMOS data**|Justin Alsing et.al.|[2402.00935](http://arxiv.org/abs/2402.00935)|null|
+|**2024-02-01**|**Data-Space Validation of High-Dimensional Models by Comparing Sample Quantiles**|Stephen Thorp et.al.|[2402.00930](http://arxiv.org/abs/2402.00930)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-02-01**|**An Analysis of the Variance of Diffusion-based Speech Enhancement**|Bunlong Lay et.al.|[2402.00811](http://arxiv.org/abs/2402.00811)|null|
 |**2024-02-01**|**Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**|Shangzhe Li et.al.|[2402.00807](http://arxiv.org/abs/2402.00807)|null|
@@ -2718,6 +2728,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**TravelPlanner: A Benchmark for Real-World Planning with Language Agents**|Jian Xie et.al.|[2402.01622](http://arxiv.org/abs/2402.01622)|null|
+|**2024-02-02**|**Stochastic Two Points Method for Deep Model Zeroth-order Optimization**|Yijiang Pang et.al.|[2402.01621](http://arxiv.org/abs/2402.01621)|null|
+|**2024-02-02**|**MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**|Justin Chih-Yao Chen et.al.|[2402.01620](http://arxiv.org/abs/2402.01620)|**[link](https://github.com/dinobby/magdi)**|
+|**2024-02-02**|**KB-Plugin: A Plug-and-play Framework for Large Language Models to Induce Programs over Low-resourced Knowledge Bases**|Jiajie Zhang et.al.|[2402.01619](http://arxiv.org/abs/2402.01619)|**[link](https://github.com/thu-keg/kb-plugin)**|
+|**2024-02-02**|**Style Vectors for Steering Generative Large Language Model**|Kai Konen et.al.|[2402.01618](http://arxiv.org/abs/2402.01618)|**[link](https://github.com/dlr-sc/style-vectors-for-steering-llms)**|
+|**2024-02-02**|**Foundation Model Sherpas: Guiding Foundation Models through Knowledge and Reasoning**|Debarun Bhattacharjya et.al.|[2402.01602](http://arxiv.org/abs/2402.01602)|null|
+|**2024-02-02**|**BAT: Learning to Reason about Spatial Sounds with Large Language Models**|Zhisheng Zheng et.al.|[2402.01591](http://arxiv.org/abs/2402.01591)|null|
+|**2024-02-02**|**Homogenization Effects of Large Language Models on Human Creative Ideation**|Barrett R. Anderson et.al.|[2402.01536](http://arxiv.org/abs/2402.01536)|null|
+|**2024-02-02**|**Decoding Speculative Decoding**|Minghao Yan et.al.|[2402.01528](http://arxiv.org/abs/2402.01528)|null|
+|**2024-02-02**|**K-Level Reasoning with Large Language Models**|Yadong Zhang et.al.|[2402.01521](http://arxiv.org/abs/2402.01521)|null|
 |**2024-02-01**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861](http://arxiv.org/abs/2402.00861)|null|
 |**2024-02-01**|**Can Large Language Models Understand Context?**|Yilun Zhu et.al.|[2402.00858](http://arxiv.org/abs/2402.00858)|null|
 |**2024-02-01**|**SymbolicAI: A framework for logic-based approaches combining generative models and solvers**|Marius-Constantin Dinu et.al.|[2402.00854](http://arxiv.org/abs/2402.00854)|**[link](https://github.com/extensityai/benchmark)**|
