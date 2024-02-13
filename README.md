@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Towards a mathematical theory for consistency training in diffusion models**|Gen Li et.al.|[2402.07802](http://arxiv.org/abs/2402.07802)|null|
+|**2024-02-12**|**Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**|Jiacheng Ye et.al.|[2402.07754](http://arxiv.org/abs/2402.07754)|null|
+|**2024-02-12**|**Cosmology at the Field Level with Probabilistic Machine Learning**|Adam Rouhiainen et.al.|[2402.07694](http://arxiv.org/abs/2402.07694)|null|
+|**2024-02-12**|**Trustworthy SR: Resolving Ambiguity in Image Super-resolution via Diffusion Models and Human Feedback**|Cansu Korkmaz et.al.|[2402.07597](http://arxiv.org/abs/2402.07597)|null|
+|**2024-02-12**|**Score-based Diffusion Models via Stochastic Differential Equations -- a Technical Tutorial**|Wenpin Tang et.al.|[2402.07487](http://arxiv.org/abs/2402.07487)|null|
+|**2024-02-12**|**SALAD: Smart AI Language Assistant Daily**|Ragib Amin Nihal et.al.|[2402.07431](http://arxiv.org/abs/2402.07431)|null|
+|**2024-02-12**|**Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation**|Tonglong Wei et.al.|[2402.07369](http://arxiv.org/abs/2402.07369)|null|
+|**2024-02-11**|**Stitching Sub-Trajectories with Conditional Diffusion Model for Goal-Conditioned Offline RL**|Sungyoon Kim et.al.|[2402.07226](http://arxiv.org/abs/2402.07226)|**[link](https://github.com/rlatjddbs/ssd)**|
+|**2024-02-11**|**Towards Fast Stochastic Sampling in Diffusion Generative Models**|Kushagra Pandey et.al.|[2402.07211](http://arxiv.org/abs/2402.07211)|null|
+|**2024-02-10**|**Synthesizing CTA Image Data for Type-B Aortic Dissection using Stable Diffusion Models**|Ayman Abaid et.al.|[2402.06969](http://arxiv.org/abs/2402.06969)|null|
 |**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[2402.06559](http://arxiv.org/abs/2402.06559)|null|
 |**2024-02-09**|**Sequential Flow Matching for Generative Modeling**|Jongmin Yoon et.al.|[2402.06461](http://arxiv.org/abs/2402.06461)|null|
 |**2024-02-09**|**ControlUDA: Controllable Diffusion-assisted Unsupervised Domain Adaptation for Cross-Weather Semantic Segmentation**|Fengyi Shen et.al.|[2402.06446](http://arxiv.org/abs/2402.06446)|null|
@@ -2778,6 +2788,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**WildfireGPT: Tailored Large Language Model for Wildfire Analysis**|Yangxinyu Xie et.al.|[2402.07877](http://arxiv.org/abs/2402.07877)|null|
+|**2024-02-12**|**Policy Improvement using Language Feedback Models**|Victor Zhong et.al.|[2402.07876](http://arxiv.org/abs/2402.07876)|null|
+|**2024-02-12**|**Scaling Laws for Fine-Grained Mixture of Experts**|Jakub Krajewski et.al.|[2402.07871](http://arxiv.org/abs/2402.07871)|null|
+|**2024-02-12**|**PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models**|Wei Zou et.al.|[2402.07867](http://arxiv.org/abs/2402.07867)|**[link](https://github.com/sleeepeer/poisonedrag)**|
+|**2024-02-12**|**AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy**|Philipp Schoenegger et.al.|[2402.07862](http://arxiv.org/abs/2402.07862)|null|
+|**2024-02-12**|**Mercury: An Efficiency Benchmark for LLM Code Synthesis**|Mingzhe Du et.al.|[2402.07844](http://arxiv.org/abs/2402.07844)|null|
+|**2024-02-12**|**Do Membership Inference Attacks Work on Large Language Models?**|Michael Duan et.al.|[2402.07841](http://arxiv.org/abs/2402.07841)|null|
+|**2024-02-12**|**Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model**|Ahmet Üstün et.al.|[2402.07827](http://arxiv.org/abs/2402.07827)|null|
+|**2024-02-12**|**Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning**|Z Liu et.al.|[2402.07818](http://arxiv.org/abs/2402.07818)|null|
+|**2024-02-12**|**Retrieval-Augmented Thought Process as Sequential Decision Making**|Thomas Pouplin et.al.|[2402.07812](http://arxiv.org/abs/2402.07812)|null|
 |**2024-02-09**|**Understanding the Effects of Iterative Prompting on Truthfulness**|Satyapriya Krishna et.al.|[2402.06625](http://arxiv.org/abs/2402.06625)|null|
 |**2024-02-09**|**Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning**|Shivalika Singh et.al.|[2402.06619](http://arxiv.org/abs/2402.06619)|null|
 |**2024-02-09**|**On the Out-Of-Distribution Generalization of Multimodal Large Language Models**|Xingxuan Zhang et.al.|[2402.06599](http://arxiv.org/abs/2402.06599)|null|
@@ -3588,6 +3608,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**On the Distance from Calibration in Sequential Prediction**|Mingda Qiao et.al.|[2402.07458](http://arxiv.org/abs/2402.07458)|null|
+|**2024-02-10**|**Understanding the Training Speedup from Sampling with Approximate Losses**|Rudrajit Das et.al.|[2402.07052](http://arxiv.org/abs/2402.07052)|null|
 |**2024-02-09**|**SAE: Single Architecture Ensemble Neural Networks**|Martin Ferianc et.al.|[2402.06580](http://arxiv.org/abs/2402.06580)|null|
 |**2024-02-03**|**DE $^3$ -BERT: Distance-Enhanced Early Exiting for BERT based on Prototypical Networks**|Jianing He et.al.|[2402.05948](http://arxiv.org/abs/2402.05948)|null|
 |**2024-02-07**|**Early Stopping of Untrained Convolutional Neural Networks**|Tim Jahn et.al.|[2402.04610](http://arxiv.org/abs/2402.04610)|null|
