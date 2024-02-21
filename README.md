@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Neural Network Diffusion**|Kai Wang et.al.|[2402.13144](http://arxiv.org/abs/2402.13144)|**[link](https://github.com/nus-hpc-ai-lab/neural-network-diffusion)**|
+|**2024-02-20**|**Text-Guided Molecule Generation with Diffusion Language Model**|Haisong Gong et.al.|[2402.13040](http://arxiv.org/abs/2402.13040)|**[link](https://github.com/deno-v/tgm-dlm)**|
+|**2024-02-20**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
+|**2024-02-20**|**CLIPping the Deception: Adapting Vision-Language Models for Universal Deepfake Detection**|Sohail Ahmed Khan et.al.|[2402.12927](http://arxiv.org/abs/2402.12927)|null|
+|**2024-02-20**|**RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models**|Xinchen Zhang et.al.|[2402.12908](http://arxiv.org/abs/2402.12908)|**[link](https://github.com/yangling0818/realcompo)**|
+|**2024-02-20**|**Two-stage Rainfall-Forecasting Diffusion Model**|XuDong Ling et.al.|[2402.12779](http://arxiv.org/abs/2402.12779)|**[link](https://github.com/clearlyzerolxd/trdm)**|
+|**2024-02-20**|**MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion**|Sen Li et.al.|[2402.12741](http://arxiv.org/abs/2402.12741)|**[link](https://github.com/measure-infinity/mulan-code)**|
+|**2024-02-20**|**Diffusion Posterior Sampling is Computationally Intractable**|Shivam Gupta et.al.|[2402.12727](http://arxiv.org/abs/2402.12727)|null|
+|**2024-02-20**|**MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction**|Shitao Tang et.al.|[2402.12712](http://arxiv.org/abs/2402.12712)|null|
+|**2024-02-20**|**SingVisio: Visual Analytics of Diffusion Model for Singing Voice Conversion**|Liumeng Xue et.al.|[2402.12660](http://arxiv.org/abs/2402.12660)|null|
 |**2024-02-19**|**FiT: Flexible Vision Transformer for Diffusion Model**|Zeyu Lu et.al.|[2402.12376](http://arxiv.org/abs/2402.12376)|**[link](https://github.com/whlzy/fit)**|
 |**2024-02-19**|**Synthetic location trajectory generation using categorical diffusion models**|Simon Dirmeier et.al.|[2402.12242](http://arxiv.org/abs/2402.12242)|null|
 |**2024-02-19**|**Adversarial Feature Alignment: Balancing Robustness and Accuracy in Deep Learning via Adversarial Training**|Leo Hyun Park et.al.|[2402.12187](http://arxiv.org/abs/2402.12187)|null|
@@ -2836,6 +2846,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Unlocking Insights: Semantic Search in Jupyter Notebooks**|Lan Li et.al.|[2402.13234](http://arxiv.org/abs/2402.13234)|null|
+|**2024-02-20**|**Investigating Cultural Alignment of Large Language Models**|Badr AlKhamissi et.al.|[2402.13231](http://arxiv.org/abs/2402.13231)|**[link](https://github.com/bkhmsi/cultural-trends)**|
+|**2024-02-20**|**Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive**|Arka Pal et.al.|[2402.13228](http://arxiv.org/abs/2402.13228)|null|
+|**2024-02-20**|**AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning**|Qiao Jin et.al.|[2402.13225](http://arxiv.org/abs/2402.13225)|null|
+|**2024-02-20**|**RoCode: A Dataset for Measuring Code Intelligence from Problem Definitions in Romanian**|Adrian Cosma et.al.|[2402.13222](http://arxiv.org/abs/2402.13222)|**[link](https://github.com/cosmaadrian/rocode)**|
+|**2024-02-20**|**How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts**|Yusu Qian et.al.|[2402.13220](http://arxiv.org/abs/2402.13220)|null|
+|**2024-02-20**|**Softmax Probabilities (Mostly) Predict Large Language Model Correctness on Multiple-Choice Q&A**|Benjamin Plaut et.al.|[2402.13213](http://arxiv.org/abs/2402.13213)|**[link](https://github.com/bplaut/softmax-probs-predict-llm-correctness)**|
+|**2024-02-20**|**Soft Self-Consistency Improves Language Model Agents**|Han Wang et.al.|[2402.13212](http://arxiv.org/abs/2402.13212)|**[link](https://github.com/hannight/soft_self_consistency)**|
+|**2024-02-20**|**Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation**|Dongjin Kang et.al.|[2402.13211](http://arxiv.org/abs/2402.13211)|null|
+|**2024-02-20**|**Bayesian Reward Models for LLM Alignment**|Adam X. Yang et.al.|[2402.13210](http://arxiv.org/abs/2402.13210)|null|
 |**2024-02-19**|**Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding**|Zhuoming Chen et.al.|[2402.12374](http://arxiv.org/abs/2402.12374)|null|
 |**2024-02-19**|**A Critical Evaluation of AI Feedback for Aligning Large Language Models**|Archit Sharma et.al.|[2402.12366](http://arxiv.org/abs/2402.12366)|**[link](https://github.com/architsharma97/dpo-rlaif)**|
 |**2024-02-19**|**Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge**|Julien Delile et.al.|[2402.12352](http://arxiv.org/abs/2402.12352)|null|
