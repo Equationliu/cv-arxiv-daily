@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817](http://arxiv.org/abs/2402.14817)|null|
+|**2024-02-22**|**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**|Yixuan Ren et.al.|[2402.14780](http://arxiv.org/abs/2402.14780)|null|
+|**2024-02-22**|**Debiasing Text-to-Image Diffusion Models**|Ruifei He et.al.|[2402.14577](http://arxiv.org/abs/2402.14577)|null|
+|**2024-02-22**|**Model-Based Reinforcement Learning Control of Reaction-Diffusion Problems**|Christina Schenk et.al.|[2402.14446](http://arxiv.org/abs/2402.14446)|null|
+|**2024-02-22**|**Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning**|Haoran He et.al.|[2402.14407](http://arxiv.org/abs/2402.14407)|null|
+|**2024-02-22**|**Diffusion Model Based Visual Compensation Guidance and Visual Difference Analysis for No-Reference Image Quality Assessment**|Zhaoyang Wang et.al.|[2402.14401](http://arxiv.org/abs/2402.14401)|null|
+|**2024-02-22**|**Typographic Text Generation with Off-the-Shelf Diffusion Model**|KhayTze Peong et.al.|[2402.14314](http://arxiv.org/abs/2402.14314)|null|
+|**2024-02-22**|**Font Style Interpolation with Diffusion Models**|Tetta Kondo et.al.|[2402.14311](http://arxiv.org/abs/2402.14311)|null|
+|**2024-02-22**|**A Simple Framework Uniting Visual In-context Learning with Masked Image Modeling to Improve Ultrasound Segmentation**|Yuyue Zhou et.al.|[2402.14300](http://arxiv.org/abs/2402.14300)|**[link](https://github.com/yuyue2uofa/simicl)**|
+|**2024-02-22**|**Symbolic Music Generation with Non-Differentiable Rule Guided Diffusion**|Yujia Huang et.al.|[2402.14285](http://arxiv.org/abs/2402.14285)|**[link](https://github.com/yjhuangcd/rule-guided-music)**|
 |**2024-02-21**|**Non-asymptotic Convergence of Discrete-time Diffusion Models: New Approach and Improved Rate**|Yuchen Liang et.al.|[2402.13901](http://arxiv.org/abs/2402.13901)|null|
 |**2024-02-21**|**NeuralDiffuser: Controllable fMRI Reconstruction with Primary Visual Feature Guided Diffusion**|Haoyu Li et.al.|[2402.13809](http://arxiv.org/abs/2402.13809)|null|
 |**2024-02-21**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777](http://arxiv.org/abs/2402.13777)|null|
@@ -2856,6 +2866,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**PALO: A Polyglot Large Multimodal Model for 5B People**|Muhammad Maaz et.al.|[2402.14818](http://arxiv.org/abs/2402.14818)|**[link](https://github.com/mbzuai-oryx/palo)**|
+|**2024-02-22**|**CriticBench: Benchmarking LLMs for Critique-Correct Reasoning**|Zicheng Lin et.al.|[2402.14809](http://arxiv.org/abs/2402.14809)|**[link](https://github.com/CriticBench/CriticBench)**|
+|**2024-02-22**|**RelayAttention for Efficient Large Language Model Serving with Long System Prompts**|Lei Zhu et.al.|[2402.14808](http://arxiv.org/abs/2402.14808)|null|
+|**2024-02-22**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807](http://arxiv.org/abs/2402.14807)|null|
+|**2024-02-22**|**Identifying Multiple Personalities in Large Language Models with External Evaluation**|Xiaoyang Song et.al.|[2402.14805](http://arxiv.org/abs/2402.14805)|null|
+|**2024-02-22**|**Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models**|Xudong Lu et.al.|[2402.14800](http://arxiv.org/abs/2402.14800)|**[link](https://github.com/lucky-lance/expert_sparsity)**|
+|**2024-02-22**|**Zero-shot cross-lingual transfer in instruction tuning of large language model**|Nadezhda Chirkova et.al.|[2402.14778](http://arxiv.org/abs/2402.14778)|null|
+|**2024-02-22**|**DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models**|Yuhang Cao et.al.|[2402.14767](http://arxiv.org/abs/2402.14767)|**[link](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/DualFocus)**|
+|**2024-02-22**|**MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues**|Ge Bai et.al.|[2402.14762](http://arxiv.org/abs/2402.14762)|null|
+|**2024-02-22**|**Generalizing Reward Modeling for Out-of-Distribution Preference Learning**|Chen Jia et.al.|[2402.14760](http://arxiv.org/abs/2402.14760)|null|
 |**2024-02-21**|**Coercing LLMs to do and reveal (almost) anything**|Jonas Geiping et.al.|[2402.14020](http://arxiv.org/abs/2402.14020)|**[link](https://github.com/jonasgeiping/carving)**|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
 |**2024-02-21**|**OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**|Chaoqun He et.al.|[2402.14008](http://arxiv.org/abs/2402.14008)|null|
