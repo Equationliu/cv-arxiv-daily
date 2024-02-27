@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Stochastic Conditional Diffusion Models for Semantic Image Synthesis**|Juyeon Ko et.al.|[2402.16506](http://arxiv.org/abs/2402.16506)|null|
+|**2024-02-26**|**Outline-Guided Object Inpainting with Diffusion Models**|Markus Pobitzer et.al.|[2402.16421](http://arxiv.org/abs/2402.16421)|null|
+|**2024-02-26**|**Placing Objects in Context via Inpainting for Out-of-distribution Segmentation**|Pau de Jorge et.al.|[2402.16392](http://arxiv.org/abs/2402.16392)|**[link](https://github.com/naver/poc)**|
+|**2024-02-26**|**Generative AI in Vision: A Survey on Models, Metrics and Applications**|Gaurav Raut et.al.|[2402.16369](http://arxiv.org/abs/2402.16369)|null|
+|**2024-02-26**|**Feedback Efficient Online Fine-Tuning of Diffusion Models**|Masatoshi Uehara et.al.|[2402.16359](http://arxiv.org/abs/2402.16359)|null|
+|**2024-02-26**|**Graph Diffusion Policy Optimization**|Yijing Liu et.al.|[2402.16302](http://arxiv.org/abs/2402.16302)|**[link](https://github.com/sail-sg/gdpo)**|
+|**2024-02-25**|**Photon-counting CT using a Conditional Diffusion Model for Super-resolution and Texture-preservation**|Christopher Wiedeman et.al.|[2402.16212](http://arxiv.org/abs/2402.16212)|null|
+|**2024-02-25**|**Towards Efficient Quantum Hybrid Diffusion Models**|Francesca De Falco et.al.|[2402.16147](http://arxiv.org/abs/2402.16147)|null|
+|**2024-02-25**|**Cinematographic Camera Diffusion Model**|Hongda Jiang et.al.|[2402.16143](http://arxiv.org/abs/2402.16143)|null|
+|**2024-02-25**|**Behavioral Refinement via Interpolant-based Policy Diffusion**|Kaiqi Chen et.al.|[2402.16075](http://arxiv.org/abs/2402.16075)|null|
 |**2024-02-23**|**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**|Chun-Hsiao Yeh et.al.|[2402.15504](http://arxiv.org/abs/2402.15504)|**[link](https://github.com/louisYen/Gen4Gen)**|
 |**2024-02-23**|**ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**|Yi Zhang et.al.|[2402.15429](http://arxiv.org/abs/2402.15429)|**[link](https://github.com/wellzline/protip)**|
 |**2024-02-23**|**Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models**|Shunyu Liu et.al.|[2402.15289](http://arxiv.org/abs/2402.15289)|**[link](https://github.com/qlb6x/diffusionabsa)**|
@@ -2873,6 +2883,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments**|Junzhe Chen et.al.|[2402.16499](http://arxiv.org/abs/2402.16499)|null|
+|**2024-02-26**|**Unveiling ChatGPT's Usage in Open Source Projects: A Mining-based Study**|Rosalia Tufano et.al.|[2402.16480](http://arxiv.org/abs/2402.16480)|null|
+|**2024-02-26**|**Defending LLMs against Jailbreaking Attacks via Backtranslation**|Yihan Wang et.al.|[2402.16459](http://arxiv.org/abs/2402.16459)|null|
+|**2024-02-26**|**ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**|Liuzhenghao Lv et.al.|[2402.16445](http://arxiv.org/abs/2402.16445)|null|
+|**2024-02-26**|**ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable Safety Detectors**|Zhexin Zhang et.al.|[2402.16444](http://arxiv.org/abs/2402.16444)|**[link](https://github.com/thu-coai/shieldlm)**|
+|**2024-02-26**|**Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models**|Tianyi Tang et.al.|[2402.16438](http://arxiv.org/abs/2402.16438)|null|
+|**2024-02-26**|**RoCoIns: Enhancing Robustness of Large Language Models through Code-Style Instructions**|Yuansen Zhang et.al.|[2402.16431](http://arxiv.org/abs/2402.16431)|null|
+|**2024-02-26**|**From RAGs to riches: Using large language models to write documents for clinical trials**|Nigel Markey et.al.|[2402.16406](http://arxiv.org/abs/2402.16406)|null|
+|**2024-02-26**|**MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property**|Shiwen Ni et.al.|[2402.16389](http://arxiv.org/abs/2402.16389)|**[link](https://github.com/ai-for-science/mozi)**|
+|**2024-02-26**|**Immunization against harmful fine-tuning attacks**|Domenic Rosati et.al.|[2402.16382](http://arxiv.org/abs/2402.16382)|null|
 |**2024-02-23**|**AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning**|Jianguo Zhang et.al.|[2402.15506](http://arxiv.org/abs/2402.15506)|null|
 |**2024-02-23**|**API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs**|Kinjal Basu et.al.|[2402.15491](http://arxiv.org/abs/2402.15491)|null|
 |**2024-02-23**|**Prejudice and Caprice: A Statistical Framework for Measuring Social Discrimination in Large Language Models**|Yiran Liu et.al.|[2402.15481](http://arxiv.org/abs/2402.15481)|null|
@@ -3783,12 +3803,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**LLM Inference Unveiled: Survey and Roofline Model Insights**|Zhihang Yuan et.al.|[2402.16363](http://arxiv.org/abs/2402.16363)|null|
+|**2024-02-23**|**Towards Improved Uncertainty Quantification of Stochastic Epidemic Models Using Sequential Monte Carlo**|Arindam Fadikar et.al.|[2402.15619](http://arxiv.org/abs/2402.15619)|null|
+|**2024-02-23**|**Minimax Optimality of Score-based Diffusion Models: Beyond the Density Lower Bound Assumptions**|Kaihong Zhang et.al.|[2402.15602](http://arxiv.org/abs/2402.15602)|null|
 |**2024-02-23**|**ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**|Yi Zhang et.al.|[2402.15429](http://arxiv.org/abs/2402.15429)|**[link](https://github.com/wellzline/protip)**|
 |**2024-02-21**|**FlexHB: a More Efficient and Flexible Framework for Hyperparameter Optimization**|Yang Zhang et.al.|[2402.13641](http://arxiv.org/abs/2402.13641)|null|
 |**2024-02-19**|**Towards Theoretical Understandings of Self-Consuming Generative Models**|Shi Fu et.al.|[2402.11778](http://arxiv.org/abs/2402.11778)|null|
 |**2024-02-17**|**Training Language Model Agents without Modifying Language Models**|Shaokun Zhang et.al.|[2402.11359](http://arxiv.org/abs/2402.11359)|null|
 |**2024-02-16**|**Functional Partial Least-Squares: Optimal Rates and Adaptation**|Andrii Babii et.al.|[2402.11134](http://arxiv.org/abs/2402.11134)|null|
-|**2024-02-19**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207](http://arxiv.org/abs/2402.10207)|null|
+|**2024-02-25**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207](http://arxiv.org/abs/2402.10207)|**[link](https://github.com/yangrui2015/ric)**|
 |**2024-02-15**|**Bridging the Empirical-Theoretical Gap in Neural Network Formal Language Learning Using Minimum Description Length**|Nur Lan et.al.|[2402.10013](http://arxiv.org/abs/2402.10013)|**[link](https://github.com/0xnurl/mdl-lstm)**|
 |**2024-02-17**|**UR2M: Uncertainty and Resource-Aware Event Detection on Microcontrollers**|Hong Jia et.al.|[2402.09264](http://arxiv.org/abs/2402.09264)|null|
 |**2024-02-13**|**One-shot Imitation in a Non-Stationary Environment via Multi-Modal Skill**|Sangwoo Shin et.al.|[2402.08369](http://arxiv.org/abs/2402.08369)|null|
