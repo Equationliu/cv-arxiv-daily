@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Logarithmic Sobolev Inequalities for Bounded Domains and Applications to Drift-Diffusion Equations**|Elie Abdo et.al.|[2402.18572](http://arxiv.org/abs/2402.18572)|null|
+|**2024-02-28**|**Dynamical Regimes of Diffusion Models**|Giulio Biroli et.al.|[2402.18491](http://arxiv.org/abs/2402.18491)|null|
+|**2024-02-28**|**Deep Confident Steps to New Pockets: Strategies for Docking Generalization**|Gabriele Corso et.al.|[2402.18396](http://arxiv.org/abs/2402.18396)|**[link](https://github.com/gcorso/diffdock)**|
+|**2024-02-28**|**Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model**|Sangjoon Park et.al.|[2402.18362](http://arxiv.org/abs/2402.18362)|null|
+|**2024-02-28**|**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes**|Ziying Pan et.al.|[2402.18331](http://arxiv.org/abs/2402.18331)|null|
+|**2024-02-28**|**Balancing Act: Distribution-Guided Debiasing in Diffusion Models**|Rishubh Parihar et.al.|[2402.18206](http://arxiv.org/abs/2402.18206)|null|
+|**2024-02-28**|**Diffusion-based Neural Network Weights Generation**|Bedionita Soro et.al.|[2402.18153](http://arxiv.org/abs/2402.18153)|null|
+|**2024-02-28**|**Context-aware Talking Face Video Generation**|Meidai Xuanyuan et.al.|[2402.18092](http://arxiv.org/abs/2402.18092)|null|
+|**2024-02-28**|**Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis**|Yanzuo Lu et.al.|[2402.18078](http://arxiv.org/abs/2402.18078)|**[link](https://github.com/YanzuoLu/CFLD)**|
+|**2024-02-28**|**SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model**|Bin Cao et.al.|[2402.18068](http://arxiv.org/abs/2402.18068)|null|
 |**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768](http://arxiv.org/abs/2402.17768)|null|
 |**2024-02-27**|**Masked Gamma-SSL: Learning Uncertainty Estimation via Masked Image Modeling**|David S. W. Williams et.al.|[2402.17622](http://arxiv.org/abs/2402.17622)|null|
 |**2024-02-27**|**Structure-Guided Adversarial Training of Diffusion Models**|Ling Yang et.al.|[2402.17563](http://arxiv.org/abs/2402.17563)|null|
@@ -2893,6 +2903,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571](http://arxiv.org/abs/2402.18571)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
+|**2024-02-28**|**A Categorization of Complexity Classes for Information Retrieval and Synthesis Using Natural Logic**|Gregory Coppola et.al.|[2402.18566](http://arxiv.org/abs/2402.18566)|null|
+|**2024-02-28**|**Implicit Bias of Next-Token Prediction**|Christos Thrampoulidis et.al.|[2402.18551](http://arxiv.org/abs/2402.18551)|null|
+|**2024-02-28**|**Few-Shot Fairness: Unveiling LLM's Potential for Fairness-Aware Classification**|Garima Chhikara et.al.|[2402.18502](http://arxiv.org/abs/2402.18502)|null|
+|**2024-02-28**|**Language Models Represent Beliefs of Self and Others**|Wentao Zhu et.al.|[2402.18496](http://arxiv.org/abs/2402.18496)|null|
+|**2024-02-28**|**Meta-Task Prompting Elicits Embedding from Large Language Models**|Yibin Lei et.al.|[2402.18458](http://arxiv.org/abs/2402.18458)|null|
+|**2024-02-28**|**Beyond Natural Language: LLMs Leveraging Alternative Formats for Enhanced Reasoning and Communication**|Weize Chen et.al.|[2402.18439](http://arxiv.org/abs/2402.18439)|**[link](https://github.com/thunlp/autoform)**|
+|**2024-02-28**|**Decomposed Prompting: Unveiling Multilingual Linguistic Structure Knowledge in English-Centric Large Language Models**|Ercong Nie et.al.|[2402.18397](http://arxiv.org/abs/2402.18397)|null|
+|**2024-02-28**|**The First Place Solution of WSDM Cup 2024: Leveraging Large Language Models for Conversational Multi-Doc QA**|Yiming Li et.al.|[2402.18385](http://arxiv.org/abs/2402.18385)|null|
+|**2024-02-28**|**Large Language Models As Evolution Strategies**|Robert Tjarko Lange et.al.|[2402.18381](http://arxiv.org/abs/2402.18381)|null|
 |**2024-02-27**|**ShapeLLM: Universal 3D Object Understanding for Embodied Interaction**|Zekun Qi et.al.|[2402.17766](http://arxiv.org/abs/2402.17766)|**[link](https://github.com/qizekun/ShapeLLM)**|
 |**2024-02-27**|**The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**|Shuming Ma et.al.|[2402.17764](http://arxiv.org/abs/2402.17764)|null|
 |**2024-02-27**|**Massive Activations in Large Language Models**|Mingjie Sun et.al.|[2402.17762](http://arxiv.org/abs/2402.17762)|**[link](https://github.com/locuslab/massive-activations)**|
@@ -3826,7 +3846,7 @@
 |---|---|---|---|---|
 |**2024-02-25**|**Instance-aware Exploration-Verification-Exploitation for Instance ImageGoal Navigation**|Xiaohan Lei et.al.|[2402.17587](http://arxiv.org/abs/2402.17587)|null|
 |**2024-02-26**|**Failures and Successes of Cross-Validation for Early-Stopped Gradient Descent**|Pratik Patil et.al.|[2402.16793](http://arxiv.org/abs/2402.16793)|null|
-|**2024-02-26**|**LLM Inference Unveiled: Survey and Roofline Model Insights**|Zhihang Yuan et.al.|[2402.16363](http://arxiv.org/abs/2402.16363)|**[link](https://github.com/hahnyuan/llm-viewer)**|
+|**2024-02-28**|**LLM Inference Unveiled: Survey and Roofline Model Insights**|Zhihang Yuan et.al.|[2402.16363](http://arxiv.org/abs/2402.16363)|**[link](https://github.com/hahnyuan/llm-viewer)**|
 |**2024-02-23**|**Towards Improved Uncertainty Quantification of Stochastic Epidemic Models Using Sequential Monte Carlo**|Arindam Fadikar et.al.|[2402.15619](http://arxiv.org/abs/2402.15619)|null|
 |**2024-02-23**|**Minimax Optimality of Score-based Diffusion Models: Beyond the Density Lower Bound Assumptions**|Kaihong Zhang et.al.|[2402.15602](http://arxiv.org/abs/2402.15602)|null|
 |**2024-02-23**|**ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**|Yi Zhang et.al.|[2402.15429](http://arxiv.org/abs/2402.15429)|**[link](https://github.com/wellzline/protip)**|
