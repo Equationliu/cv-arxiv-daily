@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models**|Yabo Zhang et.al.|[2403.05438](http://arxiv.org/abs/2403.05438)|**[link](https://github.com/ybybzhang/videoelevator)**|
+|**2024-03-08**|**DiffSF: Diffusion Models for Scene Flow Estimation**|Yushan Zhang et.al.|[2403.05327](http://arxiv.org/abs/2403.05327)|null|
+|**2024-03-08**|**Noise Level Adaptive Diffusion Model for Robust Reconstruction of Accelerated MRI**|Shoujin Huang et.al.|[2403.05245](http://arxiv.org/abs/2403.05245)|null|
+|**2024-03-08**|**Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation**|Junyan Wang et.al.|[2403.05239](http://arxiv.org/abs/2403.05239)|null|
+|**2024-03-08**|**Denoising Autoregressive Representation Learning**|Yazhe Li et.al.|[2403.05196](http://arxiv.org/abs/2403.05196)|null|
+|**2024-03-08**|**DiffuLT: How to Make Diffusion Model Useful for Long-tail Recognition**|Jie Shao et.al.|[2403.05170](http://arxiv.org/abs/2403.05170)|null|
+|**2024-03-08**|**GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting**|Francesco Palandra et.al.|[2403.05154](http://arxiv.org/abs/2403.05154)|null|
+|**2024-03-08**|**Improving Diffusion Models for Virtual Try-on**|Yisol Choi et.al.|[2403.05139](http://arxiv.org/abs/2403.05139)|null|
+|**2024-03-08**|**ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment**|Xiwei Hu et.al.|[2403.05135](http://arxiv.org/abs/2403.05135)|null|
+|**2024-03-08**|**CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion**|Wendi Zheng et.al.|[2403.05121](http://arxiv.org/abs/2403.05121)|null|
 |**2024-03-07**|**Masked Capsule Autoencoders**|Miles Everett et.al.|[2403.04724](http://arxiv.org/abs/2403.04724)|null|
 |**2024-03-07**|**ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes**|Hashmat Shadab Malik et.al.|[2403.04701](http://arxiv.org/abs/2403.04701)|null|
 |**2024-03-07**|**Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**|Sijia Chen et.al.|[2403.04700](http://arxiv.org/abs/2403.04700)|**[link](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)**|
@@ -909,6 +919,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**|Machel Reid et.al.|[2403.05530](http://arxiv.org/abs/2403.05530)|null|
+|**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527](http://arxiv.org/abs/2403.05527)|null|
+|**2024-03-08**|**Beyond Finite Data: Towards Data-free Out-of-distribution Generalization via Extrapola**|Yijiang Li et.al.|[2403.05523](http://arxiv.org/abs/2403.05523)|null|
+|**2024-03-08**|**Will GPT-4 Run DOOM?**|Adrian de Wynter et.al.|[2403.05468](http://arxiv.org/abs/2403.05468)|null|
+|**2024-03-08**|**Cost-Performance Optimization for Processing Low-Resource Language Tasks Using Commercial LLMs**|Arijit Nag et.al.|[2403.05434](http://arxiv.org/abs/2403.05434)|null|
+|**2024-03-08**|**Explaining Pre-Trained Language Models with Attribution Scores: An Analysis in Low-Resource Settings**|Wei Zhou et.al.|[2403.05338](http://arxiv.org/abs/2403.05338)|null|
+|**2024-03-08**|**ChatASU: Evoking LLM's Reflexion to Truly Understand Aspect Sentiment in Dialogues**|Yiding Liu et.al.|[2403.05326](http://arxiv.org/abs/2403.05326)|null|
+|**2024-03-08**|**RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation**|Zihao Wang et.al.|[2403.05313](http://arxiv.org/abs/2403.05313)|null|
+|**2024-03-08**|**Tapilot-Crossing: Benchmarking and Evolving LLMs Towards Interactive Data Analysis Agents**|Jinyang Li et.al.|[2403.05307](http://arxiv.org/abs/2403.05307)|null|
+|**2024-03-08**|**ACLSum: A New Dataset for Aspect-based Summarization of Scientific Publications**|Sotaro Takeshita et.al.|[2403.05303](http://arxiv.org/abs/2403.05303)|**[link](https://github.com/sobamchan/aclsum)**|
 |**2024-03-07**|**iScore: Visual Analytics for Interpreting How Language Models Automatically Score Summaries**|Adam Coscia et.al.|[2403.04760](http://arxiv.org/abs/2403.04760)|**[link](https://github.com/adamcoscia/iscore)**|
 |**2024-03-07**|**KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts**|Adam Coscia et.al.|[2403.04758](http://arxiv.org/abs/2403.04758)|**[link](https://github.com/adamcoscia/knowledgevis)**|
 |**2024-03-07**|**LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**|Boshi Wang et.al.|[2403.04746](http://arxiv.org/abs/2403.04746)|**[link](https://github.com/microsoft/simulated-trial-and-error)**|
@@ -1898,6 +1918,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Tune without Validation: Searching for Learning Rate and Weight Decay on Training Sets**|Lorenzo Brigato et.al.|[2403.05532](http://arxiv.org/abs/2403.05532)|null|
+|**2024-03-08**|**Synthetic data generation for system identification: leveraging knowledge transfer from similar systems**|Dario Piga et.al.|[2403.05164](http://arxiv.org/abs/2403.05164)|**[link](https://github.com/dariopi/synthetic_data_generation)**|
 |**2024-03-07**|**Improve Generalization Ability of Deep Wide Residual Network with A Suitable Scaling Factor**|Songtao Tian et.al.|[2403.04545](http://arxiv.org/abs/2403.04545)|null|
 |**2024-03-04**|**DyCE: Dynamic Configurable Exiting for Deep Learning Compression and Scaling**|Qingyuan Wang et.al.|[2403.01695](http://arxiv.org/abs/2403.01695)|null|
 |**2024-03-02**|**Exploring Structural and Electrochemical Properties of Li $_3$TiCl$_6$ : A Machine Learning Molecular Dynamics Study**|Selva Chandrasekaran Selvaraj et.al.|[2403.01077](http://arxiv.org/abs/2403.01077)|null|
