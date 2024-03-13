@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation**|Shihao Zhao et.al.|[2403.07860](http://arxiv.org/abs/2403.07860)|**[link](https://github.com/shihaozhaozsh/lavi-bridge)**|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
+|**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838](http://arxiv.org/abs/2403.07838)|null|
+|**2024-03-12**|**SemCity: Semantic Scene Generation with Triplane Diffusion**|Jumin Lee et.al.|[2403.07773](http://arxiv.org/abs/2403.07773)|**[link](https://github.com/zoomin-lee/semcity)**|
+|**2024-03-12**|**Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model**|Yuxuan Zhang et.al.|[2403.07764](http://arxiv.org/abs/2403.07764)|null|
+|**2024-03-12**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711](http://arxiv.org/abs/2403.07711)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
+|**2024-03-12**|**Visual Privacy Auditing with Diffusion Models**|Kristian Schwethelm et.al.|[2403.07588](http://arxiv.org/abs/2403.07588)|null|
+|**2024-03-12**|**D4D: An RGBD diffusion model to boost monocular depth estimation**|L. Papa et.al.|[2403.07516](http://arxiv.org/abs/2403.07516)|**[link](https://github.com/lorenzopapa5/diffusion4d)**|
+|**2024-03-12**|**Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation**|Likun Li et.al.|[2403.07500](http://arxiv.org/abs/2403.07500)|null|
+|**2024-03-12**|**Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models**|Phuong Dam et.al.|[2403.07371](http://arxiv.org/abs/2403.07371)|null|
 |**2024-03-11**|**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**|Xuan Ju et.al.|[2403.06976](http://arxiv.org/abs/2403.06976)|null|
 |**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
 |**2024-03-11**|**POD-ROM methods: from a finite set of snapshots to continuous-in-time approximations**|Bosco Garcia-Archilla et.al.|[2403.06967](http://arxiv.org/abs/2403.06967)|null|
@@ -2972,6 +2982,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Beyond Text: Frozen Large Language Models in Visual Signal Comprehension**|Lei Zhu et.al.|[2403.07874](http://arxiv.org/abs/2403.07874)|**[link](https://github.com/zh460045050/v2l-tokenizer)**|
+|**2024-03-12**|**Rethinking Generative Large Language Model Evaluation for Semantic Comprehension**|Fangyun Wei et.al.|[2403.07872](http://arxiv.org/abs/2403.07872)|null|
+|**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865](http://arxiv.org/abs/2403.07865)|null|
+|**2024-03-12**|**DeliGrasp: Inferring Object Mass, Friction, and Compliance with LLMs for Adaptive and Minimally Deforming Grasp Policies**|William Xie et.al.|[2403.07832](http://arxiv.org/abs/2403.07832)|null|
+|**2024-03-12**|**The Missing Piece in Model Editing: A Deep Dive into the Hidden Damage Brought By Model Editing**|Jianchen Wang et.al.|[2403.07825](http://arxiv.org/abs/2403.07825)|null|
+|**2024-03-12**|**Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM**|Sainbayar Sukhbaatar et.al.|[2403.07816](http://arxiv.org/abs/2403.07816)|null|
+|**2024-03-12**|**Fine-tuning Large Language Models with Sequential Instructions**|Hanxu Hu et.al.|[2403.07794](http://arxiv.org/abs/2403.07794)|**[link](https://github.com/hanxuhu/seq_it)**|
+|**2024-03-12**|**Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations**|Carlos Jose Xavier Cruz et.al.|[2403.07769](http://arxiv.org/abs/2403.07769)|**[link](https://github.com/carlosxcruzcode/compet_colab_sma_llm)**|
+|**2024-03-12**|**Synth $^2$ : Boosting Visual-Language Models with Synthetic Captions and Image Embeddings**|Sahand Sharifzadeh et.al.|[2403.07750](http://arxiv.org/abs/2403.07750)|null|
+|**2024-03-12**|**FineMath: A Fine-Grained Mathematical Evaluation Benchmark for Chinese Large Language Models**|Yan Liu et.al.|[2403.07747](http://arxiv.org/abs/2403.07747)|null|
 |**2024-03-11**|**Hybrid Human-LLM Corpus Construction and LLM Evaluation for Rare Linguistic Phenomena**|Leonie Weissweiler et.al.|[2403.06965](http://arxiv.org/abs/2403.06965)|null|
 |**2024-03-11**|**Materials science in the era of large language models: a perspective**|Ge Lei et.al.|[2403.06949](http://arxiv.org/abs/2403.06949)|null|
 |**2024-03-11**|**Naming, Describing, and Quantifying Visual Objects in Humans and LLMs**|Alberto Testoni et.al.|[2403.06935](http://arxiv.org/abs/2403.06935)|null|
@@ -3983,6 +4003,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Accelerated Inference and Reduced Forgetting: The Dual Benefits of Early-Exit Networks in Continual Learning**|Filip Szatkowski et.al.|[2403.07404](http://arxiv.org/abs/2403.07404)|null|
+|**2024-03-11**|**A Converting Autoencoder Toward Low-latency and Energy-efficient DNN Inference at the Edge**|Hasanul Mahmud et.al.|[2403.07036](http://arxiv.org/abs/2403.07036)|null|
 |**2024-03-09**|**DO3D: Self-supervised Learning of Decomposed Object-aware 3D Motion and Depth from Monocular Videos**|Xiuzhe Wu et.al.|[2403.05895](http://arxiv.org/abs/2403.05895)|null|
 |**2024-03-09**|**PAPER-HILT: Personalized and Adaptive Privacy-Aware Early-Exit for Reinforcement Learning in Human-in-the-Loop Systems**|Mojtaba Taherisadr et.al.|[2403.05864](http://arxiv.org/abs/2403.05864)|null|
 |**2024-03-08**|**Select High-Level Features: Efficient Experts from a Hierarchical Classification Network**|André Kelm et.al.|[2403.05601](http://arxiv.org/abs/2403.05601)|null|
