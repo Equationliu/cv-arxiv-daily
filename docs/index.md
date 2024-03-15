@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical Joint Prior**|Huan-ang Gao et.al.|[2403.09638](http://arxiv.org/abs/2403.09638)|null|
+|**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631](http://arxiv.org/abs/2403.09631)|null|
+|**2024-03-14**|**Generalized Predictive Model for Autonomous Driving**|Jiazhi Yang et.al.|[2403.09630](http://arxiv.org/abs/2403.09630)|null|
+|**2024-03-14**|**Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation**|Fangfu Liu et.al.|[2403.09625](http://arxiv.org/abs/2403.09625)|null|
+|**2024-03-14**|**Score-Guided Diffusion for 3D Human Recovery**|Anastasis Stathopoulos et.al.|[2403.09623](http://arxiv.org/abs/2403.09623)|**[link](https://github.com/statho/scorehmr)**|
+|**2024-03-14**|**Explore In-Context Segmentation via Latent Diffusion Models**|Chaoyang Wang et.al.|[2403.09616](http://arxiv.org/abs/2403.09616)|null|
+|**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
+|**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
+|**2024-03-14**|**Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative Privacy Risk**|Zhangheng Li et.al.|[2403.09450](http://arxiv.org/abs/2403.09450)|null|
+|**2024-03-14**|**3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation**|Frank Zhang et.al.|[2403.09439](http://arxiv.org/abs/2403.09439)|null|
 |**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764](http://arxiv.org/abs/2403.08764)|null|
 |**2024-03-13**|**MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**|Jialv Zou et.al.|[2403.08760](http://arxiv.org/abs/2403.08760)|**[link](https://github.com/hustvl/mim4d)**|
 |**2024-03-13**|**Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08758](http://arxiv.org/abs/2403.08758)|null|
@@ -949,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference**|Piotr Nawrot et.al.|[2403.09636](http://arxiv.org/abs/2403.09636)|null|
+|**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631](http://arxiv.org/abs/2403.09631)|null|
+|**2024-03-14**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
+|**2024-03-14**|**Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey**|Xiaoyu Liu et.al.|[2403.09606](http://arxiv.org/abs/2403.09606)|null|
+|**2024-03-14**|**Logical Discrete Graphical Models Must Supplement Large Language Models for Information Synthesis**|Gregory Coppola et.al.|[2403.09599](http://arxiv.org/abs/2403.09599)|null|
+|**2024-03-14**|**ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models**|Runyu Ma et.al.|[2403.09583](http://arxiv.org/abs/2403.09583)|null|
+|**2024-03-14**|**Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation**|Yunhao Gou et.al.|[2403.09572](http://arxiv.org/abs/2403.09572)|null|
+|**2024-03-14**|**Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models**|Laura Fernández-Becerra et.al.|[2403.09567](http://arxiv.org/abs/2403.09567)|null|
+|**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
+|**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 |**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|null|
 |**2024-03-13**|**Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework**|Jingling Li et.al.|[2403.08743](http://arxiv.org/abs/2403.08743)|null|
 |**2024-03-13**|**The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models**|Carlo Nicolini et.al.|[2403.08739](http://arxiv.org/abs/2403.08739)|null|
@@ -1978,6 +1998,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**PosSAM: Panoptic Open-vocabulary Segment Anything**|Vibashan VS et.al.|[2403.09620](http://arxiv.org/abs/2403.09620)|null|
 |**2024-03-13**|**Iterative Learning for Joint Image Denoising and Motion Artifact Correction of 3D Brain MRI**|Lintao Zhang et.al.|[2403.08162](http://arxiv.org/abs/2403.08162)|**[link](https://github.com/goodaycoder/jdac)**|
 |**2024-03-12**|**Conditional computation in neural networks: principles and research trends**|Simone Scardapane et.al.|[2403.07965](http://arxiv.org/abs/2403.07965)|null|
 |**2024-03-12**|**Temporal Decisions: Leveraging Temporal Correlation for Efficient Decisions in Early Exit Neural Networks**|Max Sponner et.al.|[2403.07958](http://arxiv.org/abs/2403.07958)|null|
