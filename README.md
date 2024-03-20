@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis**|Linjiang Huang et.al.|[2403.12963](http://arxiv.org/abs/2403.12963)|**[link](https://github.com/leonhlj/fouriscale)**|
+|**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962](http://arxiv.org/abs/2403.12962)|**[link](https://github.com/williamyang1991/fresco)**|
+|**2024-03-19**|**Zero-Reference Low-Light Enhancement via Physical Quadruple Priors**|Wenjing Wang et.al.|[2403.12933](http://arxiv.org/abs/2403.12933)|null|
+|**2024-03-19**|**Ultra-High-Resolution Image Synthesis with Pyramid Diffusion Model**|Jiajie Yang et.al.|[2403.12915](http://arxiv.org/abs/2403.12915)|**[link](https://github.com/rando11199/pyramid-diffusion)**|
+|**2024-03-19**|**D-Cubed: Latent Diffusion Trajectory Optimisation for Dexterous Deformable Manipulation**|Jun Yamada et.al.|[2403.12861](http://arxiv.org/abs/2403.12861)|null|
+|**2024-03-19**|**Generative Enhancement for 3D Medical Images**|Lingting Zhu et.al.|[2403.12852](http://arxiv.org/abs/2403.12852)|**[link](https://github.com/hku-medai/gem-3d)**|
+|**2024-03-19**|**Compositional 3D Scene Synthesis with Scene Graph Guided Layout-Shape Generation**|Yao Wei et.al.|[2403.12848](http://arxiv.org/abs/2403.12848)|null|
+|**2024-03-19**|**DreamDA: Generative Data Augmentation with Diffusion Models**|Yunxiang Fu et.al.|[2403.12803](http://arxiv.org/abs/2403.12803)|**[link](https://github.com/yunxiangfu2001/dreamda)**|
+|**2024-03-19**|**WaveFace: Authentic Face Restoration with Efficient Frequency Recovery**|Yunqi Miao et.al.|[2403.12760](http://arxiv.org/abs/2403.12760)|null|
+|**2024-03-19**|**Towards Controllable Face Generation with Semantic Latent Diffusion Models**|Alex Ergasti et.al.|[2403.12743](http://arxiv.org/abs/2403.12743)|**[link](https://github.com/ergastialex/ldm-diffusion-sem)**|
 |**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706](http://arxiv.org/abs/2403.11706)|**[link](https://github.com/gladia-research-group/gmsdi)**|
 |**2024-03-18**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697](http://arxiv.org/abs/2403.11697)|null|
 |**2024-03-18**|**Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection**|Julia Wolleb et.al.|[2403.11667](http://arxiv.org/abs/2403.11667)|null|
@@ -3012,6 +3022,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**Dated Data: Tracing Knowledge Cutoffs in Large Language Models**|Jeffrey Cheng et.al.|[2403.12958](http://arxiv.org/abs/2403.12958)|null|
+|**2024-03-19**|**Automatic Information Extraction From Employment Tribunal Judgements Using Large Language Models**|Joana Ribeiro de Faria et.al.|[2403.12936](http://arxiv.org/abs/2403.12936)|null|
+|**2024-03-19**|**Rapid AIdeation: Generating Ideas With the Self and in Collaboration With Large Language Models**|Gionnieve Lim et.al.|[2403.12928](http://arxiv.org/abs/2403.12928)|null|
+|**2024-03-19**|**Supporting Energy Policy Research with Large Language Models**|Grant Buster et.al.|[2403.12924](http://arxiv.org/abs/2403.12924)|null|
+|**2024-03-19**|**Semantic Layering in Room Segmentation via LLMs**|Taehyeon Kim et.al.|[2403.12920](http://arxiv.org/abs/2403.12920)|null|
+|**2024-03-19**|**Toward Sustainable GenAI using Generation Directives for Carbon-Friendly Large Language Model Inference**|Baolin Li et.al.|[2403.12900](http://arxiv.org/abs/2403.12900)|null|
+|**2024-03-19**|**mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**|Anwen Hu et.al.|[2403.12895](http://arxiv.org/abs/2403.12895)|**[link](https://github.com/x-plug/mplug-docowl)**|
+|**2024-03-19**|**MEDBind: Unifying Language and Multimodal Medical Data Embeddings**|Yuan Gao et.al.|[2403.12894](http://arxiv.org/abs/2403.12894)|null|
+|**2024-03-19**|**HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning**|Fucai Ke et.al.|[2403.12884](http://arxiv.org/abs/2403.12884)|null|
+|**2024-03-19**|**Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models**|Zehui Chen et.al.|[2403.12881](http://arxiv.org/abs/2403.12881)|**[link](https://github.com/internlm/agent-flan)**|
 |**2024-03-18**|**Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**|M. Jehanzeb Mirza et.al.|[2403.11755](http://arxiv.org/abs/2403.11755)|null|
 |**2024-03-18**|**Revisiting The Classics: A Study on Identifying and Rectifying Gender Stereotypes in Rhymes and Poems**|Aditya Narayan Sankaran et.al.|[2403.11752](http://arxiv.org/abs/2403.11752)|null|
 |**2024-03-18**|**HDLdebugger: Streamlining HDL debugging with Large Language Models**|Xufeng Yao et.al.|[2403.11671](http://arxiv.org/abs/2403.11671)|null|
@@ -4065,6 +4085,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility**|Bojia Zi et.al.|[2403.12035](http://arxiv.org/abs/2403.12035)|null|
+|**2024-03-18**|**Hamiltonian-reconstruction distance as a success metric for the Variational Quantum Eigensolver**|Leo Joon Il Moon et.al.|[2403.11995](http://arxiv.org/abs/2403.11995)|null|
 |**2024-03-18**|**FedSPU: Personalized Federated Learning for Resource-constrained Devices with Stochastic Parameter Update**|Ziru Niu et.al.|[2403.11464](http://arxiv.org/abs/2403.11464)|null|
 |**2024-03-14**|**PosSAM: Panoptic Open-vocabulary Segment Anything**|Vibashan VS et.al.|[2403.09620](http://arxiv.org/abs/2403.09620)|null|
 |**2024-03-13**|**Iterative Learning for Joint Image Denoising and Motion Artifact Correction of 3D Brain MRI**|Lintao Zhang et.al.|[2403.08162](http://arxiv.org/abs/2403.08162)|**[link](https://github.com/goodaycoder/jdac)**|
