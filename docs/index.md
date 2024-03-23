@@ -17,7 +17,7 @@ layout: default
 |**2024-03-21**|**GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation**|Yinghao Xu et.al.|[2403.14621](http://arxiv.org/abs/2403.14621)|**[link](https://github.com/justimyhxu/grm)**|
 |**2024-03-21**|**DreamReward: Text-to-3D Generation with Human Preference**|Junliang Ye et.al.|[2403.14613](http://arxiv.org/abs/2403.14613)|null|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
-|**2024-03-21**|**Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting**|Alicia Durrer et.al.|[2403.14499](http://arxiv.org/abs/2403.14499)|null|
+|**2024-03-21**|**Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting**|Alicia Durrer et.al.|[2403.14499](http://arxiv.org/abs/2403.14499)|**[link](https://github.com/aliciadurrer/dm_inpainting)**|
 |**2024-03-21**|**Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation**|Mathias Öttl et.al.|[2403.14429](http://arxiv.org/abs/2403.14429)|null|
 |**2024-03-21**|**DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning**|Jonathan Lebensold et.al.|[2403.14421](http://arxiv.org/abs/2403.14421)|null|
 |**2024-03-21**|**Physics-Informed Diffusion Models**|Jan-Hendrik Bastek et.al.|[2403.14404](http://arxiv.org/abs/2403.14404)|null|
