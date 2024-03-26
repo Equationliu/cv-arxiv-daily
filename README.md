@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning**|Sicong Pan et.al.|[2403.16803](http://arxiv.org/abs/2403.16803)|null|
+|**2024-03-25**|**Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases**|Sophie Starck et.al.|[2403.16776](http://arxiv.org/abs/2403.16776)|null|
+|**2024-03-25**|**Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss**|Artem Khrapov et.al.|[2403.16728](http://arxiv.org/abs/2403.16728)|null|
+|**2024-03-25**|**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**|Yuda Song et.al.|[2403.16627](http://arxiv.org/abs/2403.16627)|null|
+|**2024-03-25**|**SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation**|Aysim Toker et.al.|[2403.16605](http://arxiv.org/abs/2403.16605)|null|
+|**2024-03-25**|**Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization**|Xiangxin Zhou et.al.|[2403.16576](http://arxiv.org/abs/2403.16576)|null|
+|**2024-03-25**|**An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models**|Zizhao Hu et.al.|[2403.16530](http://arxiv.org/abs/2403.16530)|null|
+|**2024-03-25**|**Let Real Images be as a Judger, Spotting Fake Images Synthesized with Generative Models**|Ziyou Liang et.al.|[2403.16513](http://arxiv.org/abs/2403.16513)|null|
+|**2024-03-25**|**Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**|Ziyao Huang et.al.|[2403.16510](http://arxiv.org/abs/2403.16510)|**[link](https://github.com/ictmcg/make-your-anchor)**|
+|**2024-03-25**|**Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation**|Sanyam Lakhanpal et.al.|[2403.16422](http://arxiv.org/abs/2403.16422)|null|
 |**2024-03-22**|**DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data**|Hanrong Ye et.al.|[2403.15389](http://arxiv.org/abs/2403.15389)|null|
 |**2024-03-22**|**Ultrasound Imaging based on the Variance of a Diffusion Restoration Model**|Yuxin Zhang et.al.|[2403.15316](http://arxiv.org/abs/2403.15316)|null|
 |**2024-03-22**|**Controlled Training Data Generation with Diffusion Models**|Teresa Yeo et.al.|[2403.15309](http://arxiv.org/abs/2403.15309)|null|
@@ -3052,6 +3062,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered Deliberative AI for AI-Assisted Decision-Making**|Shuai Ma et.al.|[2403.16812](http://arxiv.org/abs/2403.16812)|null|
+|**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
+|**2024-03-25**|**Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback**|Zhangqian Bi et.al.|[2403.16792](http://arxiv.org/abs/2403.16792)|null|
+|**2024-03-25**|**All Artificial, Less Intelligence: GenAI through the Lens of Formal Verification**|Deepak Narayan Gadde et.al.|[2403.16750](http://arxiv.org/abs/2403.16750)|null|
+|**2024-03-25**|**Synapse: Learning Preferential Concepts from Visual Demonstrations**|Sadanand Modak et.al.|[2403.16689](http://arxiv.org/abs/2403.16689)|null|
+|**2024-03-25**|**Investigation of the effectiveness of applying ChatGPT in Dialogic Teaching Using Electroencephalography**|Jiayue Zhang et.al.|[2403.16687](http://arxiv.org/abs/2403.16687)|null|
+|**2024-03-25**|**RU22Fact: Optimizing Evidence for Multilingual Explainable Fact-Checking on Russia-Ukraine Conflict**|Yirong Zeng et.al.|[2403.16662](http://arxiv.org/abs/2403.16662)|**[link](https://github.com/zeng-yirong/ru22fact)**|
+|**2024-03-25**|**CLHA: A Simple yet Effective Contrastive Learning Framework for Human Alignment**|Feiteng Fang et.al.|[2403.16649](http://arxiv.org/abs/2403.16649)|null|
+|**2024-03-25**|**Virtual Co-Pilot: Multimodal Large Language Model-enabled Quick-access Procedures for Single Pilot Operations**|Fan Li et.al.|[2403.16645](http://arxiv.org/abs/2403.16645)|null|
+|**2024-03-25**|**Conversational Grounding: Annotation and Analysis of Grounding Acts and Grounding Units**|Biswesh Mohapatra et.al.|[2403.16609](http://arxiv.org/abs/2403.16609)|null|
 |**2024-03-22**|**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**|Yuzhang Shang et.al.|[2403.15388](http://arxiv.org/abs/2403.15388)|null|
 |**2024-03-22**|**Can large language models explore in-context?**|Akshay Krishnamurthy et.al.|[2403.15371](http://arxiv.org/abs/2403.15371)|null|
 |**2024-03-22**|**CoLLEGe: Concept Embedding Generation for Large Language Models**|Ryan Teehan et.al.|[2403.15362](http://arxiv.org/abs/2403.15362)|null|
