@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**AID: Attention Interpolation of Text-to-Image Diffusion**|Qiyuan He et.al.|[2403.17924](http://arxiv.org/abs/2403.17924)|**[link](https://github.com/qy-h00/attention-interpolation-diffusion)**|
+|**2024-03-26**|**Boosting Diffusion Models with Moving Average Sampling in Frequency Domain**|Yurui Qian et.al.|[2403.17870](http://arxiv.org/abs/2403.17870)|null|
+|**2024-03-26**|**DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions**|Sammy Christen et.al.|[2403.17827](http://arxiv.org/abs/2403.17827)|null|
+|**2024-03-26**|**Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields**|Rüveyda Yilmaz et.al.|[2403.17808](http://arxiv.org/abs/2403.17808)|null|
+|**2024-03-26**|**GenesisTex: Adapting Image Denoising Diffusion to Texture Space**|Chenjian Gao et.al.|[2403.17782](http://arxiv.org/abs/2403.17782)|null|
+|**2024-03-26**|**CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation**|Yongrui Yu et.al.|[2403.17770](http://arxiv.org/abs/2403.17770)|null|
+|**2024-03-26**|**AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation**|Huawei Wei et.al.|[2403.17694](http://arxiv.org/abs/2403.17694)|**[link](https://github.com/scutzzj/aniportrait)**|
+|**2024-03-26**|**Manifold-Guided Lyapunov Control with Diffusion Models**|Amartya Mukherjee et.al.|[2403.17692](http://arxiv.org/abs/2403.17692)|null|
+|**2024-03-26**|**Not All Similarities Are Created Equal: Leveraging Data-Driven Biases to Inform GenAI Copyright Disputes**|Uri Hacohen et.al.|[2403.17691](http://arxiv.org/abs/2403.17691)|null|
+|**2024-03-26**|**DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation**|Qilin Wang et.al.|[2403.17664](http://arxiv.org/abs/2403.17664)|null|
 |**2024-03-25**|**Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning**|Sicong Pan et.al.|[2403.16803](http://arxiv.org/abs/2403.16803)|null|
 |**2024-03-25**|**Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases**|Sophie Starck et.al.|[2403.16776](http://arxiv.org/abs/2403.16776)|null|
 |**2024-03-25**|**Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss**|Artem Khrapov et.al.|[2403.16728](http://arxiv.org/abs/2403.16728)|null|
@@ -3064,6 +3074,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927](http://arxiv.org/abs/2403.17927)|null|
+|**2024-03-26**|**LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**|Rui Pan et.al.|[2403.17919](http://arxiv.org/abs/2403.17919)|null|
+|**2024-03-26**|**Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**|Andrea Ferrario et.al.|[2403.17873](http://arxiv.org/abs/2403.17873)|null|
+|**2024-03-26**|**Exploring LLMs as a Source of Targeted Synthetic Textual Data to Minimize High Confidence Misclassifications**|Philip Lippmann et.al.|[2403.17860](http://arxiv.org/abs/2403.17860)|null|
+|**2024-03-26**|**ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on Historical American Newspaper Pages**|Bhawna Piryani et.al.|[2403.17859](http://arxiv.org/abs/2403.17859)|**[link](https://github.com/datascienceuibk/chroniclingamericaqa)**|
+|**2024-03-26**|**Verbing Weirds Language (Models): Evaluation of English Zero-Derivation in Five LLMs**|David R. Mortensen et.al.|[2403.17856](http://arxiv.org/abs/2403.17856)|null|
+|**2024-03-26**|**ArabicaQA: A Comprehensive Dataset for Arabic Question Answering**|Abdelrahman Abdallah et.al.|[2403.17848](http://arxiv.org/abs/2403.17848)|**[link](https://github.com/datascienceuibk/arabicaqa)**|
+|**2024-03-26**|**Assessment of Multimodal Large Language Models in Alignment with Human Values**|Zhelun Shi et.al.|[2403.17830](http://arxiv.org/abs/2403.17830)|null|
+|**2024-03-26**|**Accelerating Radio Spectrum Regulation Workflows with Large Language Models (LLMs)**|Amir Ghasemi et.al.|[2403.17819](http://arxiv.org/abs/2403.17819)|null|
+|**2024-03-26**|**Are Compressed Language Models Less Subgroup Robust?**|Leonidas Gee et.al.|[2403.17811](http://arxiv.org/abs/2403.17811)|**[link](https://github.com/wearepal/compression-subgroup)**|
 |**2024-03-25**|**Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered Deliberative AI for AI-Assisted Decision-Making**|Shuai Ma et.al.|[2403.16812](http://arxiv.org/abs/2403.16812)|null|
 |**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
 |**2024-03-25**|**Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback**|Zhangqian Bi et.al.|[2403.16792](http://arxiv.org/abs/2403.16792)|null|
@@ -4171,6 +4191,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Tiny Models are the Computational Saver for Large Models**|Qingyuan Wang et.al.|[2403.17726](http://arxiv.org/abs/2403.17726)|null|
+|**2024-03-26**|**Chain of Compression: A Systematic Approach to Combinationally Compress Convolutional Neural Networks**|Yingtao Shen et.al.|[2403.17447](http://arxiv.org/abs/2403.17447)|null|
+|**2024-03-25**|**On the Impact of Black-box Deployment Strategies for Edge AI on Latency and Model Performance**|Jaskirat Singh et.al.|[2403.17154](http://arxiv.org/abs/2403.17154)|null|
 |**2024-03-22**|**IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection**|Junbo Yin et.al.|[2403.15241](http://arxiv.org/abs/2403.15241)|**[link](https://github.com/yinjunbo/is-fusion)**|
 |**2024-03-22**|**Hierarchical Skip Decoding for Efficient Autoregressive Text Generation**|Yunqi Zhu et.al.|[2403.14919](http://arxiv.org/abs/2403.14919)|null|
 |**2024-03-21**|**HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption**|Seewoo Lee et.al.|[2403.14111](http://arxiv.org/abs/2403.14111)|**[link](https://github.com/cryptolabinc/hetal)**|
