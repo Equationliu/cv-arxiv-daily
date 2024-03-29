@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -2167,7 +2167,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-27**|**Early Stopping for Ensemble Kalman-Bucy Inversion**|Maia Tienstra et.al.|[2403.18353](http://arxiv.org/abs/2403.18353)|null|
-|**2024-03-26**|**Tiny Models are the Computational Saver for Large Models**|Qingyuan Wang et.al.|[2403.17726](http://arxiv.org/abs/2403.17726)|null|
+|**2024-03-26**|**Tiny Models are the Computational Saver for Large Models**|Qingyuan Wang et.al.|[2403.17726](http://arxiv.org/abs/2403.17726)|**[link](https://github.com/QingyuanWang/tinysaver)**|
 |**2024-03-26**|**Chain of Compression: A Systematic Approach to Combinationally Compress Convolutional Neural Networks**|Yingtao Shen et.al.|[2403.17447](http://arxiv.org/abs/2403.17447)|null|
 |**2024-03-25**|**On the Impact of Black-box Deployment Strategies for Edge AI on Latency and Model Performance**|Jaskirat Singh et.al.|[2403.17154](http://arxiv.org/abs/2403.17154)|null|
 |**2024-03-22**|**IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection**|Junbo Yin et.al.|[2403.15241](http://arxiv.org/abs/2403.15241)|**[link](https://github.com/yinjunbo/is-fusion)**|
