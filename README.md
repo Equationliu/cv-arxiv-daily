@@ -2055,6 +2055,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Relation Rectification in Diffusion Model**|Yinwei Wu et.al.|[2403.20249](http://arxiv.org/abs/2403.20249)|null|
+|**2024-03-29**|**Motion Inversion for Video Customization**|Luozhou Wang et.al.|[2403.20193](http://arxiv.org/abs/2403.20193)|null|
+|**2024-03-29**|**FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models**|Barbara Toniella Corradini et.al.|[2403.20105](http://arxiv.org/abs/2403.20105)|null|
+|**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079](http://arxiv.org/abs/2403.20079)|null|
+|**2024-03-29**|**Probing solar modulation analytic models with cosmic ray periodic spectra**|Wei-Cheng Long et.al.|[2403.20038](http://arxiv.org/abs/2403.20038)|null|
+|**2024-03-29**|**Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting**|Haipeng Liu et.al.|[2403.19898](http://arxiv.org/abs/2403.19898)|**[link](https://github.com/htyjers/strdiffusion)**|
+|**2024-03-28**|**Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks**|Pooria Ashrafian et.al.|[2403.19880](http://arxiv.org/abs/2403.19880)|**[link](https://github.com/pooria90/diffecho)**|
+|**2024-03-28**|**ShapeFusion: A 3D diffusion model for localized shape editing**|Rolandos Alexandros Potamias et.al.|[2403.19773](http://arxiv.org/abs/2403.19773)|null|
 |**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653](http://arxiv.org/abs/2403.19653)|**[link](https://github.com/k8xu/imageattribution)**|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
 |**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645](http://arxiv.org/abs/2403.19645)|null|
@@ -3094,6 +3102,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Gecko: Versatile Text Embeddings Distilled from Large Language Models**|Jinhyuk Lee et.al.|[2403.20327](http://arxiv.org/abs/2403.20327)|null|
+|**2024-03-29**|**Convolutional Prompting meets Language Models for Continual Learning**|Anurag Roy et.al.|[2403.20317](http://arxiv.org/abs/2403.20317)|null|
+|**2024-03-29**|**Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference**|Jovan Stojkovic et.al.|[2403.20306](http://arxiv.org/abs/2403.20306)|null|
+|**2024-03-29**|**Balanced Data Placement for GEMV Acceleration with Processing-In-Memory**|Mohamed Assem Ibrahim et.al.|[2403.20297](http://arxiv.org/abs/2403.20297)|null|
+|**2024-03-29**|**Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain**|Burcu Sayin et.al.|[2403.20288](http://arxiv.org/abs/2403.20288)|null|
+|**2024-03-29**|**LUQ: Long-text Uncertainty Quantification for LLMs**|Caiqi Zhang et.al.|[2403.20279](http://arxiv.org/abs/2403.20279)|null|
+|**2024-03-29**|**Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want**|Weifeng Lin et.al.|[2403.20271](http://arxiv.org/abs/2403.20271)|null|
+|**2024-03-29**|**Latxa: An Open Language Model and Evaluation Suite for Basque**|Julen Etxaniz et.al.|[2403.20266](http://arxiv.org/abs/2403.20266)|null|
+|**2024-03-29**|**ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models**|Thibaut Thonet et.al.|[2403.20262](http://arxiv.org/abs/2403.20262)|null|
+|**2024-03-29**|**Using LLMs to Model the Beliefs and Preferences of Targeted Populations**|Keiichi Namikoshi et.al.|[2403.20252](http://arxiv.org/abs/2403.20252)|null|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
 |**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
 |**2024-03-28**|**Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning**|Chenyang Liu et.al.|[2403.19646](http://arxiv.org/abs/2403.19646)|**[link](https://github.com/chen-yang-liu/change-agent)**|
