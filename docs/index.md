@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928](http://arxiv.org/abs/2404.18928)|null|
+|**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919](http://arxiv.org/abs/2404.18919)|null|
+|**2024-04-29**|**Learning general Gaussian mixtures with efficient score matching**|Sitan Chen et.al.|[2404.18893](http://arxiv.org/abs/2404.18893)|null|
+|**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886](http://arxiv.org/abs/2404.18886)|null|
+|**2024-04-29**|**Learning Mixtures of Gaussians Using Diffusion Models**|Khashayar Gatmiry et.al.|[2404.18869](http://arxiv.org/abs/2404.18869)|null|
+|**2024-04-29**|**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**|Zhiyuan Li et.al.|[2404.18820](http://arxiv.org/abs/2404.18820)|null|
+|**2024-04-29**|**Bootstrap 3D Reconstructed Scenes from 3D Gaussian Splatting**|Yifei Gao et.al.|[2404.18669](http://arxiv.org/abs/2404.18669)|null|
+|**2024-04-29**|**FlexiFilm: Long Video Generation with Flexible Conditions**|Yichen Ouyang et.al.|[2404.18620](http://arxiv.org/abs/2404.18620)|**[link](https://github.com/Y-ichen/FlexiFilm)**|
+|**2024-04-29**|**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting**|Tianyidan Xie et.al.|[2404.18598](http://arxiv.org/abs/2404.18598)|null|
+|**2024-04-29**|**U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models**|Song Mei et.al.|[2404.18444](http://arxiv.org/abs/2404.18444)|null|
 |**2024-04-26**|**MaPa: Text-driven Photorealistic Material Painting for 3D Shapes**|Shangzhan Zhang et.al.|[2404.17569](http://arxiv.org/abs/2404.17569)|null|
 |**2024-04-26**|**Chemotaxis-inspired PDE model for airborne infectious disease transmission: analysis and simulations**|Pierluigi Colli et.al.|[2404.17506](http://arxiv.org/abs/2404.17506)|null|
 |**2024-04-26**|**Multi-view Image Prompted Multi-view Diffusion for Improved 3D Generation**|Seungwook Kim et.al.|[2404.17419](http://arxiv.org/abs/2404.17419)|null|
@@ -1237,6 +1247,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Hallucination of Multimodal Large Language Models: A Survey**|Zechen Bai et.al.|[2404.18930](http://arxiv.org/abs/2404.18930)|**[link](https://github.com/showlab/awesome-mllm-hallucination)**|
+|**2024-04-29**|**DPO Meets PPO: Reinforced Token Optimization for RLHF**|Han Zhong et.al.|[2404.18922](http://arxiv.org/abs/2404.18922)|null|
+|**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919](http://arxiv.org/abs/2404.18919)|null|
+|**2024-04-29**|**Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting**|Fangcheng Liu et.al.|[2404.18911](http://arxiv.org/abs/2404.18911)|null|
+|**2024-04-29**|**Human-in-the-Loop Synthetic Text Data Inspection with Provenance Tracking**|Hong Jin Kang et.al.|[2404.18881](http://arxiv.org/abs/2404.18881)|**[link](https://github.com/ucla-seal/provenanceinspector)**|
+|**2024-04-29**|**More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness**|Aaron J. Li et.al.|[2404.18870](http://arxiv.org/abs/2404.18870)|**[link](https://github.com/aaron-jx-li/rlhf-trustworthiness)**|
+|**2024-04-29**|**Truth-value judgment in language models: belief directions are context sensitive**|Stefan F. Schouten et.al.|[2404.18865](http://arxiv.org/abs/2404.18865)|null|
+|**2024-04-29**|**Performance-Aligned LLMs for Generating Fast Code**|Daniel Nichols et.al.|[2404.18864](http://arxiv.org/abs/2404.18864)|null|
+|**2024-04-29**|**VERT: Verified Equivalent Rust Transpilation with Few-Shot Learning**|Aidan Z. H. Yang et.al.|[2404.18852](http://arxiv.org/abs/2404.18852)|null|
+|**2024-04-29**|**It's Difficult to be Neutral -- Human and LLM-based Sentiment Annotation of Patient Comments**|Petter Mæhlum et.al.|[2404.18832](http://arxiv.org/abs/2404.18832)|null|
 |**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546](http://arxiv.org/abs/2404.17546)|null|
 |**2024-04-26**|**Large Language Model Agent as a Mechanical Designer**|Yayati Jadhav et.al.|[2404.17525](http://arxiv.org/abs/2404.17525)|null|
 |**2024-04-26**|**On the Use of Large Language Models to Generate Capability Ontologies**|Luis Miguel Vieira da Silva et.al.|[2404.17524](http://arxiv.org/abs/2404.17524)|null|
@@ -2574,7 +2594,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-25**|**Layer Skip: Enabling Early Exit Inference and Self-Speculative Decoding**|Mostafa Elhoushi et.al.|[2404.16710](http://arxiv.org/abs/2404.16710)|null|
+|**2024-04-29**|**Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting**|Fangcheng Liu et.al.|[2404.18911](http://arxiv.org/abs/2404.18911)|null|
+|**2024-04-27**|**Uncertainty quantification for iterative algorithms in linear models with application to early stopping**|Pierre C. Bellec et.al.|[2404.17856](http://arxiv.org/abs/2404.17856)|null|
+|**2024-04-29**|**LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding**|Mostafa Elhoushi et.al.|[2404.16710](http://arxiv.org/abs/2404.16710)|null|
 |**2024-04-23**|**Efficient Transformer Encoders for Mask2Former-style models**|Manyi Yao et.al.|[2404.15244](http://arxiv.org/abs/2404.15244)|null|
 |**2024-04-23**|**LaneCorrect: Self-supervised Lane Detection**|Ming Nie et.al.|[2404.14671](http://arxiv.org/abs/2404.14671)|null|
 |**2024-04-21**|**In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review**|Lequn Chen et.al.|[2404.13673](http://arxiv.org/abs/2404.13673)|null|
