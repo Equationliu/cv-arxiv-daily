@@ -2055,6 +2055,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**Improving face generation quality and prompt following with synthetic captions**|Michail Tarasiou et.al.|[2405.10864](http://arxiv.org/abs/2405.10864)|null|
+|**2024-05-17**|**Deep Data Consistency: a Fast and Robust Diffusion Model-based Solver for Inverse Problems**|Hanyu Chen et.al.|[2405.10748](http://arxiv.org/abs/2405.10748)|**[link](https://github.com/hanyu-chen373/deepdataconsistency)**|
+|**2024-05-17**|**Numerical Recovery of the Diffusion Coefficient in Diffusion Equations from Terminal Measurement**|Bangti Jin et.al.|[2405.10708](http://arxiv.org/abs/2405.10708)|null|
+|**2024-05-17**|**LoCI-DiffCom: Longitudinal Consistency-Informed Diffusion Model for 3D Infant Brain Image Completion**|Zihao Zhu et.al.|[2405.10691](http://arxiv.org/abs/2405.10691)|null|
+|**2024-05-17**|**LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**|Tong Chen et.al.|[2405.10550](http://arxiv.org/abs/2405.10550)|**[link](https://github.com/davismeee/lightdiff)**|
+|**2024-05-17**|**ART3D: 3D Gaussian Splatting for Text-Guided Artistic Scenes Generation**|Pengzhi Li et.al.|[2405.10508](http://arxiv.org/abs/2405.10508)|null|
 |**2024-05-16**|**Text-to-Vector Generation with Neural Path Representation**|Peiying Zhang et.al.|[2405.10317](http://arxiv.org/abs/2405.10317)|null|
 |**2024-05-16**|**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**|Zheng Gu et.al.|[2405.10316](http://arxiv.org/abs/2405.10316)|null|
 |**2024-05-16**|**CAT3D: Create Anything in 3D with Multi-View Diffusion Models**|Ruiqi Gao et.al.|[2405.10314](http://arxiv.org/abs/2405.10314)|null|
@@ -3408,6 +3414,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers**|Kaiyu Huang et.al.|[2405.10936](http://arxiv.org/abs/2405.10936)|**[link](https://github.com/kaiyuhwang/mllm-survey)**|
+|**2024-05-17**|**The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks**|Lucius Bushnaq et.al.|[2405.10928](http://arxiv.org/abs/2405.10928)|null|
+|**2024-05-17**|**COGNET-MD, an evaluation framework and dataset for Large Language Model benchmarks in the medical domain**|Dimitrios P. Panagoulias et.al.|[2405.10893](http://arxiv.org/abs/2405.10893)|null|
+|**2024-05-17**|**Application of Artificial Intelligence in Schizophrenia Rehabilitation Management: Systematic Literature Review**|Hongyi Yang et.al.|[2405.10883](http://arxiv.org/abs/2405.10883)|null|
+|**2024-05-17**|**The Future of Large Language Model Pre-training is Federated**|Lorenzo Sani et.al.|[2405.10853](http://arxiv.org/abs/2405.10853)|null|
+|**2024-05-17**|**Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities**|Hao Zhou et.al.|[2405.10825](http://arxiv.org/abs/2405.10825)|null|
+|**2024-05-17**|**ActiveLLM: Large Language Model-based Active Learning for Textual Few-Shot Scenarios**|Markus Bayer et.al.|[2405.10808](http://arxiv.org/abs/2405.10808)|null|
+|**2024-05-17**|**Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**|Albert Sawczyn et.al.|[2405.10745](http://arxiv.org/abs/2405.10745)|null|
+|**2024-05-17**|**Efficient Multimodal Large Language Models: A Survey**|Yizhang Jin et.al.|[2405.10739](http://arxiv.org/abs/2405.10739)|**[link](https://github.com/lijiannuist/efficient-multimodal-llms-survey)**|
+|**2024-05-17**|**INDUS: Effective and Efficient Language Models for Scientific Applications**|Bishwaranjan Bhattacharjee et.al.|[2405.10725](http://arxiv.org/abs/2405.10725)|null|
 |**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311](http://arxiv.org/abs/2405.10311)|null|
 |**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/jingkang50/psg4d)**|
 |**2024-05-16**|**HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models**|Rhea Sanjay Sukthanker et.al.|[2405.10299](http://arxiv.org/abs/2405.10299)|**[link](https://github.com/automl/hw-aware-llm-bench)**|
@@ -4887,6 +4903,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Memory-efficient Energy-adaptive Inference of Pre-Trained Models on Batteryless Embedded Systems**|Pietro Farina et.al.|[2405.10426](http://arxiv.org/abs/2405.10426)|null|
 |**2024-05-09**|**You Only Cache Once: Decoder-Decoder Architectures for Language Models**|Yutao Sun et.al.|[2405.05254](http://arxiv.org/abs/2405.05254)|null|
 |**2024-05-08**|**Multivariate group sequential tests for global summary statistics**|Abigail J. Burdon et.al.|[2405.05139](http://arxiv.org/abs/2405.05139)|null|
 |**2024-05-07**|**Federated Learning for Cooperative Inference Systems: The Case of Early Exit Networks**|Caelin Kaplan et.al.|[2405.04249](http://arxiv.org/abs/2405.04249)|null|
