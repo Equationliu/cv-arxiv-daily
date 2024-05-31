@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.30
+## Updated on 2024.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -3001,7 +3001,7 @@ layout: default
 |**2024-05-28**|**Cost-Sensitive Multi-Fidelity Bayesian Optimization with Transfer of Learning Curve Extrapolation**|Dong Bok Lee et.al.|[2405.17918](http://arxiv.org/abs/2405.17918)|null|
 |**2024-05-27**|**Federating Dynamic Models using Early-Exit Architectures for Automatic Speech Recognition on Heterogeneous Clients**|Mohamed Nabih Ali et.al.|[2405.17376](http://arxiv.org/abs/2405.17376)|null|
 |**2024-05-24**|**Score-based generative models are provably robust: an uncertainty quantification perspective**|Nikiforos Mimikos-Stamatopoulos et.al.|[2405.15754](http://arxiv.org/abs/2405.15754)|null|
-|**2024-05-24**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549](http://arxiv.org/abs/2405.15549)|**[link](https://github.com/htyao89/sep)**|
+|**2024-05-30**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549](http://arxiv.org/abs/2405.15549)|**[link](https://github.com/htyao89/sep)**|
 |**2024-05-24**|**Trajectory-Based Multi-Objective Hyperparameter Optimization for Model Retraining**|Wenyu Wang et.al.|[2405.15303](http://arxiv.org/abs/2405.15303)|null|
 |**2024-05-24**|**RAEE: A Training-Free Retrieval-Augmented Early Exiting Framework for Efficient Inference**|Lianming Huang et.al.|[2405.15198](http://arxiv.org/abs/2405.15198)|null|
 |**2024-05-23**|**CEEBERT: Cross-Domain Inference in Early Exit BERT**|Divya Jyoti Bajpai et.al.|[2405.15039](http://arxiv.org/abs/2405.15039)|null|
