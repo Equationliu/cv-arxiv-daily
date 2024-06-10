@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082](http://arxiv.org/abs/2406.05082)|null|
+|**2024-06-07**|**Generative diffusion models for synthetic trajectories of heavy and light particles in turbulence**|Tianyi Li et.al.|[2406.05008](http://arxiv.org/abs/2406.05008)|null|
+|**2024-06-07**|**Learning Divergence Fields for Shift-Robust Graph Representations**|Qitian Wu et.al.|[2406.04963](http://arxiv.org/abs/2406.04963)|**[link](https://github.com/fannie1208/glind)**|
+|**2024-06-07**|**Combinatorial Complex Score-based Diffusion Modelling through Stochastic Differential Equations**|Adrien Carrel et.al.|[2406.04916](http://arxiv.org/abs/2406.04916)|null|
+|**2024-06-07**|**Online Continual Learning of Video Diffusion Models From a Single Video Stream**|Jason Yoo et.al.|[2406.04814](http://arxiv.org/abs/2406.04814)|null|
+|**2024-06-07**|**TEDi Policy: Temporally Entangled Diffusion for Robotic Control**|Sigmund H. Høeg et.al.|[2406.04806](http://arxiv.org/abs/2406.04806)|null|
+|**2024-06-07**|**Diffusion-based Generative Image Outpainting for Recovery of FOV-Truncated CT Images**|Michelle Espranita Liman et.al.|[2406.04769](http://arxiv.org/abs/2406.04769)|null|
+|**2024-06-07**|**PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction**|Eduard Poesina et.al.|[2406.04746](http://arxiv.org/abs/2406.04746)|**[link](https://github.com/eduard6421/pqpp)**|
+|**2024-06-07**|**FlowMM: Generating Materials with Riemannian Flow Matching**|Benjamin Kurt Miller et.al.|[2406.04713](http://arxiv.org/abs/2406.04713)|null|
+|**2024-06-07**|**MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models**|Sanjoy Chowdhury et.al.|[2406.04673](http://arxiv.org/abs/2406.04673)|null|
 |**2024-06-07**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338](http://arxiv.org/abs/2406.04338)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337](http://arxiv.org/abs/2406.04337)|null|
 |**2024-06-06**|**BitsFusion: 1.99 bits Weight Quantization of Diffusion Model**|Yang Sui et.al.|[2406.04333](http://arxiv.org/abs/2406.04333)|**[link](https://github.com/huggingface/diffusers)**|
@@ -1490,6 +1500,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132](http://arxiv.org/abs/2406.05132)|null|
+|**2024-06-07**|**An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models**|Xiongtao Zhou et.al.|[2406.05130](http://arxiv.org/abs/2406.05130)|null|
+|**2024-06-07**|**Towards Semantic Equivalence of Tokenization in Multimodal LLM**|Shengqiong Wu et.al.|[2406.05127](http://arxiv.org/abs/2406.05127)|null|
+|**2024-06-07**|**LINX: A Language Driven Generative System for Goal-Oriented Automated Data Exploration**|Tavor Lipman et.al.|[2406.05107](http://arxiv.org/abs/2406.05107)|null|
+|**2024-06-07**|**Multi-Head RAG: Solving Multi-Aspect Problems with LLMs**|Maciej Besta et.al.|[2406.05085](http://arxiv.org/abs/2406.05085)|**[link](https://github.com/spcl/mrag)**|
+|**2024-06-07**|**Are Large Language Models More Empathetic than Humans?**|Anuradha Welivita et.al.|[2406.05063](http://arxiv.org/abs/2406.05063)|null|
+|**2024-06-07**|**Robustness Assessment of Mathematical Reasoning in the Presence of Missing and Contradictory Conditions**|Shi-Yu Tian et.al.|[2406.05055](http://arxiv.org/abs/2406.05055)|null|
+|**2024-06-07**|**Hints-In-Browser: Benchmarking Language Models for Programming Feedback Generation**|Nachiket Kotalwar et.al.|[2406.05053](http://arxiv.org/abs/2406.05053)|null|
+|**2024-06-07**|**Bootstrapping Referring Multi-Object Tracking**|Yani Zhang et.al.|[2406.05039](http://arxiv.org/abs/2406.05039)|null|
+|**2024-06-07**|**Scenarios and Approaches for Situated Natural Language Explanations**|Pengshuo Qiu et.al.|[2406.05035](http://arxiv.org/abs/2406.05035)|null|
 |**2024-06-06**|**Verbalized Machine Learning: Revisiting Machine Learning with Language Models**|Tim Z. Xiao et.al.|[2406.04344](http://arxiv.org/abs/2406.04344)|null|
 |**2024-06-06**|**RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**|Jiaming Liu et.al.|[2406.04339](http://arxiv.org/abs/2406.04339)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337](http://arxiv.org/abs/2406.04337)|null|
@@ -3097,6 +3117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**On Regularization via Early Stopping for Least Squares Regression**|Rishi Sonthalia et.al.|[2406.04425](http://arxiv.org/abs/2406.04425)|null|
 |**2024-06-06**|**Speculative Decoding via Early-exiting for Faster LLM Inference with Thompson Sampling Control Mechanism**|Jiahao Liu et.al.|[2406.03853](http://arxiv.org/abs/2406.03853)|null|
 |**2024-06-05**|**Combinatorial Optimization with Automated Graph Neural Networks**|Yang Liu et.al.|[2406.02872](http://arxiv.org/abs/2406.02872)|**[link](https://github.com/amazon-science/co-with-gnns-example)**|
 |**2024-06-05**|**Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation**|Yiru Liu et.al.|[2406.02860](http://arxiv.org/abs/2406.02860)|null|
