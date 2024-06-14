@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -22,7 +22,7 @@ layout: default
 |**2024-06-12**|**Diff-A-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models**|Javier Nistal et.al.|[2406.08384](http://arxiv.org/abs/2406.08384)|null|
 |**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374](http://arxiv.org/abs/2406.08374)|null|
 |**2024-06-12**|**WMAdapter: Adding WaterMark Control to Latent Diffusion Models**|Hai Ci et.al.|[2406.08337](http://arxiv.org/abs/2406.08337)|null|
-|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|null|
+|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|**[link](https://github.com/KupynOrest/instance_augmentation)**|
 |**2024-06-12**|**Diffusion-Promoted HDR Video Reconstruction**|Yuanshen Guan et.al.|[2406.08204](http://arxiv.org/abs/2406.08204)|null|
 |**2024-06-11**|**An Image is Worth 32 Tokens for Reconstruction and Generation**|Qihang Yu et.al.|[2406.07550](http://arxiv.org/abs/2406.07550)|null|
 |**2024-06-11**|**Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance**|Kuan Heng Lin et.al.|[2406.07540](http://arxiv.org/abs/2406.07540)|null|
@@ -1533,12 +1533,12 @@ layout: default
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
 |**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474](http://arxiv.org/abs/2406.08474)|null|
 |**2024-06-12**|**Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing**|Zhangchen Xu et.al.|[2406.08464](http://arxiv.org/abs/2406.08464)|null|
-|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434](http://arxiv.org/abs/2406.08434)|null|
+|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434](http://arxiv.org/abs/2406.08434)|**[link](https://github.com/yutongwang1216/reflectionllmmt)**|
 |**2024-06-12**|**Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL**|Zijin Hong et.al.|[2406.08426](http://arxiv.org/abs/2406.08426)|null|
 |**2024-06-12**|**OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text**|Qingyun Li et.al.|[2406.08418](http://arxiv.org/abs/2406.08418)|**[link](https://github.com/opengvlab/omnicorpus)**|
-|**2024-06-12**|**Discovering Preference Optimization Algorithms with and for Large Language Models**|Chris Lu et.al.|[2406.08414](http://arxiv.org/abs/2406.08414)|null|
+|**2024-06-12**|**Discovering Preference Optimization Algorithms with and for Large Language Models**|Chris Lu et.al.|[2406.08414](http://arxiv.org/abs/2406.08414)|**[link](https://github.com/luchris429/DiscoPOP)**|
 |**2024-06-12**|**Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference**|Christopher Wolters et.al.|[2406.08413](http://arxiv.org/abs/2406.08413)|null|
-|**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402](http://arxiv.org/abs/2406.08402)|null|
+|**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402](http://arxiv.org/abs/2406.08402)|**[link](https://github.com/kuan2jiu99/audio-hallucination)**|
 |**2024-06-12**|**cPAPERS: A Dataset of Situated and Multimodal Interactive Conversations in Scientific Papers**|Anirudh Sundar et.al.|[2406.08398](http://arxiv.org/abs/2406.08398)|null|
 |**2024-06-11**|**Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs Evaluation, Benchmark, and Arena**|Aidar Myrzakhan et.al.|[2406.07545](http://arxiv.org/abs/2406.07545)|**[link](https://github.com/vila-lab/open-llm-leaderboard)**|
 |**2024-06-11**|**QuickLLaMA: Query-aware Inference Acceleration for Large Language Models**|Jingyao Li et.al.|[2406.07528](http://arxiv.org/abs/2406.07528)|**[link](https://github.com/dvlab-research/q-llm)**|
