@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863](http://arxiv.org/abs/2406.16863)|**[link](https://github.com/arthur-qiu/freetraj)**|
+|**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862](http://arxiv.org/abs/2406.16862)|null|
+|**2024-06-24**|**General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design**|Yue Jian et.al.|[2406.16821](http://arxiv.org/abs/2406.16821)|null|
+|**2024-06-24**|**Portrait3D: 3D Head Generation from Single In-the-wild Portrait Image**|Jinkun Hao et.al.|[2406.16710](http://arxiv.org/abs/2406.16710)|null|
+|**2024-06-24**|**Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling**|Min-Seop Kwak et.al.|[2406.16695](http://arxiv.org/abs/2406.16695)|null|
+|**2024-06-24**|**Repulsive Score Distillation for Diverse Sampling of Diffusion Models**|Nicolas Zilberstein et.al.|[2406.16683](http://arxiv.org/abs/2406.16683)|null|
+|**2024-06-24**|**OAML: Outlier Aware Metric Learning for OOD Detection Enhancement**|Heng Gao et.al.|[2406.16525](http://arxiv.org/abs/2406.16525)|null|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477](http://arxiv.org/abs/2406.16477)|null|
+|**2024-06-24**|**ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance**|Shuwei Shi et.al.|[2406.16476](http://arxiv.org/abs/2406.16476)|null|
+|**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333](http://arxiv.org/abs/2406.16333)|null|
 |**2024-06-21**|**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**|Nadav Orzech et.al.|[2406.15331](http://arxiv.org/abs/2406.15331)|null|
 |**2024-06-21**|**You Only Acquire Sparse-channel (YOAS): A Unified Framework for Dense-channel EEG Generation**|Hongyu Chen et.al.|[2406.15269](http://arxiv.org/abs/2406.15269)|null|
 |**2024-06-21**|**Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**|Junbo Peng et.al.|[2406.15219](http://arxiv.org/abs/2406.15219)|null|
@@ -3633,6 +3643,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**|Yuhui Li et.al.|[2406.16858](http://arxiv.org/abs/2406.16858)|null|
+|**2024-06-24**|**From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models**|Sean Welleck et.al.|[2406.16838](http://arxiv.org/abs/2406.16838)|null|
+|**2024-06-24**|**USDC: A Dataset of $\underline{U}$ser $\underline{S}$tance and $\underline{D}$ogmatism in Long $\underline{C}$ onversations**|Mounika Marreddy et.al.|[2406.16833](http://arxiv.org/abs/2406.16833)|null|
+|**2024-06-24**|**Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track**|Ronak Pradeep et.al.|[2406.16828](http://arxiv.org/abs/2406.16828)|null|
+|**2024-06-24**|**RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale**|Beck LaBash et.al.|[2406.16801](http://arxiv.org/abs/2406.16801)|**[link](https://github.com/qurrent-ai/res-q)**|
+|**2024-06-24**|**Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs**|Ashwinee Panda et.al.|[2406.16797](http://arxiv.org/abs/2406.16797)|**[link](https://github.com/kiddyboots216/lottery-ticket-adaptation)**|
+|**2024-06-24**|**M2Lingual: Enhancing Multilingual, Multi-Turn Instruction Alignment in Large Language Models**|Rishabh Maheshwary et.al.|[2406.16783](http://arxiv.org/abs/2406.16783)|null|
+|**2024-06-24**|**It Is Not About What You Say, It Is About How You Say It: A Surprisingly Simple Approach for Improving Reading Comprehension**|Sagi Shaier et.al.|[2406.16779](http://arxiv.org/abs/2406.16779)|null|
+|**2024-06-24**|**Blending LLMs into Cascaded Speech Translation: KIT's Offline Speech Translation System for IWSLT 2024**|Sai Koneru et.al.|[2406.16777](http://arxiv.org/abs/2406.16777)|null|
+|**2024-06-24**|**WARP: On the Benefits of Weight Averaged Rewarded Policies**|Alexandre Ramé et.al.|[2406.16768](http://arxiv.org/abs/2406.16768)|null|
 |**2024-06-21**|**GenoTEX: A Benchmark for Evaluating LLM-Based Exploration of Gene Expression Data in Alignment with Bioinformaticians**|Haoyang Liu et.al.|[2406.15341](http://arxiv.org/abs/2406.15341)|**[link](https://github.com/liu-hy/genotex)**|
 |**2024-06-21**|**Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance**|Haoling Li et.al.|[2406.15330](http://arxiv.org/abs/2406.15330)|null|
 |**2024-06-21**|**Bug In the Code Stack: Can LLMs Find Bugs in Large Python Code Stacks**|Hokyung Lee et.al.|[2406.15325](http://arxiv.org/abs/2406.15325)|null|
@@ -5342,6 +5362,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments**|Neng Wang et.al.|[2406.16279](http://arxiv.org/abs/2406.16279)|**[link](https://github.com/nubot-nudt/segnet4d)**|
 |**2024-06-21**|**Micro-power spoken keyword spotting on Xylo Audio 2**|Hannah Bos et.al.|[2406.15112](http://arxiv.org/abs/2406.15112)|null|
 |**2024-06-21**|**Early stopping for conjugate gradients in statistical inverse problems**|Laura Hucker et.al.|[2406.15001](http://arxiv.org/abs/2406.15001)|null|
 |**2024-06-21**|**Cost-Effective RF Fingerprinting Based on Hybrid CVNN-RF Classifier with Automated Multi-Dimensional Early-Exit Strategy**|Jiayan Gan et.al.|[2406.14869](http://arxiv.org/abs/2406.14869)|null|
