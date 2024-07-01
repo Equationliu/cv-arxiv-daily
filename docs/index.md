@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -18,9 +18,9 @@ layout: default
 |**2024-06-27**|**Subtractive Training for Music Stem Insertion using Latent Diffusion Models**|Ivan Villa-Renteria et.al.|[2406.19328](http://arxiv.org/abs/2406.19328)|null|
 |**2024-06-27**|**Compositional Image Decomposition with Diffusion Models**|Jocelin Su et.al.|[2406.19298](http://arxiv.org/abs/2406.19298)|null|
 |**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030](http://arxiv.org/abs/2406.19030)|null|
-|**2024-06-27**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958](http://arxiv.org/abs/2406.18958)|null|
+|**2024-06-28**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958](http://arxiv.org/abs/2406.18958)|null|
 |**2024-06-27**|**Investigating and Defending Shortcut Learning in Personalized Diffusion Models**|Yixin Liu et.al.|[2406.18944](http://arxiv.org/abs/2406.18944)|null|
-|**2024-06-27**|**AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models**|Aishwarya Agarwal et.al.|[2406.18893](http://arxiv.org/abs/2406.18893)|null|
+|**2024-06-28**|**AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models**|Aishwarya Agarwal et.al.|[2406.18893](http://arxiv.org/abs/2406.18893)|null|
 |**2024-06-27**|**Chemical Continuous Time Random Walks under Anomalous Diffusion**|Hong Zhang et.al.|[2406.18869](http://arxiv.org/abs/2406.18869)|null|
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524](http://arxiv.org/abs/2406.18524)|null|
 |**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516](http://arxiv.org/abs/2406.18516)|**[link](https://github.com/kangliao929/noise-da)**|
@@ -1635,7 +1635,7 @@ layout: default
 |**2024-06-27**|**Jump Starting Bandits with LLM-Generated Prior Knowledge**|Parand A. Alamdari et.al.|[2406.19317](http://arxiv.org/abs/2406.19317)|null|
 |**2024-06-27**|**From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data**|Zheyang Xiong et.al.|[2406.19292](http://arxiv.org/abs/2406.19292)|null|
 |**2024-06-27**|**PhysioLLM: Supporting Personalized Health Insights with Wearables and Large Language Models**|Cathy Mengying Fang et.al.|[2406.19283](http://arxiv.org/abs/2406.19283)|null|
-|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280](http://arxiv.org/abs/2406.19280)|null|
+|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280](http://arxiv.org/abs/2406.19280)|**[link](https://github.com/freedomintelligence/huatuogpt-vision)**|
 |**2024-06-27**|**AutoPureData: Automated Filtering of Web Data for LLM Fine-tuning**|Praneeth Vadlapati et.al.|[2406.19271](http://arxiv.org/abs/2406.19271)|**[link](https://github.com/Pro-GenAI/AutoPureData)**|
 |**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532](http://arxiv.org/abs/2406.18532)|**[link](https://github.com/aiwaves-cn/agents)**|
 |**2024-06-26**|**PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation**|Christoph Leiter et.al.|[2406.18528](http://arxiv.org/abs/2406.18528)|null|
