@@ -3434,7 +3434,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-02**|**Advancing Compressed Video Action Recognition through Progressive Knowledge Distillation**|Efstathia Soufleri et.al.|[2407.02713](http://arxiv.org/abs/2407.02713)|null|
+|**2024-07-02**|**Advancing Compressed Video Action Recognition through Progressive Knowledge Distillation**|Efstathia Soufleri et.al.|[2407.02713](http://arxiv.org/abs/2407.02713)|**[link](https://github.com/Efstathia-Soufleri/PKD)**|
 |**2024-07-02**|**Zero-shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model**|Cong Cao et.al.|[2407.01960](http://arxiv.org/abs/2407.01960)|null|
 |**2024-07-01**|**Exact statistical analysis for response-adaptive clinical trials: a general and computationally tractable approach**|Stef Baas et.al.|[2407.01055](http://arxiv.org/abs/2407.01055)|null|
 |**2024-07-01**|**SOOD++: Leveraging Unlabeled Data to Boost Oriented Object Detection**|Dingkang Liang et.al.|[2407.01016](http://arxiv.org/abs/2407.01016)|null|
