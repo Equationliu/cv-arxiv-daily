@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Structural Constraint Integration in Generative Model for Discovery of Quantum Material Candidates**|Ryotaro Okabe et.al.|[2407.04557](http://arxiv.org/abs/2407.04557)|null|
+|**2024-07-05**|**Unified continuous-time q-learning for mean-field game and mean-field control problems**|Xiaoli Wei et.al.|[2407.04521](http://arxiv.org/abs/2407.04521)|null|
+|**2024-07-05**|**Speed-accuracy trade-off for the diffusion models: Wisdom from nonequlibrium thermodynamics and optimal transport**|Kotaro Ikeda et.al.|[2407.04495](http://arxiv.org/abs/2407.04495)|null|
+|**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493](http://arxiv.org/abs/2407.04493)|null|
+|**2024-07-05**|**VCD-Texture: Variance Alignment based 3D-2D Co-Denoising for Text-Guided Texturing**|Shang Liu et.al.|[2407.04461](http://arxiv.org/abs/2407.04461)|null|
+|**2024-07-05**|**Comparing metallicity correlations in nearby non-AGN and AGN-host galaxies**|Song-lin Li et.al.|[2407.04252](http://arxiv.org/abs/2407.04252)|null|
+|**2024-07-05**|**GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction**|Yuxuan Mu et.al.|[2407.04237](http://arxiv.org/abs/2407.04237)|null|
+|**2024-07-05**|**T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models**|Zhongqi Wang et.al.|[2407.04215](http://arxiv.org/abs/2407.04215)|**[link](https://github.com/robin-wzq/t2ishield)**|
+|**2024-07-05**|**TimeLDM: Latent Diffusion Model for Unconditional Time Series Generation**|Jian Qian et.al.|[2407.04211](http://arxiv.org/abs/2407.04211)|null|
+|**2024-07-04**|**Advances in Diffusion Models for Image Data Augmentation: A Review of Methods, Models, Evaluation Metrics and Future Research Directions**|Panagiotis Alimisis et.al.|[2407.04103](http://arxiv.org/abs/2407.04103)|null|
 |**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300](http://arxiv.org/abs/2407.03300)|null|
 |**2024-07-03**|**Improved Noise Schedule for Diffusion Training**|Tiankai Hang et.al.|[2407.03297](http://arxiv.org/abs/2407.03297)|null|
 |**2024-07-04**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089](http://arxiv.org/abs/2407.03089)|null|
@@ -3700,6 +3710,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**|Rudolf Laine et.al.|[2407.04694](http://arxiv.org/abs/2407.04694)|null|
+|**2024-07-05**|**ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models**|Yuzhe Gu et.al.|[2407.04693](http://arxiv.org/abs/2407.04693)|null|
+|**2024-07-05**|**Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge**|Yuanze Lin et.al.|[2407.04681](http://arxiv.org/abs/2407.04681)|null|
+|**2024-07-05**|**Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition**|Ye Bai et.al.|[2407.04675](http://arxiv.org/abs/2407.04675)|null|
+|**2024-07-05**|**Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement**|Yongji Wu et.al.|[2407.04656](http://arxiv.org/abs/2407.04656)|null|
+|**2024-07-05**|**Entity Decomposition with Filtering: A Zero-Shot Clinical Named Entity Recognition Framework**|Reza Averly et.al.|[2407.04629](http://arxiv.org/abs/2407.04629)|null|
+|**2024-07-05**|**On scalable oversight with weak LLMs judging strong LLMs**|Zachary Kenton et.al.|[2407.04622](http://arxiv.org/abs/2407.04622)|null|
+|**2024-07-05**|**Leveraging Large Language Models for Integrated Satellite-Aerial-Terrestrial Networks: Recent Advances and Future Directions**|Shumaila Javaid et.al.|[2407.04581](http://arxiv.org/abs/2407.04581)|null|
+|**2024-07-05**|**VRSD: Rethinking Similarity and Diversity for Retrieval in Large Language Models**|Hang Gao et.al.|[2407.04573](http://arxiv.org/abs/2407.04573)|null|
+|**2024-07-05**|**PoPreRo: A New Dataset for Popularity Prediction of Romanian Reddit Posts**|Ana-Cristina Rogoz et.al.|[2407.04541](http://arxiv.org/abs/2407.04541)|**[link](https://github.com/ana-rogoz/poprero)**|
 |**2024-07-03**|**Universal Length Generalization with Turing Programs**|Kaiying Hou et.al.|[2407.03310](http://arxiv.org/abs/2407.03310)|null|
 |**2024-07-03**|**Large Language Models for JSON Schema Discovery**|Michael J. Mior et.al.|[2407.03286](http://arxiv.org/abs/2407.03286)|null|
 |**2024-07-03**|**LLM Internal States Reveal Hallucination Risk Faced With a Query**|Ziwei Ji et.al.|[2407.03282](http://arxiv.org/abs/2407.03282)|null|
@@ -5479,6 +5499,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-04**|**Unsupervised speech enhancement with spectral kurtosis and double deep priors**|Hien Ohnaka et.al.|[2407.03887](http://arxiv.org/abs/2407.03887)|null|
 |**2024-07-02**|**Advancing Compressed Video Action Recognition through Progressive Knowledge Distillation**|Efstathia Soufleri et.al.|[2407.02713](http://arxiv.org/abs/2407.02713)|**[link](https://github.com/Efstathia-Soufleri/PKD)**|
 |**2024-07-02**|**Zero-shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model**|Cong Cao et.al.|[2407.01960](http://arxiv.org/abs/2407.01960)|null|
 |**2024-07-01**|**Exact statistical analysis for response-adaptive clinical trials: a general and computationally tractable approach**|Stef Baas et.al.|[2407.01055](http://arxiv.org/abs/2407.01055)|null|
