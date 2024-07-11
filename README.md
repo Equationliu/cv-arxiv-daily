@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -446,7 +446,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 ## SFM
 
@@ -585,7 +585,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1143,7 +1143,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1326,7 +1326,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1504,7 +1504,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 ## NeRF
 
@@ -2049,12 +2049,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077](http://arxiv.org/abs/2407.07077)|**[link](https://github.com/haoosz/conceptexpress)**|
+|**2024-07-09**|**RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models**|Bowen Zhang et.al.|[2407.06938](http://arxiv.org/abs/2407.06938)|null|
+|**2024-07-09**|**HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance**|Guian Fang et.al.|[2407.06937](http://arxiv.org/abs/2407.06937)|**[link](https://github.com/enderfga/humanrefiner)**|
+|**2024-07-09**|**A reaction-diffusion model for relapsing-remitting multiple sclerosis with a treatment term**|Romina Travaglini et.al.|[2407.06802](http://arxiv.org/abs/2407.06802)|null|
+|**2024-07-09**|**Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning**|Fanyue Wei et.al.|[2407.06642](http://arxiv.org/abs/2407.06642)|**[link](https://github.com/wfanyue/dpg-t2i-personalization)**|
+|**2024-07-09**|**Mobius: An High Efficient Spatial-Temporal Parallel Training Paradigm for Text-to-Video Generation Task**|Yiran Yang et.al.|[2407.06617](http://arxiv.org/abs/2407.06617)|null|
+|**2024-07-09**|**D-MASTER: Mask Annealed Transformer for Unsupervised Domain Adaptation in Breast Cancer Detection from Mammograms**|Tajamul Ashraf et.al.|[2407.06585](http://arxiv.org/abs/2407.06585)|null|
+|**2024-07-09**|**VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving**|Yibo Liu et.al.|[2407.06516](http://arxiv.org/abs/2407.06516)|null|
+|**2024-07-09**|**Sketch-Guided Scene Image Generation**|Tianyu Zhang et.al.|[2407.06469](http://arxiv.org/abs/2407.06469)|null|
+|**2024-07-09**|**AnatoMask: Enhancing Medical Image Segmentation with Reconstruction-guided Self-masking**|Yuheng Li et.al.|[2407.06468](http://arxiv.org/abs/2407.06468)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 |**2024-07-08**|**The Tug-of-War Between Deepfake Generation and Detection**|Hannah Lee et.al.|[2407.06174](http://arxiv.org/abs/2407.06174)|null|
 |**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135](http://arxiv.org/abs/2407.06135)|**[link](https://github.com/gair-nlp/anole)**|
@@ -3714,12 +3724,22 @@
 |**2023-10-12**|**MotionDirector: Motion Customization of Text-to-Video Diffusion Models**|Rui Zhao et.al.|[2310.08465](http://arxiv.org/abs/2310.08465)|**[link](https://github.com/showlab/MotionDirector)**|
 |**2023-10-12**|**Debias the Training of Diffusion Models**|Hu Yu et.al.|[2310.08442](http://arxiv.org/abs/2310.08442)|null|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**AnyTaskTune: Advanced Domain-Specific Solutions through Task-Fine-Tuning**|Jiaxi Cui et.al.|[2407.07094](http://arxiv.org/abs/2407.07094)|**[link](https://github.com/pandavt/datatager)**|
+|**2024-07-09**|**FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation**|Liqun Ma et.al.|[2407.07093](http://arxiv.org/abs/2407.07093)|**[link](https://github.com/liqunma/fbi-llm)**|
+|**2024-07-09**|**Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models**|Logan Cross et.al.|[2407.07086](http://arxiv.org/abs/2407.07086)|**[link](https://github.com/locross93/hypothetical-minds)**|
+|**2024-07-09**|**Adapting LLMs to Hebrew: Unveiling DictaLM 2.0 with Enhanced Vocabulary and Instruction Capabilities**|Shaltiel Shmidman et.al.|[2407.07080](http://arxiv.org/abs/2407.07080)|null|
+|**2024-07-09**|**Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps**|Yung-Sung Chuang et.al.|[2407.07071](http://arxiv.org/abs/2407.07071)|**[link](https://github.com/voidism/lookback-lens)**|
+|**2024-07-09**|**Prompting Techniques for Secure Code Generation: A Systematic Investigation**|Catherine Tony et.al.|[2407.07064](http://arxiv.org/abs/2407.07064)|null|
+|**2024-07-09**|**Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence**|Weize Chen et.al.|[2407.07061](http://arxiv.org/abs/2407.07061)|**[link](https://github.com/openbmb/ioa)**|
+|**2024-07-09**|**Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model**|Wenqi Zhang et.al.|[2407.07053](http://arxiv.org/abs/2407.07053)|**[link](https://github.com/zwq2018/multi-modal-self-instruct)**|
+|**2024-07-09**|**Using Large Language Models for Generating Smart Contracts for Health Insurance from Textual Policies**|Inwon Kang et.al.|[2407.07019](http://arxiv.org/abs/2407.07019)|null|
+|**2024-07-09**|**End-To-End Causal Effect Estimation from Unstructured Natural Language Data**|Nikita Dhawan et.al.|[2407.07018](http://arxiv.org/abs/2407.07018)|null|
 |**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|**[link](https://github.com/orrzohar/Video-STaR)**|
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
 |**2024-07-08**|**On Speeding Up Language Model Evaluation**|Jin Peng Zhou et.al.|[2407.06172](http://arxiv.org/abs/2407.06172)|null|
@@ -5513,7 +5533,7 @@
 |**2023-10-13**|**"Kelly is a Warm Person, Joseph is a Role Model": Gender Biases in LLM-Generated Reference Letters**|Yixin Wan et.al.|[2310.09219](http://arxiv.org/abs/2310.09219)|**[link](https://github.com/uclanlp/biases-llm-reference-letters)**|
 |**2023-10-13**|**Explore-Instruct: Enhancing Domain-Specific Instruction Coverage through Active Exploration**|Fanqi Wan et.al.|[2310.09168](http://arxiv.org/abs/2310.09168)|**[link](https://github.com/fanqiwan/explore-instruct)**|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -5731,7 +5751,7 @@
 |**2023-10-03**|**SMRD: SURE-based Robust MRI Reconstruction with Diffusion Models**|Batu Ozturkler et.al.|[2310.01799](http://arxiv.org/abs/2310.01799)|**[link](https://github.com/batuozt/smrd)**|
 |**2023-10-03**|**Sampling Multimodal Distributions with the Vanilla Score: Benefits of Data-Based Initialization**|Frederic Koehler et.al.|[2310.01762](http://arxiv.org/abs/2310.01762)|null|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 ## Adversarial
 
@@ -5739,7 +5759,7 @@
 |---|---|---|---|---|
 |**2021-04-01**|**"TL;DR:" Out-of-Context Adversarial Text Summarization and Hashtag Recommendation**|Peter Jachim et.al.|[2104.00782](http://arxiv.org/abs/2104.00782)|null|
 
-<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
