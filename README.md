@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**RegionDrag: Fast Region-Based Image Editing with Diffusion Models**|Jingyi Lu et.al.|[2407.18247](http://arxiv.org/abs/2407.18247)|null|
+|**2024-07-25**|**VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads**|Orest Kupyn et.al.|[2407.18245](http://arxiv.org/abs/2407.18245)|null|
+|**2024-07-25**|**Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**|Roberto Di Via et.al.|[2407.18125](http://arxiv.org/abs/2407.18125)|null|
+|**2024-07-25**|**Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**|Jan Nikolas Morshuis et.al.|[2407.18026](http://arxiv.org/abs/2407.18026)|null|
+|**2024-07-25**|**Self-Supervision Improves Diffusion Models for Tabular Data Imputation**|Yixin Liu et.al.|[2407.18013](http://arxiv.org/abs/2407.18013)|**[link](https://github.com/yixinliu233/simpdm)**|
+|**2024-07-25**|**Lightweight Language-driven Grasp Detection using Conditional Consistency Model**|Nghia Nguyen et.al.|[2407.17967](http://arxiv.org/abs/2407.17967)|null|
+|**2024-07-25**|**ReCorD: Reasoning and Correcting Diffusion for HOI Generation**|Jian-Yu Jiang-Lin et.al.|[2407.17911](http://arxiv.org/abs/2407.17911)|null|
+|**2024-07-25**|**Amortized Posterior Sampling with Diffusion Prior Distillation**|Abbas Mammadov et.al.|[2407.17907](http://arxiv.org/abs/2407.17907)|null|
+|**2024-07-25**|**Artificial Immunofluorescence in a Flash: Rapid Synthetic Imaging from Brightfield Through Residual Diffusion**|Xiaodan Xing et.al.|[2407.17882](http://arxiv.org/abs/2407.17882)|null|
+|**2024-07-25**|**DragText: Rethinking Text Embedding in Point-based Image Editing**|Gayoon Choi et.al.|[2407.17843](http://arxiv.org/abs/2407.17843)|null|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
 |**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402](http://arxiv.org/abs/2407.17402)|null|
 |**2024-07-25**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229](http://arxiv.org/abs/2407.17229)|null|
@@ -3839,6 +3849,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](http://arxiv.org/abs/2407.18219)|null|
+|**2024-07-25**|**Exploring Scaling Trends in LLM Robustness**|Nikolhaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|null|
+|**2024-07-25**|**Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models**|Sanae Lotfi et.al.|[2407.18158](http://arxiv.org/abs/2407.18158)|null|
+|**2024-07-25**|**Dallah: A Dialect-Aware Multimodal Large Language Model for Arabic**|Fakhraddin Alwajih et.al.|[2407.18129](http://arxiv.org/abs/2407.18129)|null|
+|**2024-07-25**|**Fine-Tuning Large Language Models for Stock Return Prediction Using Newsflow**|Tian Guo et.al.|[2407.18103](http://arxiv.org/abs/2407.18103)|null|
+|**2024-07-25**|**PEFT-U: Parameter-Efficient Fine-Tuning for User Personalization**|Christopher Clarke et.al.|[2407.18078](http://arxiv.org/abs/2407.18078)|null|
+|**2024-07-25**|**C2P: Featuring Large Language Models with Causal Reasoning**|Abdolmahdi Bagheri et.al.|[2407.18069](http://arxiv.org/abs/2407.18069)|null|
+|**2024-07-25**|**ComPeer: A Generative Conversational Agent for Proactive Peer Support**|Tianjian Liu et.al.|[2407.18064](http://arxiv.org/abs/2407.18064)|null|
+|**2024-07-25**|**Audio Entailment: Assessing Deductive Reasoning for Audio Understanding**|Soham Deshmukh et.al.|[2407.18062](http://arxiv.org/abs/2407.18062)|null|
+|**2024-07-25**|**Difficulty Estimation and Simplification of French Text Using LLMs**|Henri Jamet et.al.|[2407.18061](http://arxiv.org/abs/2407.18061)|null|
 |**2024-07-24**|**I Could've Asked That: Reformulating Unanswerable Questions**|Wenting Zhao et.al.|[2407.17469](http://arxiv.org/abs/2407.17469)|**[link](https://github.com/wenting-zhao/couldask)**|
 |**2024-07-24**|**WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries**|Wenting Zhao et.al.|[2407.17468](http://arxiv.org/abs/2407.17468)|null|
 |**2024-07-24**|**CMR Scaling Law: Predicting Critical Mixture Ratios for Continual Pre-training of Language Models**|Jiawei Gu et.al.|[2407.17467](http://arxiv.org/abs/2407.17467)|null|
@@ -5758,6 +5778,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Superior Scoring Rules for Probabilistic Evaluation of Single-Label Multi-Class Classification Tasks**|Rouhollah Ahmadian et.al.|[2407.17697](http://arxiv.org/abs/2407.17697)|null|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
 |**2024-07-22**|**WTS: A Pedestrian-Centric Traffic Video Dataset for Fine-grained Spatial-Temporal Understanding**|Quan Kong et.al.|[2407.15350](http://arxiv.org/abs/2407.15350)|null|
 |**2024-07-19**|**Joint or Disjoint: Mixing Training Regimes for Early-Exit Models**|Bartłomiej Krzepkowski et.al.|[2407.14320](http://arxiv.org/abs/2407.14320)|**[link](https://github.com/kamadforge/early-exit-benchmark)**|
