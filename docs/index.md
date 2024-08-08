@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
+|**2024-08-07**|**Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models**|Markus Ditlev Sjøgren Olsen et.al.|[2408.03654](http://arxiv.org/abs/2408.03654)|null|
+|**2024-08-07**|**TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization**|Kien T. Pham et.al.|[2408.03637](http://arxiv.org/abs/2408.03637)|null|
+|**2024-08-07**|**Dirichlet forms of diffusion processes on Thoma simplex**|Sergei Korotkikh et.al.|[2408.03553](http://arxiv.org/abs/2408.03553)|null|
+|**2024-08-06**|**Hybrid diffusion models: combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models**|Bruno Sauvalle et.al.|[2408.03433](http://arxiv.org/abs/2408.03433)|null|
+|**2024-08-06**|**Attacks and Defenses for Generative Diffusion Models: A Comprehensive Survey**|Vu Tuan Truong et.al.|[2408.03400](http://arxiv.org/abs/2408.03400)|null|
+|**2024-08-06**|**Adversarial Domain Adaptation for Cross-user Activity Recognition Using Diffusion-based Noise-centred Learning**|Xiaozhou Ye et.al.|[2408.03353](http://arxiv.org/abs/2408.03353)|null|
 |**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312](http://arxiv.org/abs/2408.03312)|null|
 |**2024-08-06**|**IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts**|Ciara Rowles et.al.|[2408.03209](http://arxiv.org/abs/2408.03209)|null|
 |**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156](http://arxiv.org/abs/2408.03156)|null|
@@ -1880,6 +1887,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940](http://arxiv.org/abs/2408.03940)|null|
+|**2024-08-07**|**SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic Performance for Mercosur Common Nomenclature**|Vinícius Di Oliveira et.al.|[2408.03936](http://arxiv.org/abs/2408.03936)|null|
+|**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910](http://arxiv.org/abs/2408.03910)|**[link](https://github.com/modelscope/modelscope-agent)**|
+|**2024-08-07**|**Decoding Biases: Automated Methods and LLM Judges for Gender Bias Detection in Language Models**|Shachi H Kumar et.al.|[2408.03907](http://arxiv.org/abs/2408.03907)|null|
+|**2024-08-07**|**From Data to Story: Towards Automatic Animated Data Video Creation with LLM-based Multi-Agent Systems**|Leixian Shen et.al.|[2408.03876](http://arxiv.org/abs/2408.03876)|null|
+|**2024-08-07**|**PackMamba: Efficient Processing of Variable-Length Sequences in Mamba training**|Haoran Xu et.al.|[2408.03865](http://arxiv.org/abs/2408.03865)|null|
+|**2024-08-07**|**GAIA -- A Large Language Model for Advanced Power Dispatch**|Yuheng Cheng et.al.|[2408.03847](http://arxiv.org/abs/2408.03847)|null|
+|**2024-08-07**|**MaxMind: A Memory Loop Network to Enhance Software Productivity based on Large Language Models**|Yuchen Dong et.al.|[2408.03841](http://arxiv.org/abs/2408.03841)|null|
+|**2024-08-07**|**WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models**|Prannaya Gupta et.al.|[2408.03837](http://arxiv.org/abs/2408.03837)|null|
+|**2024-08-07**|**Target Prompting for Information Extraction with Vision Language Model**|Dipankar Medhi et.al.|[2408.03834](http://arxiv.org/abs/2408.03834)|null|
 |**2024-08-06**|**TextIM: Part-aware Interactive Motion Synthesis from Text**|Siyuan Fan et.al.|[2408.03302](http://arxiv.org/abs/2408.03302)|null|
 |**2024-08-06**|**KaPO: Knowledge-aware Preference Optimization for Controllable Knowledge Selection in Retrieval-Augmented Language Models**|Ruizhe Zhang et.al.|[2408.03297](http://arxiv.org/abs/2408.03297)|null|
 |**2024-08-07**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281](http://arxiv.org/abs/2408.03281)|null|
@@ -3887,6 +3904,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695](http://arxiv.org/abs/2408.03695)|null|
 |**2024-08-03**|**Advancing Green AI: Efficient and Accurate Lightweight CNNs for Rice Leaf Disease Identification**|Khairun Saddami et.al.|[2408.01752](http://arxiv.org/abs/2408.01752)|null|
 |**2024-08-01**|**Early Stopping Based on Repeated Significance**|Eric Bax et.al.|[2408.00908](http://arxiv.org/abs/2408.00908)|null|
 |**2024-07-31**|**Automated Sperm Morphology Analysis Based on Instance-Aware Part Segmentation**|Wenyuan Chen et.al.|[2408.00112](http://arxiv.org/abs/2408.00112)|null|
