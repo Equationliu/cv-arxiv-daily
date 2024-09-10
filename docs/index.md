@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Enhancing Preference-based Linear Bandits via Human Response Time**|Shen Li et.al.|[2409.05798](http://arxiv.org/abs/2409.05798)|null|
+|**2024-09-09**|**Vector Quantized Diffusion Model Based Speech Bandwidth Extension**|Yuan Fang et.al.|[2409.05784](http://arxiv.org/abs/2409.05784)|null|
+|**2024-09-09**|**AS-Speech: Adaptive Style For Speech Synthesis**|Zhipeng Li et.al.|[2409.05730](http://arxiv.org/abs/2409.05730)|null|
+|**2024-09-09**|**pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning**|Jiahao Lai et.al.|[2409.05701](http://arxiv.org/abs/2409.05701)|null|
+|**2024-09-09**|**Unlearning or Concealment? A Critical Analysis and Evaluation Metrics for Unlearning in Diffusion Models**|Aakash Sen Sharma et.al.|[2409.05668](http://arxiv.org/abs/2409.05668)|null|
+|**2024-09-09**|**Forward KL Regularized Preference Optimization for Aligning Diffusion Policies**|Zhao Shan et.al.|[2409.05622](http://arxiv.org/abs/2409.05622)|null|
+|**2024-09-09**|**CipherDM: Secure Three-Party Inference for Diffusion Model Sampling**|Xin Zhao et.al.|[2409.05414](http://arxiv.org/abs/2409.05414)|null|
+|**2024-09-09**|**Sequential Posterior Sampling with Diffusion Models**|Tristan S. W. Stevens et.al.|[2409.05399](http://arxiv.org/abs/2409.05399)|null|
+|**2024-09-09**|**TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors**|Yichuan Mo et.al.|[2409.05294](http://arxiv.org/abs/2409.05294)|null|
+|**2024-09-08**|**Nuclear transparencies with a two step process of the $A(e,e'π^+)$ reactions**|Tae Keun Choi et.al.|[2409.05129](http://arxiv.org/abs/2409.05129)|null|
 |**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429](http://arxiv.org/abs/2409.04429)|null|
 |**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424](http://arxiv.org/abs/2409.04424)|null|
 |**2024-09-06**|**How Fair is Your Diffusion Recommender Model?**|Daniele Malitesta et.al.|[2409.04339](http://arxiv.org/abs/2409.04339)|null|
@@ -2072,6 +2082,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct**|Run Luo et.al.|[2409.05840](http://arxiv.org/abs/2409.05840)|null|
+|**2024-09-09**|**Are Large Language Models a Threat to Programming Platforms? An Exploratory Study**|Md Mustakim Billah et.al.|[2409.05824](http://arxiv.org/abs/2409.05824)|null|
+|**2024-09-09**|**Benchmarking Chinese Knowledge Rectification in Large Language Models**|Tianhe Lu et.al.|[2409.05806](http://arxiv.org/abs/2409.05806)|**[link](https://github.com/zjunlp/easyedit)**|
+|**2024-09-09**|**Evidence from fMRI Supports a Two-Phase Abstraction Process in Language Models**|Emily Cheng et.al.|[2409.05771](http://arxiv.org/abs/2409.05771)|null|
+|**2024-09-09**|**Model Input Verification of Large Scale Simulations**|Rumyana Neykova et.al.|[2409.05768](http://arxiv.org/abs/2409.05768)|null|
+|**2024-09-09**|**A Novel Idea Generation Tool using a Structured Conversational AI (CAI) System**|B. Sankar et.al.|[2409.05747](http://arxiv.org/abs/2409.05747)|null|
+|**2024-09-09**|**LLMs Will Always Hallucinate, and We Need to Live With This**|Sourav Banerjee et.al.|[2409.05746](http://arxiv.org/abs/2409.05746)|null|
+|**2024-09-09**|**A System and Benchmark for LLM-based Q\&A on Heterogeneous Data**|Achille Fokoue et.al.|[2409.05735](http://arxiv.org/abs/2409.05735)|null|
+|**2024-09-09**|**Towards Democratizing Multilingual Large Language Models For Medicine Through A Two-Stage Instruction Fine-tuning Approach**|Meng Zhou et.al.|[2409.05732](http://arxiv.org/abs/2409.05732)|null|
+|**2024-09-09**|**The Influence of Task and Group Disparities over Users' Attitudes Toward Using Large Language Models for Psychotherapy**|Qihang He et.al.|[2409.05703](http://arxiv.org/abs/2409.05703)|null|
 |**2024-09-06**|**RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**|Jiaxing Wu et.al.|[2409.04421](http://arxiv.org/abs/2409.04421)|null|
 |**2024-09-06**|**Question-Answering Dense Video Events**|Hangyu Qin et.al.|[2409.04388](http://arxiv.org/abs/2409.04388)|null|
 |**2024-09-06**|**Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs**|Aliakbar Nafar et.al.|[2409.04318](http://arxiv.org/abs/2409.04318)|null|
@@ -4289,6 +4309,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Early-exit Convolutional Neural Networks**|Edanur Demir et.al.|[2409.05336](http://arxiv.org/abs/2409.05336)|null|
+|**2024-09-08**|**Attention-Based Efficient Breath Sound Removal in Studio Audio Recordings**|Nidula Elgiriyewithana et.al.|[2409.04949](http://arxiv.org/abs/2409.04949)|null|
 |**2024-09-01**|**RTop-K: Ultra-Fast Row-Wise Top-K Algorithm and GPU Implementation for Neural Networks**|Xi Xie et.al.|[2409.00822](http://arxiv.org/abs/2409.00822)|null|
 |**2024-08-30**|**Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling**|Guangya Wan et.al.|[2408.17017](http://arxiv.org/abs/2408.17017)|null|
 |**2024-08-24**|**Inferring the shape of a solid inside a draining tank from its liquid level dynamics**|Gbenga Fabusola et.al.|[2408.14503](http://arxiv.org/abs/2408.14503)|null|
