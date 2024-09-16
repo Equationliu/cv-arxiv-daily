@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016](http://arxiv.org/abs/2409.09016)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
+|**2024-09-13**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
+|**2024-09-13**|**Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Guojun Liang et.al.|[2409.08917](http://arxiv.org/abs/2409.08917)|**[link](https://github.com/gorgen2020/LSSDM_imputation)**|
+|**2024-09-13**|**Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling**|Nebiyou Yismaw et.al.|[2409.08906](http://arxiv.org/abs/2409.08906)|null|
+|**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
+|**2024-09-13**|**Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control**|Carles Domingo-Enrich et.al.|[2409.08861](http://arxiv.org/abs/2409.08861)|null|
+|**2024-09-13**|**InstantDrag: Improving Interactivity in Drag-based Image Editing**|Joonghyuk Shin et.al.|[2409.08857](http://arxiv.org/abs/2409.08857)|null|
+|**2024-09-13**|**DX2CT: Diffusion Model for 3D CT Reconstruction from Bi or Mono-planar 2D X-ray(s)**|Yun Su Jeong et.al.|[2409.08850](http://arxiv.org/abs/2409.08850)|null|
+|**2024-09-13**|**DFADD: The Diffusion and Flow-Matching Based Audio Deepfake Dataset**|Jiawei Du et.al.|[2409.08731](http://arxiv.org/abs/2409.08731)|null|
+|**2024-09-13**|**STA-V2A: Video-to-Audio Generation with Semantic and Temporal Alignment**|Yong Ren et.al.|[2409.08601](http://arxiv.org/abs/2409.08601)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-12**|**DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer**|Runjia Li et.al.|[2409.08271](http://arxiv.org/abs/2409.08271)|null|
 |**2024-09-12**|**Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation**|Samanta Rodriguez et.al.|[2409.08269](http://arxiv.org/abs/2409.08269)|null|
@@ -2112,6 +2122,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030](http://arxiv.org/abs/2409.09030)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
+|**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
+|**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
+|**2024-09-13**|**Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance**|Lucio La Cava et.al.|[2409.08963](http://arxiv.org/abs/2409.08963)|null|
+|**2024-09-13**|**Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions**|Zahra Ashktorab et.al.|[2409.08937](http://arxiv.org/abs/2409.08937)|null|
+|**2024-09-13**|**SynSUM -- Synthetic Benchmark with Structured and Unstructured Medical Records**|Paloma Rabaey et.al.|[2409.08936](http://arxiv.org/abs/2409.08936)|**[link](https://github.com/prabaey/synsum)**|
+|**2024-09-13**|**LLM-based Weak Supervision Framework for Query Intent Classification in Video Search**|Farnoosh Javadi et.al.|[2409.08931](http://arxiv.org/abs/2409.08931)|null|
+|**2024-09-13**|**AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models**|Yifei Yao et.al.|[2409.08904](http://arxiv.org/abs/2409.08904)|null|
+|**2024-09-13**|**A Market for Lemons? Strategic Directions for a Vigilant Application of Artificial Intelligence in Entrepreneurship Research**|Martin Obschonka et.al.|[2409.08890](http://arxiv.org/abs/2409.08890)|null|
+|**2024-09-13**|**Exploring Graph Structure Comprehension Ability of Multimodal Large Language Models: Case Studies**|Zhiqiang Zhong et.al.|[2409.08864](http://arxiv.org/abs/2409.08864)|null|
 |**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264](http://arxiv.org/abs/2409.08264)|**[link](https://github.com/microsoft/windowsagentarena)**|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250](http://arxiv.org/abs/2409.08250)|null|
 |**2024-09-12**|**Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources**|Alisia Lupidi et.al.|[2409.08239](http://arxiv.org/abs/2409.08239)|null|
@@ -4369,6 +4389,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Exploring System-Heterogeneous Federated Learning with Dynamic Model Selection**|Dixi Yao et.al.|[2409.08858](http://arxiv.org/abs/2409.08858)|null|
 |**2024-09-11**|**AdaCAD: Adaptively Decoding to Balance Conflicts between Contextual and Parametric Knowledge**|Han Wang et.al.|[2409.07394](http://arxiv.org/abs/2409.07394)|**[link](https://github.com/hannight/adacad)**|
 |**2024-09-11**|**From optimal score matching to optimal sampling**|Zehao Dou et.al.|[2409.07032](http://arxiv.org/abs/2409.07032)|null|
 |**2024-09-10**|**Noisy Early Stopping for Noisy Labels**|William Toner et.al.|[2409.06830](http://arxiv.org/abs/2409.06830)|null|
