@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494](http://arxiv.org/abs/2409.10494)|null|
+|**2024-09-16**|**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing**|Qi Qian et.al.|[2409.10476](http://arxiv.org/abs/2409.10476)|null|
+|**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473](http://arxiv.org/abs/2409.10473)|null|
+|**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385](http://arxiv.org/abs/2409.10385)|null|
+|**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353](http://arxiv.org/abs/2409.10353)|null|
+|**2024-09-16**|**Fairness, not Emotion, Drives Socioeconomic Decision Making**|Rudra Mukhopadhyay et.al.|[2409.10322](http://arxiv.org/abs/2409.10322)|null|
+|**2024-09-16**|**DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**|Fa-Ting Hong et.al.|[2409.10281](http://arxiv.org/abs/2409.10281)|null|
+|**2024-09-16**|**RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models**|Başak Melis Öcal et.al.|[2409.10180](http://arxiv.org/abs/2409.10180)|null|
+|**2024-09-16**|**PSHuman: Photorealistic Single-view Human Reconstruction using Cross-Scale Diffusion**|Peng Li et.al.|[2409.10141](http://arxiv.org/abs/2409.10141)|null|
+|**2024-09-16**|**DDoS: Diffusion Distribution Similarity for Out-of-Distribution Detection**|Kun Fang et.al.|[2409.10094](http://arxiv.org/abs/2409.10094)|null|
 |**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016](http://arxiv.org/abs/2409.09016)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
 |**2024-09-13**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Guojun Liang et.al.|[2409.08917](http://arxiv.org/abs/2409.08917)|**[link](https://github.com/gorgen2020/LSSDM_imputation)**|
@@ -4165,6 +4175,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|null|
+|**2024-09-16**|**Context-aware Code Segmentation for C-to-Rust Translation using Large Language Models**|Momoko Shiraishi et.al.|[2409.10506](http://arxiv.org/abs/2409.10506)|null|
+|**2024-09-16**|**DILA: Dictionary Label Attention for Mechanistic Interpretability in High-dimensional Multi-label Medical Coding Prediction**|John Wu et.al.|[2409.10504](http://arxiv.org/abs/2409.10504)|null|
+|**2024-09-16**|**Causal Language Modeling Can Elicit Search and Reasoning Capabilities on Logic Puzzles**|Kulin Shah et.al.|[2409.10502](http://arxiv.org/abs/2409.10502)|null|
+|**2024-09-16**|**Code Vulnerability Detection: A Comparative Analysis of Emerging Large Language Models**|Shaznin Sultana et.al.|[2409.10490](http://arxiv.org/abs/2409.10490)|null|
+|**2024-09-16**|**XLM for Autonomous Driving Systems: A Comprehensive Review**|Sonda Fourati et.al.|[2409.10484](http://arxiv.org/abs/2409.10484)|null|
+|**2024-09-16**|**Schrodinger's Memory: Large Language Models**|Wei Wang et.al.|[2409.10482](http://arxiv.org/abs/2409.10482)|null|
+|**2024-09-16**|**LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning**|Jicong Ao et.al.|[2409.10444](http://arxiv.org/abs/2409.10444)|null|
+|**2024-09-16**|**A Large-Scale Privacy Assessment of Android Third-Party SDKs**|Mark Huasong Meng et.al.|[2409.10411](http://arxiv.org/abs/2409.10411)|null|
+|**2024-09-16**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
 |**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030](http://arxiv.org/abs/2409.09030)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
 |**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
 |**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
@@ -6434,6 +6454,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-14**|**Group Sequential Testing of a Treatment Effect Using a Surrogate Marker**|Layla Parast et.al.|[2409.09440](http://arxiv.org/abs/2409.09440)|null|
 |**2024-09-13**|**Exploring System-Heterogeneous Federated Learning with Dynamic Model Selection**|Dixi Yao et.al.|[2409.08858](http://arxiv.org/abs/2409.08858)|null|
 |**2024-09-11**|**AdaCAD: Adaptively Decoding to Balance Conflicts between Contextual and Parametric Knowledge**|Han Wang et.al.|[2409.07394](http://arxiv.org/abs/2409.07394)|**[link](https://github.com/hannight/adacad)**|
 |**2024-09-11**|**From optimal score matching to optimal sampling**|Zehao Dou et.al.|[2409.07032](http://arxiv.org/abs/2409.07032)|null|
@@ -6442,7 +6463,7 @@
 |**2024-08-26**|**Optimizing STAR Aligner for High Throughput Computing in the Cloud**|Piotr Kica et.al.|[2409.05886](http://arxiv.org/abs/2409.05886)|null|
 |**2024-09-09**|**Early-exit Convolutional Neural Networks**|Edanur Demir et.al.|[2409.05336](http://arxiv.org/abs/2409.05336)|**[link](https://github.com/eksuas/eenets.pytorch)**|
 |**2024-09-08**|**Attention-Based Efficient Breath Sound Removal in Studio Audio Recordings**|Nidula Elgiriyewithana et.al.|[2409.04949](http://arxiv.org/abs/2409.04949)|null|
-|**2024-09-01**|**RTop-K: Ultra-Fast Row-Wise Top-K Algorithm and GPU Implementation for Neural Networks**|Xi Xie et.al.|[2409.00822](http://arxiv.org/abs/2409.00822)|null|
+|**2024-09-16**|**RTop-K: Ultra-Fast Row-Wise Top-K Algorithm and GPU Implementation for Neural Networks**|Xi Xie et.al.|[2409.00822](http://arxiv.org/abs/2409.00822)|null|
 |**2024-08-30**|**Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling**|Guangya Wan et.al.|[2408.17017](http://arxiv.org/abs/2408.17017)|null|
 |**2024-08-24**|**Inferring the shape of a solid inside a draining tank from its liquid level dynamics**|Gbenga Fabusola et.al.|[2408.14503](http://arxiv.org/abs/2408.14503)|null|
 |**2024-08-26**|**Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning**|Joey Hejna et.al.|[2408.14037](http://arxiv.org/abs/2408.14037)|**[link](https://github.com/jhejna/remix)**|
