@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380](http://arxiv.org/abs/2409.11380)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
+|**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/abs/2409.11367)|null|
+|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|null|
+|**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
+|**2024-09-17**|**fMRI-3D: A Comprehensive Dataset for Enhancing fMRI-based 3D Reconstruction**|Jianxiong Gao et.al.|[2409.11315](http://arxiv.org/abs/2409.11315)|null|
+|**2024-09-17**|**DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models**|Avirup Das et.al.|[2409.11292](http://arxiv.org/abs/2409.11292)|null|
+|**2024-09-17**|**Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models**|Tianqi Chen et.al.|[2409.11219](http://arxiv.org/abs/2409.11219)|null|
+|**2024-09-17**|**High-Resolution Speech Restoration with Latent Diffusion Model**|Tushar Dhyani et.al.|[2409.11145](http://arxiv.org/abs/2409.11145)|null|
+|**2024-09-17**|**In-situ measurements of light diffusion in an optically dense atomic ensemble**|Antoine Glicenstein et.al.|[2409.11117](http://arxiv.org/abs/2409.11117)|null|
+|**2024-09-17**|**TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation**|Yansong Wu et.al.|[2409.11047](http://arxiv.org/abs/2409.11047)|null|
 |**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494](http://arxiv.org/abs/2409.10494)|null|
 |**2024-09-16**|**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing**|Qi Qian et.al.|[2409.10476](http://arxiv.org/abs/2409.10476)|null|
 |**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473](http://arxiv.org/abs/2409.10473)|null|
@@ -4175,6 +4185,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs**|Basel Mousi et.al.|[2409.11404](http://arxiv.org/abs/2409.11404)|null|
+|**2024-09-17**|**NVLM: Open Frontier-Class Multimodal LLMs**|Wenliang Dai et.al.|[2409.11402](http://arxiv.org/abs/2409.11402)|null|
+|**2024-09-17**|**Says Who? Effective Zero-Shot Annotation of Focalization**|Rebecca M. M. Hicke et.al.|[2409.11390](http://arxiv.org/abs/2409.11390)|null|
+|**2024-09-17**|**Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement**|Simon Yu et.al.|[2409.11378](http://arxiv.org/abs/2409.11378)|null|
+|**2024-09-17**|**Towards Time Series Reasoning with LLMs**|Winnie Chow et.al.|[2409.11376](http://arxiv.org/abs/2409.11376)|null|
+|**2024-09-17**|**Multi-OCT-SelfNet: Integrating Self-Supervised Learning with Multi-Source Data Fusion for Enhanced Multi-Class Retinal Disease Classification**|Fatema-E- Jannat et.al.|[2409.11375](http://arxiv.org/abs/2409.11375)|null|
+|**2024-09-17**|**CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration**|Jiahui Gao et.al.|[2409.11365](http://arxiv.org/abs/2409.11365)|null|
+|**2024-09-17**|**AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances**|Dhruv Agarwal et.al.|[2409.11360](http://arxiv.org/abs/2409.11360)|null|
+|**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353](http://arxiv.org/abs/2409.11353)|null|
+|**2024-09-17**|**Leveraging Distillation Techniques for Document Understanding: A Case Study with FLAN-T5**|Marcel Lamott et.al.|[2409.11282](http://arxiv.org/abs/2409.11282)|null|
 |**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|null|
 |**2024-09-16**|**Context-aware Code Segmentation for C-to-Rust Translation using Large Language Models**|Momoko Shiraishi et.al.|[2409.10506](http://arxiv.org/abs/2409.10506)|null|
 |**2024-09-16**|**DILA: Dictionary Label Attention for Mechanistic Interpretability in High-dimensional Multi-label Medical Coding Prediction**|John Wu et.al.|[2409.10504](http://arxiv.org/abs/2409.10504)|null|
@@ -6454,6 +6474,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning**|Kathakoli Sengupta et.al.|[2409.11403](http://arxiv.org/abs/2409.11403)|null|
+|**2024-09-16**|**Improving Multi-candidate Speculative Decoding**|Xiaofan Lu et.al.|[2409.10644](http://arxiv.org/abs/2409.10644)|null|
 |**2024-09-14**|**Group Sequential Testing of a Treatment Effect Using a Surrogate Marker**|Layla Parast et.al.|[2409.09440](http://arxiv.org/abs/2409.09440)|null|
 |**2024-09-13**|**Exploring System-Heterogeneous Federated Learning with Dynamic Model Selection**|Dixi Yao et.al.|[2409.08858](http://arxiv.org/abs/2409.08858)|null|
 |**2024-09-11**|**AdaCAD: Adaptively Decoding to Balance Conflicts between Contextual and Parametric Knowledge**|Han Wang et.al.|[2409.07394](http://arxiv.org/abs/2409.07394)|**[link](https://github.com/hannight/adacad)**|
