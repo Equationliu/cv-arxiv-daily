@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -2141,7 +2141,7 @@ layout: default
 |**2024-09-16**|**Schrodinger's Memory: Large Language Models**|Wei Wang et.al.|[2409.10482](http://arxiv.org/abs/2409.10482)|null|
 |**2024-09-16**|**LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning**|Jicong Ao et.al.|[2409.10444](http://arxiv.org/abs/2409.10444)|null|
 |**2024-09-16**|**A Large-Scale Privacy Assessment of Android Third-Party SDKs**|Mark Huasong Meng et.al.|[2409.10411](http://arxiv.org/abs/2409.10411)|null|
-|**2024-09-16**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
+|**2024-09-17**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
 |**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030](http://arxiv.org/abs/2409.09030)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
 |**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
 |**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
