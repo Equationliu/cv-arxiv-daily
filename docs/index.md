@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph**|Utkarsh A. Mishra et.al.|[2409.16275](http://arxiv.org/abs/2409.16275)|null|
+|**2024-09-24**|**MaskBit: Embedding-free Image Generation via Bit Tokens**|Mark Weber et.al.|[2409.16211](http://arxiv.org/abs/2409.16211)|null|
+|**2024-09-24**|**MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling**|Yifang Men et.al.|[2409.16160](http://arxiv.org/abs/2409.16160)|null|
+|**2024-09-24**|**Spreading dynamics of a Fisher-KPP nonlocal diffusion model with a free boundary**|Lei Li et.al.|[2409.16101](http://arxiv.org/abs/2409.16101)|null|
+|**2024-09-24**|**PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation**|Mingyo Seo et.al.|[2409.16012](http://arxiv.org/abs/2409.16012)|null|
+|**2024-09-24**|**Unleashing the Potential of Synthetic Images: A Study on Histopathology Image Classification**|Leire Benito-Del-Valle et.al.|[2409.16002](http://arxiv.org/abs/2409.16002)|**[link](https://github.com/leirebv/synthetic_histopathology_dataset)**|
+|**2024-09-24**|**ASD-Diffusion: Anomalous Sound Detection with Diffusion Models**|Fengrun Zhang et.al.|[2409.15957](http://arxiv.org/abs/2409.15957)|null|
+|**2024-09-24**|**Multiscale method for image denoising using nonlinear diffusion process: local denoising and spectral multiscale basis functions**|Maria Vasilyeva et.al.|[2409.15952](http://arxiv.org/abs/2409.15952)|null|
+|**2024-09-24**|**Identifying early tumour states in a Cahn-Hilliard-reaction-diffusion model**|Abramo Agosti et.al.|[2409.15925](http://arxiv.org/abs/2409.15925)|null|
+|**2024-09-24**|**Diffusion Models for Intelligent Transportation Systems: A Survey**|Mingxing Peng et.al.|[2409.15816](http://arxiv.org/abs/2409.15816)|null|
 |**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/abs/2409.12189)|null|
 |**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/abs/2409.12140)|null|
 |**2024-09-18**|**Brain-Streams: fMRI-to-Image Reconstruction with Multi-modal Guidance**|Jaehoon Joo et.al.|[2409.12099](http://arxiv.org/abs/2409.12099)|null|
@@ -2152,6 +2162,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**LLM Echo Chamber: personalized and automated disinformation**|Tony Ma et.al.|[2409.16241](http://arxiv.org/abs/2409.16241)|**[link](https://github.com/iamtonymwt/echo_chamber)**|
+|**2024-09-24**|**Towards Enhancing Linked Data Retrieval in Conversational UIs using Large Language Models**|Omar Mussa et.al.|[2409.16220](http://arxiv.org/abs/2409.16220)|null|
+|**2024-09-24**|**LLMCount: Enhancing Stationary mmWave Detection with Multimodal-LLM**|Boyan Li et.al.|[2409.16209](http://arxiv.org/abs/2409.16209)|null|
+|**2024-09-25**|**CJEval: A Benchmark for Assessing Large Language Models Using Chinese Junior High School Exam Data**|Qian-Wen Zhang et.al.|[2409.16202](http://arxiv.org/abs/2409.16202)|**[link](https://github.com/smilewhc/cjeval)**|
+|**2024-09-24**|**HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models**|Haoran Que et.al.|[2409.16191](http://arxiv.org/abs/2409.16191)|**[link](https://github.com/quehry/hellobench)**|
+|**2024-09-24**|**Cyber Knowledge Completion Using Large Language Models**|Braden K Webb et.al.|[2409.16176](http://arxiv.org/abs/2409.16176)|null|
+|**2024-09-24**|**Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering**|Ziyu Zhao et.al.|[2409.16167](http://arxiv.org/abs/2409.16167)|null|
+|**2024-09-24**|**Controlling Risk of Retrieval-augmented Generation: A Counterfactual Prompting Framework**|Lu Chen et.al.|[2409.16146](http://arxiv.org/abs/2409.16146)|null|
+|**2024-09-24**|**MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents**|Ming Zhu et.al.|[2409.16120](http://arxiv.org/abs/2409.16120)|**[link](https://github.com/ghost-in-moss/ghostos)**|
+|**2024-09-24**|**Exploring Hint Generation Approaches in Open-Domain Question Answering**|Jamshid Mozafari et.al.|[2409.16096](http://arxiv.org/abs/2409.16096)|**[link](https://github.com/datascienceuibk/hintqa)**|
 |**2024-09-20**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
 |**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
 |**2024-09-18**|**Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**|Arslan Chaudhry et.al.|[2409.12180](http://arxiv.org/abs/2409.12180)|null|
@@ -4449,6 +4469,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Reinforcement Leaning for Infinite-Dimensional Systems**|Wei Zhang et.al.|[2409.15737](http://arxiv.org/abs/2409.15737)|null|
+|**2024-09-21**|**Normalized Narrow Jump To Conclusions: Normalized Narrow Shortcuts for Parameter Efficient Early Exit Transformer Prediction**|Amrit Diggavi Seshadri et.al.|[2409.14091](http://arxiv.org/abs/2409.14091)|null|
+|**2024-09-21**|**Multiple-Exit Tuning: Towards Inference-Efficient Adaptation for Vision Transformer**|Zheng Liu et.al.|[2409.13999](http://arxiv.org/abs/2409.13999)|null|
 |**2024-09-18**|**Particle-based Instance-aware Semantic Occupancy Mapping in Dynamic Environments**|Gang Chen et.al.|[2409.11975](http://arxiv.org/abs/2409.11975)|null|
 |**2024-09-17**|**UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning**|Kathakoli Sengupta et.al.|[2409.11403](http://arxiv.org/abs/2409.11403)|null|
 |**2024-09-16**|**Improving Multi-candidate Speculative Decoding**|Xiaofan Lu et.al.|[2409.10644](http://arxiv.org/abs/2409.10644)|**[link](https://github.com/JackZeng0208/DynaSD)**|
