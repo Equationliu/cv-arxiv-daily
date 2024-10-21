@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -21,8 +21,8 @@ layout: default
 |**2024-10-17**|**Probing the Latent Hierarchical Structure of Data via Diffusion Models**|Antonio Sclocchi et.al.|[2410.13770](http://arxiv.org/abs/2410.13770)|null|
 |**2024-10-17**|**Theory on Score-Mismatched Diffusion Models and Zero-Shot Conditional Samplers**|Yuchen Liang et.al.|[2410.13746](http://arxiv.org/abs/2410.13746)|null|
 |**2024-10-17**|**Improved Convergence Rate for Diffusion Probabilistic Models**|Gen Li et.al.|[2410.13738](http://arxiv.org/abs/2410.13738)|null|
-|**2024-10-17**|**DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation**|Hanbo Cheng et.al.|[2410.13726](http://arxiv.org/abs/2410.13726)|**[link](https://github.com/hanbo-cheng/dawn-pytorch)**|
-|**2024-10-17**|**Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion**|Yijun Liang et.al.|[2410.13674](http://arxiv.org/abs/2410.13674)|**[link](https://github.com/tianyi-lab/DisCL)**|
+|**2024-10-18**|**DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation**|Hanbo Cheng et.al.|[2410.13726](http://arxiv.org/abs/2410.13726)|**[link](https://github.com/hanbo-cheng/dawn-pytorch)**|
+|**2024-10-18**|**Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion**|Yijun Liang et.al.|[2410.13674](http://arxiv.org/abs/2410.13674)|**[link](https://github.com/tianyi-lab/DisCL)**|
 |**2024-10-17**|**Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design**|Chenyu Wang et.al.|[2410.13643](http://arxiv.org/abs/2410.13643)|**[link](https://github.com/chenyuwang-monica/drakes)**|
 |**2024-10-16**|**Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**|Hongcheng Gao et.al.|[2410.12777](http://arxiv.org/abs/2410.12777)|null|
 |**2024-10-16**|**SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation**|Jaehong Yoon et.al.|[2410.12761](http://arxiv.org/abs/2410.12761)|null|
@@ -2321,7 +2321,7 @@ layout: default
 |**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|**[link](https://github.com/sail-sg/simlayerkv)**|
 |**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|null|
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
-|**2024-10-17**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824](http://arxiv.org/abs/2410.13824)|null|
+|**2024-10-18**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824](http://arxiv.org/abs/2410.13824)|null|
 |**2024-10-16**|**Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception**|Jihao Zhao et.al.|[2410.12788](http://arxiv.org/abs/2410.12788)|null|
 |**2024-10-16**|**In-Context Learning Enables Robot Action Prediction in LLMs**|Yida Yin et.al.|[2410.12782](http://arxiv.org/abs/2410.12782)|null|
 |**2024-10-16**|**Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information**|Yingya Li et.al.|[2410.12774](http://arxiv.org/abs/2410.12774)|null|
