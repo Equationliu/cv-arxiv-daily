@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Multi-modal Pose Diffuser: A Multimodal Generative Conditional Pose Prior**|Calvin-Khang Ta et.al.|[2410.14540](http://arxiv.org/abs/2410.14540)|null|
+|**2024-10-18**|**LEAD: Latent Realignment for Human Motion Diffusion**|Nefeli Andreou et.al.|[2410.14508](http://arxiv.org/abs/2410.14508)|null|
+|**2024-10-18**|**Reinforcement Learning in Non-Markov Market-Making**|Luca Lalor et.al.|[2410.14504](http://arxiv.org/abs/2410.14504)|null|
+|**2024-10-18**|**ANT: Adaptive Noise Schedule for Time Series Diffusion Models**|Seunghan Lee et.al.|[2410.14488](http://arxiv.org/abs/2410.14488)|**[link](https://github.com/seunghan96/ant)**|
+|**2024-10-18**|**DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Optimizing Resource Allocation**|Junjie Wu et.al.|[2410.14481](http://arxiv.org/abs/2410.14481)|null|
+|**2024-10-18**|**FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models**|Rui Hu et.al.|[2410.14429](http://arxiv.org/abs/2410.14429)|null|
+|**2024-10-18**|**Dynamic Negative Guidance of Diffusion Models**|Felix Koulischer et.al.|[2410.14398](http://arxiv.org/abs/2410.14398)|null|
+|**2024-10-18**|**HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation**|Bo Cheng et.al.|[2410.14324](http://arxiv.org/abs/2410.14324)|**[link](https://github.com/360cvgroup/hico_t2i)**|
+|**2024-10-18**|**ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer**|Yuhao Wan et.al.|[2410.14279](http://arxiv.org/abs/2410.14279)|null|
+|**2024-10-18**|**HYPNOS : Highly Precise Foreground-focused Diffusion Finetuning for Inanimate Objects**|Oliverio Theophilus Nathanael et.al.|[2410.14265](http://arxiv.org/abs/2410.14265)|null|
 |**2024-10-17**|**Diffusing States and Matching Scores: A New Framework for Imitation Learning**|Runzhe Wu et.al.|[2410.13855](http://arxiv.org/abs/2410.13855)|**[link](https://github.com/ziqian2000/smiling)**|
 |**2024-10-17**|**Influence Functions for Scalable Data Attribution in Diffusion Models**|Bruno Mlodozeniec et.al.|[2410.13850](http://arxiv.org/abs/2410.13850)|null|
 |**2024-10-17**|**Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**|Xiaodan Xing et.al.|[2410.13823](http://arxiv.org/abs/2410.13823)|**[link](https://github.com/junzhin/dgm-vlc)**|
@@ -2312,6 +2322,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts**|German Gritsai et.al.|[2410.14677](http://arxiv.org/abs/2410.14677)|null|
+|**2024-10-18**|**SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment**|Qin Liu et.al.|[2410.14676](http://arxiv.org/abs/2410.14676)|null|
+|**2024-10-18**|**Enhancing Large Language Models' Situated Faithfulness to External Contexts**|Yukun Huang et.al.|[2410.14675](http://arxiv.org/abs/2410.14675)|**[link](https://github.com/kkkevinkkkkk/situated_faithfulness)**|
+|**2024-10-18**|**MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps**|Xiongtao Zhou et.al.|[2410.14668](http://arxiv.org/abs/2410.14668)|**[link](https://github.com/alenai97/miceval)**|
+|**2024-10-18**|**A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning**|Shengjie Sun et.al.|[2410.14660](http://arxiv.org/abs/2410.14660)|null|
+|**2024-10-18**|**EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search**|Oliver Sieberling et.al.|[2410.14649](http://arxiv.org/abs/2410.14649)|null|
+|**2024-10-18**|**Distance between Relevant Information Pieces Causes Bias in Long-Context LLMs**|Runchu Tian et.al.|[2410.14641](http://arxiv.org/abs/2410.14641)|**[link](https://github.com/Rachum-thu/LongPiBench)**|
+|**2024-10-18**|**GenEOL: Harnessing the Generative Power of LLMs for Training-Free Sentence Embeddings**|Raghuveer Thirukovalluru et.al.|[2410.14635](http://arxiv.org/abs/2410.14635)|null|
+|**2024-10-18**|**DiSCo Meets LLMs: A Unified Approach for Sparse Retrieval and Contextual Distillation in Conversational Search**|Simon Lupart et.al.|[2410.14609](http://arxiv.org/abs/2410.14609)|null|
+|**2024-10-18**|**Teaching Models to Balance Resisting and Accepting Persuasion**|Elias Stengel-Eskin et.al.|[2410.14596](http://arxiv.org/abs/2410.14596)|**[link](https://github.com/esteng/persuasion_balanced_training)**|
 |**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863](http://arxiv.org/abs/2410.13863)|null|
 |**2024-10-17**|**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**|Rongyao Fang et.al.|[2410.13861](http://arxiv.org/abs/2410.13861)|**[link](https://github.com/rongyaofang/puma)**|
 |**2024-10-17**|**$γ-$ MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models**|Yaxin Luo et.al.|[2410.13859](http://arxiv.org/abs/2410.13859)|null|
