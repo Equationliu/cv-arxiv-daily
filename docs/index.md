@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**|Yasha Ektefaie et.al.|[2410.17173](http://arxiv.org/abs/2410.17173)|null|
+|**2024-10-22**|**Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations**|Cheng Lei et.al.|[2410.16953](http://arxiv.org/abs/2410.16953)|null|
+|**2024-10-22**|**DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization**|Haowei Zhu et.al.|[2410.16942](http://arxiv.org/abs/2410.16942)|null|
+|**2024-10-22**|**Hierarchical Clustering for Conditional Diffusion in Image Generation**|Jorge da Silva Goncalves et.al.|[2410.16910](http://arxiv.org/abs/2410.16910)|**[link](https://github.com/jogo175/treediffusion)**|
+|**2024-10-22**|**VistaDream: Sampling multiview consistent images for single-view scene reconstruction**|Haiping Wang et.al.|[2410.16892](http://arxiv.org/abs/2410.16892)|null|
+|**2024-10-22**|**MPDS: A Movie Posters Dataset for Image Generation with Diffusion Model**|Meng Xu et.al.|[2410.16840](http://arxiv.org/abs/2410.16840)|null|
+|**2024-10-22**|**Evaluating the Effectiveness of Attack-Agnostic Features for Morphing Attack Detection**|Laurent Colbois et.al.|[2410.16802](http://arxiv.org/abs/2410.16802)|**[link](https://gitlab.idiap.ch/bob/bob.paper.ijcb2024_agnostic_features_mad)**|
+|**2024-10-22**|**One-Step Diffusion Distillation through Score Implicit Matching**|Weijian Luo et.al.|[2410.16794](http://arxiv.org/abs/2410.16794)|null|
+|**2024-10-22**|**LLM-Assisted Red Teaming of Diffusion Models through "Failures Are Fated, But Can Be Faded"**|Som Sagar et.al.|[2410.16738](http://arxiv.org/abs/2410.16738)|null|
+|**2024-10-22**|**Polyp-E: Benchmarking the Robustness of Deep Segmentation Models via Polyp Editing**|Runpu Wei et.al.|[2410.16732](http://arxiv.org/abs/2410.16732)|null|
 |**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272](http://arxiv.org/abs/2410.16272)|null|
 |**2024-10-21**|**A Framework for Evaluating Predictive Models Using Synthetic Image Covariates and Longitudinal Data**|Simon Deltadahl et.al.|[2410.16177](http://arxiv.org/abs/2410.16177)|null|
 |**2024-10-22**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152](http://arxiv.org/abs/2410.16152)|null|
@@ -2332,6 +2342,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction**|Long Xing et.al.|[2410.17247](http://arxiv.org/abs/2410.17247)|**[link](https://github.com/cooperx521/pyramiddrop)**|
+|**2024-10-22**|**Large Language Models Empowered Personalized Web Agents**|Hongru Cai et.al.|[2410.17236](http://arxiv.org/abs/2410.17236)|null|
+|**2024-10-22**|**Automated Spinal MRI Labelling from Reports Using a Large Language Model**|Robin Y. Park et.al.|[2410.17235](http://arxiv.org/abs/2410.17235)|**[link](https://github.com/robinyjpark/autolabelclassifier)**|
+|**2024-10-22**|**Fine-Tuning Large Language Models to Appropriately Abstain with Semantic Entropy**|Benedict Aaron Tjandra et.al.|[2410.17234](http://arxiv.org/abs/2410.17234)|null|
+|**2024-10-22**|**Few-shot In-Context Preference Learning Using Large Language Models**|Chao Yu et.al.|[2410.17233](http://arxiv.org/abs/2410.17233)|null|
+|**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
+|**2024-10-22**|**Exploring Possibilities of AI-Powered Legal Assistance in Bangladesh through Large Language Modeling**|Azmine Toushik Wasi et.al.|[2410.17210](http://arxiv.org/abs/2410.17210)|**[link](https://github.com/ciol-researchlab/ukil)**|
+|**2024-10-22**|**VoiceBench: Benchmarking LLM-Based Voice Assistants**|Yiming Chen et.al.|[2410.17196](http://arxiv.org/abs/2410.17196)|**[link](https://github.com/matthewcym/voicebench)**|
+|**2024-10-22**|**Language Model Non-myopic Generation for Reasoning and Planning**|Chang Ma et.al.|[2410.17195](http://arxiv.org/abs/2410.17195)|null|
+|**2024-10-22**|**From Attention to Activation: Unravelling the Enigmas of Large Language Models**|Prannay Kaul et.al.|[2410.17174](http://arxiv.org/abs/2410.17174)|null|
 |**2024-10-21**|**Reflection-Bench: probing AI intelligence with reflection**|Lingyu Li et.al.|[2410.16270](http://arxiv.org/abs/2410.16270)|**[link](https://github.com/yabyum/reflectionbench)**|
 |**2024-10-22**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[2410.16261](http://arxiv.org/abs/2410.16261)|**[link](https://github.com/opengvlab/internvl)**|
 |**2024-10-21**|**Elucidating the design space of language models for image generation**|Xuantong Liu et.al.|[2410.16257](http://arxiv.org/abs/2410.16257)|null|
