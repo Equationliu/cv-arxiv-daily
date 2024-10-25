@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.24
+## Updated on 2024.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -4852,7 +4852,7 @@ layout: default
 |**2024-10-23**|**Inferring stability properties of chaotic systems on autoencoders' latent spaces**|Elise Özalp et.al.|[2410.18003](http://arxiv.org/abs/2410.18003)|null|
 |**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521](http://arxiv.org/abs/2410.17521)|**[link](https://github.com/hust-tan/diffusionvi)**|
 |**2024-10-21**|**Federated Learning with MMD-based Early Stopping for Adaptive GNSS Interference Classification**|Nishant S. Gaikwad et.al.|[2410.15681](http://arxiv.org/abs/2410.15681)|null|
-|**2024-10-20**|**BoostAdapter: Improving Test-Time Adaptation via Regional Bootstrapping**|Taolin Zhang et.al.|[2410.15430](http://arxiv.org/abs/2410.15430)|null|
+|**2024-10-24**|**BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping**|Taolin Zhang et.al.|[2410.15430](http://arxiv.org/abs/2410.15430)|null|
 |**2024-10-16**|**FiRST: Finetuning Router-Selective Transformers for Input-Adaptive Latency Reduction**|Akriti Jain et.al.|[2410.12513](http://arxiv.org/abs/2410.12513)|null|
 |**2024-10-15**|**Juggernaut: Efficient Crypto-Agnostic Byzantine Agreement**|Daniel Collins et.al.|[2410.12121](http://arxiv.org/abs/2410.12121)|null|
 |**2024-10-14**|**Focused ReAct: Improving ReAct through Reiterate and Early Stop**|Shuoqiu Li et.al.|[2410.10779](http://arxiv.org/abs/2410.10779)|null|
