@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -18,7 +18,7 @@ layout: default
 |**2024-10-28**|**One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation**|Zhendong Wang et.al.|[2410.21257](http://arxiv.org/abs/2410.21257)|null|
 |**2024-10-28**|**On learning higher-order cumulants in diffusion models**|Gert Aarts et.al.|[2410.21212](http://arxiv.org/abs/2410.21212)|null|
 |**2024-10-28**|**Extrapolating Prospective Glaucoma Fundus Images through Diffusion Model in Irregular Longitudinal Sequences**|Zhihao Zhao et.al.|[2410.21130](http://arxiv.org/abs/2410.21130)|null|
-|**2024-10-28**|**Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models**|Wenda Li et.al.|[2410.21088](http://arxiv.org/abs/2410.21088)|null|
+|**2024-10-28**|**Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models**|Wenda Li et.al.|[2410.21088](http://arxiv.org/abs/2410.21088)|**[link](https://github.com/liwd190019/shallow-diffuse)**|
 |**2024-10-28**|**Federated Time Series Generation on Feature and Temporally Misaligned Data**|Chenrui Fan et.al.|[2410.21072](http://arxiv.org/abs/2410.21072)|null|
 |**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|null|
 |**2024-10-28**|**Beyond Autoregression: Fast LLMs via Self-Distillation Through Time**|Justin Deschenaux et.al.|[2410.21035](http://arxiv.org/abs/2410.21035)|null|
@@ -2391,7 +2391,7 @@ layout: default
 |**2024-10-28**|**LoRA vs Full Fine-tuning: An Illusion of Equivalence**|Reece Shuttleworth et.al.|[2410.21228](http://arxiv.org/abs/2410.21228)|null|
 |**2024-10-28**|**Lifting the Veil on the Large Language Model Supply Chain: Composition, Risks, and Mitigations**|Kaifeng Huang et.al.|[2410.21218](http://arxiv.org/abs/2410.21218)|null|
 |**2024-10-28**|**BongLLaMA: LLaMA for Bangla Language**|Abdullah Khan Zehady et.al.|[2410.21200](http://arxiv.org/abs/2410.21200)|null|
-|**2024-10-28**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
+|**2024-10-29**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
 |**2024-10-25**|**The Potential and Value of AI Chatbot in Personalized Cognitive Training**|Zilong Wang et.al.|[2410.19733](http://arxiv.org/abs/2410.19733)|null|
 |**2024-10-25**|**Counting Ability of Large Language Models and Impact of Tokenization**|Xiang Zhang et.al.|[2410.19730](http://arxiv.org/abs/2410.19730)|null|
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
