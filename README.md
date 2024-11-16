@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -446,7 +446,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## SFM
 
@@ -585,7 +585,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1143,7 +1143,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1326,7 +1326,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1504,7 +1504,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## NeRF
 
@@ -2049,7 +2049,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## Computer Vision
 
@@ -2058,7 +2058,7 @@
 |**2024-11-14**|**Golden Noise for Diffusion Models: A Learning Framework**|Zikai Zhou et.al.|[2411.09502](http://arxiv.org/abs/2411.09502)|null|
 |**2024-11-14**|**DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing**|Junjie Zhou et.al.|[2411.09451](http://arxiv.org/abs/2411.09451)|null|
 |**2024-11-14**|**Image Regeneration: Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models**|Chutian Meng et.al.|[2411.09449](http://arxiv.org/abs/2411.09449)|null|
-|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388](http://arxiv.org/abs/2411.09388)|null|
+|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388](http://arxiv.org/abs/2411.09388)|**[link](https://github.com/shams-mehdi/aib9_openmm)**|
 |**2024-11-14**|**EEG-Based Speech Decoding: A Novel Approach Using Multi-Kernel Ensemble Diffusion Models**|Soowon Kim et.al.|[2411.09302](http://arxiv.org/abs/2411.09302)|null|
 |**2024-11-14**|**Advancing Diffusion Models: Alias-Free Resampling and Enhanced Rotational Equivariance**|Md Fahim Anjum et.al.|[2411.09174](http://arxiv.org/abs/2411.09174)|null|
 |**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153](http://arxiv.org/abs/2411.09153)|null|
@@ -4537,7 +4537,7 @@
 |**2023-10-12**|**MotionDirector: Motion Customization of Text-to-Video Diffusion Models**|Rui Zhao et.al.|[2310.08465](http://arxiv.org/abs/2310.08465)|**[link](https://github.com/showlab/MotionDirector)**|
 |**2023-10-12**|**Debias the Training of Diffusion Models**|Hu Yu et.al.|[2310.08442](http://arxiv.org/abs/2310.08442)|**[link](https://github.com/yuhuustc/debias)**|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## LLM
 
@@ -7186,14 +7186,14 @@
 |**2023-10-13**|**"Kelly is a Warm Person, Joseph is a Role Model": Gender Biases in LLM-Generated Reference Letters**|Yixin Wan et.al.|[2310.09219](http://arxiv.org/abs/2310.09219)|**[link](https://github.com/uclanlp/biases-llm-reference-letters)**|
 |**2023-10-13**|**Explore-Instruct: Enhancing Domain-Specific Instruction Coverage through Active Exploration**|Fanqi Wan et.al.|[2310.09168](http://arxiv.org/abs/2310.09168)|**[link](https://github.com/fanqiwan/explore-instruct)**|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## Early Stopping
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-13**|**Voxeland: Probabilistic Instance-Aware Semantic Mapping with Evidence-based Uncertainty Quantification**|Jose-Luis Matez-Bandera et.al.|[2411.08727](http://arxiv.org/abs/2411.08727)|null|
-|**2024-11-11**|**The Unreasonable Effectiveness of Monte Carlo Simulations in A/B Testing**|Márton Trencséni et.al.|[2411.06701](http://arxiv.org/abs/2411.06701)|null|
+|**2024-11-11**|**The Unreasonable Effectiveness of Monte Carlo Simulations in A/B Testing**|Márton Trencséni et.al.|[2411.06701](http://arxiv.org/abs/2411.06701)|**[link](https://github.com/mtrencseni/unreasonable-effectiveness-monte-carlo-ab-testing-2024)**|
 |**2024-11-07**|**Performance-Guided LLM Knowledge Distillation for Efficient Text Classification at Scale**|Flavio Di Palo et.al.|[2411.05045](http://arxiv.org/abs/2411.05045)|null|
 |**2024-11-07**|**LoFi: Scalable Local Image Reconstruction with Implicit Neural Representation**|AmirEhsan Khorashadizadeh et.al.|[2411.04995](http://arxiv.org/abs/2411.04995)|null|
 |**2024-11-05**|**SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents**|Dawei Li et.al.|[2411.03284](http://arxiv.org/abs/2411.03284)|**[link](https://github.com/david-li0406/smoa)**|
@@ -7505,7 +7505,7 @@
 |**2023-10-03**|**SMRD: SURE-based Robust MRI Reconstruction with Diffusion Models**|Batu Ozturkler et.al.|[2310.01799](http://arxiv.org/abs/2310.01799)|**[link](https://github.com/batuozt/smrd)**|
 |**2023-10-03**|**Sampling Multimodal Distributions with the Vanilla Score: Benefits of Data-Based Initialization**|Frederic Koehler et.al.|[2310.01762](http://arxiv.org/abs/2310.01762)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## Adversarial
 
@@ -7513,7 +7513,7 @@
 |---|---|---|---|---|
 |**2021-04-01**|**"TL;DR:" Out-of-Context Adversarial Text Summarization and Hashtag Recommendation**|Peter Jachim et.al.|[2104.00782](http://arxiv.org/abs/2104.00782)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
