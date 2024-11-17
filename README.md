@@ -2062,7 +2062,7 @@
 |**2024-11-14**|**EEG-Based Speech Decoding: A Novel Approach Using Multi-Kernel Ensemble Diffusion Models**|Soowon Kim et.al.|[2411.09302](http://arxiv.org/abs/2411.09302)|null|
 |**2024-11-14**|**Advancing Diffusion Models: Alias-Free Resampling and Enhanced Rotational Equivariance**|Md Fahim Anjum et.al.|[2411.09174](http://arxiv.org/abs/2411.09174)|null|
 |**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153](http://arxiv.org/abs/2411.09153)|null|
-|**2024-11-14**|**General linear threshold models with application to influence maximization**|Alexander Kagan et.al.|[2411.09100](http://arxiv.org/abs/2411.09100)|null|
+|**2024-11-14**|**General linear threshold models with application to influence maximization**|Alexander Kagan et.al.|[2411.09100](http://arxiv.org/abs/2411.09100)|**[link](https://github.com/AlexanderKagan/gltm_experiments)**|
 |**2024-11-13**|**Inconsistencies In Consistency Models: Better ODE Solving Does Not Imply Better Samples**|Noël Vouitsis et.al.|[2411.08954](http://arxiv.org/abs/2411.08954)|**[link](https://github.com/layer6ai-labs/direct-cms)**|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879](http://arxiv.org/abs/2411.08879)|null|
 |**2024-11-13**|**Offline Adaptation of Quadruped Locomotion using Diffusion Models**|Reece O'Mahoney et.al.|[2411.08832](http://arxiv.org/abs/2411.08832)|null|
@@ -7192,7 +7192,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-13**|**Voxeland: Probabilistic Instance-Aware Semantic Mapping with Evidence-based Uncertainty Quantification**|Jose-Luis Matez-Bandera et.al.|[2411.08727](http://arxiv.org/abs/2411.08727)|null|
+|**2024-11-13**|**Voxeland: Probabilistic Instance-Aware Semantic Mapping with Evidence-based Uncertainty Quantification**|Jose-Luis Matez-Bandera et.al.|[2411.08727](http://arxiv.org/abs/2411.08727)|**[link](https://github.com/MAPIRlab/Voxeland)**|
 |**2024-11-11**|**The Unreasonable Effectiveness of Monte Carlo Simulations in A/B Testing**|Márton Trencséni et.al.|[2411.06701](http://arxiv.org/abs/2411.06701)|**[link](https://github.com/mtrencseni/unreasonable-effectiveness-monte-carlo-ab-testing-2024)**|
 |**2024-11-07**|**Performance-Guided LLM Knowledge Distillation for Efficient Text Classification at Scale**|Flavio Di Palo et.al.|[2411.05045](http://arxiv.org/abs/2411.05045)|null|
 |**2024-11-07**|**LoFi: Scalable Local Image Reconstruction with Implicit Neural Representation**|AmirEhsan Khorashadizadeh et.al.|[2411.04995](http://arxiv.org/abs/2411.04995)|null|
