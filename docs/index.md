@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**REDUCIO! Generating 1024 $\times$ 1024 Video within 16 Seconds using Extremely Compressed Motion Latents**|Rui Tian et.al.|[2411.13552](http://arxiv.org/abs/2411.13552)|**[link](https://github.com/microsoft/reducio-vae)**|
+|**2024-11-20**|**Identity Preserving 3D Head Stylization with Multiview Score Distillation**|Bahri Batuhan Bilecen et.al.|[2411.13536](http://arxiv.org/abs/2411.13536)|null|
+|**2024-11-20**|**Heuristically Adaptive Diffusion-Model Evolutionary Strategy**|Benedikt Hartl et.al.|[2411.13420](http://arxiv.org/abs/2411.13420)|null|
+|**2024-11-20**|**XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation**|Ziyi Wang et.al.|[2411.13243](http://arxiv.org/abs/2411.13243)|**[link](https://github.com/wangzy22/xmask3d)**|
+|**2024-11-20**|**A computational framework for integrating Predictive processes with evidence Accumulation Models (PAM)**|Antonino Visalli et.al.|[2411.13203](http://arxiv.org/abs/2411.13203)|null|
+|**2024-11-20**|**RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation**|Christoph Reinders et.al.|[2411.13150](http://arxiv.org/abs/2411.13150)|null|
+|**2024-11-20**|**CopyrightMeter: Revisiting Copyright Protection in Text-to-image Models**|Naen Xu et.al.|[2411.13144](http://arxiv.org/abs/2411.13144)|null|
+|**2024-11-20**|**Virtual Staining of Label-Free Tissue in Imaging Mass Spectrometry**|Yijie Zhang et.al.|[2411.13120](http://arxiv.org/abs/2411.13120)|null|
+|**2024-11-19**|**Breaking the wire: the impact of critical length on melting pathways in silver nanowires**|Kannan M Ridings et.al.|[2411.12891](http://arxiv.org/abs/2411.12891)|null|
+|**2024-11-19**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnett et.al.|[2411.12872](http://arxiv.org/abs/2411.12872)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
 |**2024-11-19**|**PoM: Efficient Image and Video Generation with the Polynomial Mixer**|David Picard et.al.|[2411.12663](http://arxiv.org/abs/2411.12663)|**[link](https://github.com/davidpicard/homm)**|
 |**2024-11-19**|**Improving Controllability and Editability for Pretrained Text-to-Music Generation Models**|Yixiao Zhang et.al.|[2411.12641](http://arxiv.org/abs/2411.12641)|null|
 |**2024-11-19**|**Data Pruning in Generative Diffusion Models**|Rania Briq et.al.|[2411.12523](http://arxiv.org/abs/2411.12523)|null|
@@ -2530,6 +2540,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs**|Shirley Kokane et.al.|[2411.13547](http://arxiv.org/abs/2411.13547)|null|
+|**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
+|**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
+|**2024-11-20**|**Advancing Complex Medical Communication in Arabic with Sporo AraSum: Surpassing Existing Large Language Models**|Chanseo Lee et.al.|[2411.13518](http://arxiv.org/abs/2411.13518)|null|
+|**2024-11-20**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
+|**2024-11-20**|**Utilizing Large Language Models to Synthesize Product Desirability Datasets**|John D. Hastings et.al.|[2411.13485](http://arxiv.org/abs/2411.13485)|null|
+|**2024-11-20**|**PatentEdits: Framing Patent Novelty as Textual Entailment**|Ryan Lee et.al.|[2411.13477](http://arxiv.org/abs/2411.13477)|null|
+|**2024-11-20**|**When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training**|Haonan Wang et.al.|[2411.13476](http://arxiv.org/abs/2411.13476)|**[link](https://github.com/haonan3/anchorcontext)**|
+|**2024-11-20**|**SoK: A Systems Perspective on Compound AI Threats and Countermeasures**|Sarbartha Banerjee et.al.|[2411.13459](http://arxiv.org/abs/2411.13459)|null|
+|**2024-11-20**|**AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations**|Gaurav Verma et.al.|[2411.13451](http://arxiv.org/abs/2411.13451)|null|
 |**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|**[link](https://github.com/salmakh1/ACING)**|
 |**2024-11-19**|**Information Theory of Meaningful Communication**|Doron Sivan et.al.|[2411.12728](http://arxiv.org/abs/2411.12728)|null|
 |**2024-11-19**|**Strengthening Fake News Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques. Defying BERT?**|Ahmed Akib Jawad Karim et.al.|[2411.12703](http://arxiv.org/abs/2411.12703)|null|
