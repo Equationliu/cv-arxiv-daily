@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697](http://arxiv.org/abs/2411.17697)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
+|**2024-11-26**|**ScribbleLight: Single Image Indoor Relighting with Scribbles**|Jun Myeong Choi et.al.|[2411.17696](http://arxiv.org/abs/2411.17696)|null|
+|**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687](http://arxiv.org/abs/2411.17687)|null|
+|**2024-11-26**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616](http://arxiv.org/abs/2411.17616)|**[link](https://github.com/opensparsellms/skip-dit)**|
+|**2024-11-26**|**VideoDirector: Precise Video Editing via Text-to-Video Models**|Yukun Wang et.al.|[2411.17592](http://arxiv.org/abs/2411.17592)|null|
+|**2024-11-26**|**FTMoMamba: Motion Generation with Frequency and Text State Space Models**|Chengjian Li et.al.|[2411.17532](http://arxiv.org/abs/2411.17532)|null|
+|**2024-11-26**|**WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model**|Zongjian Li et.al.|[2411.17459](http://arxiv.org/abs/2411.17459)|**[link](https://github.com/pku-yuangroup/wf-vae)**|
+|**2024-11-26**|**Image Generation with Multimodule Semantic Feature-Aided Selection for Semantic Communications**|Chengyang Liang et.al.|[2411.17428](http://arxiv.org/abs/2411.17428)|null|
+|**2024-11-26**|**Reward Incremental Learning in Text-to-Image Generation**|Maorong Wang et.al.|[2411.17310](http://arxiv.org/abs/2411.17310)|null|
+|**2024-11-26**|**APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents**|Jun Yu Chen et.al.|[2411.17255](http://arxiv.org/abs/2411.17255)|**[link](https://github.com/spearsheep/APT-Architectural-Planning-LLM-Agent)**|
 |**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683](http://arxiv.org/abs/2411.16683)|null|
 |**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668](http://arxiv.org/abs/2411.16668)|null|
 |**2024-11-25**|**LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction**|Yiran Sun et.al.|[2411.16629](http://arxiv.org/abs/2411.16629)|null|
@@ -2570,6 +2580,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693](http://arxiv.org/abs/2411.17693)|null|
+|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691](http://arxiv.org/abs/2411.17691)|null|
+|**2024-11-26**|**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**|Yuhang Han et.al.|[2411.17686](http://arxiv.org/abs/2411.17686)|null|
+|**2024-11-26**|**Enhancing Character-Level Understanding in LLMs through Token Internal Structure Learning**|Zhu Xu et.al.|[2411.17679](http://arxiv.org/abs/2411.17679)|null|
+|**2024-11-26**|**Push the Limit of Multi-modal Emotion Recognition by Prompting LLMs with Receptive-Field-Aware Attention Weighting**|Liyun Zhang et.al.|[2411.17674](http://arxiv.org/abs/2411.17674)|null|
+|**2024-11-26**|**SketchAgent: Language-Driven Sequential Sketch Generation**|Yael Vinker et.al.|[2411.17673](http://arxiv.org/abs/2411.17673)|null|
+|**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672](http://arxiv.org/abs/2411.17672)|null|
+|**2024-11-26**|**Toward High-Performance LLM Serving: A Simulation-Based Approach for Identifying Optimal Parallelism**|Yi-Chien Lin et.al.|[2411.17651](http://arxiv.org/abs/2411.17651)|null|
+|**2024-11-26**|**On Limitations of LLM as Annotator for Low Resource Languages**|Suramya Jadhav et.al.|[2411.17637](http://arxiv.org/abs/2411.17637)|null|
+|**2024-11-26**|**MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation**|Harsh Singh et.al.|[2411.17636](http://arxiv.org/abs/2411.17636)|null|
 |**2024-11-25**|**Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?**|Sohee Yang et.al.|[2411.16679](http://arxiv.org/abs/2411.16679)|null|
 |**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
 |**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
@@ -5287,6 +5307,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Instance-Aware Graph Prompt Learning**|Jiazheng Li et.al.|[2411.17676](http://arxiv.org/abs/2411.17676)|null|
 |**2024-11-22**|**Instance-Aware Generalized Referring Expression Segmentation**|E-Ro Nguyen et.al.|[2411.15087](http://arxiv.org/abs/2411.15087)|null|
 |**2024-11-19**|**Deep Learning-Driven Heat Map Analysis for Evaluating thickness of Wounded Skin Layers**|Devakumar GR et.al.|[2411.12678](http://arxiv.org/abs/2411.12678)|null|
 |**2024-11-15**|**Exploiting Negative Curvature in Conjunction with Adaptive Sampling: Theoretical Results and a Practical Algorithm**|Albert S. Berahas et.al.|[2411.10378](http://arxiv.org/abs/2411.10378)|null|
