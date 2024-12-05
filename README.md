@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**|Zehuan Huang et.al.|[2412.03558](http://arxiv.org/abs/2412.03558)|null|
+|**2024-12-04**|**NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**|Lingen Li et.al.|[2412.03517](http://arxiv.org/abs/2412.03517)|null|
+|**2024-12-04**|**Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion**|Shengyuan Zhang et.al.|[2412.03515](http://arxiv.org/abs/2412.03515)|**[link](https://github.com/happyw1nd/scorelidar)**|
+|**2024-12-04**|**CleanDIFT: Diffusion Features without Noise**|Nick Stracke et.al.|[2412.03439](http://arxiv.org/abs/2412.03439)|null|
+|**2024-12-04**|**SINGER: Vivid Audio-driven Singing Video Generation with Multi-scale Spectral Diffusion Model**|Yan Li et.al.|[2412.03430](http://arxiv.org/abs/2412.03430)|null|
+|**2024-12-04**|**Skel3D: Skeleton Guided Novel View Synthesis**|Aron Fóthi et.al.|[2412.03407](http://arxiv.org/abs/2412.03407)|null|
+|**2024-12-04**|**Identifiability implies consistency of MLE in partially observed diffusions on a torus**|Ibrahim Ekren et.al.|[2412.03380](http://arxiv.org/abs/2412.03380)|null|
+|**2024-12-04**|**TASR: Timestep-Aware Diffusion Model for Image Super-Resolution**|Qinwei Lin et.al.|[2412.03355](http://arxiv.org/abs/2412.03355)|**[link](https://github.com/sleepylin/tasr)**|
+|**2024-12-04**|**DIVE: Taming DINO for Subject-Driven Video Editing**|Yi Huang et.al.|[2412.03347](http://arxiv.org/abs/2412.03347)|null|
+|**2024-12-04**|**Geometry-guided Cross-view Diffusion for One-to-many Cross-view Image Synthesis**|Tao Jun Lin et.al.|[2412.03315](http://arxiv.org/abs/2412.03315)|null|
 |**2024-12-03**|**Diffusion-based Visual Anagram as Multi-task Learning**|Zhiyuan Xu et.al.|[2412.02693](http://arxiv.org/abs/2412.02693)|**[link](https://github.com/pixtella/anagram-mtl)**|
 |**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
 |**2024-12-03**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
@@ -4653,6 +4663,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**|Xinyi Mou et.al.|[2412.03563](http://arxiv.org/abs/2412.03563)|null|
+|**2024-12-04**|**SPICE: Smart Projection Interface for Cooking Enhancement**|Vera Prohaska et.al.|[2412.03551](http://arxiv.org/abs/2412.03551)|null|
+|**2024-12-04**|**Evaluating Gender Bias Transfer between Pre-trained and Prompt-Adapted Language Models**|Natalie Mackraz et.al.|[2412.03537](http://arxiv.org/abs/2412.03537)|null|
+|**2024-12-04**|**A Review on Scientific Knowledge Extraction using Large Language Models in Biomedical Sciences**|Gabriel Lino Garcia et.al.|[2412.03531](http://arxiv.org/abs/2412.03531)|null|
+|**2024-12-04**|**FANAL -- Financial Activity News Alerting Language Modeling Framework**|Urjitkumar Patel et.al.|[2412.03527](http://arxiv.org/abs/2412.03527)|null|
+|**2024-12-04**|**You're (Not) My Type -- Can LLMs Generate Feedback of Specific Types for Introductory Programming Tasks?**|Dominic Lohr et.al.|[2412.03516](http://arxiv.org/abs/2412.03516)|null|
+|**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
+|**2024-12-04**|**From Words to Workflows: Automating Business Processes**|Laura Minkova et.al.|[2412.03446](http://arxiv.org/abs/2412.03446)|null|
+|**2024-12-04**|**RedStone: Curating General, Code, Math, and QA Data for Large Language Models**|Yaoyao Chang et.al.|[2412.03398](http://arxiv.org/abs/2412.03398)|null|
+|**2024-12-04**|**WiS Platform: Enhancing Evaluation of LLM-Based Multi-Agent Systems Through Game-Based Analysis**|Chengwei Hu et.al.|[2412.03359](http://arxiv.org/abs/2412.03359)|null|
 |**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
 |**2024-12-03**|**Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models**|Yuda Song et.al.|[2412.02674](http://arxiv.org/abs/2412.02674)|null|
 |**2024-12-03**|**LLM-Enhanced Path Planning: Safe and Efficient Autonomous Navigation with Instructional Inputs**|Pranav Doma et.al.|[2412.02655](http://arxiv.org/abs/2412.02655)|null|
@@ -7412,6 +7432,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for accelerating Large VLMs**|Wangbo Zhao et.al.|[2412.03324](http://arxiv.org/abs/2412.03324)|null|
 |**2024-12-03**|**Time-Series-Informed Closed-loop Learning for Sequential Decision Making and Control**|Sebastian Hirt et.al.|[2412.02423](http://arxiv.org/abs/2412.02423)|null|
 |**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|
 |**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|
