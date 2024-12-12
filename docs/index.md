@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642](http://arxiv.org/abs/2412.08642)|null|
+|**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637](http://arxiv.org/abs/2412.08637)|null|
+|**2024-12-11**|**TryOffAnyone: Tiled Cloth Generation from a Dressed Person**|Ioannis Xarchakos et.al.|[2412.08573](http://arxiv.org/abs/2412.08573)|**[link](https://github.com/ixarchakos/try-off-anyone)**|
+|**2024-12-11**|**Learning Flow Fields in Attention for Controllable Person Image Generation**|Zijian Zhou et.al.|[2412.08486](http://arxiv.org/abs/2412.08486)|**[link](https://github.com/franciszzj/leffa)**|
+|**2024-12-11**|**InvDiff: Invariant Guidance for Bias Mitigation in Diffusion Models**|Min Hou et.al.|[2412.08480](http://arxiv.org/abs/2412.08480)|**[link](https://github.com/hundredl/invdiff)**|
+|**2024-12-11**|**CC-Diff: Enhancing Contextual Coherence in Remote Sensing Image Synthesis**|Mu Zhang et.al.|[2412.08464](http://arxiv.org/abs/2412.08464)|null|
+|**2024-12-11**|**Reliable Uncertainty Quantification for Fiber Orientation in Composite Molding Processes using Multilevel Polynomial Surrogates**|Stjepan Salatovic et.al.|[2412.08459](http://arxiv.org/abs/2412.08459)|null|
+|**2024-12-11**|**Pragmatist: Multiview Conditional Diffusion Models for High-Fidelity 3D Reconstruction from Unposed Sparse Views**|Songchun Zhang et.al.|[2412.08412](http://arxiv.org/abs/2412.08412)|null|
+|**2024-12-11**|**Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3)xR3**|Joao Carvalho et.al.|[2412.08398](http://arxiv.org/abs/2412.08398)|null|
+|**2024-12-11**|**Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion**|Jisheng Chu et.al.|[2412.08326](http://arxiv.org/abs/2412.08326)|null|
 |**2024-12-10**|**Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets**|Zhen Liu et.al.|[2412.07775](http://arxiv.org/abs/2412.07775)|null|
 |**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772](http://arxiv.org/abs/2412.07772)|null|
 |**2024-12-10**|**Make-A-Texture: Fast Shape-Aware Texture Generation in 3 Seconds**|Xiaoyu Xiang et.al.|[2412.07766](http://arxiv.org/abs/2412.07766)|null|
@@ -2660,6 +2670,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642](http://arxiv.org/abs/2412.08642)|null|
+|**2024-12-11**|**Fast Prompt Alignment for Text-to-Image Generation**|Khalil Mrini et.al.|[2412.08639](http://arxiv.org/abs/2412.08639)|**[link](https://github.com/tiktok/fast_prompt_alignment)**|
+|**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|null|
+|**2024-12-11**|**Synthetic Vision: Training Vision-Language Models to Understand Physics**|Vahid Balazadeh et.al.|[2412.08619](http://arxiv.org/abs/2412.08619)|null|
+|**2024-12-11**|**Exploiting the Index Gradients for Optimization-Based Jailbreaking on Large Language Models**|Jiahui Li et.al.|[2412.08615](http://arxiv.org/abs/2412.08615)|null|
+|**2024-12-11**|**Preference Discerning with LLM-Enhanced Generative Retrieval**|Fabian Paischer et.al.|[2412.08604](http://arxiv.org/abs/2412.08604)|null|
+|**2024-12-11**|**Empirical Measurements of AI Training Power Demand on a GPU-Accelerated Node**|Imran Latif et.al.|[2412.08602](http://arxiv.org/abs/2412.08602)|null|
+|**2024-12-11**|**Leveraging Graph-RAG and Prompt Engineering to Enhance LLM-Based Automated Requirement Traceability and Compliance Checks**|Arsalan Masoudifard et.al.|[2412.08593](http://arxiv.org/abs/2412.08593)|null|
+|**2024-12-11**|**Advancing Single- and Multi-task Text Classification through Large Language Model Fine-tuning**|Hang Zhao et.al.|[2412.08587](http://arxiv.org/abs/2412.08587)|null|
+|**2024-12-11**|**TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|
 |**2024-12-10**|**Bayesian Optimization of Antibodies Informed by a Generative Model of Evolving Sequences**|Alan Nawzad Amin et.al.|[2412.07763](http://arxiv.org/abs/2412.07763)|**[link](https://github.com/alannawzadamin/clonebo)**|
 |**2024-12-10**|**Zero-Shot ATC Coding with Large Language Models for Clinical Assessments**|Zijian Chen et.al.|[2412.07743](http://arxiv.org/abs/2412.07743)|null|
 |**2024-12-10**|**Granite Guardian**|Inkit Padhi et.al.|[2412.07724](http://arxiv.org/abs/2412.07724)|**[link](https://github.com/ibm-granite/granite-guardian)**|
@@ -5467,7 +5487,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-09**|**Diff-GO $^\text{n}$ : Enhancing Diffusion Models for Goal-Oriented Communications**|Suchinthaka Wanninayaka et.al.|[2412.06980](http://arxiv.org/abs/2412.06980)|null|
+|**2024-12-11**|**GradStop: Exploring Training Dynamics in Unsupervised Outlier Detection through Gradient Cohesion**|Yuang Zhang et.al.|[2412.08501](http://arxiv.org/abs/2412.08501)|null|
+|**2024-12-11**|**Collaborative Inference for Large Models with Task Offloading and Early Exiting**|Zuan Xie et.al.|[2412.08284](http://arxiv.org/abs/2412.08284)|null|
+|**2024-12-11**|**Diff-GO $^\text{n}$ : Enhancing Diffusion Models for Goal-Oriented Communications**|Suchinthaka Wanninayaka et.al.|[2412.06980](http://arxiv.org/abs/2412.06980)|null|
 |**2024-12-06**|**Sparse autoencoders reveal selective remapping of visual concepts during adaptation**|Hyesu Lim et.al.|[2412.05276](http://arxiv.org/abs/2412.05276)|**[link](https://github.com/dynamical-inference/patchsae)**|
 |**2024-12-06**|**BEExformer: A Fast Inferencing Transformer Architecture via Binarization with Multiple Early Exits**|Wazib Ansar et.al.|[2412.05225](http://arxiv.org/abs/2412.05225)|null|
 |**2024-12-05**|**A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for Accelerating Large VLMs**|Wangbo Zhao et.al.|[2412.03324](http://arxiv.org/abs/2412.03324)|**[link](https://github.com/NUS-HPC-AI-Lab/SGL)**|
