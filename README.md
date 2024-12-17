@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095](http://arxiv.org/abs/2412.12095)|**[link](https://github.com/causalfusion/causalfusion)**|
+|**2024-12-16**|**CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models**|Felix Taubner et.al.|[2412.12093](http://arxiv.org/abs/2412.12093)|null|
+|**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091](http://arxiv.org/abs/2412.12091)|null|
+|**2024-12-16**|**A LoRA is Worth a Thousand Pictures**|Chenxi Liu et.al.|[2412.12048](http://arxiv.org/abs/2412.12048)|null|
+|**2024-12-16**|**FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning**|Gaojian Wang et.al.|[2412.12032](http://arxiv.org/abs/2412.12032)|null|
+|**2024-12-16**|**The entropic optimal (self-)transport problem: Limit distributions for decreasing regularization with application to score function estimation**|Gilles Mordant et.al.|[2412.12007](http://arxiv.org/abs/2412.12007)|null|
+|**2024-12-16**|**Controllable Shadow Generation with Single-Step Diffusion Models from Synthetic Data**|Onur Tasar et.al.|[2412.11972](http://arxiv.org/abs/2412.11972)|null|
+|**2024-12-16**|**ColorFlow: Retrieval-Augmented Image Sequence Colorization**|Junhao Zhuang et.al.|[2412.11815](http://arxiv.org/abs/2412.11815)|null|
+|**2024-12-16**|**InterDyn: Controllable Interactive Dynamics with Video Diffusion Models**|Rick Akkerman et.al.|[2412.11785](http://arxiv.org/abs/2412.11785)|null|
+|**2024-12-16**|**Joint Reconstruction of the Activity and the Attenuation in PET by Diffusion Posterior Sampling: a Feasibility Study**|Clémentine Phung-Ngoc et.al.|[2412.11776](http://arxiv.org/abs/2412.11776)|null|
 |**2024-12-13**|**Towards a foundation model for heavy-ion collision experiments through point cloud diffusion**|Manjunath Omana Kuttan et.al.|[2412.10352](http://arxiv.org/abs/2412.10352)|null|
 |**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|
 |**2024-12-13**|**Coherent 3D Scene Diffusion From a Single RGB Image**|Manuel Dahnert et.al.|[2412.10294](http://arxiv.org/abs/2412.10294)|null|
@@ -4733,6 +4743,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
+|**2024-12-16**|**Instruction-based Image Manipulation by Watching How Things Move**|Mingdeng Cao et.al.|[2412.12087](http://arxiv.org/abs/2412.12087)|null|
+|**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077](http://arxiv.org/abs/2412.12077)|null|
+|**2024-12-16**|**CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding**|Guo Chen et.al.|[2412.12075](http://arxiv.org/abs/2412.12075)|null|
+|**2024-12-16**|**Making FETCH! Happen: Finding Emergent Dog Whistles Through Common Habitats**|Kuleen Sasse et.al.|[2412.12072](http://arxiv.org/abs/2412.12072)|**[link](https://github.com/kuleens/fetch-dog-whistle)**|
+|**2024-12-16**|**Can LLM Prompting Serve as a Proxy for Static Analysis in Vulnerability Detection**|Ira Ceka et.al.|[2412.12039](http://arxiv.org/abs/2412.12039)|null|
+|**2024-12-16**|**SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval**|Yueqian Lin et.al.|[2412.12009](http://arxiv.org/abs/2412.12009)|null|
+|**2024-12-16**|**The Open Source Advantage in Large Language Models (LLMs)**|Jiya Manchanda et.al.|[2412.12004](http://arxiv.org/abs/2412.12004)|null|
+|**2024-12-16**|**LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**|Zhuhao Wang et.al.|[2412.12001](http://arxiv.org/abs/2412.12001)|null|
+|**2024-12-16**|**Combining Large Language Models with Tutoring System Intelligence: A Case Study in Caregiver Homework Support**|Devika Venugopalan et.al.|[2412.11995](http://arxiv.org/abs/2412.11995)|**[link](https://github.com/devika-prog/caregiver-conversational-support-tool)**|
 |**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
 |**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353](http://arxiv.org/abs/2412.10353)|null|
 |**2024-12-13**|**COMET: Benchmark for Comprehensive Biological Multi-omics Evaluation Tasks and Language Models**|Yuchen Ren et.al.|[2412.10347](http://arxiv.org/abs/2412.10347)|null|
@@ -7572,6 +7592,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**On the SDP Relaxation of Direct Torque Finite Control Set Model Predictive Control**|Luca M. Hartmann et.al.|[2412.11666](http://arxiv.org/abs/2412.11666)|null|
+|**2024-12-15**|**Wasserstein Bounds for generative diffusion models with Gaussian tail targets**|Xixian Wang et.al.|[2412.11251](http://arxiv.org/abs/2412.11251)|null|
+|**2024-12-15**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210](http://arxiv.org/abs/2412.11210)|**[link](https://github.com/fengyi233/ViPOcc)**|
+|**2024-12-15**|**PGD-Imp: Rethinking and Unleashing Potential of Classic PGD with Dual Strategies for Imperceptible Adversarial Attacks**|Jin Li et.al.|[2412.11168](http://arxiv.org/abs/2412.11168)|null|
+|**2024-12-15**|**On Distilling the Displacement Knowledge for Few-Shot Class-Incremental Learning**|Pengfei Fang et.al.|[2412.11017](http://arxiv.org/abs/2412.11017)|null|
 |**2024-12-12**|**InstanceCap: Improving Text-to-Video Generation via Instance-aware Structured Caption**|Tiehan Fan et.al.|[2412.09283](http://arxiv.org/abs/2412.09283)|null|
 |**2024-12-11**|**GradStop: Exploring Training Dynamics in Unsupervised Outlier Detection through Gradient Cohesion**|Yuang Zhang et.al.|[2412.08501](http://arxiv.org/abs/2412.08501)|**[link](https://github.com/Yann-zh/gradAE)**|
 |**2024-12-11**|**Collaborative Inference for Large Models with Task Offloading and Early Exiting**|Zuan Xie et.al.|[2412.08284](http://arxiv.org/abs/2412.08284)|null|
