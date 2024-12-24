@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812](http://arxiv.org/abs/2412.17812)|null|
+|**2024-12-23**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
+|**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762](http://arxiv.org/abs/2412.17762)|null|
+|**2024-12-23**|**A Bias-Free Training Paradigm for More General AI-generated Image Detection**|Fabrizio Guillaro et.al.|[2412.17671](http://arxiv.org/abs/2412.17671)|null|
+|**2024-12-23**|**Benchmarking Generative AI Models for Deep Learning Test Input Generation**|Maryam et.al.|[2412.17652](http://arxiv.org/abs/2412.17652)|**[link](https://github.com/maryammaryam877/genai_tigs)**|
+|**2024-12-23**|**DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder**|Ente Lin et.al.|[2412.17644](http://arxiv.org/abs/2412.17644)|null|
+|**2024-12-23**|**Retention Score: Quantifying Jailbreak Risks for Vision Language Models**|Zaitang Li et.al.|[2412.17544](http://arxiv.org/abs/2412.17544)|null|
+|**2024-12-23**|**DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak**|Hao Wang et.al.|[2412.17522](http://arxiv.org/abs/2412.17522)|null|
+|**2024-12-23**|**Heterogeneous carrying capacities and global extinction in metapopulations**|Jakub Hesoun et.al.|[2412.17461](http://arxiv.org/abs/2412.17461)|null|
+|**2024-12-23**|**AeroDiT: Diffusion Transformers for Reynolds-Averaged Navier-Stokes Simulations of Airfoil Flows**|Hui Xiang et.al.|[2412.17394](http://arxiv.org/abs/2412.17394)|null|
 |**2024-12-20**|**Personalized Representation from Personalized Generation**|Shobhita Sundaram et.al.|[2412.16156](http://arxiv.org/abs/2412.16156)|**[link](https://github.com/ssundaram21/personalized-rep)**|
 |**2024-12-20**|**Predicting human cooperation: sensitizing drift-diffusion model to interaction and external stimuli**|Lucila G. Alvarez-Zuzek et.al.|[2412.16121](http://arxiv.org/abs/2412.16121)|null|
 |**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083](http://arxiv.org/abs/2412.16083)|null|
@@ -4783,6 +4793,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811](http://arxiv.org/abs/2412.17811)|null|
+|**2024-12-23**|**ResearchTown: Simulator of Human Research Community**|Haofei Yu et.al.|[2412.17767](http://arxiv.org/abs/2412.17767)|**[link](https://github.com/ulab-uiuc/research-town)**|
+|**2024-12-23**|**ADC: Enhancing Function Calling Via Adversarial Datasets and Code Line-Level Feedback**|Wei Zhang et.al.|[2412.17754](http://arxiv.org/abs/2412.17754)|null|
+|**2024-12-23**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747](http://arxiv.org/abs/2412.17747)|null|
+|**2024-12-23**|**YuLan-Mini: An Open Data-efficient Language Model**|Yiwen Hu et.al.|[2412.17743](http://arxiv.org/abs/2412.17743)|**[link](https://github.com/ruc-gsai/yulan-mini)**|
+|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
+|**2024-12-23**|**Knowledge Editing through Chain-of-Thought**|Changyue Wang et.al.|[2412.17727](http://arxiv.org/abs/2412.17727)|**[link](https://github.com/bebr2/editcot)**|
+|**2024-12-23**|**Understanding the Logic of Direct Preference Alignment through Logic**|Kyle Richardson et.al.|[2412.17696](http://arxiv.org/abs/2412.17696)|null|
+|**2024-12-23**|**Large Language Model Safety: A Holistic Survey**|Dan Shi et.al.|[2412.17686](http://arxiv.org/abs/2412.17686)|null|
+|**2024-12-23**|**Generating Completions for Fragmented Broca's Aphasic Sentences Using Large Language Models**|Sijbren van Vaals et.al.|[2412.17669](http://arxiv.org/abs/2412.17669)|**[link](https://github.com/sijbrenvv/completions_for_broca-s_aphasia)**|
 |**2024-12-20**|**HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding**|Chenxin Tao et.al.|[2412.16158](http://arxiv.org/abs/2412.16158)|null|
 |**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
 |**2024-12-20**|**Can LLMs Obfuscate Code? A Systematic Analysis of Large Language Models into Assembly Code Obfuscation**|Seyedreza Mohseni et.al.|[2412.16135](http://arxiv.org/abs/2412.16135)|null|
@@ -7672,6 +7692,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Improved Cotton Leaf Disease Classification Using Parameter-Efficient Deep Learning Framework**|Aswini Kumar Patra et.al.|[2412.17587](http://arxiv.org/abs/2412.17587)|null|
+|**2024-12-23**|**Optimal Convergence Rates for Neural Operators**|Mike Nguyen et.al.|[2412.17518](http://arxiv.org/abs/2412.17518)|null|
 |**2024-12-19**|**Online MDP with Transition Prototypes: A Robust Adaptive Approach**|Shuo Sun et.al.|[2412.14075](http://arxiv.org/abs/2412.14075)|null|
 |**2024-12-18**|**Attention-aware convolutional neural networks for identification of magnetic islands in the tearing mode on EAST tokamak**|Feifei Long et.al.|[2412.13498](http://arxiv.org/abs/2412.13498)|null|
 |**2024-12-17**|**COSEE: Consistency-Oriented Signal-Based Early Exiting via Calibrated Sample Weighting Mechanism**|Jianing He et.al.|[2412.13236](http://arxiv.org/abs/2412.13236)|**[link](https://github.com/he-jianing/cosee)**|
@@ -7679,7 +7701,7 @@
 |**2024-12-16**|**On the SDP Relaxation of Direct Torque Finite Control Set Model Predictive Control**|Luca M. Hartmann et.al.|[2412.11666](http://arxiv.org/abs/2412.11666)|null|
 |**2024-12-15**|**Wasserstein Bounds for generative diffusion models with Gaussian tail targets**|Xixian Wang et.al.|[2412.11251](http://arxiv.org/abs/2412.11251)|null|
 |**2024-12-15**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210](http://arxiv.org/abs/2412.11210)|**[link](https://github.com/fengyi233/ViPOcc)**|
-|**2024-12-15**|**PGD-Imp: Rethinking and Unleashing Potential of Classic PGD with Dual Strategies for Imperceptible Adversarial Attacks**|Jin Li et.al.|[2412.11168](http://arxiv.org/abs/2412.11168)|null|
+|**2024-12-21**|**PGD-Imp: Rethinking and Unleashing Potential of Classic PGD with Dual Strategies for Imperceptible Adversarial Attacks**|Jin Li et.al.|[2412.11168](http://arxiv.org/abs/2412.11168)|null|
 |**2024-12-17**|**On Distilling the Displacement Knowledge for Few-Shot Class-Incremental Learning**|Pengfei Fang et.al.|[2412.11017](http://arxiv.org/abs/2412.11017)|null|
 |**2024-12-12**|**InstanceCap: Improving Text-to-Video Generation via Instance-aware Structured Caption**|Tiehan Fan et.al.|[2412.09283](http://arxiv.org/abs/2412.09283)|null|
 |**2024-12-11**|**GradStop: Exploring Training Dynamics in Unsupervised Outlier Detection through Gradient Cohesion**|Yuang Zhang et.al.|[2412.08501](http://arxiv.org/abs/2412.08501)|**[link](https://github.com/Yann-zh/gradAE)**|
