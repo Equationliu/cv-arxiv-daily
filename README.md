@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608](http://arxiv.org/abs/2412.18608)|null|
+|**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
+|**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604](http://arxiv.org/abs/2412.18604)|null|
+|**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597](http://arxiv.org/abs/2412.18597)|**[link](https://github.com/tencentarc/ditctrl)**|
+|**2024-12-24**|**LatentCRF: Continuous CRF for Efficient Latent Diffusion**|Kanchana Ranasinghe et.al.|[2412.18596](http://arxiv.org/abs/2412.18596)|null|
+|**2024-12-24**|**Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation**|Anselm Krainovic et.al.|[2412.18584](http://arxiv.org/abs/2412.18584)|null|
+|**2024-12-24**|**3DEnhancer: Consistent Multi-View Diffusion for 3D Enhancement**|Yihang Luo et.al.|[2412.18565](http://arxiv.org/abs/2412.18565)|null|
+|**2024-12-24**|**Fashionability-Enhancing Outfit Image Editing with Conditional Diffusion Models**|Qice Qin et.al.|[2412.18421](http://arxiv.org/abs/2412.18421)|null|
+|**2024-12-24**|**Discovery of 2D Materials via Symmetry-Constrained Diffusion Model**|Shihang Xu et.al.|[2412.18414](http://arxiv.org/abs/2412.18414)|null|
+|**2024-12-24**|**FameBias: Embedding Manipulation Bias Attack in Text-to-Image Models**|Jaechul Roh et.al.|[2412.18302](http://arxiv.org/abs/2412.18302)|null|
 |**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812](http://arxiv.org/abs/2412.17812)|null|
 |**2024-12-23**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
 |**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762](http://arxiv.org/abs/2412.17762)|null|
@@ -4793,6 +4803,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|null|
+|**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588](http://arxiv.org/abs/2412.18588)|null|
+|**2024-12-24**|**Exploring Embedding Priors in Prompt-Tuning for Improved Interpretability and Control**|Sergey Sedov et.al.|[2412.18582](http://arxiv.org/abs/2412.18582)|null|
+|**2024-12-24**|**Zero-resource Speech Translation and Recognition with LLMs**|Karel Mundnich et.al.|[2412.18566](http://arxiv.org/abs/2412.18566)|null|
+|**2024-12-24**|**Distilling Fine-grained Sentiment Understanding from Large Language Models**|Yice Zhang et.al.|[2412.18552](http://arxiv.org/abs/2412.18552)|**[link](https://github.com/hitsz-hlt/fsa-distillation)**|
+|**2024-12-24**|**Token-Budget-Aware LLM Reasoning**|Tingxu Han et.al.|[2412.18547](http://arxiv.org/abs/2412.18547)|**[link](https://github.com/geniushtx/tale)**|
+|**2024-12-24**|**PLD-Tree: Persistent Laplacian Decision Tree for Protein-Protein Binding Free Energy Prediction**|Xingjian Xu et.al.|[2412.18541](http://arxiv.org/abs/2412.18541)|null|
+|**2024-12-24**|**Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation**|Derong Xu Xinhang Li et.al.|[2412.18537](http://arxiv.org/abs/2412.18537)|null|
+|**2024-12-24**|**Automated Code Review In Practice**|Umut Cihan et.al.|[2412.18531](http://arxiv.org/abs/2412.18531)|null|
+|**2024-12-24**|**Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**|Hao Pang et.al.|[2412.18511](http://arxiv.org/abs/2412.18511)|null|
 |**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811](http://arxiv.org/abs/2412.17811)|null|
 |**2024-12-23**|**ResearchTown: Simulator of Human Research Community**|Haofei Yu et.al.|[2412.17767](http://arxiv.org/abs/2412.17767)|**[link](https://github.com/ulab-uiuc/research-town)**|
 |**2024-12-23**|**ADC: Enhancing Function Calling Via Adversarial Datasets and Code Line-Level Feedback**|Wei Zhang et.al.|[2412.17754](http://arxiv.org/abs/2412.17754)|null|
@@ -7692,6 +7712,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning**|Takuma Fukuda et.al.|[2412.18219](http://arxiv.org/abs/2412.18219)|**[link](https://github.com/tf63/acmap)**|
 |**2024-12-23**|**Improved Cotton Leaf Disease Classification Using Parameter-Efficient Deep Learning Framework**|Aswini Kumar Patra et.al.|[2412.17587](http://arxiv.org/abs/2412.17587)|null|
 |**2024-12-23**|**Optimal Convergence Rates for Neural Operators**|Mike Nguyen et.al.|[2412.17518](http://arxiv.org/abs/2412.17518)|null|
 |**2024-12-19**|**Online MDP with Transition Prototypes: A Robust Adaptive Approach**|Shuo Sun et.al.|[2412.14075](http://arxiv.org/abs/2412.14075)|null|
