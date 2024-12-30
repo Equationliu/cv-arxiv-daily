@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645](http://arxiv.org/abs/2412.19645)|null|
+|**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535](http://arxiv.org/abs/2412.19535)|null|
+|**2024-12-27**|**RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**|Xiaohan Zhang et.al.|[2412.19500](http://arxiv.org/abs/2412.19500)|null|
+|**2024-12-27**|**RAIN: Real-time Animation of Infinite Video Stream**|Zhilei Shu et.al.|[2412.19489](http://arxiv.org/abs/2412.19489)|null|
+|**2024-12-27**|**DriveEditor: A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes**|Yiyuan Liang et.al.|[2412.19458](http://arxiv.org/abs/2412.19458)|null|
+|**2024-12-27**|**Multi-scale Latent Point Consistency Models for 3D Shape Generation**|Bi'an Du et.al.|[2412.19413](http://arxiv.org/abs/2412.19413)|null|
+|**2024-12-27**|**A Generalized Einstein Relation for Markovian Friction Coefficients from Molecular Trajectories**|J. M. Hall et.al.|[2412.19398](http://arxiv.org/abs/2412.19398)|null|
+|**2024-12-26**|**6Diffusion: IPv6 Target Generation Using a Diffusion Model with Global-Local Attention Mechanisms for Internet-wide IPv6 Scanning**|Nabo He et.al.|[2412.19243](http://arxiv.org/abs/2412.19243)|null|
+|**2024-12-26**|**SeaMo: A Multi-Seasonal and Multimodal Remote Sensing Foundation Model**|Xuyang Li et.al.|[2412.19237](http://arxiv.org/abs/2412.19237)|null|
+|**2024-12-26**|**Mask Approximation Net: Merging Feature Extraction and Distribution Learning for Remote Sensing Change Captioning**|Dongwei Sun et.al.|[2412.19179](http://arxiv.org/abs/2412.19179)|null|
 |**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608](http://arxiv.org/abs/2412.18608)|null|
 |**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
 |**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604](http://arxiv.org/abs/2412.18604)|null|
@@ -2760,6 +2770,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Can AI Help with Your Personal Finances?**|Oudom Hean et.al.|[2412.19784](http://arxiv.org/abs/2412.19784)|null|
+|**2024-12-27**|**Fortran2CPP: Automating Fortran-to-C++ Migration using LLMs via Multi-Turn Dialogue and Dual-Agent Integration**|Le Chen et.al.|[2412.19770](http://arxiv.org/abs/2412.19770)|**[link](https://github.com/hpc-fortran2cpp/fortran2cpp)**|
+|**2024-12-27**|**Can Large Language Models Adapt to Other Agents In-Context?**|Matthew Riemer et.al.|[2412.19726](http://arxiv.org/abs/2412.19726)|null|
+|**2024-12-27**|**Toward Adaptive Reasoning in Large Language Models with Thought Rollback**|Sijia Chen et.al.|[2412.19707](http://arxiv.org/abs/2412.19707)|**[link](https://github.com/iQua/llmpebase)**|
+|**2024-12-27**|**A Large-scale Interpretable Multi-modality Benchmark for Facial Image Forgery Localization**|Jingchun Lian et.al.|[2412.19685](http://arxiv.org/abs/2412.19685)|null|
+|**2024-12-27**|**Boosting Private Domain Understanding of Efficient MLLMs: A Tuning-free, Adaptive, Universal Prompt Optimization Framework**|Jiang Liu et.al.|[2412.19684](http://arxiv.org/abs/2412.19684)|null|
+|**2024-12-27**|**CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs**|Siyu Wang et.al.|[2412.19663](http://arxiv.org/abs/2412.19663)|null|
+|**2024-12-27**|**FreStega: A Plug-and-Play Method for Boosting Imperceptibility and Capacity in Generative Linguistic Steganography for Real-World Scenarios**|Kaiyi Pang et.al.|[2412.19652](http://arxiv.org/abs/2412.19652)|null|
+|**2024-12-27**|**Xmodel-2 Technical Report**|Wang Qun et.al.|[2412.19638](http://arxiv.org/abs/2412.19638)|null|
+|**2024-12-27**|**IMTP: Search-based Code Generation for In-memory Tensor Programs**|Yongwon Shin et.al.|[2412.19630](http://arxiv.org/abs/2412.19630)|null|
 |**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|**[link](https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi)**|
 |**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588](http://arxiv.org/abs/2412.18588)|null|
 |**2024-12-24**|**Exploring Embedding Priors in Prompt-Tuning for Improved Interpretability and Control**|Sergey Sedov et.al.|[2412.18582](http://arxiv.org/abs/2412.18582)|null|
@@ -5667,6 +5687,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Goal-oriented Communications based on Recursive Early Exit Neural Networks**|Jary Pomponi et.al.|[2412.19587](http://arxiv.org/abs/2412.19587)|null|
+|**2024-12-26**|**Performance Control in Early Exiting to Deploy Large Models at the Same Cost of Smaller Ones**|Mehrnaz Mofakhami et.al.|[2412.19325](http://arxiv.org/abs/2412.19325)|null|
 |**2024-12-24**|**Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning**|Takuma Fukuda et.al.|[2412.18219](http://arxiv.org/abs/2412.18219)|**[link](https://github.com/tf63/acmap)**|
 |**2024-12-23**|**Improved Cotton Leaf Disease Classification Using Parameter-Efficient Deep Learning Framework**|Aswini Kumar Patra et.al.|[2412.17587](http://arxiv.org/abs/2412.17587)|null|
 |**2024-12-23**|**Optimal Convergence Rates for Neural Operators**|Mike Nguyen et.al.|[2412.17518](http://arxiv.org/abs/2412.17518)|null|
