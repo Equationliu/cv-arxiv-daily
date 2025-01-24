@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
+|**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918](http://arxiv.org/abs/2501.13918)|null|
+|**2025-01-23**|**Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction**|Zhi Sheng et.al.|[2501.13794](http://arxiv.org/abs/2501.13794)|null|
+|**2025-01-23**|**An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem**|Mingzhao Wang et.al.|[2501.13767](http://arxiv.org/abs/2501.13767)|**[link](https://github.com/deitsp/deitsp)**|
+|**2025-01-23**|**Training-Free Consistency Pipeline for Fashion Repose**|Potito Aghilar et.al.|[2501.13692](http://arxiv.org/abs/2501.13692)|null|
+|**2025-01-23**|**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt**|Tao Liu et.al.|[2501.13554](http://arxiv.org/abs/2501.13554)|**[link](https://github.com/byliutao/1prompt1story)**|
+|**2025-01-23**|**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse**|Wenzhuo Ma et.al.|[2501.13528](http://arxiv.org/abs/2501.13528)|null|
+|**2025-01-23**|**LDR-Net: A Novel Framework for AI-generated Image Detection via Localized Discrepancy Representation**|JiaXin Chen et.al.|[2501.13475](http://arxiv.org/abs/2501.13475)|null|
+|**2025-01-23**|**Zero-Shot Trajectory Planning for Signal Temporal Logic Tasks**|Ruijia Liu et.al.|[2501.13457](http://arxiv.org/abs/2501.13457)|null|
+|**2025-01-23**|**Bridging The Multi-Modality Gaps of Audio, Visual and Linguistic for Speech Enhancement**|Meng-Ping Lin et.al.|[2501.13375](http://arxiv.org/abs/2501.13375)|null|
 |**2025-01-22**|**Accelerate High-Quality Diffusion Models with Inner Loop Feedback**|Matthew Gwilliam et.al.|[2501.13107](http://arxiv.org/abs/2501.13107)|null|
 |**2025-01-22**|**Robust Representation Consistency Model via Contrastive Denoising**|Jiachen Lei et.al.|[2501.13094](http://arxiv.org/abs/2501.13094)|**[link](https://github.com/jiachenlei/rrcm)**|
 |**2025-01-22**|**Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**|Akshay Krishnan et.al.|[2501.13087](http://arxiv.org/abs/2501.13087)|null|
@@ -2916,6 +2926,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation**|Guofeng Cui et.al.|[2501.13927](http://arxiv.org/abs/2501.13927)|null|
+|**2025-01-23**|**Analysis of Indic Language Capabilities in LLMs**|Aatman Vaidya et.al.|[2501.13912](http://arxiv.org/abs/2501.13912)|null|
+|**2025-01-23**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
+|**2025-01-23**|**Exploring Finetuned Audio-LLM on Heart Murmur Features**|Adrian Florea et.al.|[2501.13884](http://arxiv.org/abs/2501.13884)|null|
+|**2025-01-23**|**The machine learning platform for developers of large systems**|Alexey Naikov et.al.|[2501.13881](http://arxiv.org/abs/2501.13881)|null|
+|**2025-01-23**|**A RAG-Based Institutional Assistant**|Gustavo Kuratomi et.al.|[2501.13880](http://arxiv.org/abs/2501.13880)|null|
+|**2025-01-23**|**On the Reasoning Capacity of AI Models and How to Quantify It**|Santosh Kumar Radha et.al.|[2501.13833](http://arxiv.org/abs/2501.13833)|null|
+|**2025-01-23**|**Predicting Compact Phrasal Rewrites with Large Language Models for ASR Post Editing**|Hao Zhang et.al.|[2501.13831](http://arxiv.org/abs/2501.13831)|null|
+|**2025-01-23**|**Hallucinations Can Improve Large Language Models in Drug Discovery**|Shuzhou Yuan et.al.|[2501.13824](http://arxiv.org/abs/2501.13824)|null|
+|**2025-01-23**|**Large Language Model driven Policy Exploration for Recommender Systems**|Jie Wang et.al.|[2501.13816](http://arxiv.org/abs/2501.13816)|null|
 |**2025-01-22**|**Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment**|Melissa Kazemi Rad et.al.|[2501.13080](http://arxiv.org/abs/2501.13080)|null|
 |**2025-01-22**|**Does Table Source Matter? Benchmarking and Improving Multimodal Scientific Table Understanding and Reasoning**|Bohao Yang et.al.|[2501.13042](http://arxiv.org/abs/2501.13042)|**[link](https://github.com/bernard-yang/mmsci_table)**|
 |**2025-01-22**|**Pairwise RM: Perform Best-of-N Sampling with Knockout Tournament**|Yantao Liu et.al.|[2501.13007](http://arxiv.org/abs/2501.13007)|**[link](https://github.com/thu-keg/pairwiserm)**|
@@ -5983,6 +6003,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898](http://arxiv.org/abs/2501.13898)|null|
 |**2025-01-20**|**Early Stopping Bayesian Optimization for Controller Tuning**|David Stenger et.al.|[2501.11532](http://arxiv.org/abs/2501.11532)|null|
 |**2025-01-19**|**Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**|Mohaiminul Islam Bhuiyan et.al.|[2501.11094](http://arxiv.org/abs/2501.11094)|null|
 |**2025-01-19**|**GREEN-CODE: Optimizing Energy Efficiency in Large Language Models for Code Generation**|Shashikant Ilager et.al.|[2501.11006](http://arxiv.org/abs/2501.11006)|null|
