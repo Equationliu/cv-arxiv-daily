@@ -2055,6 +2055,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|null|
+|**2025-01-29**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670](http://arxiv.org/abs/2501.17670)|null|
+|**2025-01-29**|**Solving Inverse Problems using Diffusion with Fast Iterative Renoising**|Matt C. Bendel et.al.|[2501.17468](http://arxiv.org/abs/2501.17468)|null|
+|**2025-01-28**|**MDDM: A Molecular Dynamics Diffusion Model to Predict Particle Self-Assembly**|Kevin Ferguson et.al.|[2501.17319](http://arxiv.org/abs/2501.17319)|null|
 |**2025-01-28**|**CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation**|Nikolai Kalischek et.al.|[2501.17162](http://arxiv.org/abs/2501.17162)|null|
 |**2025-01-28**|**IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait**|Han Yang et.al.|[2501.17159](http://arxiv.org/abs/2501.17159)|null|
 |**2025-01-28**|**Generative diffusion models from a PDE perspective**|Fei Cao et.al.|[2501.17054](http://arxiv.org/abs/2501.17054)|null|
@@ -4996,6 +5000,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?**|Pouya Pezeshkpour et.al.|[2501.17840](http://arxiv.org/abs/2501.17840)|**[link](https://github.com/megagonlabs/insight_miner)**|
+|**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799](http://arxiv.org/abs/2501.17799)|**[link](https://github.com/spark-damian/s-ui)**|
+|**2025-01-29**|**BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights**|Chan-Jan Hsu et.al.|[2501.17790](http://arxiv.org/abs/2501.17790)|null|
+|**2025-01-29**|**AdditiveLLM: Large Language Models Predict Defects in Additive Manufacturing**|Peter Pak et.al.|[2501.17784](http://arxiv.org/abs/2501.17784)|null|
+|**2025-01-29**|**2SSP: A Two-Stage Framework for Structured Pruning of LLMs**|Fabrizio Sandri et.al.|[2501.17771](http://arxiv.org/abs/2501.17771)|null|
+|**2025-01-29**|**Hybrid Graphs for Table-and-Text based Question Answering using LLMs**|Ankush Agarwal et.al.|[2501.17767](http://arxiv.org/abs/2501.17767)|null|
+|**2025-01-29**|**On the Partitioning of GPU Power among Multi-Instances**|Tirth Vamja et.al.|[2501.17752](http://arxiv.org/abs/2501.17752)|null|
+|**2025-01-29**|**Early External Safety Testing of OpenAI's o3-mini: Insights from the Pre-Deployment Evaluation**|Aitor Arrieta et.al.|[2501.17749](http://arxiv.org/abs/2501.17749)|null|
+|**2025-01-29**|**Using Code Generation to Solve Open Instances of Combinatorial Design Problems**|Christopher D. Rosin et.al.|[2501.17725](http://arxiv.org/abs/2501.17725)|**[link](https://github.com/constructive-codes/cpro1)**|
+|**2025-01-29**|**RICoTA: Red-teaming of In-the-wild Conversation with Test Attempts**|Eujeong Choi et.al.|[2501.17715](http://arxiv.org/abs/2501.17715)|**[link](https://github.com/boychaboy/ricota)**|
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144](http://arxiv.org/abs/2501.17144)|**[link](https://github.com/derenlei/factcg)**|
 |**2025-01-28**|**ASTRAL: Automated Safety Testing of Large Language Models**|Miriam Ugarte et.al.|[2501.17132](http://arxiv.org/abs/2501.17132)|null|
 |**2025-01-28**|**Optimizing Large Language Model Training Using FP4 Quantization**|Ruizhe Wang et.al.|[2501.17116](http://arxiv.org/abs/2501.17116)|null|
