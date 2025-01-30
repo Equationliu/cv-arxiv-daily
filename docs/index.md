@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -6061,11 +6061,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-27**|**The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model**|Kaito Takanami et.al.|[2501.16226](http://arxiv.org/abs/2501.16226)|null|
-|**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785](http://arxiv.org/abs/2501.15785)|null|
+|**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785](http://arxiv.org/abs/2501.15785)|**[link](https://github.com/baptistar/DiffusionModelDynamics)**|
 |**2025-01-27**|**Renewable Energy Prediction: A Comparative Study of Deep Learning Models for Complex Dataset Analysis**|Haibo Wang et.al.|[2501.15731](http://arxiv.org/abs/2501.15731)|null|
 |**2025-01-25**|**In-Context Operator Learning for Linear Propagator Models**|Tingwei Meng et.al.|[2501.15106](http://arxiv.org/abs/2501.15106)|null|
 |**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898](http://arxiv.org/abs/2501.13898)|**[link](https://github.com/zpywhu/pointobb-v3)**|
-|**2025-01-20**|**Early Stopping Bayesian Optimization for Controller Tuning**|David Stenger et.al.|[2501.11532](http://arxiv.org/abs/2501.11532)|null|
+|**2025-01-20**|**Early Stopping Bayesian Optimization for Controller Tuning**|David Stenger et.al.|[2501.11532](http://arxiv.org/abs/2501.11532)|**[link](https://github.com/data-science-in-mechanical-engineering/esbo)**|
 |**2025-01-19**|**Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**|Mohaiminul Islam Bhuiyan et.al.|[2501.11094](http://arxiv.org/abs/2501.11094)|null|
 |**2025-01-19**|**GREEN-CODE: Optimizing Energy Efficiency in Large Language Models for Code Generation**|Shashikant Ilager et.al.|[2501.11006](http://arxiv.org/abs/2501.11006)|null|
 |**2025-01-19**|**BeST -- A Novel Source Selection Metric for Transfer Learning**|Ashutosh Soni et.al.|[2501.10933](http://arxiv.org/abs/2501.10933)|null|
