@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Is Noise Conditioning Necessary for Denoising Generative Models?**|Qiao Sun et.al.|[2502.13129](http://arxiv.org/abs/2502.13129)|null|
+|**2025-02-18**|**Score Matching Riemannian Diffusion Means**|Frederik Möbius Rygaard et.al.|[2502.13106](http://arxiv.org/abs/2502.13106)|null|
+|**2025-02-18**|**Personalized Image Generation with Deep Generative Models: A Decade Survey**|Yuxiang Wei et.al.|[2502.13081](http://arxiv.org/abs/2502.13081)|null|
+|**2025-02-18**|**Does Training with Synthetic Data Truly Protect Privacy?**|Yunpeng Zhao et.al.|[2502.12976](http://arxiv.org/abs/2502.12976)|null|
+|**2025-02-18**|**Guaranteed Conditional Diffusion: 3D Block-based Models for Scientific Data Compression**|Jaemoon Lee et.al.|[2502.12951](http://arxiv.org/abs/2502.12951)|null|
+|**2025-02-18**|**RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models**|Tanqiu Jiang et.al.|[2502.12794](http://arxiv.org/abs/2502.12794)|null|
+|**2025-02-18**|**Composition and Control with Distilled Energy Diffusion Models and Sequential Monte Carlo**|James Thornton et.al.|[2502.12786](http://arxiv.org/abs/2502.12786)|null|
+|**2025-02-18**|**High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion**|Xiang Zhang et.al.|[2502.12752](http://arxiv.org/abs/2502.12752)|null|
+|**2025-02-18**|**3D Shape-to-Image Brownian Bridge Diffusion for Brain MRI Synthesis from Cortical Surfaces**|Fabian Bongratz et.al.|[2502.12742](http://arxiv.org/abs/2502.12742)|null|
+|**2025-02-18**|**NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation**|Zhiyuan Liu et.al.|[2502.12638](http://arxiv.org/abs/2502.12638)|null|
 |**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154](http://arxiv.org/abs/2502.12154)|**[link](https://github.com/tzco/Diffusion-wo-CFG)**|
 |**2025-02-17**|**Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening**|Ye Tian et.al.|[2502.12146](http://arxiv.org/abs/2502.12146)|null|
 |**2025-02-17**|**How compositional generalization and creativity improve as diffusion models are trained**|Alessandro Favero et.al.|[2502.12089](http://arxiv.org/abs/2502.12089)|null|
@@ -5115,6 +5125,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
+|**2025-02-18**|**Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation**|Bencheng Liao et.al.|[2502.13145](http://arxiv.org/abs/2502.13145)|null|
+|**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
+|**2025-02-18**|**AIDE: AI-Driven Exploration in the Space of Code**|Zhengyao Jiang et.al.|[2502.13138](http://arxiv.org/abs/2502.13138)|null|
+|**2025-02-18**|**Theorem Prover as a Judge for Synthetic Data Generation**|Joshua Ong Jun Leang et.al.|[2502.13137](http://arxiv.org/abs/2502.13137)|null|
+|**2025-02-18**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132](http://arxiv.org/abs/2502.13132)|null|
+|**2025-02-18**|**Facilitating Long Context Understanding via Supervised Chain-of-Thought Reasoning**|Jingyang Lin et.al.|[2502.13127](http://arxiv.org/abs/2502.13127)|null|
+|**2025-02-18**|**RuozhiBench: Evaluating LLMs with Logical Fallacies and Misleading Premises**|Zenan Zhai et.al.|[2502.13125](http://arxiv.org/abs/2502.13125)|null|
+|**2025-02-18**|**Adapting Psycholinguistic Research for LLMs: Gender-inclusive Language in a Coreference Context**|Marion Bartl et.al.|[2502.13120](http://arxiv.org/abs/2502.13120)|null|
+|**2025-02-18**|**STEER-ME: Assessing the Microeconomic Reasoning of Large Language Models**|Narun Raman et.al.|[2502.13119](http://arxiv.org/abs/2502.13119)|null|
 |**2025-02-17**|**Idiosyncrasies in Large Language Models**|Mingjie Sun et.al.|[2502.12150](http://arxiv.org/abs/2502.12150)|null|
 |**2025-02-17**|**HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**|Ling Yang et.al.|[2502.12148](http://arxiv.org/abs/2502.12148)|null|
 |**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
@@ -8354,6 +8374,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Zero Token-Driven Deep Thinking in LLMs: Unlocking the Full Potential of Existing Parameters via Cyclic Refinement**|Guanghao Li et.al.|[2502.12214](http://arxiv.org/abs/2502.12214)|null|
 |**2025-02-17**|**SurgPose: a Dataset for Articulated Robotic Surgical Tool Pose Estimation and Tracking**|Zijian Wu et.al.|[2502.11534](http://arxiv.org/abs/2502.11534)|null|
 |**2025-02-14**|**Implicit vs. explicit regularization for high-dimensional gradient descent**|Thomas Stark et.al.|[2502.10578](http://arxiv.org/abs/2502.10578)|null|
 |**2025-02-13**|**ATM-Net: Adaptive Termination and Multi-Precision Neural Networks for Energy-Harvested Edge Intelligence**|Neeraj Solanki et.al.|[2502.09822](http://arxiv.org/abs/2502.09822)|null|
