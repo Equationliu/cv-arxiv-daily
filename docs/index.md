@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Generating Reliable Initial Velocity Models for Full-waveform Inversion with Well and Structural Constraints**|Qingchen Zhang et.al.|[2503.02815](http://arxiv.org/abs/2503.02815)|null|
+|**2025-03-04**|**StageDesigner: Artistic Stage Generation for Scenography via Theater Scripts**|Zhaoxing Gan et.al.|[2503.02595](http://arxiv.org/abs/2503.02595)|null|
+|**2025-03-04**|**TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**|Xinying Hong et.al.|[2503.02578](http://arxiv.org/abs/2503.02578)|null|
+|**2025-03-04**|**SPG: Improving Motion Diffusion by Smooth Perturbation Guidance**|Boseong Jeon et.al.|[2503.02577](http://arxiv.org/abs/2503.02577)|null|
+|**2025-03-04**|**RectifiedHR: Enable Efficient High-Resolution Image Generation via Energy Rectification**|Zhen Yang et.al.|[2503.02537](http://arxiv.org/abs/2503.02537)|null|
+|**2025-03-04**|**BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modelling**|Hao Li et.al.|[2503.02445](http://arxiv.org/abs/2503.02445)|null|
+|**2025-03-04**|**Controllable Motion Generation via Diffusion Modal Coupling**|Luobin Wang et.al.|[2503.02353](http://arxiv.org/abs/2503.02353)|null|
+|**2025-03-04**|**CQ CNN: A Hybrid Classical Quantum Convolutional Neural Network for Alzheimer's Disease Detection Using Diffusion Generated and U Net Segmented 3D MRI**|Mominul Islam et.al.|[2503.02345](http://arxiv.org/abs/2503.02345)|null|
+|**2025-03-04**|**Diffusion-Based mmWave Radar Point Cloud Enhancement Driven by Range Images**|Ruixin Wu et.al.|[2503.02300](http://arxiv.org/abs/2503.02300)|null|
+|**2025-03-04**|**h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform**|Toan Nguyen et.al.|[2503.02187](http://arxiv.org/abs/2503.02187)|null|
 |**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314](http://arxiv.org/abs/2502.21314)|null|
 |**2025-02-28**|**Does Generation Require Memorization? Creative Diffusion Models using Ambient Diffusion**|Kulin Shah et.al.|[2502.21278](http://arxiv.org/abs/2502.21278)|null|
 |**2025-02-28**|**A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images**|Zineb Sordo et.al.|[2502.21151](http://arxiv.org/abs/2502.21151)|null|
@@ -3158,6 +3168,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
+|**2025-03-04**|**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**|Ke Ji et.al.|[2503.02875](http://arxiv.org/abs/2503.02875)|null|
+|**2025-03-04**|**Prompting Generative AI with Interaction-Augmented Instructions**|Leixian Shen et.al.|[2503.02874](http://arxiv.org/abs/2503.02874)|null|
+|**2025-03-04**|**FairSense-AI: Responsible AI Meets Sustainability**|Shaina Raza et.al.|[2503.02865](http://arxiv.org/abs/2503.02865)|null|
+|**2025-03-04**|**Calibrating LLM Confidence with Semantic Steering: A Multi-Prompt Aggregation Framework**|Ziang Zhou et.al.|[2503.02863](http://arxiv.org/abs/2503.02863)|null|
+|**2025-03-04**|**Privacy and Accuracy-Aware AI/ML Model Deduplication**|Hong Guan et.al.|[2503.02862](http://arxiv.org/abs/2503.02862)|null|
+|**2025-03-04**|**Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers**|Zicong He et.al.|[2503.02851](http://arxiv.org/abs/2503.02851)|null|
+|**2025-03-04**|**Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs**|Yuzhe Gu et.al.|[2503.02846](http://arxiv.org/abs/2503.02846)|null|
+|**2025-03-04**|**AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation**|Songming Zhang et.al.|[2503.02832](http://arxiv.org/abs/2503.02832)|null|
+|**2025-03-04**|**RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration**|Alicia Russell-Gilbert et.al.|[2503.02800](http://arxiv.org/abs/2503.02800)|null|
 |**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/abs/2502.21321)|null|
 |**2025-02-28**|**FANformer: Improving Large Language Models Through Effective Periodicity Modeling**|Yihong Dong et.al.|[2502.21309](http://arxiv.org/abs/2502.21309)|null|
 |**2025-02-28**|**Contextualizing biological perturbation experiments through language**|Menghua Wu et.al.|[2502.21290](http://arxiv.org/abs/2502.21290)|null|
@@ -6485,6 +6505,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Weak-to-Strong Generalization Even in Random Feature Networks, Provably**|Marko Medvedev et.al.|[2503.02877](http://arxiv.org/abs/2503.02877)|null|
+|**2025-03-03**|**EPEE: Towards Efficient and Effective Foundation Models in Biomedicine**|Zaifu Zhan et.al.|[2503.02053](http://arxiv.org/abs/2503.02053)|null|
+|**2025-03-03**|**Stability-based Generalization Analysis of Randomized Coordinate Descent for Pairwise Learning**|Liang Wu et.al.|[2503.01530](http://arxiv.org/abs/2503.01530)|null|
+|**2025-03-02**|**Deep Learning for Energy Market Contracts: Dynkin Game with Doubly RBSDEs**|Nacira Agram et.al.|[2503.00880](http://arxiv.org/abs/2503.00880)|null|
+|**2025-03-02**|**MFM-DA: Instance-Aware Adaptor and Hierarchical Alignment for Efficient Domain Adaptation in Medical Foundation Models**|Jia-Xuan Jiang et.al.|[2503.00802](http://arxiv.org/abs/2503.00802)|null|
+|**2025-03-01**|**Dual-Input Dynamic Convolution for Positron Range Correction in PET Image Reconstruction**|Youness Mellak et.al.|[2503.00587](http://arxiv.org/abs/2503.00587)|null|
+|**2025-03-01**|**Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning**|Hanxun Yu et.al.|[2503.00513](http://arxiv.org/abs/2503.00513)|**[link](https://github.com/hanxunyu/inst3d-lmm)**|
+|**2025-03-01**|**On the Saturation Effects of Spectral Algorithms in Large Dimensions**|Weihao Lu et.al.|[2503.00504](http://arxiv.org/abs/2503.00504)|null|
 |**2025-02-28**|**Dynamical Decoupling of Generalization and Overfitting in Large Two-Layer Networks**|Andrea Montanari et.al.|[2502.21269](http://arxiv.org/abs/2502.21269)|null|
 |**2025-02-27**|**GreenDFL: a Framework for Assessing the Sustainability of Decentralized Federated Learning Systems**|Chao Feng et.al.|[2502.20242](http://arxiv.org/abs/2502.20242)|null|
 |**2025-02-27**|**RingAda: Pipelining Large Model Fine-Tuning on Edge Devices with Scheduled Layer Unfreezing**|Liang Li et.al.|[2502.19864](http://arxiv.org/abs/2502.19864)|null|
