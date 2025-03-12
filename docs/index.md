@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -23,7 +23,7 @@ layout: default
 |**2025-03-10**|**AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models**|Bo Huang et.al.|[2503.07307](http://arxiv.org/abs/2503.07307)|null|
 |**2025-03-10**|**Efficient Distillation of Classifier-Free Guidance using Adapters**|Cristian Perez Jensen et.al.|[2503.07274](http://arxiv.org/abs/2503.07274)|null|
 |**2025-03-10**|**AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis**|Zhangyu Lai et.al.|[2503.07253](http://arxiv.org/abs/2503.07253)|null|
-|**2025-03-10**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232](http://arxiv.org/abs/2503.07232)|null|
+|**2025-03-11**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232](http://arxiv.org/abs/2503.07232)|null|
 |**2025-03-07**|**AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**|Zengqun Zhao et.al.|[2503.05665](http://arxiv.org/abs/2503.05665)|null|
 |**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638](http://arxiv.org/abs/2503.05638)|null|
 |**2025-03-07**|**Diffusion Models for Cayley Graphs**|Michael R. Douglas et.al.|[2503.05558](http://arxiv.org/abs/2503.05558)|null|
@@ -6587,7 +6587,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-09**|**Optimistic Noise-Aware Sequential Quadratic Programming for Equality Constrained Optimization with Rank-Deficient Jacobians**|Albert S. Berahas et.al.|[2503.06702](http://arxiv.org/abs/2503.06702)|null|
 |**2025-03-07**|**MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions**|Qingyuan Zhou et.al.|[2503.05182](http://arxiv.org/abs/2503.05182)|null|
-|**2025-03-06**|**Balcony: A Lightweight Approach to Dynamic Inference of Generative Language Models**|Benyamin Jamialahmadi et.al.|[2503.05005](http://arxiv.org/abs/2503.05005)|**[link](https://github.com/benyaminjami/Balcony-LLaMA)**|
+|**2025-03-10**|**Balcony: A Lightweight Approach to Dynamic Inference of Generative Language Models**|Benyamin Jamialahmadi et.al.|[2503.05005](http://arxiv.org/abs/2503.05005)|**[link](https://github.com/benyaminjami/Balcony-LLaMA)**|
 |**2025-03-06**|**E4: Energy-Efficient DNN Inference for Edge Video Analytics Via Early-Exit and DVFS**|Ziyang Zhang et.al.|[2503.04865](http://arxiv.org/abs/2503.04865)|null|
 |**2025-03-05**|**Early-Stopped Mirror Descent for Linear Regression over Convex Bodies**|Tobias Wegel et.al.|[2503.03426](http://arxiv.org/abs/2503.03426)|null|
 |**2025-03-04**|**Weak-to-Strong Generalization Even in Random Feature Networks, Provably**|Marko Medvedev et.al.|[2503.02877](http://arxiv.org/abs/2503.02877)|null|
