@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Preference-Guided Diffusion for Multi-Objective Offline Optimization**|Yashas Annadani et.al.|[2503.17299](http://arxiv.org/abs/2503.17299)|null|
+|**2025-03-21**|**Deep End-to-End Posterior ENergy (DEEPEN) for image recovery**|Jyothi Rikhab Chand et.al.|[2503.17244](http://arxiv.org/abs/2503.17244)|null|
+|**2025-03-21**|**Leveraging Text-to-Image Generation for Handling Spurious Correlation**|Aryan Yazdan Parast et.al.|[2503.17226](http://arxiv.org/abs/2503.17226)|null|
+|**2025-03-21**|**UniCon: Unidirectional Information Flow for Effective Control of Large-Scale Diffusion Models**|Fanghua Yu et.al.|[2503.17221](http://arxiv.org/abs/2503.17221)|null|
+|**2025-03-21**|**FreeUV: Ground-Truth-Free Realistic Facial UV Texture Recovery via Cross-Assembly Inference Strategy**|Xingchao Yang et.al.|[2503.17197](http://arxiv.org/abs/2503.17197)|null|
+|**2025-03-21**|**D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens**|Panpan Wang et.al.|[2503.17155](http://arxiv.org/abs/2503.17155)|null|
+|**2025-03-21**|**R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model**|Boyuan Zheng et.al.|[2503.17097](http://arxiv.org/abs/2503.17097)|null|
+|**2025-03-21**|**DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech**|Yongkang Cheng et.al.|[2503.17059](http://arxiv.org/abs/2503.17059)|null|
+|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983](http://arxiv.org/abs/2503.16983)|null|
+|**2025-03-21**|**Real-Time Diffusion Policies for Games: Enhancing Consistency Policies with Q-Ensembles**|Ruoqi Zhang et.al.|[2503.16978](http://arxiv.org/abs/2503.16978)|null|
 |**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai et.al.|[2503.16412](http://arxiv.org/abs/2503.16412)|null|
 |**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|null|
 |**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
@@ -5331,6 +5341,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
+|**2025-03-21**|**OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**|Yihe Deng et.al.|[2503.17352](http://arxiv.org/abs/2503.17352)|null|
+|**2025-03-21**|**Capturing Individual Human Preferences with Reward Features**|André Barreto et.al.|[2503.17338](http://arxiv.org/abs/2503.17338)|null|
+|**2025-03-21**|**Efficient Intent-Based Filtering for Multi-Party Conversations Using Knowledge Distillation from LLMs**|Reem Gody et.al.|[2503.17336](http://arxiv.org/abs/2503.17336)|null|
+|**2025-03-21**|**CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities**|Yuxuan Zhu et.al.|[2503.17332](http://arxiv.org/abs/2503.17332)|**[link](https://github.com/uiuc-kang-lab/cve-bench)**|
+|**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|null|
+|**2025-03-21**|**Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests**|John Naulty et.al.|[2503.17302](http://arxiv.org/abs/2503.17302)|null|
+|**2025-03-21**|**CASE -- Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement**|Gaifan Zhang et.al.|[2503.17279](http://arxiv.org/abs/2503.17279)|null|
+|**2025-03-21**|**SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging**|Aladin Djuhera et.al.|[2503.17239](http://arxiv.org/abs/2503.17239)|null|
+|**2025-03-21**|**FactSelfCheck: Fact-Level Black-Box Hallucination Detection for LLMs**|Albert Sawczyn et.al.|[2503.17229](http://arxiv.org/abs/2503.17229)|null|
 |**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
 |**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402](http://arxiv.org/abs/2503.16402)|null|
 |**2025-03-20**|**Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them**|Guanyu Chen et.al.|[2503.16401](http://arxiv.org/abs/2503.16401)|null|
@@ -8790,7 +8810,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-20**|**PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification**|Sharon Peled et.al.|[2503.16284](http://arxiv.org/abs/2503.16284)|null|
+|**2025-03-21**|**On-Sensor Convolutional Neural Networks with Early-Exits**|Hazem Hesham Yousef Shalby et.al.|[2503.16939](http://arxiv.org/abs/2503.16939)|null|
+|**2025-03-21**|**When Preferences Diverge: Aligning Diffusion Models with Minority-Aware Adaptive DPO**|Lingfan Zhang et.al.|[2503.16921](http://arxiv.org/abs/2503.16921)|null|
+|**2025-03-20**|**EarlyStopping: Implicit Regularization for Iterative Learning Procedures in Python**|Eric Ziebell et.al.|[2503.16753](http://arxiv.org/abs/2503.16753)|null|
+|**2025-03-20**|**PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification**|Sharon Peled et.al.|[2503.16284](http://arxiv.org/abs/2503.16284)|**[link](https://github.com/sharonpeled/psa-mil)**|
 |**2025-03-19**|**Guardians of Generation: Dynamic Inference-Time Copyright Shielding with Adaptive Guidance for AI Image Generation**|Soham Roy et.al.|[2503.16171](http://arxiv.org/abs/2503.16171)|null|
 |**2025-03-20**|**Distributed Split Computing Using Diffusive Metrics for UAV Swarms**|Talip Tolga Sarı et.al.|[2503.16146](http://arxiv.org/abs/2503.16146)|null|
 |**2025-03-18**|**COMM:Concentrated Margin Maximization for Robust Document-Level Relation Extraction**|Zhichao Duan et.al.|[2503.13885](http://arxiv.org/abs/2503.13885)|null|
