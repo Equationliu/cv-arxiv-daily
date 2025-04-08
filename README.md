@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
+|**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|null|
+|**2025-04-07**|**Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures**|Gen Li et.al.|[2504.05300](http://arxiv.org/abs/2504.05300)|null|
+|**2025-04-07**|**DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration**|Jiamei Xiong et.al.|[2504.05135](http://arxiv.org/abs/2504.05135)|null|
+|**2025-04-07**|**Graph-based Diffusion Model for Collaborative Filtering**|Xuan Zhang et.al.|[2504.05029](http://arxiv.org/abs/2504.05029)|null|
+|**2025-04-07**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
+|**2025-04-07**|**TabRep: Training Tabular Diffusion Models with a Simple and Effective Continuous Representation**|Jacob Si et.al.|[2504.04798](http://arxiv.org/abs/2504.04798)|null|
+|**2025-04-07**|**Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing**|Hui Liu et.al.|[2504.04784](http://arxiv.org/abs/2504.04784)|null|
+|**2025-04-07**|**Continuous Locomotive Crowd Behavior Generation**|Inhwan Bae et.al.|[2504.04756](http://arxiv.org/abs/2504.04756)|null|
+|**2025-04-07**|**Unsupervised Estimation of Nonlinear Audio Effects: Comparing Diffusion-Based and Adversarial approaches**|Eloi Moliner et.al.|[2504.04751](http://arxiv.org/abs/2504.04751)|null|
 |**2025-04-04**|**Enhancing Causal Effect Estimation with Diffusion-Generated Data**|Li Chen et.al.|[2504.03630](http://arxiv.org/abs/2504.03630)|null|
 |**2025-04-04**|**Quantifying the uncertainty of model-based synthetic image quality metrics**|Ciaran Bench et.al.|[2504.03623](http://arxiv.org/abs/2504.03623)|null|
 |**2025-04-04**|**Multimodal Diffusion Bridge with Attention-Based SAR Fusion for Satellite Image Cloud Removal**|Yuyang Hu et.al.|[2504.03607](http://arxiv.org/abs/2504.03607)|null|
@@ -5431,6 +5441,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305](http://arxiv.org/abs/2504.05305)|null|
+|**2025-04-07**|**Truthful or Fabricated? Using Causal Attribution to Mitigate Reward Hacking in Explanations**|Pedro Ferreira et.al.|[2504.05294](http://arxiv.org/abs/2504.05294)|null|
+|**2025-04-07**|**The challenge of uncertainty quantification of large language models in medicine**|Zahra Atf et.al.|[2504.05278](http://arxiv.org/abs/2504.05278)|null|
+|**2025-04-07**|**Enhancing LLM-Based Short Answer Grading with Retrieval-Augmented Generation**|Yucheng Chu et.al.|[2504.05276](http://arxiv.org/abs/2504.05276)|null|
+|**2025-04-07**|**Do PhD-level LLMs Truly Grasp Elementary Addition? Probing Rule Learning vs. Memorization in Large Language Models**|Yang Yan et.al.|[2504.05262](http://arxiv.org/abs/2504.05262)|null|
+|**2025-04-07**|**Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models**|Adrián Bazaga et.al.|[2504.05258](http://arxiv.org/abs/2504.05258)|null|
+|**2025-04-07**|**Explaining Low Perception Model Competency with High-Competency Counterfactuals**|Sara Pohland et.al.|[2504.05254](http://arxiv.org/abs/2504.05254)|null|
+|**2025-04-07**|**LLM-based Automated Grading with Human-in-the-Loop**|Hang Li et.al.|[2504.05239](http://arxiv.org/abs/2504.05239)|null|
+|**2025-04-07**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220](http://arxiv.org/abs/2504.05220)|null|
+|**2025-04-07**|**Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling**|Hengran Zhang et.al.|[2504.05216](http://arxiv.org/abs/2504.05216)|null|
 |**2025-04-04**|**Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**|Xinyi Wang et.al.|[2504.03635](http://arxiv.org/abs/2504.03635)|null|
 |**2025-04-04**|**Align to Structure: Aligning Large Language Models with Structural Information**|Zae Myung Kim et.al.|[2504.03622](http://arxiv.org/abs/2504.03622)|null|
 |**2025-04-04**|**VISTA-OCR: Towards generative and interactive end to end OCR models**|Laziz Hamdi et.al.|[2504.03621](http://arxiv.org/abs/2504.03621)|null|
