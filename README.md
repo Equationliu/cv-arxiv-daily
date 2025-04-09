@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
+|**2025-04-08**|**OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model**|Xiaochen Wei et.al.|[2504.06027](http://arxiv.org/abs/2504.06027)|null|
+|**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022](http://arxiv.org/abs/2504.06022)|null|
+|**2025-04-08**|**An Empirical Study of GPT-4o Image Generation Capabilities**|Sixiang Chen et.al.|[2504.05979](http://arxiv.org/abs/2504.05979)|null|
+|**2025-04-08**|**Diffusion Based Ambiguous Image Segmentation**|Jakob Lønborg Christensen et.al.|[2504.05977](http://arxiv.org/abs/2504.05977)|null|
+|**2025-04-08**|**Physics-aware generative models for turbulent fluid flows through energy-consistent stochastic interpolants**|Nikolaj T. Mücke et.al.|[2504.05852](http://arxiv.org/abs/2504.05852)|null|
+|**2025-04-08**|**On the Importance of Conditioning for Privacy-Preserving Data Augmentation**|Julian Lorenz et.al.|[2504.05849](http://arxiv.org/abs/2504.05849)|null|
+|**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|null|
+|**2025-04-08**|**Parasite: A Steganography-based Backdoor Attack Framework for Diffusion Models**|Jiahao Chen et.al.|[2504.05815](http://arxiv.org/abs/2504.05815)|null|
+|**2025-04-08**|**Storybooth: Training-free Multi-Subject Consistency for Improved Visual Storytelling**|Jaskirat Singh et.al.|[2504.05800](http://arxiv.org/abs/2504.05800)|null|
 |**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
 |**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|null|
 |**2025-04-07**|**Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures**|Gen Li et.al.|[2504.05300](http://arxiv.org/abs/2504.05300)|null|
@@ -5441,6 +5451,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
+|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
+|**2025-04-08**|**FEABench: Evaluating Language Models on Multiphysics Reasoning Ability**|Nayantara Mudur et.al.|[2504.06260](http://arxiv.org/abs/2504.06260)|null|
+|**2025-04-08**|**LExT: Towards Evaluating Trustworthiness of Natural Language Explanations**|Krithi Shailya et.al.|[2504.06227](http://arxiv.org/abs/2504.06227)|null|
+|**2025-04-08**|**Encoder-Decoder Gemma: Improving the Quality-Efficiency Trade-Off via Adaptation**|Biao Zhang et.al.|[2504.06225](http://arxiv.org/abs/2504.06225)|null|
+|**2025-04-08**|**Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs**|Dongyang Fan et.al.|[2504.06219](http://arxiv.org/abs/2504.06219)|null|
+|**2025-04-08**|**From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models**|Chejian Xu et.al.|[2504.06214](http://arxiv.org/abs/2504.06214)|null|
+|**2025-04-08**|**TxGemma: Efficient and Agentic LLMs for Therapeutics**|Eric Wang et.al.|[2504.06196](http://arxiv.org/abs/2504.06196)|null|
+|**2025-04-08**|**Assessing how hyperparameters impact Large Language Models' sarcasm detection performance**|Montgomery Gole et.al.|[2504.06166](http://arxiv.org/abs/2504.06166)|null|
+|**2025-04-08**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160](http://arxiv.org/abs/2504.06160)|null|
 |**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305](http://arxiv.org/abs/2504.05305)|null|
 |**2025-04-07**|**Truthful or Fabricated? Using Causal Attribution to Mitigate Reward Hacking in Explanations**|Pedro Ferreira et.al.|[2504.05294](http://arxiv.org/abs/2504.05294)|null|
 |**2025-04-07**|**The challenge of uncertainty quantification of large language models in medicine**|Zahra Atf et.al.|[2504.05278](http://arxiv.org/abs/2504.05278)|null|
@@ -9010,6 +9030,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding**|Hossein Entezari Zarch et.al.|[2504.05598](http://arxiv.org/abs/2504.05598)|null|
 |**2025-04-03**|**Localized Definitions and Distributed Reasoning: A Proof-of-Concept Mechanistic Interpretability Study via Activation Patching**|Nooshin Bahador et.al.|[2504.02976](http://arxiv.org/abs/2504.02976)|null|
 |**2025-04-03**|**Online Multivariate Regularized Distributional Regression for High-dimensional Probabilistic Electricity Price Forecasting**|Simon Hirsch et.al.|[2504.02518](http://arxiv.org/abs/2504.02518)|null|
 |**2025-04-02**|**ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning**|Bairu Hou et.al.|[2504.01296](http://arxiv.org/abs/2504.01296)|**[link](https://github.com/UCSB-NLP-Chang/ThinkPrune)**|
