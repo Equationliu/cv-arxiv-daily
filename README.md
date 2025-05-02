@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
+|**2025-05-01**|**GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution**|Aditya Arora et.al.|[2505.00687](http://arxiv.org/abs/2505.00687)|null|
+|**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586](http://arxiv.org/abs/2505.00586)|null|
+|**2025-05-01**|**Multimodal Masked Autoencoder Pre-training for 3D MRI-Based Brain Tumor Analysis with Missing Modalities**|Lucas Robinet et.al.|[2505.00568](http://arxiv.org/abs/2505.00568)|null|
+|**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515](http://arxiv.org/abs/2505.00515)|null|
+|**2025-05-01**|**Leveraging Pretrained Diffusion Models for Zero-Shot Part Assembly**|Ruiyuan Zhang et.al.|[2505.00426](http://arxiv.org/abs/2505.00426)|null|
+|**2025-05-01**|**Denoising weak lensing mass maps with diffusion model: systematic comparison with generative adversarial network**|Shohei D. Aoyama et.al.|[2505.00345](http://arxiv.org/abs/2505.00345)|null|
+|**2025-05-01**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334](http://arxiv.org/abs/2505.00334)|null|
+|**2025-04-30**|**Generative Multimodal Multiscale Data Fusion for Digital Twins in Aerosol Jet Electronics Printing**|Fatemeh Elhambakhsh et.al.|[2505.00176](http://arxiv.org/abs/2505.00176)|null|
+|**2025-04-30**|**Materials discovery acceleration by using condition generative methodology**|Caiyuan Ye et.al.|[2505.00076](http://arxiv.org/abs/2505.00076)|null|
 |**2025-04-30**|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**|Qihao Liu et.al.|[2504.21855](http://arxiv.org/abs/2504.21855)|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
 |**2025-04-30**|**Diffusion-based Adversarial Identity Manipulation for Facial Privacy Protection**|Liqin Wang et.al.|[2504.21646](http://arxiv.org/abs/2504.21646)|null|
@@ -5609,6 +5619,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
+|**2025-05-01**|**Steering Large Language Models with Register Analysis for Arbitrary Style Transfer**|Xinchen Yang et.al.|[2505.00679](http://arxiv.org/abs/2505.00679)|null|
+|**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|null|
+|**2025-05-01**|**DeepCritic: Deliberate Critique with Large Language Models**|Wenkai Yang et.al.|[2505.00662](http://arxiv.org/abs/2505.00662)|null|
+|**2025-05-01**|**On the generalization of language models from in-context learning and finetuning: a controlled study**|Andrew K. Lampinen et.al.|[2505.00661](http://arxiv.org/abs/2505.00661)|null|
+|**2025-05-01**|**Large Language Models Understanding: an Inherent Ambiguity Barrier**|Daniel N. Nissani et.al.|[2505.00654](http://arxiv.org/abs/2505.00654)|null|
+|**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651](http://arxiv.org/abs/2505.00651)|null|
+|**2025-05-01**|**Investigating Task Arithmetic for Zero-Shot Information Retrieval**|Marco Braga et.al.|[2505.00649](http://arxiv.org/abs/2505.00649)|null|
+|**2025-05-01**|**The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)**|Zihao Wang et.al.|[2505.00626](http://arxiv.org/abs/2505.00626)|null|
+|**2025-05-01**|**FineScope : Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation**|Chaitali Bhattacharyya et.al.|[2505.00624](http://arxiv.org/abs/2505.00624)|null|
 |**2025-04-30**|**TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments**|Sichang Tu et.al.|[2504.21851](http://arxiv.org/abs/2504.21851)|null|
 |**2025-04-30**|**COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning**|Xindi Wu et.al.|[2504.21850](http://arxiv.org/abs/2504.21850)|null|
 |**2025-04-30**|**An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding**|Xiuwei Shang et.al.|[2504.21803](http://arxiv.org/abs/2504.21803)|null|
