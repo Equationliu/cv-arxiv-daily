@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**|Mohammadreza Teymoorianfard et.al.|[2505.01406](http://arxiv.org/abs/2505.01406)|null|
+|**2025-05-02**|**Provable Efficiency of Guidance in Diffusion Models for General Data Distribution**|Gen Li et.al.|[2505.01382](http://arxiv.org/abs/2505.01382)|null|
+|**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322](http://arxiv.org/abs/2505.01322)|null|
+|**2025-05-02**|**Model See Model Do: Speech-Driven Facial Animation with Style Control**|Yifang Pan et.al.|[2505.01319](http://arxiv.org/abs/2505.01319)|null|
+|**2025-05-02**|**Enabling Training-Free Semantic Communication Systems with Generative Diffusion Models**|Shunpu Tang et.al.|[2505.01209](http://arxiv.org/abs/2505.01209)|null|
+|**2025-05-02**|**FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis**|Jiangtong Tan et.al.|[2505.01172](http://arxiv.org/abs/2505.01172)|null|
+|**2025-05-02**|**VSC: Visual Search Compositional Text-to-Image Diffusion Model**|Do Huu Dat et.al.|[2505.01104](http://arxiv.org/abs/2505.01104)|null|
+|**2025-05-02**|**Multi-Step Consistency Models: Fast Generation with Theoretical Guarantees**|Nishant Jain et.al.|[2505.01049](http://arxiv.org/abs/2505.01049)|null|
+|**2025-05-02**|**Where's the liability in the Generative Era? Recovery-based Black-Box Detection of AI-Generated Content**|Haoyue Bai et.al.|[2505.01008](http://arxiv.org/abs/2505.01008)|null|
 |**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
 |**2025-05-01**|**GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution**|Aditya Arora et.al.|[2505.00687](http://arxiv.org/abs/2505.00687)|null|
 |**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586](http://arxiv.org/abs/2505.00586)|null|
@@ -3576,6 +3585,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
+|**2025-05-02**|**Enhancing SPARQL Query Rewriting for Complex Ontology Alignments**|Anicet Lepetit Ondo et.al.|[2505.01309](http://arxiv.org/abs/2505.01309)|null|
+|**2025-05-02**|**Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments**|Regan Bolton et.al.|[2505.01307](http://arxiv.org/abs/2505.01307)|null|
+|**2025-05-02**|**FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**|Gaoxiang Cong et.al.|[2505.01263](http://arxiv.org/abs/2505.01263)|null|
+|**2025-05-02**|**Digital Pathway Curation (DPC): a comparative pipeline to assess the reproducibility, consensus and accuracy across Gemini, PubMed, and scientific reviewers in biomedical research**|Flavio Lichtenstein et.al.|[2505.01259](http://arxiv.org/abs/2505.01259)|null|
+|**2025-05-02**|**CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning**|Tsai-Ning Wang et.al.|[2505.01199](http://arxiv.org/abs/2505.01199)|null|
+|**2025-05-02**|**LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures**|Francisco Aguilera-Martínez et.al.|[2505.01177](http://arxiv.org/abs/2505.01177)|null|
+|**2025-05-02**|**Methodological Foundations for AI-Driven Survey Question Generation**|Ted K. Mburu et.al.|[2505.01150](http://arxiv.org/abs/2505.01150)|null|
+|**2025-05-02**|**Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications**|Jiawei He et.al.|[2505.01146](http://arxiv.org/abs/2505.01146)|null|
+|**2025-05-02**|**MateICL: Mitigating Attention Dispersion in Large-Scale In-Context Learning**|Murtadha Ahmed et.al.|[2505.01110](http://arxiv.org/abs/2505.01110)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
 |**2025-05-01**|**Steering Large Language Models with Register Analysis for Arbitrary Style Transfer**|Xinchen Yang et.al.|[2505.00679](http://arxiv.org/abs/2505.00679)|null|
 |**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|null|
@@ -7323,6 +7342,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Improving Group Fairness in Knowledge Distillation via Laplace Approximation of Early Exits**|Edvin Fasth et.al.|[2505.01070](http://arxiv.org/abs/2505.01070)|null|
 |**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831](http://arxiv.org/abs/2504.21831)|null|
 |**2025-04-29**|**DYNAMAX: Dynamic computing for Transformers and Mamba based architectures**|Miguel Nogales et.al.|[2504.20922](http://arxiv.org/abs/2504.20922)|null|
 |**2025-04-29**|**Geometry-aware Temporal Aggregation Network for Monocular 3D Lane Detection**|Huan Zheng et.al.|[2504.20525](http://arxiv.org/abs/2504.20525)|null|
