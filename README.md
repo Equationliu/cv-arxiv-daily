@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**|Jessie Richter-Powell et.al.|[2505.04621](http://arxiv.org/abs/2505.04621)|null|
+|**2025-05-07**|**Text2CT: Towards 3D CT Volume Generation from Free-text Descriptions Using Diffusion Model**|Pengfei Guo et.al.|[2505.04522](http://arxiv.org/abs/2505.04522)|null|
+|**2025-05-07**|**Efficient Flow Matching using Latent Variables**|Anirban Samaddar et.al.|[2505.04486](http://arxiv.org/abs/2505.04486)|null|
+|**2025-05-07**|**Localized Diffusion Models for High Dimensional Distributions Generation**|Georg A. Gottwald et.al.|[2505.04417](http://arxiv.org/abs/2505.04417)|null|
+|**2025-05-07**|**CountDiffusion: Text-to-Image Synthesis with Training-Free Counting-Guidance Diffusion**|Yanyu Li et.al.|[2505.04347](http://arxiv.org/abs/2505.04347)|null|
+|**2025-05-07**|**MoDE: Mixture of Diffusion Experts for Any Occluded Face Recognition**|Qiannan Fan et.al.|[2505.04306](http://arxiv.org/abs/2505.04306)|null|
+|**2025-05-07**|**TS-Diff: Two-Stage Diffusion Model for Low-Light RAW Image Enhancement**|Yi Li et.al.|[2505.04281](http://arxiv.org/abs/2505.04281)|**[link](https://github.com/circcclek/ts-diff)**|
+|**2025-05-07**|**HDiffTG: A Lightweight Hybrid Diffusion-Transformer-GCN Architecture for 3D Human Pose Estimation**|Yajie Fu et.al.|[2505.04276](http://arxiv.org/abs/2505.04276)|**[link](https://github.com/circejie/hdifftg)**|
+|**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262](http://arxiv.org/abs/2505.04262)|null|
+|**2025-05-07**|**DiffPattern-Flex: Efficient Layout Pattern Generation via Discrete Diffusion**|Zixiao Wang et.al.|[2505.04173](http://arxiv.org/abs/2505.04173)|null|
 |**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
 |**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Fu Feng et.al.|[2505.03667](http://arxiv.org/abs/2505.03667)|null|
 |**2025-05-06**|**Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map**|Alessandro Simoni et.al.|[2505.03623](http://arxiv.org/abs/2505.03623)|**[link](https://github.com/covisionlab/diffusion_labeling)**|
@@ -5648,6 +5658,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
+|**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
+|**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606](http://arxiv.org/abs/2505.04606)|null|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
+|**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584](http://arxiv.org/abs/2505.04584)|null|
+|**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578](http://arxiv.org/abs/2505.04578)|null|
+|**2025-05-07**|**Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development**|Kuen Sum Cheung et.al.|[2505.04521](http://arxiv.org/abs/2505.04521)|null|
+|**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/abs/2505.04519)|null|
+|**2025-05-07**|**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**|Jiahao Li et.al.|[2505.04481](http://arxiv.org/abs/2505.04481)|null|
 |**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**Graph Drawing for LLMs: An Empirical Evaluation**|Walter Didimo et.al.|[2505.03678](http://arxiv.org/abs/2505.03678)|null|
 |**2025-05-06**|**Binding threshold units with artificial oscillatory neurons**|Vladimir Fanaskov et.al.|[2505.03648](http://arxiv.org/abs/2505.03648)|null|
