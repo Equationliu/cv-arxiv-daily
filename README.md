@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Long time behaviour of Mean Field Games with fractional diffusion**|Olav Ersland et.al.|[2505.06183](http://arxiv.org/abs/2505.06183)|null|
+|**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166](http://arxiv.org/abs/2505.06166)|null|
+|**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068](http://arxiv.org/abs/2505.06068)|**[link](https://github.com/qiukunpeng/siamese-diffusion)**|
+|**2025-05-09**|**A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization**|Anjie Qiao et.al.|[2505.05874](http://arxiv.org/abs/2505.05874)|null|
+|**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853](http://arxiv.org/abs/2505.05853)|null|
+|**2025-05-09**|**Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition**|Zhiyuan Chen et.al.|[2505.05829](http://arxiv.org/abs/2505.05829)|null|
+|**2025-05-09**|**Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives**|Chengyang He et.al.|[2505.05787](http://arxiv.org/abs/2505.05787)|null|
+|**2025-05-09**|**Insertion Language Models: Sequence Generation with Arbitrary-Position Insertions**|Dhruvesh Patel et.al.|[2505.05755](http://arxiv.org/abs/2505.05755)|null|
+|**2025-05-09**|**Automated Learning of Semantic Embedding Representations for Diffusion Models**|Limai Jiang et.al.|[2505.05732](http://arxiv.org/abs/2505.05732)|null|
+|**2025-05-09**|**Towards Secure Semantic Transmission In the Era of GenAI: A Diffusion-based Framework**|Boxiang He et.al.|[2505.05724](http://arxiv.org/abs/2505.05724)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
@@ -5668,6 +5678,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184](http://arxiv.org/abs/2505.06184)|null|
+|**2025-05-09**|**A Large Language Model-Enhanced Q-learning for Capacitated Vehicle Routing Problem with Time Windows**|Linjiang Cao et.al.|[2505.06178](http://arxiv.org/abs/2505.06178)|null|
+|**2025-05-09**|**MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills**|Niladri Shekhar Dutt et.al.|[2505.06176](http://arxiv.org/abs/2505.06176)|null|
+|**2025-05-09**|**Turbo-ICL: In-Context Learning-Based Turbo Equalization**|Zihang Song et.al.|[2505.06175](http://arxiv.org/abs/2505.06175)|null|
+|**2025-05-09**|**A Scaling Law for Token Efficiency in LLM Fine-Tuning Under Fixed Compute Budgets**|Ryan Lagasse et.al.|[2505.06150](http://arxiv.org/abs/2505.06150)|null|
+|**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149](http://arxiv.org/abs/2505.06149)|null|
+|**2025-05-09**|**LLMs Get Lost In Multi-Turn Conversation**|Philippe Laban et.al.|[2505.06120](http://arxiv.org/abs/2505.06120)|**[link](https://github.com/microsoft/lost_in_conversation)**|
+|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108](http://arxiv.org/abs/2505.06108)|null|
+|**2025-05-09**|**Free and Fair Hardware: A Pathway to Copyright Infringement-Free Verilog Generation using LLMs**|Sam Bush et.al.|[2505.06096](http://arxiv.org/abs/2505.06096)|null|
+|**2025-05-09**|**Assessing Tenstorrent's RISC-V MatMul Acceleration Capabilities**|Hiari Pizzini Cavagna et.al.|[2505.06085](http://arxiv.org/abs/2505.06085)|null|
 |**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|
 |**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
 |**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/abs/2505.05465)|null|
@@ -9467,6 +9487,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Multimodal Sentiment Analysis on CMU-MOSEI Dataset using Transformer-based Models**|Jugal Gajjar et.al.|[2505.06110](http://arxiv.org/abs/2505.06110)|null|
+|**2025-05-08**|**OTI on FIRE: Testing the Efficacy of Orbital Torus Imaging to Recover the Galactic Potential**|Micah Oeur et.al.|[2505.05590](http://arxiv.org/abs/2505.05590)|null|
 |**2025-05-08**|**DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**|Nilesh Prasad Pandey et.al.|[2505.05413](http://arxiv.org/abs/2505.05413)|null|
 |**2025-05-08**|**Precise gradient descent training dynamics for finite-width multi-layer neural networks**|Qiyang Han et.al.|[2505.04898](http://arxiv.org/abs/2505.04898)|null|
 |**2025-05-08**|**ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning**|Ziqing Qiao et.al.|[2505.04881](http://arxiv.org/abs/2505.04881)|null|
