@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -7548,7 +7548,7 @@ layout: default
 |**2025-05-15**|**Inferring activity from the flow field around active colloidal particles using deep learning**|Aditya Mohapatra et.al.|[2505.10270](http://arxiv.org/abs/2505.10270)|null|
 |**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
 |**2025-05-13**|**ORACLE-Grasp: Zero-Shot Task-Oriented Robotic Grasping using Large Multimodal Models**|Avihai Giuili et.al.|[2505.08417](http://arxiv.org/abs/2505.08417)|null|
-|**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/abs/2505.07686)|null|
+|**2025-05-17**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/abs/2505.07686)|null|
 |**2025-05-10**|**Too Sick for Working, or Sick of Working? Impact of Acute Health Shocks on Early Labour Market Exits**|Luis Vieira et.al.|[2505.06545](http://arxiv.org/abs/2505.06545)|null|
 |**2025-05-09**|**When relics were made: vigorous stellar rotation and low dark matter content in the massive ultra-compact galaxy GS-9209 at z=4.66**|Robert G. Pascalau et.al.|[2505.06349](http://arxiv.org/abs/2505.06349)|null|
 |**2025-05-09**|**Multimodal Sentiment Analysis on CMU-MOSEI Dataset using Transformer-based Models**|Jugal Gajjar et.al.|[2505.06110](http://arxiv.org/abs/2505.06110)|null|
