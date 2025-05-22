@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673](http://arxiv.org/abs/2505.14673)|null|
 |**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556](http://arxiv.org/abs/2505.14556)|**[link](https://github.com/facebookresearch/dynadiff)**|
-|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
+|**2025-05-21**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
 |**2025-05-20**|**Learning to Integrate Diffusion ODEs by Averaging the Derivatives**|Wenze Liu et.al.|[2505.14502](http://arxiv.org/abs/2505.14502)|null|
 |**2025-05-20**|**CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**|Chihan Huang et.al.|[2505.14455](http://arxiv.org/abs/2505.14455)|null|
 |**2025-05-20**|**Compositional amortized inference for large-scale hierarchical Bayesian models**|Jonas Arruda et.al.|[2505.14429](http://arxiv.org/abs/2505.14429)|null|
@@ -3707,14 +3707,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-20**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684](http://arxiv.org/abs/2505.14684)|null|
 |**2025-05-20**|**UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**|Rui Tian et.al.|[2505.14682](http://arxiv.org/abs/2505.14682)|null|
-|**2025-05-20**|**UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Large Language Models**|Xiaojie Gu et.al.|[2505.14679](http://arxiv.org/abs/2505.14679)|null|
+|**2025-05-20**|**UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Large Language Models**|Xiaojie Gu et.al.|[2505.14679](http://arxiv.org/abs/2505.14679)|**[link](https://github.com/xiaojiegu/ultraedit)**|
 |**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677](http://arxiv.org/abs/2505.14677)|null|
 |**2025-05-20**|**Reward Reasoning Model**|Jiaxin Guo et.al.|[2505.14674](http://arxiv.org/abs/2505.14674)|null|
-|**2025-05-20**|**Quartet: Native FP4 Training Can Be Optimal for Large Language Models**|Roberto L. Castro et.al.|[2505.14669](http://arxiv.org/abs/2505.14669)|null|
+|**2025-05-20**|**Quartet: Native FP4 Training Can Be Optimal for Large Language Models**|Roberto L. Castro et.al.|[2505.14669](http://arxiv.org/abs/2505.14669)|**[link](https://github.com/ist-daslab/quartet)**|
 |**2025-05-20**|**ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions**|Bufang Yang et.al.|[2505.14668](http://arxiv.org/abs/2505.14668)|null|
 |**2025-05-20**|**Beyond Words: Multimodal LLM Knows When to Speak**|Zikai Liao et.al.|[2505.14654](http://arxiv.org/abs/2505.14654)|null|
 |**2025-05-20**|**General-Reasoner: Advancing LLM Reasoning Across All Domains**|Xueguang Ma et.al.|[2505.14652](http://arxiv.org/abs/2505.14652)|null|
-|**2025-05-20**|**Think Only When You Need with Large Hybrid-Reasoning Models**|Lingjie Jiang et.al.|[2505.14631](http://arxiv.org/abs/2505.14631)|null|
+|**2025-05-21**|**Think Only When You Need with Large Hybrid-Reasoning Models**|Lingjie Jiang et.al.|[2505.14631](http://arxiv.org/abs/2505.14631)|null|
 |**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445](http://arxiv.org/abs/2505.13445)|null|
 |**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/abs/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|
 |**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
@@ -7587,7 +7587,7 @@ layout: default
 |**2025-05-19**|**Thinking Short and Right Over Thinking Long: Serving LLM Reasoning Efficiently and Accurately**|Yuhang Wang et.al.|[2505.13326](http://arxiv.org/abs/2505.13326)|null|
 |**2025-05-17**|**CoT-Vid: Dynamic Chain-of-Thought Routing with Self Verification for Training-Free Video Reasoning**|Hongbo Jin et.al.|[2505.11830](http://arxiv.org/abs/2505.11830)|null|
 |**2025-05-16**|**Evaluation and optimization of deep learning models for enhanced detection of brain cancer using transmission optical microscopy of thin brain tissue samples**|Mohnish Sao et.al.|[2505.11735](http://arxiv.org/abs/2505.11735)|null|
-|**2025-05-16**|**A Physics-Informed Convolutional Long Short Term Memory Statistical Model for Fluid Thermodynamics Simulations**|Luca Menicali et.al.|[2505.10919](http://arxiv.org/abs/2505.10919)|null|
+|**2025-05-16**|**A Physics-Informed Convolutional Long Short Term Memory Statistical Model for Fluid Thermodynamics Simulations**|Luca Menicali et.al.|[2505.10919](http://arxiv.org/abs/2505.10919)|**[link](https://github.com/papersblindreview/pi_crnn2025)**|
 |**2025-05-16**|**Approximation and Generalization Abilities of Score-based Neural Network Generative Models for Sub-Gaussian Distributions**|Guoji Fu et.al.|[2505.10880](http://arxiv.org/abs/2505.10880)|null|
 |**2025-05-15**|**A Unified and Scalable Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability**|Jie Zhu et.al.|[2505.10351](http://arxiv.org/abs/2505.10351)|**[link](https://github.com/jiepku/partcrop)**|
 |**2025-05-15**|**Inferring activity from the flow field around active colloidal particles using deep learning**|Aditya Mohapatra et.al.|[2505.10270](http://arxiv.org/abs/2505.10270)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -446,7 +446,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## SFM
 
@@ -585,7 +585,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1143,7 +1143,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1326,7 +1326,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1504,7 +1504,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## NeRF
 
@@ -2049,7 +2049,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Computer Vision
 
@@ -2057,7 +2057,7 @@
 |---|---|---|---|---|
 |**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673](http://arxiv.org/abs/2505.14673)|null|
 |**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556](http://arxiv.org/abs/2505.14556)|**[link](https://github.com/facebookresearch/dynadiff)**|
-|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
+|**2025-05-21**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
 |**2025-05-20**|**Learning to Integrate Diffusion ODEs by Averaging the Derivatives**|Wenze Liu et.al.|[2505.14502](http://arxiv.org/abs/2505.14502)|null|
 |**2025-05-20**|**CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**|Chihan Huang et.al.|[2505.14455](http://arxiv.org/abs/2505.14455)|null|
 |**2025-05-20**|**Compositional amortized inference for large-scale hierarchical Bayesian models**|Jonas Arruda et.al.|[2505.14429](http://arxiv.org/abs/2505.14429)|null|
@@ -5742,7 +5742,7 @@
 |**2023-10-12**|**MotionDirector: Motion Customization of Text-to-Video Diffusion Models**|Rui Zhao et.al.|[2310.08465](http://arxiv.org/abs/2310.08465)|**[link](https://github.com/showlab/MotionDirector)**|
 |**2023-10-12**|**Debias the Training of Diffusion Models**|Hu Yu et.al.|[2310.08442](http://arxiv.org/abs/2310.08442)|**[link](https://github.com/yuhuustc/debias)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## LLM
 
@@ -5750,14 +5750,14 @@
 |---|---|---|---|---|
 |**2025-05-20**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684](http://arxiv.org/abs/2505.14684)|null|
 |**2025-05-20**|**UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**|Rui Tian et.al.|[2505.14682](http://arxiv.org/abs/2505.14682)|null|
-|**2025-05-20**|**UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Large Language Models**|Xiaojie Gu et.al.|[2505.14679](http://arxiv.org/abs/2505.14679)|null|
+|**2025-05-20**|**UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Large Language Models**|Xiaojie Gu et.al.|[2505.14679](http://arxiv.org/abs/2505.14679)|**[link](https://github.com/xiaojiegu/ultraedit)**|
 |**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677](http://arxiv.org/abs/2505.14677)|null|
 |**2025-05-20**|**Reward Reasoning Model**|Jiaxin Guo et.al.|[2505.14674](http://arxiv.org/abs/2505.14674)|null|
-|**2025-05-20**|**Quartet: Native FP4 Training Can Be Optimal for Large Language Models**|Roberto L. Castro et.al.|[2505.14669](http://arxiv.org/abs/2505.14669)|null|
+|**2025-05-20**|**Quartet: Native FP4 Training Can Be Optimal for Large Language Models**|Roberto L. Castro et.al.|[2505.14669](http://arxiv.org/abs/2505.14669)|**[link](https://github.com/ist-daslab/quartet)**|
 |**2025-05-20**|**ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions**|Bufang Yang et.al.|[2505.14668](http://arxiv.org/abs/2505.14668)|null|
 |**2025-05-20**|**Beyond Words: Multimodal LLM Knows When to Speak**|Zikai Liao et.al.|[2505.14654](http://arxiv.org/abs/2505.14654)|null|
 |**2025-05-20**|**General-Reasoner: Advancing LLM Reasoning Across All Domains**|Xueguang Ma et.al.|[2505.14652](http://arxiv.org/abs/2505.14652)|null|
-|**2025-05-20**|**Think Only When You Need with Large Hybrid-Reasoning Models**|Lingjie Jiang et.al.|[2505.14631](http://arxiv.org/abs/2505.14631)|null|
+|**2025-05-21**|**Think Only When You Need with Large Hybrid-Reasoning Models**|Lingjie Jiang et.al.|[2505.14631](http://arxiv.org/abs/2505.14631)|null|
 |**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445](http://arxiv.org/abs/2505.13445)|null|
 |**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/abs/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|
 |**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
@@ -9621,7 +9621,7 @@
 |**2023-10-13**|**"Kelly is a Warm Person, Joseph is a Role Model": Gender Biases in LLM-Generated Reference Letters**|Yixin Wan et.al.|[2310.09219](http://arxiv.org/abs/2310.09219)|**[link](https://github.com/uclanlp/biases-llm-reference-letters)**|
 |**2023-10-13**|**Explore-Instruct: Enhancing Domain-Specific Instruction Coverage through Active Exploration**|Fanqi Wan et.al.|[2310.09168](http://arxiv.org/abs/2310.09168)|**[link](https://github.com/fanqiwan/explore-instruct)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -9632,7 +9632,7 @@
 |**2025-05-19**|**Thinking Short and Right Over Thinking Long: Serving LLM Reasoning Efficiently and Accurately**|Yuhang Wang et.al.|[2505.13326](http://arxiv.org/abs/2505.13326)|null|
 |**2025-05-17**|**CoT-Vid: Dynamic Chain-of-Thought Routing with Self Verification for Training-Free Video Reasoning**|Hongbo Jin et.al.|[2505.11830](http://arxiv.org/abs/2505.11830)|null|
 |**2025-05-16**|**Evaluation and optimization of deep learning models for enhanced detection of brain cancer using transmission optical microscopy of thin brain tissue samples**|Mohnish Sao et.al.|[2505.11735](http://arxiv.org/abs/2505.11735)|null|
-|**2025-05-16**|**A Physics-Informed Convolutional Long Short Term Memory Statistical Model for Fluid Thermodynamics Simulations**|Luca Menicali et.al.|[2505.10919](http://arxiv.org/abs/2505.10919)|null|
+|**2025-05-16**|**A Physics-Informed Convolutional Long Short Term Memory Statistical Model for Fluid Thermodynamics Simulations**|Luca Menicali et.al.|[2505.10919](http://arxiv.org/abs/2505.10919)|**[link](https://github.com/papersblindreview/pi_crnn2025)**|
 |**2025-05-16**|**Approximation and Generalization Abilities of Score-based Neural Network Generative Models for Sub-Gaussian Distributions**|Guoji Fu et.al.|[2505.10880](http://arxiv.org/abs/2505.10880)|null|
 |**2025-05-15**|**A Unified and Scalable Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability**|Jie Zhu et.al.|[2505.10351](http://arxiv.org/abs/2505.10351)|**[link](https://github.com/jiepku/partcrop)**|
 |**2025-05-15**|**Inferring activity from the flow field around active colloidal particles using deep learning**|Aditya Mohapatra et.al.|[2505.10270](http://arxiv.org/abs/2505.10270)|null|
@@ -10101,7 +10101,7 @@
 |**2023-10-03**|**SMRD: SURE-based Robust MRI Reconstruction with Diffusion Models**|Batu Ozturkler et.al.|[2310.01799](http://arxiv.org/abs/2310.01799)|**[link](https://github.com/batuozt/smrd)**|
 |**2023-10-03**|**Sampling Multimodal Distributions with the Vanilla Score: Benefits of Data-Based Initialization**|Frederic Koehler et.al.|[2310.01762](http://arxiv.org/abs/2310.01762)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Adversarial
 
@@ -10109,7 +10109,7 @@
 |---|---|---|---|---|
 |**2021-04-01**|**"TL;DR:" Out-of-Context Adversarial Text Summarization and Hashtag Recommendation**|Peter Jachim et.al.|[2104.00782](http://arxiv.org/abs/2104.00782)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
