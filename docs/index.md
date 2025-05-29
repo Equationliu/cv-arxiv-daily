@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -3761,7 +3761,7 @@ layout: default
 |**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
 |**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479](http://arxiv.org/abs/2505.21479)|null|
 |**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
-|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|**[link](https://github.com/thunlp-mt/extagents)**|
 |**2025-05-27**|**Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**|Shintaro Ozaki et.al.|[2505.21458](http://arxiv.org/abs/2505.21458)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
 |**2025-05-27**|**Can Large Reasoning Models Self-Train?**|Sheikh Shafayat et.al.|[2505.21444](http://arxiv.org/abs/2505.21444)|null|
@@ -7683,11 +7683,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-26**|**Category-Agnostic Neural Object Rigging**|Guangzhao He et.al.|[2505.20283](http://arxiv.org/abs/2505.20283)|null|
-|**2025-05-26**|**syftr: Pareto-Optimal Generative AI**|Alexander Conway et.al.|[2505.20266](http://arxiv.org/abs/2505.20266)|null|
+|**2025-05-26**|**syftr: Pareto-Optimal Generative AI**|Alexander Conway et.al.|[2505.20266](http://arxiv.org/abs/2505.20266)|**[link](https://github.com/datarobot/syftr)**|
 |**2025-05-26**|**Deep Spectral Prior**|Yanqi Cheng et.al.|[2505.19873](http://arxiv.org/abs/2505.19873)|null|
 |**2025-05-26**|**Languages in Multilingual Speech Foundation Models Align Both Phonetically and Semantically**|Ryan Soh-Eun Shim et.al.|[2505.19606](http://arxiv.org/abs/2505.19606)|null|
 |**2025-05-25**|**System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts**|Xiaoqiang Wang et.al.|[2505.18962](http://arxiv.org/abs/2505.18962)|null|
-|**2025-05-25**|**On the Role of Label Noise in the Feature Learning Process**|Andi Han et.al.|[2505.18909](http://arxiv.org/abs/2505.18909)|null|
+|**2025-05-25**|**On the Role of Label Noise in the Feature Learning Process**|Andi Han et.al.|[2505.18909](http://arxiv.org/abs/2505.18909)|**[link](https://github.com/zzp1012/label-noise-theory)**|
 |**2025-05-24**|**Regularisation of CART trees by summation of $p$ -values**|Nils Engler et.al.|[2505.18769](http://arxiv.org/abs/2505.18769)|null|
 |**2025-05-23**|**First Finish Search: Efficient Test-Time Scaling in Large Language Models**|Aradhye Agarwal et.al.|[2505.18149](http://arxiv.org/abs/2505.18149)|null|
 |**2025-05-23**|**Early-Exit Graph Neural Networks**|Andrea Giuseppe Di Francesco et.al.|[2505.18088](http://arxiv.org/abs/2505.18088)|null|
