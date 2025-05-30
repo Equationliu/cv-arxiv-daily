@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -7703,13 +7703,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-28**|**Real-World Modeling of Computation Offloading for Neural Networks with Early Exits and Splits**|Jan Danek et.al.|[2505.22149](http://arxiv.org/abs/2505.22149)|null|
-|**2025-05-28**|**CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation**|Pardis Taghavi et.al.|[2505.21904](http://arxiv.org/abs/2505.21904)|null|
+|**2025-05-29**|**CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation**|Pardis Taghavi et.al.|[2505.21904](http://arxiv.org/abs/2505.21904)|null|
 |**2025-05-27**|**Fast and Cost-effective Speculative Edge-Cloud Decoding with Early Exits**|Yeshwanth Venkatesha et.al.|[2505.21594](http://arxiv.org/abs/2505.21594)|null|
 |**2025-05-26**|**Category-Agnostic Neural Object Rigging**|Guangzhao He et.al.|[2505.20283](http://arxiv.org/abs/2505.20283)|null|
 |**2025-05-26**|**syftr: Pareto-Optimal Generative AI**|Alexander Conway et.al.|[2505.20266](http://arxiv.org/abs/2505.20266)|**[link](https://github.com/datarobot/syftr)**|
 |**2025-05-26**|**Deep Spectral Prior**|Yanqi Cheng et.al.|[2505.19873](http://arxiv.org/abs/2505.19873)|null|
 |**2025-05-26**|**Languages in Multilingual Speech Foundation Models Align Both Phonetically and Semantically**|Ryan Soh-Eun Shim et.al.|[2505.19606](http://arxiv.org/abs/2505.19606)|null|
-|**2025-05-25**|**System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts**|Xiaoqiang Wang et.al.|[2505.18962](http://arxiv.org/abs/2505.18962)|null|
+|**2025-05-29**|**System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts**|Xiaoqiang Wang et.al.|[2505.18962](http://arxiv.org/abs/2505.18962)|null|
 |**2025-05-25**|**On the Role of Label Noise in the Feature Learning Process**|Andi Han et.al.|[2505.18909](http://arxiv.org/abs/2505.18909)|**[link](https://github.com/zzp1012/label-noise-theory)**|
 |**2025-05-24**|**Regularisation of CART trees by summation of $p$ -values**|Nils Engler et.al.|[2505.18769](http://arxiv.org/abs/2505.18769)|null|
 |**2025-05-23**|**First Finish Search: Efficient Test-Time Scaling in Large Language Models**|Aradhye Agarwal et.al.|[2505.18149](http://arxiv.org/abs/2505.18149)|null|
