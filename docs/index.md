@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
+|**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
+|**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111](http://arxiv.org/abs/2506.03111)|null|
+|**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
+|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
+|**2025-06-03**|**PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples**|Junyu Liu et.al.|[2506.03004](http://arxiv.org/abs/2506.03004)|null|
+|**2025-06-03**|**Astrophotography turbulence mitigation via generative models**|Joonyeoup Kim et.al.|[2506.02981](http://arxiv.org/abs/2506.02981)|null|
+|**2025-06-03**|**Diffusion Buffer: Online Diffusion-based Speech Enhancement with Sub-Second Latency**|Bunlong Lay et.al.|[2506.02908](http://arxiv.org/abs/2506.02908)|null|
+|**2025-06-03**|**DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization**|Geonyoung Lee et.al.|[2506.02858](http://arxiv.org/abs/2506.02858)|null|
+|**2025-06-03**|**Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences**|Yunhong Lu et.al.|[2506.02698](http://arxiv.org/abs/2506.02698)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
 |**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857](http://arxiv.org/abs/2505.24857)|null|
@@ -3785,6 +3795,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145](http://arxiv.org/abs/2506.03145)|null|
+|**2025-06-03**|**Not All Tokens Are Meant to Be Forgotten**|Xiangyu Zhou et.al.|[2506.03142](http://arxiv.org/abs/2506.03142)|null|
+|**2025-06-03**|**SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation**|Siqi Chen et.al.|[2506.03139](http://arxiv.org/abs/2506.03139)|null|
+|**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131](http://arxiv.org/abs/2506.03131)|null|
+|**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
+|**2025-06-03**|**AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation**|Prashanth Vijayaraghavan et.al.|[2506.03122](http://arxiv.org/abs/2506.03122)|null|
+|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106](http://arxiv.org/abs/2506.03106)|null|
+|**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
+|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
+|**2025-06-03**|**Facts Do Care About Your Language: Assessing Answer Quality of Multilingual LLMs**|Yuval Kansal et.al.|[2506.03051](http://arxiv.org/abs/2506.03051)|null|
 |**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
 |**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
 |**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864](http://arxiv.org/abs/2505.24864)|null|
@@ -7742,6 +7762,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Answer Convergence as a Signal for Early Stopping in Reasoning**|Xin Liu et.al.|[2506.02536](http://arxiv.org/abs/2506.02536)|null|
+|**2025-06-02**|**Absorb and Converge: Provable Convergence Guarantee for Absorbing Discrete Diffusion Models**|Yuchen Liang et.al.|[2506.02318](http://arxiv.org/abs/2506.02318)|null|
+|**2025-06-02**|**Fairness Dynamics During Training**|Krishna Patel et.al.|[2506.01709](http://arxiv.org/abs/2506.01709)|null|
+|**2025-06-01**|**Compress, Gather, and Recompute: REFORMing Long-Context Processing in Transformers**|Woomin Song et.al.|[2506.01215](http://arxiv.org/abs/2506.01215)|null|
+|**2025-06-03**|**LLM-Driven Instance-Specific Heuristic Generation and Selection**|Shaofeng Zhang et.al.|[2506.00490](http://arxiv.org/abs/2506.00490)|null|
+|**2025-05-30**|**Disentangled Safety Adapters Enable Efficient Guardrails and Flexible Inference-Time Alignment**|Kundan Krishna et.al.|[2506.00166](http://arxiv.org/abs/2506.00166)|null|
 |**2025-05-30**|**Generalization Dynamics of Linear Diffusion Models**|Claudia Merger et.al.|[2505.24769](http://arxiv.org/abs/2505.24769)|null|
 |**2025-06-02**|**Knowing Before Saying: LLM Representations Encode Information About Chain-of-Thought Success Before Completion**|Anum Afzal et.al.|[2505.24362](http://arxiv.org/abs/2505.24362)|null|
 |**2025-05-29**|**Improving Time Series Forecasting via Instance-aware Post-hoc Revision**|Zhiding Liu et.al.|[2505.23583](http://arxiv.org/abs/2505.23583)|null|
