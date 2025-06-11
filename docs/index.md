@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|null|
+|**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027](http://arxiv.org/abs/2506.09027)|null|
+|**2025-06-10**|**HiSin: Efficient High-Resolution Sinogram Inpainting via Resolution-Guided Progressive Inference**|Jiaze E et.al.|[2506.08809](http://arxiv.org/abs/2506.08809)|null|
+|**2025-06-10**|**Flow Diverse and Efficient: Learning Momentum Flow Matching via Stochastic Velocity Field Sampling**|Zhiyuan Ma et.al.|[2506.08796](http://arxiv.org/abs/2506.08796)|null|
+|**2025-06-10**|**MAMBO: High-Resolution Generative Approach for Mammography Images**|Milica Škipina et.al.|[2506.08677](http://arxiv.org/abs/2506.08677)|null|
+|**2025-06-10**|**RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping**|Yang Bai et.al.|[2506.08632](http://arxiv.org/abs/2506.08632)|null|
+|**2025-06-10**|**Diffusion model for analyzing quantum fingerprints in conductance fluctuation**|Naoto Yokoi et.al.|[2506.08617](http://arxiv.org/abs/2506.08617)|null|
+|**2025-06-10**|**Flow Matching Meets PDEs: A Unified Framework for Physics-Constrained Generation**|Giacomo Baldan et.al.|[2506.08604](http://arxiv.org/abs/2506.08604)|null|
+|**2025-06-10**|**LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4 $\times$ RTX 4090s**|Xijun Wang et.al.|[2506.08529](http://arxiv.org/abs/2506.08529)|null|
+|**2025-06-10**|**Diffusion Models for Safety Validation of Autonomous Driving Systems**|Juanran Wang et.al.|[2506.08459](http://arxiv.org/abs/2506.08459)|null|
 |**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013](http://arxiv.org/abs/2506.08013)|null|
 |**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009](http://arxiv.org/abs/2506.08009)|null|
 |**2025-06-09**|**Dynamic View Synthesis as an Inverse Problem**|Hidir Yesiltepe et.al.|[2506.08004](http://arxiv.org/abs/2506.08004)|null|
@@ -3835,6 +3845,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
+|**2025-06-10**|**Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation**|Xiaowen Ma et.al.|[2506.09046](http://arxiv.org/abs/2506.09046)|null|
+|**2025-06-10**|**AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions**|Polina Kirichenko et.al.|[2506.09038](http://arxiv.org/abs/2506.09038)|null|
+|**2025-06-10**|**FZOO: Fast Zeroth-Order Optimizer for Fine-Tuning Large Language Models towards Adam-Scale Speed**|Sizhe Dang et.al.|[2506.09034](http://arxiv.org/abs/2506.09034)|null|
+|**2025-06-10**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033](http://arxiv.org/abs/2506.09033)|null|
+|**2025-06-10**|**SPEED-RL: Faster Training of Reasoning Models via Online Curriculum Learning**|Ruiqi Zhang et.al.|[2506.09016](http://arxiv.org/abs/2506.09016)|null|
+|**2025-06-10**|**Learning to Reason Across Parallel Samples for LLM Reasoning**|Jianing Qi et.al.|[2506.09014](http://arxiv.org/abs/2506.09014)|null|
+|**2025-06-10**|**Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models**|Bei Chu et.al.|[2506.09002](http://arxiv.org/abs/2506.09002)|null|
+|**2025-06-10**|**SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning**|Xiao Liang et.al.|[2506.08989](http://arxiv.org/abs/2506.08989)|null|
+|**2025-06-10**|**AdaDec: Uncertainty-Guided Adaptive Decoding for LLM-based Code Generation**|Kaifeng He et.al.|[2506.08980](http://arxiv.org/abs/2506.08980)|null|
 |**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
 |**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
 |**2025-06-09**|**Reinforcement Pre-Training**|Qingxiu Dong et.al.|[2506.08007](http://arxiv.org/abs/2506.08007)|null|
