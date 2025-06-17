@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -7922,8 +7922,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-12**|**Efficiency Robustness of Dynamic Deep Learning Systems**|Ravishka Rathnasuriya et.al.|[2506.10831](http://arxiv.org/abs/2506.10831)|null|
-|**2025-06-13**|**IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain**|Hong Huang et.al.|[2506.10730](http://arxiv.org/abs/2506.10730)|null|
+|**2025-06-12**|**Efficiency Robustness of Dynamic Deep Learning Systems**|Ravishka Rathnasuriya et.al.|[2506.10831](http://arxiv.org/abs/2506.10831)|**[link](https://github.com/anonymous-sok/sok_submission)**|
+|**2025-06-13**|**IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain**|Hong Huang et.al.|[2506.10730](http://arxiv.org/abs/2506.10730)|**[link](https://github.com/hongh0/iqe-clip)**|
 |**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/abs/2506.09996)|null|
 |**2025-06-09**|**Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping**|Nitin Sharma et.al.|[2506.07658](http://arxiv.org/abs/2506.07658)|null|
 |**2025-06-08**|**Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification**|Tianyi Bai et.al.|[2506.07235](http://arxiv.org/abs/2506.07235)|null|
