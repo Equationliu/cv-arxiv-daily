@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -8027,7 +8027,7 @@ layout: default
 |**2025-06-21**|**Inferring viscoplastic models from velocity fields: a physics-informed neural network approach**|Martin Lardy et.al.|[2506.17681](http://arxiv.org/abs/2506.17681)|null|
 |**2025-06-21**|**Rank Inspired Neural Network for solving linear partial differential equations**|Wentao Peng et.al.|[2506.17654](http://arxiv.org/abs/2506.17654)|null|
 |**2025-06-20**|**Optimal Depth of Neural Networks**|Qian Qi et.al.|[2506.16862](http://arxiv.org/abs/2506.16862)|null|
-|**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840](http://arxiv.org/abs/2506.16840)|null|
+|**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840](http://arxiv.org/abs/2506.16840)|**[link](https://github.com/adap/flower)**|
 |**2025-06-18**|**Independent increments and group sequential tests**|Anastasios A. Tsiatis et.al.|[2506.15599](http://arxiv.org/abs/2506.15599)|null|
 |**2025-06-18**|**MinosEval: Distinguishing Factoid and Non-Factoid for Tailored Open-Ended QA Evaluation with LLMs**|Yongqi Fan et.al.|[2506.15215](http://arxiv.org/abs/2506.15215)|**[link](https://github.com/johnny-fans/minoseval)**|
 |**2025-06-17**|**Stable CDE Autoencoders with Acuity Regularization for Offline Reinforcement Learning in Sepsis Treatment**|Yue Gao et.al.|[2506.15019](http://arxiv.org/abs/2506.15019)|**[link](https://github.com/gaoyuetianc/rl_mimic_cde_stable)**|
