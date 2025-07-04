@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -23,7 +23,7 @@ layout: default
 |**2025-07-02**|**Representation Entanglement for Generation:Training Diffusion Transformers Is Much Easier Than You Think**|Ge Wu et.al.|[2507.01467](http://arxiv.org/abs/2507.01467)|null|
 |**2025-07-02**|**DiffMark: Diffusion-based Robust Watermark Against Deepfakes**|Chen Sun et.al.|[2507.01428](http://arxiv.org/abs/2507.01428)|null|
 |**2025-07-02**|**DocShaDiffusion: Diffusion Model in Latent Space for Document Image Shadow Removal**|Wenjie Liu et.al.|[2507.01422](http://arxiv.org/abs/2507.01422)|null|
-|**2025-07-02**|**Distributional Soft Actor-Critic with Diffusion Policy**|Tong Liu et.al.|[2507.01381](http://arxiv.org/abs/2507.01381)|null|
+|**2025-07-03**|**Distributional Soft Actor-Critic with Diffusion Policy**|Tong Liu et.al.|[2507.01381](http://arxiv.org/abs/2507.01381)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
 |**2025-06-30**|**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**|Wonwoong Cho et.al.|[2506.24085](http://arxiv.org/abs/2506.24085)|null|
@@ -3988,8 +3988,8 @@ layout: default
 |**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
 |**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939](http://arxiv.org/abs/2507.01939)|null|
 |**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
-|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
-|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-03**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
+|**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
 |**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
 |**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
 |**2025-07-02**|**AI4Research: A Survey of Artificial Intelligence for Scientific Research**|Qiguang Chen et.al.|[2507.01903](http://arxiv.org/abs/2507.01903)|null|
