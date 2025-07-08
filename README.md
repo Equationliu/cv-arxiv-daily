@@ -2055,6 +2055,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198](http://arxiv.org/abs/2507.05198)|null|
+|**2025-07-07**|**SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model**|Chun Xie et.al.|[2507.05148](http://arxiv.org/abs/2507.05148)|null|
+|**2025-07-07**|**VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems**|Aadi Srivastava et.al.|[2507.05146](http://arxiv.org/abs/2507.05146)|null|
+|**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
+|**2025-07-07**|**AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics**|Jan Carreras Boada et.al.|[2507.05063](http://arxiv.org/abs/2507.05063)|null|
+|**2025-07-07**|**A COMPASS to Model Comparison and Simulation-Based Inference in Galactic Chemical Evolution**|Berkay Gunes et.al.|[2507.05060](http://arxiv.org/abs/2507.05060)|null|
+|**2025-07-07**|**A Generative Diffusion Model for Amorphous Materials**|Kai Yang et.al.|[2507.05024](http://arxiv.org/abs/2507.05024)|null|
+|**2025-07-07**|**TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation**|Zonglin Lyu et.al.|[2507.04984](http://arxiv.org/abs/2507.04984)|null|
+|**2025-07-07**|**A diffusion model for light scattering in ejecta**|J. A. Don Jayamanne et.al.|[2507.04972](http://arxiv.org/abs/2507.04972)|null|
+|**2025-07-07**|**LAPS-Diff: A Diffusion-Based Framework for Singing Voice Synthesis With Language Aware Prosody-Style Guided Learning**|Sandipan Dhar et.al.|[2507.04966](http://arxiv.org/abs/2507.04966)|null|
 |**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
 |**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
@@ -6038,6 +6048,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
+|**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
+|**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
+|**2025-07-07**|**Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning**|Yana Wei et.al.|[2507.05255](http://arxiv.org/abs/2507.05255)|null|
+|**2025-07-07**|**Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**|Ziqi Miao et.al.|[2507.05248](http://arxiv.org/abs/2507.05248)|null|
+|**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
+|**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
+|**2025-07-07**|**CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale**|Jonathan Hyun et.al.|[2507.05178](http://arxiv.org/abs/2507.05178)|null|
+|**2025-07-07**|**OpenS2S: Advancing Open-Source End-to-End Empathetic Large Speech Language Model**|Chen Wang et.al.|[2507.05177](http://arxiv.org/abs/2507.05177)|null|
+|**2025-07-07**|**AI Generated Text Detection Using Instruction Fine-tuned Large Language and Transformer-Based Models**|Chinnappa Guggilla et.al.|[2507.05157](http://arxiv.org/abs/2507.05157)|null|
 |**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/abs/2507.02859)|null|
 |**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858](http://arxiv.org/abs/2507.02858)|null|
 |**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/abs/2507.02851)|null|
@@ -10207,6 +10227,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-04**|**Implicit Regularisation in Diffusion Models: An Algorithm-Dependent Generalisation Analysis**|Tyler Farghly et.al.|[2507.03756](http://arxiv.org/abs/2507.03756)|null|
+|**2025-07-04**|**TRACE: Training and Inference-Time Interpretability Analysis for Language Models**|Nura Aljaafari et.al.|[2507.03668](http://arxiv.org/abs/2507.03668)|null|
+|**2025-07-03**|**Neural Substitute Solver for Efficient Edge Inference of Power Electronic Hybrid Dynamics**|Jialin Zheng et.al.|[2507.03144](http://arxiv.org/abs/2507.03144)|null|
 |**2025-06-30**|**On the convergence of iterative regularization method assisted by the graph Laplacian with early stopping**|Harshit Bajpai et.al.|[2506.23483](http://arxiv.org/abs/2506.23483)|null|
 |**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396](http://arxiv.org/abs/2506.22396)|null|
 |**2025-06-28**|**Early Stopping Tabular In-Context Learning**|Jaris Küken et.al.|[2506.21387](http://arxiv.org/abs/2506.21387)|null|
