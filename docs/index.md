@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
+|**2025-07-10**|**Low Resource Reconstruction Attacks Through Benign Prompts**|Sol Yarkoni et.al.|[2507.07947](http://arxiv.org/abs/2507.07947)|null|
+|**2025-07-10**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
+|**2025-07-10**|**Re-Bottleneck: Latent Re-Structuring for Neural Audio Autoencoders**|Dimitrios Bralios et.al.|[2507.07867](http://arxiv.org/abs/2507.07867)|null|
+|**2025-07-10**|**Benchmarking Content-Based Puzzle Solvers on Corrupted Jigsaw Puzzles**|Richard Dirauf et.al.|[2507.07828](http://arxiv.org/abs/2507.07828)|null|
+|**2025-07-10**|**Phase-Space Synchronization Driven by Moon-Magnetosphere Coupling in Gas Giants**|Adnane Osmane et.al.|[2507.07739](http://arxiv.org/abs/2507.07739)|null|
+|**2025-07-10**|**Capture Stage Environments: A Guide to Better Matting**|Hannah Dröge et.al.|[2507.07623](http://arxiv.org/abs/2507.07623)|null|
+|**2025-07-10**|**Stable-Hair v2: Real-World Hair Transfer via Multiple-View Diffusion Model**|Kuiyuan Sun et.al.|[2507.07591](http://arxiv.org/abs/2507.07591)|null|
+|**2025-07-10**|**Divergence Minimization Preference Optimization for Diffusion Model Alignment**|Binxu Li et.al.|[2507.07510](http://arxiv.org/abs/2507.07510)|null|
+|**2025-07-10**|**Degradation-Agnostic Statistical Facial Feature Transformation for Blind Face Restoration in Adverse Weather Conditions**|Chang-Hwan Son et.al.|[2507.07464](http://arxiv.org/abs/2507.07464)|null|
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|
@@ -4025,6 +4035,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996](http://arxiv.org/abs/2507.07996)|null|
+|**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993](http://arxiv.org/abs/2507.07993)|null|
+|**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990](http://arxiv.org/abs/2507.07990)|null|
+|**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988](http://arxiv.org/abs/2507.07988)|null|
+|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
+|**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983](http://arxiv.org/abs/2507.07983)|null|
+|**2025-07-10**|**Defending Against Prompt Injection With a Few DefensiveTokens**|Sizhe Chen et.al.|[2507.07974](http://arxiv.org/abs/2507.07974)|null|
+|**2025-07-10**|**Can Large Language Models Improve Phishing Defense? A Large-Scale Controlled Experiment on Warning Dialogue Explanations**|Federico Maria Cau et.al.|[2507.07916](http://arxiv.org/abs/2507.07916)|null|
+|**2025-07-10**|**MIRA: A Novel Framework for Fusing Modalities in Medical RAG**|Jinhong Wang et.al.|[2507.07902](http://arxiv.org/abs/2507.07902)|null|
+|**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**5C Prompt Contracts: A Minimalist, Creative-Friendly, Token-Efficient Design Framework for Individual and SME LLM Usage**|Ugur Ari et.al.|[2507.07045](http://arxiv.org/abs/2507.07045)|null|
@@ -8222,6 +8242,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996](http://arxiv.org/abs/2507.07996)|null|
+|**2025-07-10**|**Input Conditioned Layer Dropping in Speech Foundation Models**|Abdul Hannan et.al.|[2507.07954](http://arxiv.org/abs/2507.07954)|null|
+|**2025-07-10**|**Visual Instance-aware Prompt Tuning**|Xi Xiao et.al.|[2507.07796](http://arxiv.org/abs/2507.07796)|null|
 |**2025-07-09**|**Direct Regret Optimization in Bayesian Optimization**|Fengxue Zhang et.al.|[2507.06529](http://arxiv.org/abs/2507.06529)|null|
 |**2025-07-08**|**Chat-Ghosting: A Comparative Study of Methods for Auto-Completion in Dialog Systems**|Sandeep Mishra et.al.|[2507.05940](http://arxiv.org/abs/2507.05940)|null|
 |**2025-07-07**|**OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts**|Shiting Xiao et.al.|[2507.05427](http://arxiv.org/abs/2507.05427)|null|
