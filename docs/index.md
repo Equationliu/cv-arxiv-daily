@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/abs/2507.13344)|null|
+|**2025-07-17**|**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**|Chuancheng Shi et.al.|[2507.13311](http://arxiv.org/abs/2507.13311)|null|
+|**2025-07-17**|**DiffClean: Diffusion-based Makeup Removal for Accurate Age Estimation**|Ekta Balkrishna Gavas et.al.|[2507.13292](http://arxiv.org/abs/2507.13292)|null|
+|**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
+|**2025-07-17**|**DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**|Han Zhang et.al.|[2507.13087](http://arxiv.org/abs/2507.13087)|null|
+|**2025-07-17**|**Label-Consistent Dataset Distillation with Detector-Guided Refinement**|Yawen Zou et.al.|[2507.13074](http://arxiv.org/abs/2507.13074)|null|
+|**2025-07-17**|**Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities**|Liuyi Wang et.al.|[2507.13019](http://arxiv.org/abs/2507.13019)|null|
+|**2025-07-17**|**From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation**|Jinseo An et.al.|[2507.12985](http://arxiv.org/abs/2507.12985)|null|
+|**2025-07-17**|**Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning**|Giwon Lee et.al.|[2507.12977](http://arxiv.org/abs/2507.12977)|null|
+|**2025-07-17**|**RGB Pre-Training Enhanced Unobservable Feature Latent Diffusion Model for Spectral Reconstruction**|Keli Deng et.al.|[2507.12967](http://arxiv.org/abs/2507.12967)|null|
 |**2025-07-16**|**Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**|Subin Jeon et.al.|[2507.12336](http://arxiv.org/abs/2507.12336)|null|
 |**2025-07-17**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
 |**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
@@ -4071,6 +4081,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/abs/2507.13353)|null|
+|**2025-07-17**|**Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes**|Tyler Loakman et.al.|[2507.13335](http://arxiv.org/abs/2507.13335)|null|
+|**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
+|**2025-07-17**|**The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner**|Zhouqi Hua et.al.|[2507.13332](http://arxiv.org/abs/2507.13332)|null|
+|**2025-07-17**|**GeoReg: Weight-Constrained Few-Shot Regression for Socio-Economic Estimation using LLM**|Kyeongjin Ahn et.al.|[2507.13323](http://arxiv.org/abs/2507.13323)|null|
+|**2025-07-17**|**Revisiting Reliability in the Reasoning-based Pose Estimation Benchmark**|Junsu Kim et.al.|[2507.13314](http://arxiv.org/abs/2507.13314)|null|
+|**2025-07-17**|**The Generative Energy Arena (GEA): Incorporating Energy Awareness in Large Language Model (LLM) Human Evaluations**|Carlos Arriaga et.al.|[2507.13302](http://arxiv.org/abs/2507.13302)|null|
+|**2025-07-17**|**AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research**|Yilun Zhao et.al.|[2507.13300](http://arxiv.org/abs/2507.13300)|null|
+|**2025-07-17**|**Overview of the TalentCLEF 2025: Skill and Job Title Intelligence for Human Capital Management**|Luis Gasco et.al.|[2507.13275](http://arxiv.org/abs/2507.13275)|null|
+|**2025-07-17**|**Automating Steering for Safe Multimodal Large Language Models**|Lyucheng Wu et.al.|[2507.13255](http://arxiv.org/abs/2507.13255)|null|
 |**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Shangpin Peng et.al.|[2507.12455](http://arxiv.org/abs/2507.12455)|null|
 |**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428](http://arxiv.org/abs/2507.12428)|null|
 |**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
