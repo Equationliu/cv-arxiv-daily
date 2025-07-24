@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Flow Matching Meets Biology and Life Science: A Survey**|Zihao Li et.al.|[2507.17731](http://arxiv.org/abs/2507.17731)|null|
+|**2025-07-23**|**CNS-Bench: Benchmarking Image Classifier Robustness Under Continuous Nuisance Shifts**|Olaf Dünkel et.al.|[2507.17651](http://arxiv.org/abs/2507.17651)|null|
+|**2025-07-23**|**The Early Bird Identifies the Worm: You Can't Beat a Head Start in Long-Term Body Re-ID (ECHO-BID)**|Thomas M. Metz et.al.|[2507.17640](http://arxiv.org/abs/2507.17640)|null|
+|**2025-07-23**|**Dual-branch Prompting for Multimodal Machine Translation**|Jie Wang et.al.|[2507.17588](http://arxiv.org/abs/2507.17588)|null|
+|**2025-07-23**|**An h-space Based Adversarial Attack for Protection Against Few-shot Personalization**|Xide Xu et.al.|[2507.17554](http://arxiv.org/abs/2507.17554)|null|
+|**2025-07-23**|**Accelerating Parallel Diffusion Model Serving with Residual Compression**|Jiajun Luo et.al.|[2507.17511](http://arxiv.org/abs/2507.17511)|null|
+|**2025-07-23**|**Exact results for active particle models: from long-range interactions to first-passage properties**|Léo Touzo et.al.|[2507.17504](http://arxiv.org/abs/2507.17504)|null|
+|**2025-07-23**|**Unsupervised anomaly detection using Bayesian flow networks: application to brain FDG PET in the context of Alzheimer's disease**|Hugues Roy et.al.|[2507.17486](http://arxiv.org/abs/2507.17486)|null|
+|**2025-07-23**|**Efficient and Robust Semantic Image Communication via Stable Cascade**|Bilal Khalid et.al.|[2507.17416](http://arxiv.org/abs/2507.17416)|null|
+|**2025-07-23**|**PolarAnything: Diffusion-based Polarimetric Image Synthesis**|Kailong Zhang et.al.|[2507.17268](http://arxiv.org/abs/2507.17268)|null|
 |**2025-07-22**|**Generative Diffusion Models for Wireless Networks: Fundamental, Architecture, and State-of-the-Art**|Dayu Fan et.al.|[2507.16733](http://arxiv.org/abs/2507.16733)|null|
 |**2025-07-22**|**HarmonPaint: Harmonized Training-Free Diffusion Inpainting**|Ying Li et.al.|[2507.16732](http://arxiv.org/abs/2507.16732)|null|
 |**2025-07-22**|**Pyramid Hierarchical Masked Diffusion Model for Imaging Synthesis**|Xiaojiao Xiao et.al.|[2507.16579](http://arxiv.org/abs/2507.16579)|null|
@@ -4111,6 +4121,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer**|Danny D. Leybzon et.al.|[2507.17718](http://arxiv.org/abs/2507.17718)|null|
+|**2025-07-23**|**HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging**|Taha Ceritli et.al.|[2507.17706](http://arxiv.org/abs/2507.17706)|null|
+|**2025-07-23**|**Towards Greater Leverage: Scaling Laws for Efficient Mixture-of-Experts Language Models**|Changxin Tian et.al.|[2507.17702](http://arxiv.org/abs/2507.17702)|null|
+|**2025-07-23**|**Thinking Isn't an Illusion: Overcoming the Limitations of Reasoning Models via Tool Augmentations**|Zhao Song et.al.|[2507.17699](http://arxiv.org/abs/2507.17699)|null|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**Simulating multiple human perspectives in socio-ecological systems using large language models**|Yongchao Zeng et.al.|[2507.17680](http://arxiv.org/abs/2507.17680)|null|
+|**2025-07-23**|**See the Forest and the Trees: A Synergistic Reasoning Framework for Knowledge-Based Visual Question Answering**|Junjie Wang et.al.|[2507.17659](http://arxiv.org/abs/2507.17659)|null|
+|**2025-07-23**|**Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries**|Victor Hartman et.al.|[2507.17636](http://arxiv.org/abs/2507.17636)|null|
+|**2025-07-23**|**A Hybrid Early-Exit Algorithm for Large Language Models Based on Space Alignment Decoding (SPADE)**|Bowen Zheng et.al.|[2507.17618](http://arxiv.org/abs/2507.17618)|null|
 |**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
 |**2025-07-22**|**Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis**|Zhihao Xu et.al.|[2507.16808](http://arxiv.org/abs/2507.16808)|null|
 |**2025-07-23**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
@@ -8398,6 +8418,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**A Hybrid Early-Exit Algorithm for Large Language Models Based on Space Alignment Decoding (SPADE)**|Bowen Zheng et.al.|[2507.17618](http://arxiv.org/abs/2507.17618)|null|
+|**2025-07-23**|**Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection**|Yehao Lu et.al.|[2507.17436](http://arxiv.org/abs/2507.17436)|null|
+|**2025-07-23**|**R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**|Zhuokun Chen et.al.|[2507.17307](http://arxiv.org/abs/2507.17307)|null|
+|**2025-07-22**|**ReMeREC: Relation-aware and Multi-entity Referring Expression Comprehension**|Yizhi Hu et.al.|[2507.16877](http://arxiv.org/abs/2507.16877)|null|
 |**2025-07-20**|**Quantum Machine Learning for Secure Cooperative Multi-Layer Edge AI with Proportional Fairness**|Thai T. Vu et.al.|[2507.15145](http://arxiv.org/abs/2507.15145)|null|
 |**2025-07-16**|**CytoSAE: Interpretable Cell Embeddings for Hematology**|Muhammed Furkan Dasdelen et.al.|[2507.12464](http://arxiv.org/abs/2507.12464)|null|
 |**2025-07-16**|**Improving Data and Parameter Efficiency of Neural Language Models Using Representation Analysis**|Josip Jukić et.al.|[2507.12004](http://arxiv.org/abs/2507.12004)|null|
